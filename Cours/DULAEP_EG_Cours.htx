@@ -1,0 +1,2718 @@
+%!TEX root = DULAEP_EG.htx
+%##HieroDef.txt
+
+\part{Cours~1 -- Introduction -- Section~1}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{aparte}
+  \uline{Première distinction à opérer dans ce cours :}
+
+  Il faut distinguer \textbf{la langue des anciens égyptiens}, et 
+  l'écriture, \textbf{les écritures}, qui ont servi à noter cette 
+  langue. Au cours de son histoire plusieurs fois millénaire, la 
+  langue des anciens Égyptiens a été écrite au moyen : des 
+  \textbf{\emph{hiéroglyphes}} et de leur variante cursive dite 
+  \textbf{\emph{hiératique}}, puis, en parallèle, à partir du 
+  \siecle{7} av. n. è., de la cursive \textbf{\emph{démotique}}, 
+  et enfin, à partir du \sieclerange{3}{4} de notre ère, avec 
+  \textbf{\emph{l'alphabet copte}} (alphabet grec augmenté de 
+  quelques signes démotiques). La langue elle-même a évolué au 
+  cours des millénaires d'utilisation.
+
+  Dans ce cours, nous apprenons : 1) l'écriture hiéroglyphique et 
+  2) l'égyptien classique ou moyen égyptien (langue écrite du \MK 
+  jusqu'à la \dyn{18})
+\end{aparte}
+
+\begin{center}
+  \bfseries
+  \includegraphics[height=2\baselineskip]{inscription_hieroglyphe}
+  inscription hiéroglyphique (détail). \textcopyright~IES/Colin
+
+  \includegraphics[height=2\baselineskip]{inscription_hieratique}
+  inscription hiératique (détail). \textcopyright~IES/Colin
+
+  \includegraphics[height=2\baselineskip]{inscription_demotique}
+  inscription en démotique E\,7833. \textcopyright~Louvre
+
+  \includegraphics[height=2\baselineskip]{inscription_copte}
+  inscription en copte (détail). \textcopyright~IES/Colin
+\end{center}
+
+
+\chapter{L'égyptien ancien, les {\hiero}es, et nous}
+%======================================================================
+
+L'égyptien ancien ne fait pas partie de notre famille de langue (les 
+langues indo-européennes). Il a été, en outre, noté, pendant trois 
+millénaires au moyen d'un système graphique \incise{le système 
+hiéroglyphique} totalement différent de notre système alphabétique. 
+Étudier cette écriture et cette langue, c'est donc, pour un locuteur 
+francophone, s'immerger dans un univers graphique et linguistique 
+totalement différent de notre quotidien. Pour autant, il convient de 
+garder à l'esprit qu'il existe des liens historiques entre les langues 
+et écritures de l'\kmt antique et nous.
+
+Seuls de rares mots égyptiens sont parvenus jusqu'à nous, passés 
+dans nos langues modernes : par exemple le mot \emph{pharaon}, dérivé 
+de l'égyptien ancien \emph{pèr-âa} \frquote{la grande maison}, et 
+transmis par l'hébreu biblique et le latin\footnote{Voir le Trésor 
+informatisé de la langue française en ligne \uline{ATILF}, s.v. 
+Pharaon.}, ou encore le nom même du pays \kmt, dérivé d'un des noms 
+antiques de la ville de Memphis (\emph{Hout-ka-Ptah} \frquote{le 
+domaine du \emph{ka} de Ptah}, ce qui a donné \emph{Aigyptos} en 
+grec\footnote{Voir M.~\bsc{Malaise}, J.~\bsc{Winand}, \emph{Grammaire 
+raisonnée}, p.~11 ; P.~\bsc{Vernus}, \emph{Dictionnaire amoureux de 
+l'\kmt pharaonique}, s.v. \frquote{Survivances de l'égyptien ancien}, 
+p.~932-941, et spécialement p.~940-941}). 
+Notre alphabet pourrait être un descendant indirect des {\hiero}es 
+égyptiens. L'alphabet (d'abord consonantique, c'est-à-dire ne notant 
+pas les voyelles des mots) a été créé au Levant pendant le 
+\siecle[millénaire]{2}, avant de passer des Phéniciens aux Grecs 
+(qui ajoutèrent les voyelles) puis aux Romains. Cet alphabet semble 
+avoir pour origine des inscriptions alphabétiques découvertes dans 
+la péninsule du Sinaï (inscriptions \frquote{protosinaïtiques} du 
+\SeK) et en \kmt même dans le Ouadi el-Hol\footnote{\bsc{Darnell}, 
+John~C. (2013). Wadi el-Hol. \emph{UCLA Encyclopedia of Egyptology}, 
+1(1). UCLA : Department of Near Eastern Languages and Cultures. 
+nelc\_uee\_8547. Retrieved from: 
+\url{https://escholarship.org/uc/item/1sd2j49d} ; P.~\bsc{Vernus}, 
+\emph{Dictionnaire amoureux de l'\kmt pharaonique}, 
+s.v.~\frquote{Survivances de l'égyptien ancien}, 
+s.v.~\frquote{alphabets sémitiques et hiéroglyphes}, p.~86-93 ; 
+J.~\bsc{Winand}, \emph{Les hiéroglyphes égyptiens}, Que sais-je, 
+PUF, 2013, p.~116-123.} (voir carte~1), datées du tout début du
+\siecle[millénaire]{2}. Ces inscriptions rupestres sont le résultat 
+des \frquote{interactions} entre des locuteurs sémitiques employés 
+dans des corps expéditionnaires égyptiens et les scribes égyptiens : 
+ces locuteurs sémitiques ont repris des signes du système 
+hiéroglyphique égyptien, mais en leur donnant des valeurs différentes. 
+Par exemple, le signe de la maison 
+\begin{hieroglyph}pr\end{hieroglyph}, \tlb{pr} en égyptien ancien, 
+mais \emph{bêt} en sémitique, a été utilisé, sur le principe de 
+l'\textcolor{green}{acrophonie}, pour noter le son [b]. Notre système 
+graphique alphabétique, bien que totalement distinct du système 
+hiéroglyphique égyptien, est donc historiquement lié aux premières 
+écritures égyptiennes\footnote{Sur la question de l'invention des 
+différentes écritures, \bsc{Glassner} J.-J., \frquote{Essai pour une 
+définition des écritures}, \emph{L'Homme} 192/4, 2009, p.~7-22 (en 
+ligne : \url{http://www.cairn.info/revue-l-homme-2009-4-page-7.htm}).}.
+
+\begin{figure}[h!]
+  \includegraphics[width=0.75\textwidth]{carte_alphabet}
+  \caption{Les origines probables de l'alphabet. Inscriptions 
+           \frquote{proto-sinaïtiques} et inscriptions du 
+           Ouadi el-Hol. (Carte : S.~\bsc{Donnat} / fond de carte 
+           J.-P.~\bsc{Droux})}
+  \label{fig:carte_alphabet}
+\end{figure}
+
+
+\chapter{Situation de la langue égyptienne ancienne dans sa famille}
+%======================================================================
+
+L'égyptien ancien constitue une branche autonome d'une famille (ou 
+phylum) de langues appelée \clef{afroasiatique} dans la terminologie 
+linguistique moderne\footnote{Anciennement chamito-sémitique.}.
+
+Selon la linguistique moderne, l'afroasiatique est la famille de 
+langues la plus répandue dans le monde (voir carte 2) :
+\begin{itemize}
+  \item l'est de la Méditerranée,
+  \item l'Afrique du Nord
+  \item et l'ouest de l'Asie,
+\end{itemize}
+soit l'Afrique septentrionale, saharienne, le Proche et le 
+Moyen-Orient.
+
+Les différentes branches de ce groupe sont les suivantes :
+\begin{enumerate}
+  \item \emph{L'égyptien ancien} ;
+  \item \emph{Le sémitique} ;
+  \item \emph{Le berbère} ou \emph{les langues lybico-berbères} ;
+  \item \emph{Les langues couchitiques} (groupe de langues parlées 
+        par \num{15}~millions de personnes en Afrique orientale, 
+        de la frontière égyptienne à l'Éthiopie, Djibouti, Somalie, 
+        Kenya, Tanzanie du nord) ;
+  \item \emph{Les langues tchadiques} (\num{150}~langages parlées par 
+        plus de \num{30}~millions de personnes vivant dans la région 
+        subsaharienne de l'Afrique autour du Lac Tchad -- Nigeria, 
+        Cameroun, Niger, Tchad) ;
+  \item \emph{L'omotique} (famille de langues parlées par 
+        \num{1}~million de personnes, sud-ouest de l'Éthiopie, sur
+        les rives de la rivière Omo et le nord du Lac Turkana).
+\end{enumerate}
+
+L'égyptien ancien partage avec ces langues plusieurs caractéristiques 
+linguistiques.\\
+À titre d'exemple :
+\begin{itemize}
+  \item la capacité de former des mots à partir de racines composées 
+        de deux ou trois consonnes ;
+  \item un suffixe marquant le féminin en -at. ;
+  \item un préfixe nominal en m-. ;
+  \item un suffixe adjectival en -i (\emph{nisbé}, nom de relation).
+\end{itemize}
+
+\begin{aparte}
+  \textbf{Sources :}
+
+  A.~Loprieno, \emph{Ancient Egyptian. A Linguistic Introduction}, 
+  Cambridge University Press, 1995, p.~1-5.
+
+  P.~\bsc{Vernus}, \emph{Dictionnaire amoureux de l'\kmt ancienne}, 
+  Paris, 2009, s.v. Égyptien (apparentement linguistique), p.~269-274.
+\end{aparte}
+
+\begin{figure}[h!]
+  \includegraphics[width=0.8\textwidth]{extension_langues}
+  \caption{Extension des langues afro-asiatiques. 
+           D'après J.~\bsc{Perrot} (éd.), \emph{les langues dans le 
+           monde ancien et moderne~3. Les langues chamito-sémitique}, 
+           Paris, 1988.}
+  \label{fig:extension_langues}
+\end{figure}
+
+
+\chapter{Phases de la langue et écritures}
+%======================================================================
+
+L'égyptien ancien est une langue morte que nous ne connaissons 
+que par sa notation graphique. Il est indispensable de faire 
+\clef{la distinction entre langue et écriture}. 
+Au cours de sa longue histoire, la langue pharaonique a évolué. 
+Dans le même temps, plusieurs écritures ont servi à la noter.
+
+\section{L'évolution de la langue\protect\footnote{Voir 
+A.~\bsc{Loprieno}, \emph{Ancient Egyptian. A Linguistic Introduction}, 
+Cambridge University Press, 1995, p.~5-8}}
+%----------------------------------------------------------------------
+
+Les linguistes distinguent deux phases majeures : l'égyptien 
+de la 1\iere~phase (\anorange{3000}{1300}) et l'égyptien de la 
+2\up{nde}~phase (\ano{1300} -- \ano[1]{1300}).
+\begin{itemize}
+  \item \clef{L'égyptien de 1\iere~phase} est le langage des textes 
+        écrits de \anorange{3000}{1300}. On distingue : 
+        a) \textbf{l'ancien égyptien} (\anorange{3000}{2000}, 
+        corpus religieux des \TP, biographies funéraires écrites 
+        sur les parois des tombes de l'élite) et 
+        b) le \textbf{moyen-égyptien} ou \textbf{égyptien classique} 
+        (du \MK à la fin de la \dyn{18}.).
+  \item \clef{L'égyptien de 2\up{nde}~phase}, de la \dyn{19} au 
+        Moyen Âge (\ano{1300} à \ano[1]{1300}). On distingue : 
+        a) le néo-égyptien (\anorange{1300}{700} : littérature, 
+        documents administratifs),
+        b) le démotique (\siecle{7}~BC -- \siecle{5}~AD : textes 
+        administratifs et littéraires à partir de la \LP, puis aussi 
+        textes funéraires et rituels (le démotique est aussi nouveau 
+        système graphique, voir ci-dessous), 
+        c) le copte (\sieclenum{3}/\sieclenum{4} à \siecle{14} de 
+        notre ère), langage de l'\kmt chrétienne, supplanté par 
+        l'arabe au \siecle{9}, et qui survécut dans la liturgie 
+        copte (cf. alphabet copte ci-dessous).
+  \item \clef{L'égyptien de tradition} ou le \clef{moyen égyptien 
+        tardif}. À ces deux phases, s'ajoute une langue de lettrés, 
+        archaïsante, utilisée pour noter les textes religieux 
+        (manuels rituels, hymnes, textes funéraires, etc.) de 
+        l'époque ramesside (\dynrange{19}{20}) jusqu'à l'époque 
+        gréco-romaine. C'est une langue qui imite l'égyptien 
+        classique et qui peut donc être classée dans l'égyptien 
+        de la 1\iere~phase, même si les textes écrits dans cette 
+        langue présentent parfois, à des degrés variables, des
+        \frquote{néo-égyptianismes}, c'est-à-dire des tournures 
+        appartenant à l'égyptien de la 2\up{nde} phase.
+\end{itemize}
+
+\bigskip
+
+\begin{aparte}
+  Dans ce cours de débutants, nous étudions \textbf{l'égyptien 
+  classique} (ou moyen-égyptien).
+
+  Pourquoi ? Parce que le \MK est considéré, par les Égyptiens 
+  anciens eux-mêmes, comme une période classique, notamment du point 
+  de vue de la langue (apparition des Belles- Lettres, normalisation 
+  des graphies, etc...).? En outre, une connaissance de l'égyptien 
+  classique permet d'aborder non seulement les textes rédigés pendant 
+  la période de la première phase de la langue (\OK -- \dyn{18}), 
+  mais aussi les compositions religieuses plus tardives rédigées en 
+  \textbf{égyptien de tradition}.
+\end{aparte}
+
+\begin{aparte}
+  À lire : P.~\bsc{Vernus}, \emph{Dictionnaire amoureux de l'\kmt 
+  ancienne}, Paris, 2009, s.v. \frquote{Égyptien (langue égyptienne)}, 
+  p.~253-264.
+\end{aparte}
+
+\begin{figure}[h!]
+  \includegraphics[width=\textwidth]{langues_ecritures}
+  \caption{États de langue et écritures. D'après P.~\bsc{Grandet}, 
+           B.~\bsc{Mathieu}, \emph{Cours d'égyptien hiéroglyphique}, 
+           1\iere~édition, Paris, 1990}
+  \label{fig:etats_langue}
+\end{figure}
+
+\section{Les écritures}
+%----------------------------------------------------------------------
+
+Il faut distinguer une langue (et ses phases d'évolution) de son 
+\clef{système de notation graphique}. Le plus connu de l'\kmt ancienne 
+est le \textbf{système hiéroglyphique}, mais il n'est pas le seul. En 
+particulier, à partir du \siecle{4} de notre ère, la langue égyptienne 
+ancienne est notée au moyen de l'alphabet copte (alphabet grec 
+augmenté de plusieurs signes démotiques). Les écritures utilisées pour 
+noter la langue des anciens Égyptiens sont les suivantes :
+
+\begin{itemize}
+  \item \clef{Hiéroglyphes} (\frquote{lettres sacrées gravées}) : 
+        écriture monumentale faite de signes iconiques gravés ou 
+        peints, utilisée pendant toute l'histoire pharaonique.
+  \item \clef{Hiératique} (\frquote{caractères sacerdotaux}) : 
+        écriture cursive, d'abord utilisée pour la documentation 
+        courante, puis, à partir de la \TPI, pour les textes 
+        religieux sur papyrus.
+  \item \clef{Démotique} (\frquote{caractères profanes}) : 
+        écriture cursive, apparue pendant sous la \dyn{26}, qui 
+        remplace le hiératique dans la documentation courante 
+        (cf. état de langue démotique).
+  \item \clef{Copte} : alphabet (\siecle{3}~AD), tiré de l'alphabet 
+        oncial grec auquel sept signes démotiques ont été ajoutés 
+        pour noter les phonèmes inexistants en grec (cf. copte comme 
+        désignation d'un état de langue). Le système étant 
+        alphabétique, l'écriture copte est la seule écriture 
+        égyptienne à noter systématiquement les voyelles.
+\end{itemize}
+
+\clef{L'égyptien classique, objet de ce cours, peut être écrit en 
+hiéroglyphes ou en écriture cursive hiératique.} Les mêmes principes 
+graphiques régissent les deux écritures. La différence essentielle 
+réside dans le fait que les signes hiératiques sont d'un tracé 
+simplifié par rapport aux signes hiéroglyphiques. Leur caractère 
+iconique est donc moins identifiable au premier abord. Par ailleurs, 
+les signes hiératiques peuvent être ligaturés, ce qui n'est pas 
+possible pour les signes hiéroglyphiques (voir la différence entre 
+nos lettres \frquote{majuscules} et nos lettres minuscules en écriture 
+\frquote{attachée}). Les signes cursifs hiératiques sont donc plus 
+difficiles à mémoriser pour un débutant.
+
+\bigskip
+\hfill%
+\begin{minipage}[b]{0.45\textwidth}
+  \centerfloat
+  \begin{hieroglyph}m\ \end{hieroglyph}
+
+  Hiéroglyphe : chouette valeur phonétique [m]
+\end{minipage}%
+\hfill%
+\begin{minipage}[b]{0.45\textwidth}
+  \centerfloat
+  \includegraphics[height=1.5\baselineskip]{chouette_hieratique}
+
+  équivalent en hiératique
+\end{minipage}%
+\hfill
+
+\bigskip
+
+\begin{aparte}
+  \emph{Nota bene} :
+
+  Dans ce cours, nous n'aborderons la langue \frquote{égyptien 
+  classique} que par le système de notation dit 
+  \textbf{hiéroglyphique}. L'objectif du cours est la maîtrise 
+  du système hiéroglyphique et des signes hiéroglyphiques de base. 
+  Toutefois, pour faire prendre conscience tout de suite à l'étudiant 
+  du lien très fort qui unit hiéroglyphique et écriture cursive 
+  hiératique, occasionnellement les équivalents hiératiques de 
+  certains signes hiéroglyphiques seront signalés. Ils ne seront 
+  pas l'objet d'une évaluation.
+\end{aparte}
+
+
+\part{Cours~1 -- Introduction -- Section~2 : Première familiarisation 
+avec les signes hiéroglyphiques}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Les hiéroglyphes égyptiens sont des graphèmes, qui ont la 
+particularité d'être \textbf{iconiques} ou \textbf{figuratifs}, 
+c'est-à-dire de représenter des choses qui appartiennent au monde 
+dans lequel évoluaient les anciens Égyptiens. On parle aussi de 
+\textbf{signes-images}.
+
+Attention, ces signes d'écriture se distinguent des simples dessins 
+par des traits qui constituent des caractéristiques essentielles de 
+l'écriture\footnote{Voir P.~\bsc{Vernus}, \emph{Aegyptus} LXXXI/1-2 
+(2001), spécialement p.~20-21.} :
+
+\begin{itemize}
+  \item \textbf{\uline{Ces dessins sont calibrés}}, c'est-à-dire 
+        que chaque signe d'écriture a une taille qui lui est propre 
+        comparativement avec les autres signes d'écriture, et cette 
+        taille n'a pas de relation avec la taille de la réalité 
+        représentée. Comparer à titre d'exemple, les tailles 
+        relatives du signe représentant un hippopotame 
+        \begin{hieroglyph}E25\end{hieroglyph} et celui représentant 
+        un moineau \begin{hieroglyph}G37\end{hieroglyph}.
+  \item \textbf{\uline{Ces images sont orientées}}. Dans notre 
+        écriture, qui se lit de gauche à droite, le \frquote{E} doit 
+        toujours se faire avec les trois barres horizontales à 
+        droite et jamais à gauche. Dans l'écriture hiéroglyphique 
+        qui peut se lire de droite à gauche ou de gauche à droite, 
+        les signes seront orientés différemment selon le sens de 
+        lecture : \begin{hieroglyph}E25\end{hieroglyph} et 
+        \begin{hieroglyph}G37\end{hieroglyph} pour une lecture de 
+        gauche à droite ; \begin{hieroglyph}E25\ \end{hieroglyph} et 
+        \begin{hieroglyph}G37\ \end{hieroglyph} pour une lecture de 
+        droite à gauche. Nous reviendrons là-dessus dans le détail.
+  \item \textbf{\uline{Le nombre de signes est important, mais fini}}. 
+        Le répertoire des signes hiéroglyphiques a été fait en opérant 
+        une sélection parmi les images possibles des éléments du monde 
+        environnant.
+\end{itemize}
+
+\bigskip
+
+\textbf{\uline{Quel est le nombre de signes 
+hiéroglyphiques ?}\footnote{Ph.~\bsc{Collombert}, \frquote{Combien y 
+avait-il de hiéroglyphes}, \emph{\kmt. Afrique \& Orient}~46, 2007, 
+p.~15-28. Téléchargeable : \url{http://www.unige.ch/lettres/antic/ 
+egyptologie/enseignants/philippecollombert/}.} La réponse n'est pas si 
+aisée qu'on le penserait.}
+
+On estime à environ \numrange{1500}{200} le nombre des signes 
+hiéroglyphiques en usage aux diverses époques, avec une augmentation 
+significative pour la période gréco-romaine, où le répertoire des 
+signes est estimé à \num{2000}/\num{2500} signes. Que l'on se rassure 
+toutefois le nombre des \clef{signes usuels} est cependant limité à 
+\clef{\num{600}~signes} environ, ce qui correspond à peu près aux 
+nombres de signes hiératiques recensés par G.~\bsc{Möller} dans sa 
+paléographie, si on exclut l'inventaire des signes numériques et des 
+notations de mesures.
+
+\begin{aparte}
+  Il n'est évidemment pas question d'apprendre tous ces signes d'un 
+  coup. La connaissance de \num{200}~signes parmi les plus courants 
+  suffit pour déjà être à l'aise avec les textes égyptiens. 
+  L'apprentissage de ces signes se fera progressivement. Vous aurez 
+  d'abord à mémoriser \num{28}~signes essentiels. Leur connaissance 
+  vous permettra ensuite de mémoriser plus facilement et 
+  progressivement les autres signes. Nous verrons cela en temps voulu.
+\end{aparte}
+
+\textbf{\uline{Que représentent les signes hiéroglyphiques ?}}\\
+Les signes hiéroglyphiques sont des images représentant (en respectant 
+les conventions de l'art égyptien) des éléments du monde pharaonique. 
+Les signes représentent :
+
+Des personnages humains dans diverses activités : 
+\begin{hieroglyph}A1\end{hieroglyph} homme assis, 
+\begin{hieroglyph}A2\end{hieroglyph} homme portant la main à la bouche
+
+Des parties du corps humains : 
+\begin{hieroglyph}ir\end{hieroglyph} {\oe}il, 
+\begin{hieroglyph}r\end{hieroglyph} bouche
+
+Des divinités : 
+\begin{hieroglyph}C3\end{hieroglyph} dieu Thot à tête d'ibis
+
+Des animaux : 
+\begin{hieroglyph}E1\end{hieroglyph} bovidé, 
+\begin{hieroglyph}A\end{hieroglyph} vautour percnoptère, 
+\begin{hieroglyph}D\end{hieroglyph} cobra, 
+\begin{hieroglyph}f\end{hieroglyph} vipère à cornes
+
+Des parties du corps des animaux : 
+\begin{hieroglyph}G1\end{hieroglyph} tête de bovidé, 
+\begin{hieroglyph}H6\end{hieroglyph} plume
+
+Des plantes : 
+\begin{hieroglyph}i\end{hieroglyph} roseau, 
+\begin{hieroglyph}wAD\end{hieroglyph} papyrus
+
+Des objets et outils : 
+\begin{hieroglyph}mA\end{hieroglyph} faucille, 
+\begin{hieroglyph}Y1\end{hieroglyph} rouleau de papyrus, 
+\begin{hieroglyph}k\end{hieroglyph} corbeille à anse
+
+Des bateaux et pièces de bateaux : 
+\begin{hieroglyph}P1\end{hieroglyph}, 
+\begin{hieroglyph}aHa\end{hieroglyph} mât
+
+Des éléments architecturaux : 
+\begin{hieroglyph}pr\end{hieroglyph} plan de maison
+
+Des réalités astronomiques et naturelles : 
+\begin{hieroglyph}pt\end{hieroglyph} ciel, 
+\begin{hieroglyph}mw\end{hieroglyph} eau, 
+\begin{hieroglyph}xAst\end{hieroglyph} montagnes
+
+Le référent de certains signes est parfois incertain ou n'a pas été 
+identifié : 
+\begin{hieroglyph}Aa2\end{hieroglyph} pustule ? plaie ?
+
+Les signes les plus courants ont été inventoriés et classés. 
+Une liste a été notamment établie par \info{A.H.~\bsc{Gardiner}}. 
+Il a classés les signes selon la réalité représentée. Par exemple, 
+les signes représentant des personnages humains masculins 
+appartiennent à la série~A. L'homme assis 
+\begin{hieroglyph}A1\end{hieroglyph} est le premier de la série. 
+Il porte le code~A1. L'homme portant la main à la bouche 
+\begin{hieroglyph}A2\end{hieroglyph} est le deuxième de la série. 
+Il porte le code~A2 et ainsi de suite. Vous trouverez la totalité de 
+cette \info{classification alphanumérique}, appelée \emph{Gardiner 
+List}, dans l'\emph{Egyptian Grammar} de \bsc{Gardiner} (1957 -- 
+1\iere~édition 1927), ou, en version française, dans la 
+\emph{Grammaire raisonnée de l'égyptien classique} de \bsc{Malaise} 
+et \bsc{Winand} (1999). Une version abrégée est disponible dans la 
+\emph{Grammaire pratique du moyen égyptien} d'\bsc{Obsomer} (2009). 
+Cette liste sera aussi progressivement mise en ligne dans la rubrique 
+\frquote{Documents} (dossier \texttt{Gardiner List}).
+
+\textbf{\uline{Quelle est la valeur des signes hiéroglyphiques ?}}\\
+Les signes hiéroglyphiques, nous allons le voir, ont plusieurs 
+valeurs, mais les principales sont : valeur idéographique ou 
+logographique (un signe = un mot), mais aussi et surtout valeur 
+phonétique sur le principe du rébus. Tout ceci est développé dans 
+la prochaine section.
+
+\begin{aparte}
+  \donc Exercice~1 à faire
+\end{aparte}
+
+
+\part{Cours~1, suite -- Le système graphique}\footnote{Cf. 
+W.~\bsc{Schenkel}, \emph{Lexikon der Ägyptologie}~V, col.~713-735, 
+s.v. Schrift.}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{aparte}
+  \textbf{Remarque préalable~1}\\
+  Il convient d'emblée de dissiper un malentendu possible : 
+  le système hiéroglyphique, s'il comporte des signes-mots (des
+  logogrammes), comme le signe \begin{hieroglyph}pr\end{hieroglyph} 
+  notant le mot \frquote{maison}, est avant tout un système de 
+  notation phonétique des mots et morphèmes de la langue. Sur le 
+  principe du \clef{rébus à transfert}, des signes à l'origine 
+  logographique sont utilisés, non pas pour noter un mot, mais 
+  les phonèmes de ce mot. Par exemple, le signe 
+  \begin{hieroglyph}pr\end{hieroglyph} peut noter soit le mot 
+  \frquote{maison}, soit une syllabe contenant les consonnes \tlb{pr} 
+  (consonnes du mot \frquote{maison} en égyptien). Si vous aimez les 
+  rébus, le système hiéroglyphique sera un jeu d'enfant pour vous\dots
+
+  \textbf{Remarque préalable~2}\\
+  Vous l'aurez remarqué dans l'exemple précédent, l'écriture 
+  hiéroglyphique, comme l'écriture arabe actuelle, ne note pas 
+  les voyelles : seulement le squelette consonantique du mot.
+\end{aparte}
+
+\chapter{L'aspect des signes}
+%======================================================================
+
+Nous avons déjà vu que les signes hiéroglyphiques sont des signes 
+\textbf{figuratifs}. Ils représentent diverses réalités du monde 
+égyptien, calibrés pour les besoins du système graphique. Voir cours 
+précédent.
+
+\chapter{Orientation des signes et sens de lecture}
+%======================================================================
+
+Observez le mot \frquote{serviteur} écrit selon deux graphies : 
+1) \reflectbox{\begin{hieroglyph}bA:k-A1\end{hieroglyph}} et 
+2) \begin{hieroglyph}bA:k-A1\end{hieroglyph}
+
+Le sens normal de lecture est en hiéroglyphe, comme en arabe, de 
+droite à gauche. C'est notamment le sens unique de lecture de 
+l'écriture cursive hiératique. Ce sens correspond au mot 1) ci-dessus. 
+L'écriture hiéroglyphe, étant par essence une écriture monumentale, 
+appelée à orner des objets et des éléments architecturaux, son sens 
+de lecture peut être modifié pour des raisons esthétiques. L'écriture 
+de gauche à droite est donc aussi possible pour le hiéroglyphique. Ce 
+sens correspond au mot 2) ci-dessus.
+
+Observez encore le mot \frquote{serviteur} écrit dans une autre 
+disposition : 
+3) \EnColonne[1.2\Htm]{\begin{hieroglyph}bA:k-A1\end{hieroglyph}} et 
+4) \reflectbox{%
+  \EnColonne[1.2\Htm]{\begin{hieroglyph}bA:k-A1\end{hieroglyph}}%
+}.
+
+Comparer avec les graphies~1) et~2). Que remarquez-vous ?
+
+Un texte hiéroglyphique peut aussi bien être écrit en ligne, qu'en 
+colonne, de gauche à droite, ou de droite à gauche. Le seul sens de 
+lecture impossible est une lecture du bas vers le haut.
+
+\begin{figure}[h!]
+  \includegraphics[width=0.8\textwidth]{sens_lecture}
+  \caption{Sens de lecture. D'après A.H.~\bsc{Gardiner}, 
+           \emph{Egyptian Grammar}, §\,16}
+  \label{fig:sens_lecture}
+\end{figure}
+
+Comment savoir par où débuter la lecture et dans quel sens la 
+poursuivre ? C'est très simple. Les signes hiéroglyphiques sont 
+orientés, c'est-à-dire qu'ils ont un sens, comme nos lettres. Pour 
+savoir où commencer la lecture d'un texte, il suffit de connaître 
+l'orientation d'un signe.
+
+\noindent\begin{hieroglyph}b\end{hieroglyph} le signe de la 
+jambe notant le phonème [b] est ici orienté pour une lecture de gauche 
+à droite.\\
+\begin{hieroglyph}b\ \end{hieroglyph} ici il est orienté pour une 
+lecture de droite à gauche.
+
+Si on ne connaît pas l'orientation des signes, il y a une astuce 
+très simple : il suffit de repérer dans quelle direction regardent 
+les signes représentant des personnages animés. S'ils regardent vers 
+la droite, la lecture doit être débutée à droite ; s'ils regardent 
+vers la gauche, la lecture doit être débutée à gauche.
+
+\noindent\begin{hieroglyph}zA-b-G7\end{hieroglyph} 
+Geb (dieu de la terre) : lire d'abord le signe de l'oie, puis la 
+jambe, puis le faucon sur le pavois.
+
+\noindent\reflectbox{\begin{hieroglyph}zA-b-G7\end{hieroglyph}}
+Geb (dieu de la terre) : lire d'abord le signe de l'oie, puis la 
+jambe, puis le faucon sur le pavois.
+
+Observer : 
+\reflectbox{\begin{hieroglyph}st-t:H8-B1\end{hieroglyph}} 
+(de droite à gauche) et (de gauche à droite) 
+\begin{hieroglyph}st-t:H8-B1\end{hieroglyph}. Isis (déesse)
+
+
+\chapter{Les trois valeurs possibles des signes}
+%======================================================================
+
+Nous entrons à présent dans le c{\oe}ur du sujet : la valeur des 
+signes hiéroglyphiques. Les signes de notre alphabet ont tous une 
+valeur phonétique. Plusieurs valeurs sont possibles pour les signes 
+égyptiens. Vous vous rappelez de l'exemple du signe 
+\begin{hieroglyph}pr\end{hieroglyph}, qui peut noter soit le mot 
+\frquote{maison} \tlb{pr}, = valeur de logogramme, ou une syllabe 
+composée de deux consonnes \tlb{pr}, = valeur phonétique. Les signes 
+hiéroglyphiques ont en fait trois valeurs possibles listées 
+ci-dessous : \textbf{logogrammes}, \textbf{phonogrammes}, 
+\textbf{déterminatifs}.
+
+\section{Logogrammes}
+
+Certains signes sont des \textbf{logogrammes} (ou 
+\textbf{signes-mots}, aussi \textbf{idéogrammes}). 
+Ils ont à la fois un \frquote{contenu sémantique et un contenu 
+phonologique\footnote{J.~\bsc{Winand}, A.~\bsc{Stella}, 
+\emph{Lexique du Moyen Égyptien}, Liège, 2013, p.~7.}}.
+Par exemple 
+\begin{hieroglyph}ra\end{hieroglyph} = Rê \frquote{soleil}, 
+\begin{hieroglyph}pr\end{hieroglyph} = \tlb{pr} \frquote{maison}, ou 
+\begin{hieroglyph}sA\end{hieroglyph} = \tlb{zA} \frquote{fils}, 
+\begin{hieroglyph}r\end{hieroglyph} = \tlb{r(A)} \frquote{bouche}.
+
+\section{Phonogrammes}
+
+Les signes peuvent avoir seulement une valeur phonétique.
+
+Par exemple, la vipère à cornes \begin{hieroglyph}f\end{hieroglyph} 
+note le phonème [f], la jambe \begin{hieroglyph}b\end{hieroglyph} le 
+phonème [b], \begin{hieroglyph}n\end{hieroglyph} le filet d'eau note 
+le phonème [n].
+
+Certains signes peuvent avoir soit valeur de logogramme, soit valeur 
+de phonogramme.
+
+C'est le cas par exemple de \begin{hieroglyph}pr\end{hieroglyph} 
+valeur mot \tlb{pr} =\frquote{maison}, ou notation de la syllabe 
+\tlb{pr} dans un autre mot, de \begin{hieroglyph}r\end{hieroglyph} 
+\frquote{bouche}, \emph{ro} en ancien égyptien, qui peut noter le mot 
+\frquote{bouche, entrée} ou le phonème [r].
+
+Pour distinguer l'utilisation logographique d'un signe de son 
+utilisation phonétique, le système hiéroglyphique recourt à un procédé 
+simple. Si un signe est utilisé comme logogramme (signe-mot), le signe 
+est suivi d'un trait \begin{hieroglyph}Z1\end{hieroglyph} (signe Z1 de 
+la \emph{Gardiner List}), appelé parfois \frquote{trait de lecture 
+directe}.
+
+\begin{enumerate}
+  \item \begin{hieroglyph}pr-1\end{hieroglyph} :
+        ce groupe note le mot \frquote{maison} \tlb{pr}
+  \item \begin{hieroglyph}pr:r-D54\end{hieroglyph}, 
+        ici le signe du plan de maison est utilisé pour sa valeur 
+        phonétique \tlb{pr} (et n'est donc pas suivi du trait) dans 
+        le verbe \tlb{pri}, \frquote{sortir}.
+  \item \begin{hieroglyph}r-1\end{hieroglyph} : 
+        ce groupe est utilisé pour noter le mot \frquote{bouche, 
+        entrée} \tlb{r(A)}. Noter la présence du signe 
+        \begin{hieroglyph}r\end{hieroglyph} dans le mot précédent 
+        (\no2), utilisé aussi, en ce cas, pour sa valeur phonétique 
+        [r] pourtant déjà comprise dans le signe 
+        \begin{hieroglyph}pr\end{hieroglyph} \tlb{pr}. 
+        Nous en reparlerons dans un instant.
+\end{enumerate}
+
+\section{Déterminatifs ou sémagrammes}
+
+Observez ce groupe : \begin{hieroglyph}r:n-A2\end{hieroglyph}.
+
+Il s'agit du mot qui a le sens de \frquote{nom}, écrit au moyen de 
+trois signes. Le squelette consonantique du mot est \tlb{rn}. Les 
+deux premiers signes sont des phonogrammes que nous venons de voir. 
+Quels phonèmes notent-ils respectivement ?
+
+Réponse : \tlb{r} et \tlb{n}.
+
+Puisque les deux premiers signes \begin{hieroglyph}r\end{hieroglyph} 
+et \begin{hieroglyph}n\end{hieroglyph} notent les phonèmes 
+consonantiques du mot, à quoi sert le 3\ieme signe 
+\begin{hieroglyph}A2\end{hieroglyph} ?
+
+Ce signe n'a pas de valeur phonétique. Il apporte une 
+\textbf{indication d'ordre sémantique} sur le mot noté. Il 
+représente un homme qui porte la main à la bouche. Cela signifie 
+que le mot \tlb{rn} désigne une chose qui est énoncé par la bouche : 
+le nom que l'on prononce. Ce type de signe sans valeur phonétique, 
+mais à simple valeur sémantique, est appelé \textbf{déterminatif} ou 
+\textbf{classificateur} Il se trouve toujours à la fin du mot et sert 
+à distinguer les homogrammes.
+
+Observez ces deux mots suivants :\\
+1. \begin{hieroglyph}pr:r-t:D54\end{hieroglyph} et 
+2. \begin{hieroglyph}pr:r-t-ra\end{hieroglyph}
+
+Le seul signe différent est le dernier, le déterminatif. Dans un cas, 
+on a 
+1. \begin{hieroglyph}D54\end{hieroglyph}, déterminatif des verbes de 
+mouvement ; et dans l'autre,
+2. \begin{hieroglyph}ra\end{hieroglyph}, déterminatif des éléments en 
+rapport avec le cycle solaire.
+
+\begin{hieroglyph}pr:r-t:D54\end{hieroglyph} = \tlb{pr.t} 
+\frquote{sortir} et 
+\begin{hieroglyph}pr:r-t-ra\end{hieroglyph} = \tlb{pr.t} 
+\frquote{saison \emph{péret}} (la saison des semailles)
+
+\begin{aparte}
+  \textbf{Bilan d'étape 1 :}
+
+  Un mot égyptien s'écrit donc normalement avec deux séries de signes :
+  {\color{red}
+  \begin{enumerate}
+    \item des signes qui notent les phonèmes du mot, seulement les 
+          consonnes,
+    \item un ou plusieurs déterminatifs après les phonèmes.
+  \end{enumerate}
+  }
+  
+  Exemple : \begin{hieroglyph}s-D:\!\!\!d\s2-A2\end{hieroglyph} \tlb{sDd} 
+  \frquote{raconter}, les trois premiers signes notent les phonèmes du 
+  mot, le dernier est le déterminatif.\\
+  Cette structure type fonctionne aussi pour les mots écrits au moyen 
+  de logogrammes. 
+  Dans le cas de \begin{hieroglyph}pr-1\end{hieroglyph} \tlb{pr} 
+  \frquote{maison}, on peut dire que le premier signe est le 
+  logogramme et le trait vertical une sorte de déterminatif indiquant 
+  la façon dont on doit lire le signe.
+\end{aparte}
+
+\begin{aparte}
+  \textbf{Bilan d'étape 2 :}
+
+  Il y a donc trois valeurs possibles pour les signes {\hiero}iques 
+  égyptiens : \clef{logogrammes}, \clef{phonogrammes} ou 
+  \clef{déterminatifs}. Si vous avez été attentif, vous avez repéré 
+  que le signe \begin{hieroglyph}pr\end{hieroglyph} peut avoir 
+  plusieurs valeurs possibles. En fait, certains signes peuvent avoir 
+  les trois valeurs (c'est le cas du signe 
+  \begin{hieroglyph}pr\end{hieroglyph}), seulement deux (c'est le cas 
+  du signe \begin{hieroglyph}ra\end{hieroglyph} qui peut être 
+  déterminatif ou logogramme), ou spécialisé dans une seule valeur 
+  (c'est le cas du signe \begin{hieroglyph}f\end{hieroglyph} qui n'est 
+  qu'un phonogramme notant le son [f].
+\end{aparte}
+
+\textbf{\uline{Question} :} parmi les signes évoqués commentés 
+jusqu'ici, quel autre signe a deux valeurs ?
+
+\chapter{Les différents types de phonogrammes et les compléments 
+phonétiques}
+
+\begin{comment}
+
+Pour compléter le tableau et préciser le système graphique hiéroglyphique, nous devons revenir sur les phonogrammes. Observez ces trois signes et leur valeur phonétique :
+nfr
+pr
+f
+Que remarquez-vous ?
+
+Le premier signe note un ensemble de trois consonnes, le deuxième un 
+ensemble de deux consonnes, et le dernier une seule consonne.
+
+Il existe en effet trois sortes de phonogrammes :
+\begin{itemize}
+  \item Ceux qui notent une seule consonne, appelés signes unilitères ;
+  \item Ceux qui notent deux consonnes, appelés signes bilitères ;
+  \item Ceux qui notent trois consonnes, appelés signes trilitères.
+\end{itemize}
+
+Certains mots courants peuvent être écrits seulement au moyen de phonogrammes unilitères:
+Dd \frquote{dire} --  Hna \frquote{avec}
+Toutefois, la plupart des mots sont notés au moyen de phonogrammes bilitères ou trilitères.
+Par exemple,  ir(i) \frquote{faire} (valeur de l'{\oe}il ir -- nous parlerons plus tard des phonèmes de
+la langue égyptienne -- sans doute parce que l'{\oe}il se disait ir.t iret).
+Généralement, un phonogramme bilitère ou trilitère n'est pas employé seul, mais accompagné
+d'un ou de plusieurs compléments phonétiques, dont la fonction est de noter de manière
+redondante une partie la valeur phonétique des signes.
+Réexaminons le mot :
+= pr.t \frquote{sortir}
+Décomposons :
+= pr.t \frquote{sortir} :  note le groupe pr,  le phonème r,  (pain rond) note le
+phonème t et le dernier signe, les deux jambes en marche, sont, on l'a vu, un déterminatif.
+Dans cette graphie, le signe  est complément phonétique du signe  . Il ne note pas un
+deuxième phonème [r], mais renote, de manière redondante le premier.
+Autre exemple, le mot  \frquote{parfait, bon, accompli}, nfr. Il est écrit au moyen d'un signe
+trilitère nfr, suivi de deux compléments phonétiques  f et  r, et enfin du rouleau de
+papyrus fermé  , déterminatif des idées abstraites.
+Le système des compléments phonétiques constitue d'une certaine manière le c{\oe}ur du
+système graphique hiéroglyphique. Pourquoi ce système de notation phonétique redondant ?
+Sans doute par souci de clarté et de lisibilité. Certains signes peuvent avoir plusieurs valeurs
+(logogramme, phonogramme et déterminatif), comme le signe  . Si le signe est suivi d'un
+trait  , on sait qu'il a valeur de signe-mot (pr = \frquote{maison}). S'il n'est pas suivi d'un trait
+et si, en plus, il est suivi de son complément phonétique  , on est certain que le signe est
+seulement utilisé pour sa valeur phonétique pr. Ce système a en outre l'avantage de permettre
+de choisir la valeur phonétique à attribuer à certains signes qui ont plusieurs valeurs
+phonétiques possibles. Par exemple, l'étoile  est un trilitère qui peut avoir la valeur dwA ou sbA. Entouré des compléments phonétiques s, b, A,  , la lecture du signe ne fait pas de doute.
+
+Le système a peut-être l'air complexe de prime abord, mais vous verrez qu'à l'usage, il est très simple et efficace.
+Pour avancer, il faut à présent :
+1) présenter le système phonétique de l'égyptien ancien et le système de translittération
+utilisé par les égyptologues,
+2) apprendre la liste des signes unilitères.
+C'est l'objet de la dernière section du Cours 1, mais avant, vous devez faire l'exercice 2, pour
+vous assurer que tout est bien compris à ce point du cours.
+
+\aparte{Exercice 2 à faire}
+
+
+%======================================================================
+
+ÉGYPTIEN CLASSIQUE  - S EMESTRE  1
+
+Cours 1 -- Le système graphique (suite)
+
+LE SYSTEME GRAPHIQUE (SUITE)
+
+Comme vous l'avez sans doute compris, quand on travaille sur un texte hiéroglyphique, on
+doit d'abord translittérer le texte, c'est-à-dire transposer la notation hiéroglyphique en une
+notation phonétique conventionnelle. Le mot  est ainsi translittéré pr, puis traduit
+\frquote{maison}.
+Pour pouvoir translittérer, il vous faut :
+1° Connaître les phonèmes consonantiques égyptiens
+2° Le système de translittération en usage.
+Cet apprentissage se fait en mémorisant l'ensemble des signes unilitères égyptiens. La liste est
+courte et vous devez absolument l'apprendre par c{\oe}ur le plus tôt possible. Il y a 29 signes
+unilitères, notant 27 phonèmes consonantiques (ou des semi-voyelles 1 ).
+=> Consultez le tableau des unilitères dans la section document, et observez bien les
+informations fournies. Le tableau vous indique la prononciation approximative, ainsi que le
+signe à utiliser pour la translittération.
+Après avoir soigneusement observé et lu ce tableau, faites l'exercice 3. Il est à me rendre par
+email pour correction individuelle.
+***
+Quelques précisions sur le système de translittération :
+Il existe plusieurs systèmes de translittération des textes en égyptien ancien. Les variantes sont
+généralement minimes d'un système à l'autre. Le système adopté ici est celui suivi dans Cl. Obsomer,
+Grammaire pratique de l'égyptien hiéroglyphique (voir bibliographie).
+Les phonèmes de la langue égyptienne ancienne
+L'égyptien ancien possède 27 phonèmes consonantiques (voir le document Tableau phonologique de
+l'égyptien ancien). Il est à noter que le phonème l n'a pas de signe propre. Son existence est établie
+par comparatisme avec d'autres langues afro-asiatiques et avec le copte où le phonème est bien attesté.
+1 Le \frquote{y} dans le mot yoyo peut-être considéré comme une semi-voyelle, car elle fait une diphtongue avec la
+voyelle \frquote{o}.
+
+La vocalisation des textes égyptiens :
+L'écriture hiéroglyphique est consonantique ; elle ne note pas les voyelles. Nous ne disposons donc
+que du squelette consonantique des mots. Les spécialistes peuvent néanmoins avoir une idée de la
+prononciation grâce aux transcriptions de mots égyptiens en langues étrangères (par exemple en
+akkadien et plus tard en grec), à la comparaison avec les autres langues de la famille linguistique, et
+avec le copte dont le système graphique alphabétique note les voyelles 2 .
+Toutefois, pour des raisons pratiques, les égyptologues utilisent souvent (mais pas toujours) une
+prononciation artificielle. En ce cas, aleph et ayn sont lus \frquote{\frquote{a}}, le yod et le waw sont lus
+respectivement i et ou, et on intercale un e bref entre les phonèmes : par exemple nfr peut être lu de
+façon conventionnelle \frquote{néfèr}.
+
+2 Voir M. M ALAISE , J. W INAND , Grammaire raisonnée, p. 22.
+
+
+%======================================================================
+
+É GYPTIEN CLASSIQUE  - S EMESTRE  1
+Cours 2 -- Le système graphique (suite)
+L E SYSTEME GRAPHIQUE
+( SUITE )
+Rappel :
+Quelles sont les 3 valeurs possibles des signes dans le système d'écriture hiéroglyphique ?
+--  logogrammes (valeur sémantique et phonétique)
+--  phonogrammes (seulement une valeur phonétique)
+--  déterminatifs (seulement une valeur sémantique)
+Comment note-t-on un mot égyptien en hiéroglyphe ?
+En résumé, on peut dire qu'il y a normalement 2 parties :
+--  les premiers signes notent les phonèmes du mot
+--  le ou les derniers signes sont des déterminatifs qui donnent une indication sémantique sur le
+mot.
+Par exemple : 1.  \frquote{pyramidion}. En vous aidant du tableau des signes unilitères,
+translittérez. Quelle est la valeur du dernier signe ? (réponse : ci-dessous)
+L ES SIGNES PLURILITERES
+Continuons notre exploration des phonogrammes. On a étudié jusqu'à présent les signes unilitères. Ils
+sont à apprendre par c{\oe}ur le plus rapidement possible. D'autres phonogrammes notent un ensemble de
+deux consonnes (bilitères) et d'autres de trois consonnes (trilitères). Le nombre des bilitères est assez
+élevé. Vous les apprendrez progressivement.
+Réponse
+1.  bnbn.t \frquote{pyramidion}, le dernier signe est le déterminatif.
+R ETOUR SUR LES PHONOGRAMMES PLURILITERES
+Comme nous l'avons vu, vous pouvez retenir qu'un mot égyptien est écrit au moyen de deux
+groupes de signes:
+1. Les signes notant les phonèmes et 2. Le ou les déterminatifs. Exemple  bnbn.t
+pyramidion, ci-dessus : les 4 premiers signes sont des signes phonétiques (unilitères) et le
+dernier un déterminatif.
+
+Pour les mots écrits par des logogrammes, on peut dire que ce schéma fonctionne aussi d'une
+certaine manière :
+1. Le logogramme et 2. le trait dit de \frquote{lecture directe}, indiquant que le signe précédent doit
+être lu comme un \frquote{signe-mot}. Exemple :  pr \frquote{maison, domaine} ;  r a \frquote{Rê,
+soleil},  nTr \frquote{dieu}.
+Faire l'exercice 4 en vous aidant du tableau des signes unilitères et de celui des signes
+plurilitères. Voir corrigé en ligne
+L A DISPOSITION DES SIGNES
+L'orientation première de l'écriture égyptienne est probablement de droite à gauche. C'est
+l'orientation exclusive des écritures cursives (hiératique, puis démotique). Le hiéroglyphique
+lui, on l'a vu, peut-être écrit de droite à gauche ou de gauche à droite, en ligne ou en colonne
+(lue du haut vers le bas).
+Les signes hiéroglyphiques ne sont en outre pas disposés les uns à la suite des autres, mais
+agencés selon des considérations esthétiques sous forme de \frquote{cadrats}, c'est-à-dire de carrés
+virtuels permettant une disposition harmonieuse des signes.
+(Figure reprise de Grandet, Mathieu, Cours d'égyptien hiéroglyphique, p. 20)
+En hiéroglyphique, les signes isolés sont normalement placés au centre du cadrat.
+R ETOUR SUR LES DETERMINATIFS
+Les déterminatifs sont des classificateurs sémantiques. Ils se placent à la fin d'un mot, après
+les phonèmes, et donnent une information, non pas sur la prononciation, mais sur le sens du
+mot. Les déterminatifs sont très utiles, à plusieurs égards :
+-- ils permettent de repérer la fin d'un mot (l'écriture égyptienne ancienne ne marque pas
+de séparation entre les mots) ;
+-- ils permettent de distinguer les éventuels homogrammes -- dans une écriture qui ne
+note que les consonnes les chances de rencontrer deux mots distincts écrits avec les
+mêmes phonèmes consonantiques sont importantes.
+À cet égard, ils jouent d'une certaine manière le même rôle que les kanji en japonais ou
+l'orthographe historique française 1 . Les graphies vert -- vers -- ver -- verre donnent des
+informations visuelles sur le sens des mots. L'orthographe nous sert, en français écrit,
+d'indicateur sémantique. Les déterminatifs des hiéroglyphes ont une fonction similaire.
+1 Voir les remarques éclairantes A.-M. C HRISTIN , L'image écrite ou la déraison graphique, Paris, 1995.
+
+dp.t \frquote{bateau}
+dp.t \frquote{le goût}, avec  (langue de b{\oe}uf, par ailleurs aussi bilitère valeur
+ns)
+mn \frquote{être durable} avec  , rouleau de papyrus fermé, déterminatif des notions
+abstraites
+mn \frquote{un tel} (dans \frquote{un tel qu'a mis au monde une telle}, expression utilisée dans
+les manuels de rites de protection pour indiquer que l'on doit ajouter ici le nom du patient)
+Voir le document 5 Déterminatifs et Faire l'exercice 5
+Voir corrigé en ligne
+L ES LOGOGRAMMES OU SIGNES - MOTS
+Les logogrammes sont perçus comme le c{\oe}ur et l'origine du système d'écriture
+hiéroglyphique, puisque les signes phonogrammes en sont dérivés selon le principe du rébus
+par transfert (voir plus haut : le signe  note le mot \frquote{maison} qui comporte les
+consonnes pr, le même signe est donc réutilisé pour noter simplement ces phonèmes).
+Il demeure de très nombreux mots notés par un seul signe dans l'écriture hiéroglyphique
+égyptienne.
+Par exemple :  pr \frquote{maison} ;  Hr \frquote{visage} ;  ib \frquote{c{\oe}ur, conscience}
+Un signe utilisé comme notation de mot complet est normalement suivi d'un signe diacritique,
+le trait vertical, appelé \frquote{trait de lecture directe} (Grandet/Mathieu) ou encore \frquote{trait de
+l'idéogramme} (Obsomer), signalant la valeur logographique à conférer au signe.
+NB : une exception courante  mw \frquote{eau}
+Remarque sur la terminologie employée :
+Les deux termes \frquote{idéogrammes} et \frquote{logogrammes} sont utilisés dans les manuels pour désigner les signes
+égyptiens notant un mot complet et sont, dans l'usage courant, employés comme synonymes.
+Toutefois, des nuances existent entre les deux. Logogramme (dérivé du grec logos \frquote{parole} et gramma
+\frquote{caractère, lettre}) désigne un signe notant une unité de sens (= un mot). Le terme idéogramme, de par son
+étymologie (du grec idea \frquote{forme, aspect}), renvoie à une catégorie plus spécifique de signe-mot, les
+\frquote{caractères figuratifs} de Champollion \frquote{qui expriment l'objet dont ils présentent à l'{\oe}il l'image plus ou moins
+fidèle et plus ou moins détaillée 2}. Par exemple, une image du visage de face pour noter le mot \frquote{image, face}
+ou  \frquote{bouche} r(A).
+Champollion définit une seconde catégorie de \frquote{signes-mots} : les caractères \frquote{tropiques ou symboliques},
+permettant de noter des mots renvoyant à des idées plus abstraites. Par exemple, le vase  pour noter le mot
+ib, \frquote{c{\oe}ur ou conscience}.
+Quant au signe  dans le mot  ou  sA \frquote{fils}, il est en fait utilisé comme notation
+phonétique sA, sans doute dérivée du terme s.t  sA \frquote{canard (pilet)}.
+On préfère donc fréquemment le terme logogramme, qui renvoie à l'idée de mot noté par un signe quelque soit la
+méthode de représentation (strictement figurative, ou métaphorique, etc.), pour sa polysémie 3 .
+Les logogrammes sont donc normalement accompagnés d'un trait vertical signalant leur
+valeur de signe-mot. Un mot égyptien, même écrit, au moyen d'un logogramme, comprend
+donc normalement au moins deux signes : le logogramme et le trait.
+Il arrive que les logogrammes soient accompagnés d'autres signes encore. Observez les
+exemples ci-dessous :
+Exemples :  Dr.t \frquote{main} ;  ir.t \frquote{{\oe}il} ;  niw.t \frquote{ville} ;  wA.t \frquote{chemin} ;
+Ax.t \frquote{horizon}
+Vous remarquez que tous ces mots sont écrits au moyen d'un logogramme accompagné du
+trait vertical, mais aussi accompagné du  (voir tableau des unilitères), phonogramme t.
+Nous verrons dans le premier cours consacré à la grammaire égyptienne que le t est la
+désinence du féminin. Lorsqu'un logogramme note un mot féminin, la désinence du féminin
+est explicitée par sa notation phonétique.
+Enfin, dans quelques cas, le logogramme, en plus du trait de lecture directe, peut être
+accompagné d'un déterminatif indiquant de manière complémentaire un élément de sens.
+Exemples :  tA \frquote{terre} ;  sA \frquote{fils} ; comparer  s \frquote{verrou} et  s \frquote{homme}
+Voir encore :  sS \frquote{scribe} ;  sS \frquote{écrire}
+
+Faire l'exercice 6 -- Voir corrigé en ligne
+
+Les codes des signes hiéroglyphiques : :
+2 J.-Fr. C HAMPOLLION , Grammaire égyptienne, ou principes généraux de l'écriture sacrée égyptienne appliquée
+à la représentation de la langue parlée (1836), p. 22 (ouvrage disponible sur Gallica.fr). cf. Aussi M. Malaise,
+J. Winand, Grammaire raisonnée de l'égyptien classique, p. 28.
+3 J.-J. G LASSNER , \frquote{Essai pour une définition des écritures}, L'Homme 192, 2009/4, p. 16.
+
+Vous avez pu remarquer dans le document 5-Déterminatifs et dans le document 6-Logogrammes que chaque
+signe hiéroglyphique égyptien est associé à un code. Par exemple, l'homme assis  porte le code A1,
+l'homme portant la main à la bouche  A2, la femme assise  B1, la tête de profil  D1, la t^te de face
+D2, etc. Ce code correspond à la classification des signes faite par Alan H. Gardiner dans son Egyptian
+Grammar. On appelle cette liste la Gardiner List. C'est cette classification qui est communément en usage
+aujourd'hui. Vous trouverez cette liste des signes égyptiens dans sa version en français publiée par M. Malaise et
+J . Winand, dans la Grammaire raisonnée de l'égyptien classique, dans le document 7-Gardiner List.
+Faire l'exercice de synthèse 7, à rendre par email.
+
+
+%======================================================================
+
+É GYPTIEN CLASSIQUE  - S EMESTRE  1
+Cours 2 -- Le système graphique (suite)
+L E SYSTEME GRAPHIQUE
+( SUITE )
+L'H ISTOIRE DU DECHIFFREMENT
+Le système hiéroglyphique, vous avez pu le constater, est très différent du système
+alphabétique. Avant de poursuivre plus avant son apprentissage, il est important de rappeler quelques
+éléments historiographiques sur la perte de connaissance de cette écriture -- la rupture dans la
+transmission -- et l'histoire du déchiffrement. Celle-ci est évidemment marquée par Jean-François
+Champollion (1790-1832).
+1) La perte de la tradition :
+La fin de la langue et des écritures pharaoniques s'inscrit dans l'histoire politique et religieuse
+tardive :
+--  Pendant la période lagide (celle des souverains d'origine macédonienne, les Ptolémée, entre le
+III e  siècle av. n. è. et le  I er  siècle av. n. è.), le grec devient, à côté de l'égyptien écrit en
+démotique, une des langues officielles de l'administration ; l'écriture hiéroglyphique et la
+cursive hiératique continuent d'être utilisées en milieu sacerdotal.
+--  En 30 av. n. è., l'\kmt lagide est soumise à la puissance de Rome.
+--  Un tournant dans l'histoire de la langue et des écritures a lieu pendant le  III e siècle de notre
+ère : le démotique est de moins en moins utilisé au profit du grec, et de l'écriture copte au
+siècle suivant.
+À la fin de l'Antiquité, en 391, l'empereur romain d'Orient, Théodose, décrète la fermeture de tous les
+temples païens. Or, c'était dans les scriptoria des temples que le hiéroglyphique continuait à être
+appris et utilisé, notamment, pour les inscriptions monumentales. La dernière inscription
+hiéroglyphique connue est ainsi datée de 394 : l'inscription de la porte d'Hadrien à Philae 1 . La
+dernière inscription en démotique a, pour sa part, été gravée en 452 à Philae 2 . Par édit de l'empereur
+Justinien, le temple de Philae, dernier temple païen en activité, est fermé en 551 (date contemporaine
+des Mérovingiens en France).
+En conséquence, au  V e  siècle, l'élite égyptienne semble avoir totalement perdu la connaissance de la
+nature et de la valeur phonétique des hiéroglyphes, alors même que la langue des anciens Égyptiens
+survit dans la langue copte écrite au moyen d'un alphabet grec augmenté de 7 signes issus du
+démotique.
+1 D. D EVAUCHELLE , \frquote{24 août 394 -- 24 août 1994. 1600 ans}, BSFE 131, 1994, p. 16-18.
+2 F.Ll.  GRIFFITH , Demotic Graffiti of the Dodecashoenus, p. 11.
+
+Au  V e siècle, un Égyptien, Horapollon (d'Akhmîm), compile les Hieroglyphica, \frquote{un traité sur
+l'écriture hiéroglyphique}, dans lequel est exposée une interprétation allégorique des hiéroglyphes 3 .
+Une copie grecque du texte est trouvée en 1419 sur l'île d'Andros, et une première édition de ce texte
+paraît à Venise en 1505 4 . Ce document pousse les chercheurs désireux de percer le mystère des
+hiéroglyphes à explorer la piste de l'interprétation cachée, allégorique des hiéroglyphes.
+2) Les étapes du déchiffrement : quelques jalons 5
+Le  XVII e : L'apport du copte
+Athanasius Kircher (1601/1602-1680), important scientifique, jésuite, orientaliste. Au  XVII e siècle, le
+voyageur italien Pietro della Valle rapporte d'\kmt des grammaires et dictionnaires de la langue
+copte, rédigés en arabe. Kircher s'intéresse à cette langue et reconnaît le copte, langue liturgique des
+chrétiens d'\kmt, comme une dérivation de la langue ancienne notée par les hiéroglyphes. Ouvrage :
+Lingua aegyptiaca restituta, Rome, 1643. Kircher, trop influencé par la lecture d'Horapollon et
+d'autres auteurs classiques, comprend les hiéroglyphes comme des symboles et non comme une
+véritable écriture.
+Le XVIII e , plusieurs tentatives
+Révérend William Warburton, anglican publie un Essai sur les Hiéroglyphes des Égyptiens
+(trad.. 1744) dans lequel émerge la notion d'alphabet.
+L'abbé Barthélémy fait l'hypothèse que les cartouches enferment des noms royaux.
+1799 et le XIX e , la trouvaille archéologique et la clef du déchiffrement
+Découverte de la Pierre de Rosette en juillet 1799 (par l'officier Bouchard) près de la ville de
+Rachid : Inscription datée de l'an 9 du règne de Ptolémée V Épiphane (= 27 mars 196) en trois
+écritures et deux langues du \frquote{décret de Memphis} (égyptien hiéroglyphique, égyptien démotique,
+grec). Des copies sont faites avant la confiscation par les Anglais de la célèbre pierre en 1801.
+L'original est aujourd'hui au British Museum 6 .
+La traduction de la version grecque est rapidement faite. Plusieurs tentatives de traduction deu texte
+hiéroglyphique et du texte démotique sont alors entreprises, notamment par :
+--  Le médecin et scientifique anglais Thomas Young (1773-1829), qui publie le résultat de ses
+recherches, qui portent principalement sur le texte démotique (complet contrairement au texte
+hiéroglyphique), dans un supplément de l'Encyclopaedia Britannica en 1819. Sa méthode :
+trouver les groupes démotiques équivalents aux mots grecs par la méthode comparative 7 .
+--  Le français Jean-François Champollion (1790-1832), qui fonde son travail sur sa
+connaissance du copte, vient à bout du système hiéroglyphique et expose pour la première fois
+sa découverte dans la Lettre à M. Dacier relative à l'alphabet des hiéroglyphes phonétiques,
+3 Voir P. V ERNU s, Dictionnaire amoureux de l'\kmt pharaonique, s.v. Hiéroglyphes et l'Antiquité, p. 435-441.
+4 Document sur Gallica : http://gallica.bnf.fr/ark:/12148/bpt6k71415s
+5 Voir J. L ECLANT , \frquote{Champollion, la pierre de Rosette et le déchiffrement des hiéroglyphes}, dans Comptes
+rendus des séances de l'Académie des Inscriptions et Belles-Lettres, 116e année, N. 3, 1972. pp. 557-565.doi :
+10.3406/crai.1972.12797
+url :/web/revues/home/prescript/article/crai_0065-0536_1972_num_116_3_12797 Consulté le 24 août 2015
+6 British Museum EA 24 :
+http://www.britishmuseum.org/explore/highlights/highlight_objects/aes/t/the_rosetta_stone.aspx
+7 J. R AY , \frquote{Thomas Young et le onde de Champollion}, Bulletin de la Société française d'égyptologie 119,
+1990, p. 25-34.
+
+1822 8 , puis la développe dans son Précis du système hiéroglyphique 9 , 1824. Sa Grammaire
+égyptienne, ou principes généraux de l'écriture sacrée égyptienne appliquée à la
+représentation de la langue parlée, Paris, 1836 10 est un ouvrage posthume.
+Champollion parvient à lire le nom de Ptolémée dans un des cartouches. Comme les Ptolémée
+étaient des souverains d'origine étrangère, il était logique que leur nom fût écrit phonétiquement en
+hiéroglyphes. Il arriva ainsi à une première équivalence de signes
+cartouche avec le nom Ptolémée.
+= P
+= T
+= O (valeur véritable bilitère wA)
+= L (bilitère rw)
+= Y 
+= S
+Contrairement à d'autres, Champollion ne considère pas que la valeur phonétique des
+hiéroglyphes n'est valable que dans la notation de noms étrangers, et il poursuit sa recherche en ce
+sens. Il compare ensuite les lettres communes aux noms de Ptolémée et de Cléopâtre, dont le cartouche
+se trouve sur un obélisque de Philae, récemment transféré à Londres (avec inscription grecque
+identifiant les personnages). Avec les premières équivalences de signes établies grâce à la pierre de
+Rosette et grâce à sa connaissance du copte, il peut examiner les noms de souverains égyptiens, tels
+Ramsès et Thoutmosis.
+Ramsès
+Pour Râmsès, Champollion connaît déjà la valeur des deux derniers signes, présents dans le
+nom Ptolémée : = \frquote{s}. Il reconnaît ensuite dans le premier signe circulaire la représentation d'un
+disque solaire, dont il connaît le nom en copte : ⲣⲏ. Il a enfin rencontré le signe  (bilitère ms) en
+relation avec une expression grecque relative à un anniversaire et le rapproche du mot ⲙⲓⲥⲉ en copte
+\frquote{mettre au monde}. Il peut ainsi reconnaître dans le cartouche le nom du roi Ramsès de la liste de
+Manéthon et traduit ce nom \frquote{Rê l'a mis au monde}. La clef de la compréhension du système
+hiéroglyphique était découverte.
+8 Consultable sur Gallica.fr : http://gallica.bnf.fr/ark:/12148/bpt6k396352
+9 Document sur Gallica :
+http://gallica.bnf.fr/ark:/12148/bpt6k117252f.r="précis+du+système+hiéroglyphique".langFR
+10 Document sur Gallica :
+http://gallica.bnf.fr/ark:/12148/bpt6k117252f.r="précis+du+système+hiéroglyphique".langFR
+
+Exercice :
+À ce stade, Champollion donnait au signe  la valeur m, n'ayant pas encore identifié la
+présence de signes phonétiques unilitères et bilitères. Avec vos connaissances actuelles, translittérer le
+cartouche suivant de Ramsès (réponses ci-dessous) :
+Translittérer aussi sa variante :
+R EPONSES :
+R a -ms-s(w)  R a -ms-sw, avec  avec valeur de logogramme R a
+bilitère ms, complément phonétique,  autre bilitère (sw = \frquote{lui})
+L'après Champollion
+J.-Fr. Champollion a ouvert la voie à la compréhension du système hiéroglyphique égyptien.
+Sur le plan théorique une de ses avancées majeures a été de démontrer le caractère à la fois
+idéographique et phonétique du système.
+\frquotej{Les écritures égyptiennes procédaient-elles idéographiquement, ou bien exprimaient-elles les idées en notant le son même des mots ? Mes travaux ont démontré que la vérité se trouvait précisément entre les deux hypothèses extrêmes, c'est-à-dire que le système graphique égyptien tout entier employa simultanément des signes d'idées et des signes de sons.}
+Champollion le-Jeune, Grammaire, p. xviii
+Si Champollion tenait la clef, un élément important manquait à son édifice : la distinction
+entre différents types de signes phonétiques. Pour Champollion, tous les signes phonétiques
+notaient un son, une \frquote{articulation}, donc tous les signes phonétiques étaient alphabétiques.
+Ainsi, le signe  , que nous savons noter le groupe ms, notait simplement pour lui le son m. Il
+en résultait que son alphabet hiéroglyphique comportait un nombre importants de signes (trop
+important pour un système proprement alphabétique), et que pour noter un même phonème
+(par exemple m), les scribes auraient eu le choix entre des possibilités assez nombreuses.
+En fait, Champollion n'avait pas perçu qu'il existait, parmi les signes phonétiques, une nette
+distinction à faire entre les unilitères, bilitères et trilitères, et que le système de notation
+phonétique recourait à l'usage de compléments phonétiques.
+La précision du système phonétique et la compréhension du système des compléments
+phonétiques a eu lieu après lui. Richard Lepsius en fait un premier exposé éclairant dans sa
+Lettre à M. le professeur H. Rosellini. L'alphabet hiéroglyphique, Rome, 1837 11 .
+11 Consultable sur Gallica.fr : http://gallica.bnf.fr/ark:/12148/bpt6k64343980.r=.langFR
+
+Les recherches sur l'écriture et, encore d'avantage, sur la langue se poursuivent bien
+évidemment depuis 12 .
+Faire l'exercice 8 sur les noms de rois
+Voir corrigé en ligne
+Champollion et l'écriture hiératique 13
+Il convient d'aborder ici un point historiographique important, et parfois moins connu.
+Champollion est connu pour être le \frquote{déchiffreur des hiéroglyphes}. Or, son apport ne
+concerna pas seulement les signes hiéroglyphiques proprement dits, mais aussi les signes
+cursifs dits hiératique (voir Introduction, section 1), qui fonctionnent exactement selon le
+même système et ne sont que des tracés simplifiés et rapides des signes hiéroglyphiques.
+Champollion, parallèlement à son travail sur la Pierre de Rosette (texte hiéroglyphique),
+s'intéressait aussi à l'écriture cursive des papyrus funéraires (Livres des morts) d'époque
+ptolémaïques reproduits, notamment, dans le Tome II de la Description de l'\kmt (1812).
+Certains manuscrits sont rédigés en hiéroglyphes linéaires (c'est-à-dire des hiéroglyphes
+simplement tracés à l'encre), d'autres dans une cursive que Champollion identifie comme
+l'écriture hiératique (ou cursive sacerdotale) de Clément d'Alexandrie. En opérant des
+comparaisons minutieuses, il arrive à réaliser des tableaux d'équivalence entre les signes
+hiéroglyphiques et les signes hiératiques, que Champollion définit comme une
+\frquote{tachygraphie hiéroglyphique}. En 1821, il présente un mémoire : De l'écriture hiératique
+des anciens Égyptiens.
+Dans son Précis du système hiéroglyphique des anciens égyptiens (1824), Champollion
+consacre plusieurs paragraphes (§ 111-116) à l'écriture hiératique. Sa Grammaire égyptienne
+posthume (1836) associe systématiquement à chaque signe son équivalent en hiératique. Son
+travail inaugure donc officiellement la naissance de la philologie égyptienne, en solidarisant
+l'étude du hiéroglyphique et de sa cursive dite \frquote{hiératique}, dont on sait qu'elle fût utilisée
+pour la documentation courante (lettres, comptabilités, etc.) et pour l'archivage des textes
+littéraires, sapientaux et religieux, jusqu'à l'adoption de la cursive démotique dans le courant
+du  VII e av. J.-C., après quoi le hiératique fut cantonné à un usage sacerdotal.
+Aux origines de l'égyptologie, études du hiéroglyphique et du hiératique ont donc été
+présentés ensemble, du fait de cette unité entre les deux types de caractères. Aujourd'hui,
+pour des questions de progression pédagogique, l'étudiant se forme à l'égyptien ancien
+classique, à travers l'apprentissage des signes hiéroglyphiques uniquement (plus faciles à
+mémoriser). Ce n'est que plus tard, une fois cet apprentissage linguistique fait, une fois que
+les signes hiéroglyphiques dans leur forme pleine sont connus, que certains étudiants avancés
+se forment à la paléographie hiératique.
+12 Pour un panorama des travaux : A.H. G ARDINER , Egyptian Grammar, 3 e édition, § 10-11 ; voir aussi
+M. M ALAISE , J. W INAND , Grammaire raisonnée, p. II-III. Sur les études récentes des signes d'écritures
+hiéroglyphiques, voir par exemple, D. M EEKS , \frquote{La paléographie hiéroglyphique. Une discipline nouvelle.},
+\kmt. Afrique & Orient 46, 2007, p. 3-14.
+13 Voir G. P OSENER , \frquote{Champollion et le déchiffrement de l'écriture hiératique}, dans Comptes rendus des
+séances de l'Académie des Inscriptions et Belles-Lettres, 116e année, N. 3, 1972. p. 566-573. doi :
+10.3406/crai.1972.12799
+url : /web/revues/home/prescript/article/crai_0065-0536_1972_num_116_3_12799 Consulté le 24 août 2015
+
+Ce cours ne déroge pas à la règle, puisque l'enseignement du système d'écriture et de la
+langue égyptien classique se fait sur la base des signes hiéroglyphiques. Toutefois, pour vous
+permettre de prendre conscience très tôt de l'unité fondamentale entre le hiéroglyphique et le
+hiératique, quelques notions sur le hiératique seront données occasionnellement. Les parties
+du cours qui concernent le hiératique ne feront pas l'objet d'une évaluation dans ce cours. Ils
+sont donc donnés à titre indicatif et pour votre culture générale sur l'écriture dans l'\kmt
+ancienne.
+Ci-dessous un exemple de texte en hiératique transposé (transcrit) en hiéroglyphes. Vous
+notez que chaque signe hiératique correspond à un signe en hiéroglyphique. Le plus souvent
+la parenté formelle est nettement visible.
+nfr r-iqr “extrêmement bon”
+Les principales différences entre l'écriture hiéroglyphique et l'écriture hiératique sont : 1°
+l'écriture hiératique se lit toujours de la droite vers la gauche ; 2° les signes peuvent être
+ligaturés (c'est-à-dire \frquote{attachés} les uns aux autres). Dans cet exemple, il n'y a pas de
+ligatures.
+Vous trouverez dans la rubrique document une version du tableau des unilitères avec leur
+correspondant en hiératique. Il vous est donné pour votre information personnelle. Il n'est
+d'aucune utilité pour la validation du module, mais il vous permettra de mieux percevoir la
+nature de l'écriture égyptienne dans son ensemble.
+
+
+%======================================================================
+
+É GYPTIEN CLASSIQUE  - S EMESTRE  1
+Cours 3 -- Grammaire de l'égyptien classique
+1 re partie -- Présentation du Groupe nominal et de ses composants
+Vous avez été initié au système graphique hiéroglyphique. Nous y reviendrons
+régulièrement pour apporter des compléments et précisions. Il est important de vous entraîner
+à lire des mots en hiéroglyphes (à travers les cours et les exercices) pour que le principe
+devienne pour vous évident. Il convient à présent de s'intéresser à la langue notée par cette
+écriture. Nous allons le faire progressivement, en abordant :
+-- dans un premier temps au groupe nominal et à ses composantes, ce qui permettra de
+prendre connaissance de certaines caractéristiques de cette langue,
+-- puis, dans un second temps, nous nous intéresserons à la syntaxe des phrases simples.
+Vous verrez que, tout en traitant de grammaire, nous continuerons à préciser le système
+graphique.
+I.  L E SUBSTANTIF
+L'égyptien ancien possède des noms communs qui servent à désigner des choses, des actions,
+des concepts, des êtres, etc 1 . La caractéristique de la langue égyptienne (comme d'autres
+langues afro-asiatiques) est de former des mots à partir de racines consonantiques, souvent de
+2 ou 3 consonnes, sur lequel se greffe le système vocalique non noté.
+Le nom  nTr \frquote{dieu} a comme racine les trois consonnes nTr. À ce squelette
+peuvent s'ajouter désinences et suffixes permettant de former des mots dérivés \frquote{déesse}
+(nTr.t), l'adjectif \frquote{divin} (nTry), etc.
+À retenir. Une caractéristique importante doit être soulignée d'emblée. En égyptien
+classique, il n'y a pas d'article 2 . Ainsi le mot nTr peut, selon le contexte, être traduit \frquote{le
+dieu} ou \frquote{un dieu}.
+1 Voir J.P. A LLEN , Middle Egyptian. An Introduction to the Langage and Culture of Hieroglyphs, Cambridge,
+2000, p. 36.
+2 En néo-égyptien (et de manière générale dans l'égyptien de la 2 nde phase), l'usage de l'article s'impose. C'est
+une des différences grammaticales majeures entre les deux états de langue.
+
+En égyptien ancien, les substantifs ont un genre (masculin ou féminin) et un nombre
+(singulier, pluriel, ou duel). Ces caractéristiques sont, pour certaines marquées par des
+désinences spécifiques que nous allons voir.
+1. Le genre :
+Il y a deux genres : le masculin et le féminin. Le masculin n'a pas de marque spécifique,
+contrairement au féminin. La marque du féminin est le phonogramme unilitère  t. Un
+féminin en --a(t) se retrouve dans les langues sémitiques, comme la langue arabe 3 , avec un t
+final qui se réalise ou non dans la prononciation (voir : Deir el-Médîna -- Médinet Habou --
+Médinat Nasr).
+Ainsi :
+nTr \frquote{dieu} --  nTr.t \frquote{déesse}
+sn \frquote{frère} --  sn.t \frquote{s{\oe}ur}
+Vous avez peut-être noté une convention de translitération utilisée ici : avant la désinence du
+féminin un point est indiqué. Ce point précédant le t est une convention pour indiquer que le t
+est une désinence, ici du féminin. De manière générale dans ce cours, toutes les notations de
+désinences sont précédées d'un point. La translittération étant une première étape dans
+l'analyse du texte hiéroglyphes, ce point a pour but d'expliciter visuellement votre analyse de
+la séquence.
+Comme en français, de nombreux mots ont une forme masculine et féminine. Aux mots
+mentionnés ci-dessus, on peut ajouter :
+bAk \frquote{serviteur} -- bAk.t \frquote{servante}
+sA \frquote{fils} --  sA.t \frquote{fille}
+Vous notez, au passage, que la désinence notée phonétiquement est parfois accompagnée d'un
+déterminatif adéquat signifiant le genre féminin : le déterminatif de la femme assise par
+exemple pour les personnages humains, ou des déterminatifs divins spécifiques, comme le
+cobra dressé pour les déesses.
+3 Voir P. Vernus, Dictionnaire amoureux de l'\kmt ancienne, p. 852, s.v. Sémitique et égyptien.
+
+D'autres mots sont soit masculins, soit féminins. Normalement, les mots se terminant par .t
+sont des féminins.
+tA \frquote{la terre} est masculin en égyptien ancien (cf. le dieu de la terre Geb  ).
+p.t \frquote{le ciel} est féminin (cf. la déesse du ciel Nout  )
+mw.t \frquote{mère} est féminin.
+it \frquote{père} est masculin -  NB : dans ce mot, exceptionnellement  n'a pas la valeur f,
+comme l'indique d'autres graphies concurrences du mot  et son héritier en copte ⲉⲓⲱⲧ/ⲓⲱⲧ.
+Exercice : translittérer les mots suivants (en vous aidant des listes de signes) et indiquer s'ils sont féminins ou
+masculins. Solution page suivante
+\frquote{sceptre}
+\frquote{souverain}
+\frquote{orage}
+\frquote{la couronne blanche} (de \HE)
+ou  \frquote{la couronne rouge} (de \BE)
+Si les mots se terminant par la consonne t sont normalement des féminins, il existe des
+exceptions. Certains substantifs finissent par un t, mais sont des masculins, le t n'étant pas, en
+ce cas, la désinence du féminin, mais la dernière consonne de la racine.
+Attention, certains mots ont une finale en t qui n'est pas la marque du féminin, mais la
+dernière consonne radicale.
+Ces exceptions sont peu nombreuses et sont à apprendre par c{\oe}ur.
+Principaux substantifs masculins se terminant par t :
+xt \frquote{bois}
+nxt \frquote{force, victoire}
+it \frquote{orge, grain}
+it \frquote{père}
+m(w)t \frquote{mort} 
+twt \frquote{image}
+xnt \frquote{face}
+swt \frquote{brise}
+wt \frquote{bandelette}
+Enfin, il est à noter que certains mots ne portant pas la marque du féminin sont pourtant traités
+comme des féminins. C'est le cas en particulier des termes de géographie (noms de pays, de
+villes, de régions, etc.) dont tous les déterminants (adjectifs, démonstratifs, voir prochains
+cours) sont accordés au féminin. Ce phénomène indique que les toponymes (noms de lieux)
+sont considérés comme des féminins, quelle que soit leur consonne finale.
+Exemples :
+Comparer  Km.t \frquote{\kmt} et  kAS \frquote{pays de Kouch} (royaume de
+Nubie). Ces deux mots sont traités comme des féminins.
+Solution de l'exercice page 3 : translittérer les mots suivants (en vous aidant des listes de signes) et indiquer
+s'ils sont féminins ou masculins.
+\frquote{sceptre} HqA.t (mot féminin)
+\frquote{souverain} HqA (mot masculin)
+\frquote{orage} nSny (mot masculin)
+\frquote{la couronne blanche} (de Haute-\kmt) HD.t (mot féminin)
+ou  \frquote{la couronne rouge} (de Basse-\kmt) dSr.t (mot féminin)
+2. Le nombre :
+La langue égyptienne ancienne connaît trois nombres : le singulier, le duel, et le pluriel (à
+partir de trois).
+A. Le singulier n'a pas de désinence particulière.  A pd \frquote{oiseau}
+B. Le pluriel est marqué par la désinence .w.  A pd.w \frquote{oiseaux}
+
+La notation du pluriel comprend deux éléments :
+• une notation phonétique, celle du phonème w (unilitère  ou ), qui est facultative
+et qui se place toujours avant le ou les déterminatifs du mot.
+• une notation graphique, par l'utilisation d'un déterminatif spécifique appelé \frquote{les
+trois traits du pluriel}  ou  ou . Ces trois traits du pluriel se placent
+systématiquement après les déterminatifs du mot. Ce déterminatif est toujours le
+dernier signe d'un mot (sa présence indique donc de façon certaine qu'on est à la fin
+d'un mot).
+Le pluriel du mot  Xrd \frquote{enfant} peut ainsi s'écrire  ou
+Xrd.w. Plus rarement, le pluriel peut s'écrire seulement de manière phonétique :
+hp \frquote{loi} --  hp.w \frquote{lois}
+Il est à noter que la désinence d'un mot féminin pluriel est .wt  .
+b A k.t \frquote{servante} =>  b A k.wt \frquote{servantes} : retenez bien la position de la
+notation phonétique du pluriel .w (toujours juste avant la désinence du féminin). Si le
+pluriel n'est pas noté par la désinence .w, mais simplement par le déterminatif du pluriel, vous
+devez translittérer de manière identique. Ainsi :  se translittère b A k.wt ou b A k.(w)t. (et
+en aucun cas *b A k.tw puisque les traits du pluriel ne sont pas une notation phonétique .w, mais
+une indication d'ordre sémantique -- idée de pluralité).
+Exercice :
+donnez le pluriel des mots suivants (hiéroglyphes + translittération) -- correction page suivante
+\frquote{dieu}
+\frquote{déesse}
+\frquote{dieu}
+À ce système simple de notation du pluriel (notation phonétique facultative + déterminatif
+particulier), doivent s'ajouter deux précisions :
+
+1° En plus du déterminatif du pluriel (les trois traits), il existe des déterminatifs particuliers :
+le déterminatif de la collectivité  (homme assis + femme assise + trois traits du pluriel.
+Ainsi :  Xrd \frquote{enfant} =>  Xrd.w \frquote{enfants} ou 
+ẖrd.w.
+2° La notation phonétique du pluriel se fait au moyen des unilitères w  ou . Toutefois, la
+nature de la dernière consonne du mot mis au pluriel peut amener le scribe à utiliser, pour
+noter le phonème .w, un signe bilitère comprenant le son w. Dans cet usage, on rencontre
+notamment le bilitère nw  :
+--  sn \frquote{frère} => sn.w \frquote{frères}  (bilitère sn + complément phonétique n --
+bilitère nw + complément phonétique w -- déterminatifs homme assis et trois traits du pluriel).
+Notez qu'ici le phonème n est noté trois fois de manière redondante : par le bilitère  , l'unilitère  et le
+bilitère  .
+--  rn \frquote{nom} = > rn.w \frquote{noms} 
+Correction de l'exercice page 5 :
+donnez le pluriel des deux mots suivants (hiéroglyphes + translittération)
+nTr \frquote{dieu} --  ou  nTr.w \frquote{dieux}
+nTr.t \frquote{déesse} -  ou  nTr.wt \frquote{déesses}
+nTr \frquote{dieu}  ou  nTr.w \frquote{dieux}
+Enfin la notation du pluriel peut être entièrement graphique ou visuelle -- Ce pluriel est
+parfois appelé \frquote{pluriel archaïque} ou \frquote{pluriel graphique}
+Dans ce système la nature idéographique de l'écriture égyptienne joue pleinement. Le pluriel
+est noté par :
+• triplication du déterminatif  nh.t \frquote{sycomore} =>  nh.wt
+\frquote{sycomores}
+• triplication de l'idéogramme nTr => n T r.w \frquote{dieux}
+• triplication des phonogrammes (rare)  rn \frquote{nom} =>  rn.w
+\frquote{noms}
+
+L'ensemble des possibilités de notation du pluriel peut être synthétisé dans le tableau suivant :
+À travers ces possibilités, vous pouvez juger de la grande richesse du système d'écriture
+hiéroglyphique.
+Dernières remarques à propos du pluriel : les collectifs et les pluriels apparents.
+Attention, certains mots écrits avec les trois traits du pluriel ne sont pas des mots au pluriel.
+Dans certains cas, les trois traits du pluriel jouent simplement le rôle de déterminatif de la
+collectivité/pluralité. Or, un mot désignant une collectivité peut être au singulier. On parle de
+collectifs. Par exemple, le \frquote{troupeau}  mnmn.t (de gros bétail). C'est le cas
+aussi des désignations de matières ou biens non dénombrable :  t \frquote{pain}, 
+irp \frquote{vin},  xsbD \frquote{lapis-lazuli}.  (grain de matière + traits du pluriel) est
+d'ailleurs le déterminatif des matières premières (minerai, métal\dots).
+Par ailleurs, tous les mots se terminant par le phonème .w ne sont pas nécessairement des
+pluriels. Par exemple :  iAw \frquote{adoration}. Ainsi, les termes désignant des
+sentiments présentent aussi souvent un aspect pluriel car ils sont dérivés de verbe par
+adjonction d'un suffixe .w :  rSw.t \frquote{la joie}. On parle de pluriel apparent en
+ce cas.
+
+C. Le duel est un nombre qui n'existe pas en français. Il est utilisé en égyptien ancien pour
+les éléments qui vont par deux (parties du corps, divinités associés dans la mythologie, etc.).
+D'une certaine manière, l'usage du duel renvoie à celle de notre expression \frquote{une paire}. La
+désinence du duel masculin est .wy  ; celle du duel féminin est .ty  .
+La notation du duel comprend deux éléments (ou un des deux éléments suivants) :
+• une notation phonétique, celle des phonèmes .wy ou .ty, qui se place toujours avant
+le ou les déterminatifs du mot.
+• une notation graphique, par la duplication du déterminatif ou du logogramme dans le
+cas des signes-mots.
+--  sn.t \frquote{s{\oe}ur} =>  sn.ty \frquote{les deux s{\oe}urs}
+--  sn \frquote{frère} =>  sn.wy \frquote{les deux frères} (notez encore ici
+l'utilisation du bilière  nw)
+--  rd \frquote{jambe} =>  rd.wy (duplication du déterminatif) ou 
+rd.wy \frquote{les deux jambes} (duplication + notation phonétique de la désinence) ou
+rd.wy (notation phonétique de la désinence)
+--  a \frquote{bras} =>  a .wy \frquote{les deux bras} (duplication du logogramme) ou 
+(duplication + notation phonétique de la désinence)
+Remarquez que, dans le cas de la duplication d'un logogramme, la notation phonétique
+éventuelle se met après, comme dans l'exemple de  a .wy.
+L'ensemble des possibilités de notation du duel peut être synthétisé dans le tableau suivant :
+Graphie visuelle  Graphie phonétique Graphie mixte
+rd \frquote{jambe}
+rd.wy
+\frquote{les deux jambes}
+rd.wy
+rd.wy
+ir.t \frquote{{\oe}il}
+ir.ty
+\frquote{les deux yeux}
+ir.ty
+ir.ty
+
+Dernières remarques à propos du duel : les duels apparents.
+Comme il y a des pluriels apparents, il y a des duels apparents. Certains mots, par exemple, se
+se terminant par ty, peuvent être notés comme s'ils étaient un duel féminin, alors que ce n'est
+pas le cas.
+Par exemple :  ity \frquote{souverain} a aussi une graphie  .
+Nous en verrons d'autres exemples plus tard.
+=> Faire l'exercice 9
+II.  L E  P RONOM SUFFIXE
+L'égyptien classique possède plusieurs séries de pronoms personnels :
+-- pronoms suffixes
+-- pronoms dépendants
+-- pronoms indépendants.
+Comme c'est le cas en français, des séries je-tu-il/elle, moi-toi-lui/elle, chaque type de
+pronoms a un emploi syntaxique spécifique. Nous allons dans un premier temps nous
+intéressez au pronom suffixe, car il joue un rôle dans le groupe nominal. Ce pronom tient son
+nom du fait qu'il vient s'accrocher directement derrière le mot auquel il se rapporte. Il peut
+jouer le rôle de sujet dans une phrase, mais il peut aussi, dans le cadre du groupe nominal,
+jouer le rôle d'un pronom possessif.
+Par exemple : le pronom personnel 2 e personne du masculin est =k . Son sens général est
+\frquote{toi}. Placer derrière un substantif, il a le sens de \frquote{ton}, \frquote{ta} ou \frquote{tes}
+pr \frquote{maison} =>  pr=k 4 \frquote{ta maison} (littéralement la maison-de-toi)
+pr.w=k \frquote{tes maisons} (littéralement les maisons-de-toi)
+Vous notez que, contrairement au français, le possessif ici s'accorde avec le possesseur (et
+non avec ce qui est possédé), puisque le pronom possessif est en réalité un pronom personnel.
+Sachant que le pronom personnel suffixe de la 2 e personne du féminin est  =T, observez :
+4 Retenez la convention de translittération : on fait précéder le pronom suffixe d'un signe égal pour indiquer
+qu'il est accroché au mot qui précède et donc qu'il lui est intimement associé.
+
+pr=k \frquote{ta maison} (en parlant d'un homme) pr=T \frquote{ta maison en
+parlant d'une femme}
+Tableau des pronoms personnels -- pronoms suffixes
+Masculin  Féminin
+Singulier Moi 1. 
+=i  ,  ,  ,  ,  , ,  ,
+Toi 2. 
+=k 
+=T  =t 
+Lui/elle 3. 
+=f 
+=s , 
+Pluriel nous 1. 
+=n  , 
+Vous 2. 
+=Tn  ,  , =tn  , 
+Ils/elles 3. 
+=sn  ,  ,  , 
+=ny 
+=Tny 
+Duel 1.
+Rare 2.
+remplacé par le pluriel 3.
+=sny 
+Indéfini
+On
+(pas d'utilisation dans le cadre du
+groupe nominal)
+=tw  ,  =t(w)  ,=T(w)
+=> Faire l'exercice 10 (à rendre par email)
+
+%======================================================================
+
+É GYPTIEN CLASSIQUE  - S EMESTRE  1
+Cours 4 -- Grammaire de l'égyptien classique
+1 re partie -- Présentation du Groupe nominal et de ses composants (suite)
+Nous poursuivons notre exploration du groupe nominal et des mots qui le composent afin de
+prendre progressivement connaissance des structures de la langue.
+III. L ES ADJECTIFS
+L'égyptien ancien possède des adjectifs qui peuvent avoir le rôle d'épithètes du nom (à
+l'intérieur du groupe nominal) ou \frquote{d'attribut du sujet} dans une phrase. Nous ne verrons cet
+emploi qu'au semestre 2. Pour le moment, nous nous intéressons à l'adjectif, à l'intérieur du
+groupe nominal comme épithète du nom. Par exemple : la grande maison ; le grand chapeau
+En égyptien ancien, il y a deux grands types d'adjectifs :
+1) les adjectifs de qualité, dérivés de verbes de qualité ;
+2) les adjectifs dits \frquote{nisbés}, dérivés de substantifs.
+3) à ces deux catégories, s'ajoute le cas particulier de l'adjectif indéfini  nb (\frquote{tout,
+chaque}
+Nous allons aborder les trois séries.
+1. Les adjectifs de qualité :
+Étymologiquement, ces adjectifs sont formés à partir de verbes de qualité. Par exemple,
+dSr, \frquote{rouge}, dérive étymologiquement du verbe dSr \frquote{devenir rouge} ; 
+\frquote{grand}, d'un verbe  a Ai \frquote{devenir grand}.
+Aucune marque graphique ou désinences ne distinguent les adjectifs des autres mots.
+Utilisés en tant qu'épithètes du nom, les adjectifs se placent toujours après le substantif
+qu'ils qualifient et s'accordent en genre et en nombre avec lui.
+Les désinences du pluriel, du duel et du féminin sont les mêmes que celles vues pour les
+substantifs.
+
+Paradigme  nfr, \frquote{bon, beau, parfait} :
+Adjectif  masculin  féminin
+Singulier
+nfr  nfr.t
+Pluriel
+nfr.w  ( ) nfr.(w)t
+Duel
+( ) nfr(.wy)  ( ) nfr.t(y)
+NB : notez que les désinences qui sont parfois en ellipse. Cela concerne des semi-
+voyelles.
+Exemple :
+bAk.w nfr.w, \frquote{des/les serviteurs parfaits}.
+bAk.t nfr.t \frquote{une/la servante parfaite}
+Notez que, comme en français, les adjectifs peuvent être employés de manière
+substantivée :  nfr.t, \frquote{la belle} (voir le nom de Néfertiti Nfr.t-ii.ti = \frquote{la Belle-est-
+venue})
+2. Les adjectifs \frquote{nisbés} :
+L'égyptien ancien possède une série d'adjectifs dérivés de substantifs ou de prépositions.
+La dérivation s'obtient à ajoutant un suffixe  y. Cette dérivation indique une relation 1 avec
+le terme dont ils sont dérivés.
+Exemples :
+nTr, \frquote{dieu} nTry, \frquote{ce qui est relatif au dieu} = \frquote{divin}
+Hr, \frquote{sur} (préposition) Hry, \frquote{qui est sur}, \frquote{supérieur} 2 .
+Les adjectifs formés sur des substantifs ne posent pas de problème de traduction aux locuteurs
+francophones :
+Ex.  imn.t l'Occident / l'Ouest => imnty \frquote{occidental}
+1 Le mot \frquote{nisbé} est emprunté à la grammaire arabe, ism el-nisba, \frquote{nom de relation}.
+2 Noter en ce cas la possibilité d'associer au nouveau mot formé un déterminatif correspondant au sens nouveau.
+Ici,  , la voûté céleste pour ce qui est au-dessus.
+
+En revanche, il est souvent nécessaire de recourir à une proposition subordonnée relative pour
+traduire un adjectif nisbé dérivé d'une préposition.
+Ex.  m \frquote{dans} (préposition) => imy \frquote{qui est dans}  [noter la graphie par rapport à la
+préposition initiale : trilitère imi + 2 compléments phonétiques i et m + le suffixe de dérivation y.]
+En dehors des problèmes éventuels de traduction, les adjectifs nisbés fonctionnent
+comme les adjectifs de qualité. Quand ils sont épithètes du substantif, ils se placent après
+celui-ci et s'accordent avec lui en genre et en nombre. Les désinences sont les mêmes que
+précédemment.
+Adjectif  masculin  féminin
+Singulier 
+nTry
+nTr(y).t
+Pluriel 
+nTry.w
+( ) nTr(y).wt
+Observez bien le tableau ci-dessus et notez bien que le suffixe --y, puisqu'il est une semi-voyelle peut parfois ne
+pas être noté.
+Remarques importantes concernant les graphies : les adjectifs nisbés, formés sur des
+substantifs féminins ou sur des mots dont la racine se termine par un t, présenteront comme
+derniers phonèmes -ty au masculin singulier (t de la racine + le suffixe y).
+Ex.  imn.t l'Occident / l'Ouest (mot féminin) => dérivé en imnty
+\frquote{occidental}
+Au masculin pluriel, cette catégorie de nisbé se terminera par --ty.w. Au lieu de noter ce
+groupe  , les scribes ont recours à un trilière tyw  (G4) 3 , phonogramme de valeur
+tyw.
+Ex. :
+imn.t, \frquote{l'Occident}, \frquote{l'ouest} imnty, \frquote{occidental}
+imnt(y).w, \frquote{occidentaux}
+imnt(y).t, \frquote{occidentale}
+imnt(y).wt, \frquote{occidentales}
+3 Gardiner list G4. À distinguer du aleph,
+G1.
+
+Les nisbés formés sur des substantifs :
+ne sont pas très nombreux. Voici quelques exemples en plus de l'exemple précédent :
+rsw, \frquote{le Sud} :  rsy, \frquote{méridional}.
+iAb.t, \frquote{l'Est ; l'Orient} :  iAbty, \frquote{oriental}.
+mH.t, \frquote{le Nord} :  mHty, \frquote{septentrional}.
+niw.t, \frquote{ville} :  niwty, \frquote{de la ville, local}
+Ax.t \frquote{l'horizon} :  Axty \frquote{horizontain, de l'horizon}
+Exemple :
+tA.w rsy.w, \frquote{les terres méridionales}.
+Attention à certaines graphies particulières des nisbés. On a déjà parlé des duels apparents
+(cours 3). On en rencontre dans les graphies de certains adjectifs nisbés dérivés de mots
+féminins et donc se terminant par ty. Ces phonèmes rappellent en effet le duel féminin .ti et
+peuvent être notés graphiquement sous la forme de duels apparents. Ainsi :
+niw.t \frquote{ville} => niwty (duel apparent) \frquote{citadin, local} [et non pas niw.ty \frquote{les deux
+villes}].
+Un exemple fréquent :  nTr niwty, \frquote{le dieu local, le dieu de la ville}.
+Même graphie possible pour Axty :  \frquote{Horizon}
+= > Axty \frquote{horizontain, de l'horizon} ou  Axty
+Un exemple fréquent :  Hr-Axty, \frquote{Horakhty, Horus-l'horizontain, Horus-de-l'Horizon}.
+
+Nisbés formés sur des prépositions :
+C'est le groupe le plus important. Il est très utilisé. Voici une liste indicative des
+principales prépositions et de leurs dérivés.
+m, \frquote{dans} :  imy, \frquote{qui est dans}.
+n, \frquote{à, pour} :  ny, plus souvent  n(y), féminin  n(y).t, \frquote{provenant de, destiné
+à}.
+r, \frquote{vers, à} :  iry, \frquote{qui est en relation avec}.
+Hr, \frquote{sur} :  Hry, \frquote{qui est sur, supérieur}.
+Xr, \frquote{sous} :  Xry, \frquote{qui est sous}.
+tp, \frquote{sur} :  tpy, \frquote{qui est sur}, aussi tpy, \frquote{premier}
+Exemple :
+nTr.w imy.w AbDw, \frquote{les dieux qui sont dans Abydos}.
+NB : comme les adjectifs de qualité, les adjectifs nisbés peuvent être utilisés de manière
+substantivée :  Hry, \frquote{le supérieur}.
+NB2 : certains dérivés en -y ne sont attestés qu'employés comme substantifs et non comme
+adjectifs :
+sx.t, \frquote{la campagne} sxty, \frquote{paysan, campagnard (celui de la
+campagne)}.
+xft, \frquote{devant, en face de, à l'avant de} (préposition)  xfty,
+\frquote{l'adversaire}
+
+3. L'adjectif indéfini nb
+L'adjectif indéfini  nb a le sens \frquote{tout}, \frquote{chaque}, \frquote{n'importe lequel} 4 . Il se
+place après le substantif, mais il a priorité sur les autres adjectifs 5 , c'est-à-dire qu'en cas de
+substantif déterminé par plusieurs adjectifs, l'adjectif indéfini nb sera toujours le premier
+adjectif mentionné.
+En théorie, l'adjectif indéfini s'accorde en genre et en nombre avec le substantif qu'il
+qualifie, mais les désinences, notamment du pluriel, sont souvent omises.
+x.t nb.t, \frquote{toutes choses} (collectif).
+nTr.w nb(.w), \frquote{tous les dieux}.
+NB : attention à ne pas confondre, l'adjectif indéfini nb, et le substantif nb \frquote{seigneur,
+maître}. Plus que les graphies, c'est le contexte de la phrase, mais aussi l'ordre des mots qui
+vous aidera. Ainsi,  xAs.t nb.t signifie \frquote{chaque pays (étranger)}, mais  nb
+tA.wi ne peut en aucun cas signifier \frquote{chaque Double-Pays} puisque nb est en tête. Nous
+verrons plus tard que le groupe nb-TA.wi signifie le \frquote{maître du Double Pays} (le pharaon).
+
+IV. A UTRES EXPRESSIONS ADJECTIVALES
+
+Dans ce cours sur les adjectifs, nous devons mentionner des expressions de l'indéfini, qui
+n'appartiennent pas à la catégorie de l'adjectif en égyptien (voir notamment leur
+positionnement avant le substantif et non après), mais qui correspondent à nos articles
+indéfinis sur le plan sémantique.
+Autres expressions de l'indéfini
+Ces expressions se placent avant le substantif et se construisent de manière indirecte
+au moyen du n(y) de relation.
+nhy n(y) : \frquote{un peu de}.
+HH n(y) : \frquote{beaucoup de} (littéralement \frquote{million de})
+Exemple :  nhy n(y) mw : \frquote{un peu d'eau}.
+Expression de la différence
+4 Dans les propositions négatives, il pourra avoir le sens \frquote{aucun}.
+5 Mais nécessairement après le pronom suffixe.
+
+La différence s'exprime au moyen de  ky, \frquote{autre}, un mot (à l'origine un
+substantif) qui se place avant le substantif auquel il se rapporte et avec lequel il s'accorde.
+Masculin (singulier) :  ky
+Masculin (pluriel) :  kywy,  k(y)wy,  k(y)w(y)
+Féminin (singulier et pluriel) : 
+ky sp : \frquote{autre fois}.
+k.t pẖr.t : \frquote{autre remède}.
+V.  L ES DEMONSTRATIFS
+L'égyptien classique ne possède pas d'article défini. En revanche, il possède des
+articles démonstratifs. Il en existe quatre séries.
+-- La série pn (ce), tn (cette), nn (cela)
+-- La série pw (ce), tw (cette), nw (cela)
+-- La série pf (ce), tf (cette), nf (cela)
+-- Et la série pA (ce), tA (cette), nA (cela)
+La différence entre les séries est : soit une distinction de sens (valeur déictique, soit une
+distinction d'état de langue, soit de syntaxe).
+Du point de vue de la syntaxe, les démonstratifs :
+-- La série pn (ce), tn (cette)
+-- La série pw (ce), tw (cette)
+-- La série pf (ce), tf (cette)
+au singulier, ces démonstratifs se placent immédiatement après le substantif qu'ils
+déterminent, par priorité sur tous les adjectifs 6 .
+pr pn \frquote{cette maison, la maison que voici}
+pr pn nfr \frquote{cette belle maison}
+pr=f pn nfr \frquote{sa belle maison que voici, cette sienne belle maison}
+En revanche, les démonstratifs :
+6 Mais nécessairement après le pronom suffixe.
+
+-- Et la série pA (ce), tA (cette)
+Se placent devant le substantif.  pA pr \frquote{cette maison}. Les déterminatifs de
+cette série sont les plus récents de la langue. Ce sont eux qui serviront d'article dans
+l'égyptien de la 2 nde phase.
+Le pluriel des démonstratifs est un peu complexe. Les trois premières séries (pn, pw, pf)
+possèdent une forme pluriel (qui se place aussi après le substantif), mais qui n'est plus vivante
+au \MK (\frquote{démonstratifs pluriels archaïques}, voir tableau ci-dessous). Au \MK, l'égyptien recourt plutôt, à des périphrases utilisant le démonstratif neutre des séries.
+placé devant le substantif et construit de manière indirecte au moyen du nisbé (voir cours 3)
+n(y) \frquote{de}.
+pr pn \frquote{cette maison}
+mais
+nn n(y) pr \frquote{ces maisons} (littéralement \frquote{cela des maisons})
+Tableau récapitulatif des démonstratifs
+Série pn
+Démonstratif de
+proximité
+Série pf
+Démonstratif
+d'éloignement
+Série pw
+(ancien)
+Série pA (récent)
+Se place devant le
+nom
+Masculin
+singulier
+pn  pf  ou  pw  pA
+Féminin
+Singulier
+tn  tf  ou  tw  tA
+Pluriel
+archaïque
+ipn
+(masc.)
+iptn (fém.)
+ipf (masc.)
+iptf (fém.)
+ipw
+(masc.)
+iptw
+(fém.)
+Pluriel  (ou
+neutre)
+nn (n(y))  nf (n(y))  nw
+(n(y))
+nA (n(y))
+is pn nfr : \frquote{cette belle tombe}.
+nn n(y) sxty : \frquote{ces paysans}.
+nn n(y) TAw.w : \frquote{ces souffles}.
+
+Faire l'exercice 11 ( à rendre par email)
+
+VI. E LEMENTS DE SYNTAXE : LE COMPLEMENT DE NOM / LE
+GENITIF
+
+Le génitif est le cas du complément de nom. Un substantif peut être précisé par un autre
+substantif qui lui sert alors de complément. Deux constructions sont possibles en égyptien
+ancien : une construction directe (génitif direct), une construction indirecte (génitif indirect).
+- Génitif direct : cette construction est utilisée en cas de lien fort entre les deux éléments.
+Elle consiste à juxtaposer les deux substantifs. Construction fréquente dans les titres de
+fonctionnaires et dans quelques expressions courantes.
+Ex. :  nb TA.wy \frquote{le Seigneur du Double Pays}
+NB : Cas particulier : l'antéposition honorifique/l'inversion respectueuse
+Si le complément est un être royal ou divin, le complément s'écrit avant le substantif
+qu'il complète pour respecter la préséance. Il s'agit d'un procédé graphique (on
+translittère donc dans l'ordre normal).
+Ex. :  sA n(y)-sw.t \frquote{le fils du roi}.
+Ex. :  Hw.t-nTr \frquote{le château-du-dieu, le temple}
+Ex. :  Hm-nTr \frquote{le serviteur-du-dieu, le prêtre}.
+- Le génitif indirect : dans cette construction, les deux éléments ne sont plus directement en
+contact mais reliés au moyen de l'adjectif nisbé n(y) (\frquote{qui appartient à}, \frquote{qui est en relation
+avec}), qui s'accorde avec le substantif déterminé. Les significations du complément sont
+multiples : appartenance, matière, origine, quantité, caractéristique\dots
+Sing. : masculin :  n(y) -- féminin :  n(y).t
+Pluriel : masculin  n(y).w -- féminin :  n(y.w)t
+
+Ex.  rn n(y) mr pn \frquote{le nom de ce canal}
+Ex. :  sbA.w n(y).w wA.wt \frquote{les portes des chemins}
+NB : dans le cas du génitif indirect, le substantif et son complément peuvent être séparés par
+un pronom suffixe, un adjectif épithète, un démonstratif.
+
+
+%======================================================================
+
+É GYPTIEN CLASSIQUE  - S EMESTRE  1
+Cours 5 -- Grammaire de l'égyptien classique
+1 re partie -- Présentation du Groupe nominal et de ses composants (suite)
+Nous avons vu plusieurs éléments constitutifs du groupe nominal et des règles élémentaires
+de syntaxe sur l'ordre des mots dans le groupe nominal.
+*
+bAk.t=f tn nb.t nfr.t
+*chaque sienne servante parfaite que voici
+(ordre des mots: 1. Substantif 2. Pronom suffixe 3. Démonstratif singulier 4. Adjectif indéfini 5. Autre adjectif
+Nous continuons notre exploration avec des éléments de syntaxe plus complexes.
+VI. E LEMENTS DE SYNTAXE : LE COMPLEMENT DE NOM / LE
+GENITIF
+Le génitif est le cas du complément de nom. Un substantif peut être précisé par un autre
+substantif qui lui sert alors de complément : \frquote{la maison de mon oncle}. Deux constructions
+sont possibles en égyptien ancien : une construction directe appelée génitif direct, une
+construction indirecte appelée génitif indirect.
+1. Génitif direct : cette construction est utilisée en cas de lien fort entre les deux éléments.
+Elle consiste à simplement juxtaposer les deux substantifs. Cette construction est fréquente
+dans les titres de fonctionnaires et dans quelques expressions courantes.
+Ex. :  nb TA.wy \frquote{le Seigneur du Double Pays}
+Le lien entre le substantif et son complément de nom est tellement étroit qu'on peut
+quasiment les considérer comme un mot composé. Le génitif direct est particulièrement utilisé
+dans les épithètes divines ou royales, ainsi que dans la formation de certains titres.
+
+NB : particularité graphique: l'antéposition honorifique ou l'inversion
+respectueuse
+Si le complément de nom (construit au génitif direct) est un être royal ou divin, il est d'usage
+d'écrire le complément de nom avant le substantif qu'il complète, afin de respecter la
+préséance.
+Ex. :  sA n(y)-sw.t \frquote{le fils du roi}.
+Ex. :  Hw.t-nTr \frquote{le château-du-dieu, le temple}
+Ex. :  Hm-nTr \frquote{le serviteur-du-dieu, le prêtre}.
+Notez bien que l'antéposition honorifique est un procédé graphique et ne renvoie pas à une
+inversion des mots dans la prononciation. On translittère donc dans l'ordre normal commandé
+par la syntaxe.
+Remarque sur le mot ny-sw.t \frquote{roi} :  désigne le roi, à l'origine le roi de Haute Egypte, puis le roi
+de manière générale. Ce terme se translittère n(y)-sw.t, mais vous notez que l'ordre des signes est sw.t  puis
+n(y)  . N(y)-sw.t signifierait \frquote{(celui) du-roseau-sout}, le roseau-sout étant l'emblème de la Haute-Egypte.
+2. Le génitif indirect : dans cette construction, les deux éléments (nom et complément de
+nom) ne sont plus directement en contact mais reliés au moyen de l'adjectif nisbé n(y) (\frquote{qui
+appartient à}, \frquote{qui est en relation avec}, \frquote{de}), qui s'accorde avec le substantif déterminé.
+Sing. : masculin :  n(y) -- féminin :  n(y).t
+Pluriel : masculin  n(y).w -- féminin :  n(y.w)t
+Ex.  rn n(y) mr pn \frquote{le nom de ce canal}
+
+Ex. :  sbA.w n(y).w wA.wt \frquote{les portes des chemins}
+NB : dans le cas du génitif indirect, le substantif et son complément peuvent être séparés par
+un pronom suffixe, un adjectif épithète, un démonstratif.
+wḍ pn n(y) nsw \frquote{cet ordre du roi}
+VII. E LEMENTS DE SYNTAXE : L ' APPOSITION
+On appelle \frquote{apposition} une juxtaposition de deux mots qui désignent la même réalité :
+\frquote{Hector, mon frère}. L'apposition est évidemment utilisée dans la langue égyptienne pour
+expliciter des identités.
+- Apposition dans une relation d'identité :
+Un substantif peut être apposé à un autre substantif pour expliciter l'identité du premier. Cet
+usage est fréquent dans les épithètes divines.
+Ex. :  MnTw nb WAs.t \frquote{Montou, seigneur de Thèbes}.
+VIII.  E LEMENTS DE SYNTAXE : L A COORDINATION  \frquote{ ET}
+Deux substantifs peuvent être coordonné (\frquote{mon frère et ma s{\oe}ur}). En égyptien ancien, la
+coordination s'exprime le plus souvent par une simple juxtaposition.
+-  t H(n)q.t \frquote{pain et bière}
+Plus rarement, l'égyptien ancien peut recourir à des préposition .
+Hna, litt. \frquote{avec}
+Hr, litt. \frquote{sur, ainsi que}
+
+Ex. :  ms.w=i Hna sn.w=i \frquote{mes enfants et mes frères et s{\oe}urs}.
+NB : en relisant les sections du cours portant sur le génitif direct, l'apposition et la
+coordination, portez votre attention sur le fait que la juxtaposition de deux substantifs en
+égyptien ancien est donc susceptible, à priori, de 3 analyses possibles : apposition, génitif
+direct ou coordination. C'est le contexte et le sens qui permet de faire le choix de l'une ou
+l'autre analyse.
+t H(n)q.t pourrait être compris \frquote{le pain, plus particulièrement la bière}
+(apposition), mais cela n'a aucun sens puisqu'il s'agit de deux réalités totalement
+différentes. En conséquence, la coordination s'impose : \frquote{le pain et la bière}.
+Face à deux substantifs juxtaposés, n'oubliez pas dans le processus d'analyse, les 3
+possibilités d'interprétation et procédé par élimination pour trouver la bonne.
+IX. E LEMENTS DE SYNTAXE : L A DISJONCTION  \frquote{ OU}
+L'équivalent de la conjonction \frquote{ou} est exprimé en égyptien ancien au moyen de la locution
+r-pw. Contrairement au français, cette locution se place en fin d'énumération.
+Ex. :  s s.t r-pw \frquote{un homme ou une femme}
+X. E LEMENTS DE SYNTAXE : L' IPSEITE  \frquote{ LUI - MEME , EN
+PERSONNE}
+On peut renforcer un substantif en utilisant des expressions qui équivalent au français
+\frquote{même}, \frquote{en personne}.
+- élément souligné +  ou  Ds + pronom suffixe (s'accordant avec l'élément souligné).
+Ex. :  Hm=f Ds=f \frquote{sa Majesté en personne}.
+
+- élément souligné + préposition  m, ou  n, ou r +  Ha.w (\frquote{toutes les parties du
+corps}) + pronom suffixe.
+Ex. :  sxty pn m Ha.w=f \frquote{ce paysan lui-même}.
+XI. E LEMENTS DE SYNTAXE : L ' INTEGRALITE  \frquote{ TOUT ENTIER}
+L'égyptien dispose de plusieurs périphrases pour exprimer le français \frquote{entier}, \frquote{tout
+entier}.
+-  r-Dr + pronom suffixe :  r-Dr=f, litt. \frquote{jusqu'à sa limite}
+-  r-Aw + pronom suffixe :  r-Aw=f, litt. \frquote{jusqu'à sa longueur}
+-  mi qd  ou mi qi  + pronom suffixe, litt. \frquote{comme (sa) forme}
+Ex. :  tA pn r-Dr=f \frquote{ce pays tout entier}
+Ex. :  xAs.wt Hry.wt mi-qd=sn \frquote{les contrées élevées toutes entières}
+
+XII. ELEMENTS DE SYNTAXE : LE VOCATIF
+
+Le vocatif est le cas du substantif, quand il est en tête de proposition et quand il sert à
+interpeller. Il peut alors être précédé d'interjections : hA ou  i ou  i
+Ex. :  hA Wsir pn \frquote{Ô Osiris que voici !}
+
+Synthèse
+L' ORDRE DES MOTS DANS LE SYNTAGME NOMINAL  -- RECAPITULATIF
+Nous avons vu à présent les éléments essentiels du groupe nominal. En guise de synthèse,
+voici un groupe nominal comportant plusieurs éléments. Observez, et rappelez-vous, des
+priorités dans l'ordre des déterminants et compléments de nom. C'est un élément de syntaxe
+très utile pour procéder aux analyses grammaticales et traduire.
+pr.w=i nb.w ipn nfr.w n(y) inr
+\frquote{Toutes ces miennes belles maisons en pierre}
+(Malaise/Winand, Grammaire raisonnée, ex. 76)
+1. Substantif
+2. Pronom suffixe
+3. Adjectif indéfini nb
+4. Démonstratif (ici démonstratif pluriel archaïque)
+5. Adjectif épithète
+6. Génitif indirect
+Retenez tout ceci et relisez-le au besoin.
+Faites ensuite l'exercice 12 (à rendre par email)
+Puis faites l'exercice d'épigraphie sur les noms divins
+
+%======================================================================
+
+É GYPTIEN CLASSIQUE  - S EMESTRE  1
+Cours 5 -- Écriture 2 e partie
+Dans ce volet, nous allons revenir sur certains détails du système graphique égyptiens.
+PLAN :
+1. Antéposition honorifique (voir Grammaire cours 5 sur le génitif direct)
+2. \frquote{Orthographe} et évolution des graphies
+3. Principes généraux des signes en écriture hiératique avec un exercice de lecture
+(partie du cours facultative)
+I.  L'antéposition honorifique
+(voir cours 5 -- Grammaire - génitif direct)
+II.  \frquote{Orthographe} et évolution des graphies
+Il n'y a pas d'orthographe dans le sens d'une seule et unique graphie correcte pour un mot.
+Une fixation graphique trop rigide serait en effet en quelque sorte antinomique avec les
+potentialités de jeux visuels offertes par le système hiéroglyphique. Pour autant, il y a eu, au
+cours de la longue histoire de l'écriture égyptienne, processus de normalisation des graphies,
+(notamment pendant la \dyn{12}) qui ont fixé des usages préférentiels. Ainsi, si le terme
+Sps “noble, précieux” s'écrit volontiers avec des phonèmes unilitères  (suivi
+éventuellement d'un déterminatif) dans les Textes des pyramides (\OK), plus tard
+(à partir du \MK) les graphies privilégieront la graphie  avec le trilitère Sps
+(à la fois notation phonétique et indication visuelle sur le sens général du mot).
+Un même mot peut donc posséder une série de graphies attestées, selon les époques 1 . Ces
+graphies sont du reste susceptibles d'évoluer, plus ou moins en liaison avec l'évolution de la
+pronociation de la langue. Un phénomène bien connu est notamment celui de
+l'affaiblissement de certains phonèmes (dépalatalisation):
+-- le  D (dj) tend à être prononcé d comme la main 
+-- le  T (tj) tend à être prononcé t comme le pain
+2
+Il s'en suit dans les graphies une substitution potentielle du D par le d, et du T par le t, en cas
+de volonté d'actualisation de la graphie.
+1 Ce dont essaient de rendre compte de la manière la plus exhaustive possible les dictionnaires de références les
+plus complets comme le Wörterbuch der ägyptischen Sprache et la base de données elexicographique en ligne
+du Thesaurus Linguae aegyptiae voir bibliographie générale.
+2 Voir A.H. Gardiner, Egyptian Grammar § 19.
+
+D'où les variantes :  nTr \frquote{dieu}  ntr \frquote{dieu}
+Ou encore les différentes formes du pronom suffixe 2 e personne singulier féminin  =T ou
+=t (voir cours 3).
+À l'inverse, certains mots conservent traces d'une pronociation ancienne désormais obsolète.
+Par exemple, la graphie  du verbe \frquote{boire} swr est une graphie historique
+conservant la notation du phonème r, alors même que le mot est prononcé swi depuis le
+\MK.
+III.  Principes généraux des signes en écriture hiératique (partie du cours
+facultative)
+On a déjà évoqué, notamment lors de la présentation du travail de Jean-François Champollion
+(Cours 2) l'unité profonde qui existe entre l'écriture dite hiéroglyphique et l'écriture cursive
+dite hiératique. Les signes hiératiques ne sont que des simplifications cursives des signes
+hiéroglyphiques. Le système d'écriture est donc tout à fait le même et les signes hiératiques et
+hiéroglyphiques se correspondent signe à signe, un peu comme se correspondent notre lettres
+majuscules et nos lettres en écriture \frquote{attachée}.
+Pour rappel, les différences essentiels entre le hiérogyphique et le hiératique sont les
+suivantes :
+-- simplification et schématisation des signes hiératiques (tachygraphie) ;
+-- écriture uniquement de droite à gauche pour le hiératique ;
+-- jusqu'à la Première période intermédiaire, l'écriture hiératique est tracée
+essentiellement en colonnes (de haut en bas et de droite à gauche), puis dans le courant
+de la \dyn{12}, l'écriture en ligne de droite à gauche s'impose pour devenir la
+norme ;
+-- possibilité de ligatures entre les signes.
+Nous n'avons pas encore vu d'exemple de ligatures entre deux signes.
+En vous aidant, de la liste des unilitères (formes hiéroglyphiques + hiératiques), vous pouvez
+essayer de transcrire le mot ci-dessous, sachant que le dernier signe est le déterminatif des
+verbes de mouvements (réponse page suivante) 3
+3 Source du fac-similé : G. M ÖLLER , Hieratische Lesestücke I, Leipzig, 1909, pl. 6 (P. Berlin 10499 Rs-
+Sinouhé)
+
+Réponse
+hAb \frquote{envoyer un message/un messager}
+
+%======================================================================
+
+É GYPTIEN CLASSIQUE  - S EMESTRE  1
+Cours 6 -- Grammaire de l'égyptien classique
+2 e partie -- Les phrases non verbales 
+I
+Présentation
+du système prédicatif égyptien
+I  -- P REALABLES HISTORIOGRAPHIQUES :
+L ES RECHERCHES SUR LA GRAMMAIRE EGYPTIENNE
+Avec le travail de Champollion, puis les révisions de Richard Lepsius en 1837, le
+système hiéroglyphique était désormais compris. Les chercheurs allaient ensuite se concentrer
+plus spécialement sur l'étude de la grammaire et de la lexicographie égyptienne, afin de
+comprendre la syntaxe des phrases et le sens des mots. On ne développera pas ici l'histoire
+riche de ces études, mais il est important de poser 4 grands jalons historiographiques 1 , pour
+vous donner une idée de la genèse des connaissances qui vont vous être présentées.
+1) L'École de Berlin, fin  XIX e s. et sa tête de file Adolf Erman. Ces chercheurs sont
+influencés par la linguistique sémitique de leur époque. L'égyptologie leur doit,
+notamment, la distinction des deux grandes phases de la langue égyptienne, ainsi que
+le Wörterbuch der ägyptischen Sprache (1926-1953), dictionnaire de référence (voir
+bibliographie).
+2) Alan H. Gardiner, élève de A. Erman et K. Sethe, fixe le modèle longtemps suivi
+pour l'étude et l'apprentissage de la langue pharaonique, avec la publication en 1927
+de son Egyptian Grammar (3 e éd. en 1957). Son ouvrage continue à être le point de
+référence de la tradition académique européenne en matière de grammaire égyptienne.
+La classification alphanumérique des signes hiéroglyphiques couramment utilisée
+aujourd'hui est tirée de cet ouvrage.
+3) Hans J. Polotsky, avec la publication en 1976 de l'article La transposition du verbe
+en égyptien classique, relança les recherches sur la syntaxe égyptienne. Il présentait
+notamment l'idée de la transposition des verbes : à partir de formes particulières des
+1 D'après A. L OPRIENO , Ancient Egyptian ; M. M ALAISE , J. W INAND , Grammaire raisonnée, p. I-VI
+verbes qui leur permettent de passer dans les catégories substantif, adjectif, adverbial
+(= \frquote{Standart Theory} de la syntaxe égyptienne qui inspira de nombreux chercheurs
+par la suite).
+4) Égyptologues et linguistique. Dans les années 1990, un réexamen critique de cette
+théorie générale a été entrepris (notamment Pascal Vernus, Les parties du discours en
+Moyen Egyptien. Autopsie d'une théorie, Genève, 1997), car elle apparaissait, sur
+certains points, comme en contradiction avec les études de linguistique générale. Les
+égyptologues qui travaillent sur la langue égyptienne prennent donc en compte les
+acquis de la linguistique générale pour améliorer notre compréhension de cette langue,
+en combinant à l'approche syntaxique les \frquote{points de vue sémantiques et énonciatifs}.
+L'ouvrage de M. Malaise et J. Winand, Grammaire raisonnée (1999) se propose
+ainsi de faire le bilan de tous les apports pour la connaissance de la langue moyen
+égyptien ou égyptien classique.
+Forts de tous ces travaux, nous disposons aujourd'hui d'une bonne connaissance de cette
+langue, en dépit des difficultés (inhérentes à l'ancienneté de la langue et à son système de
+notation excluant les voyelles) et des progrès qui seront faits dans l'avenir.
+Nous pouvons à présent explorer la structure de la phrase égyptienne en commençant par des
+phrases très simples de ce type. Avant l'introduction d'usage, voici une phrase modèle dont
+vous pouvez peut-être essayer de deviner le sens.
+Vous avez déjà rencontré tous les mots, sauf  iw qui est une particule introductive, dont
+nous allons reparler, mais qui n'est pas à traduire.
+Vous reconnaissez sans doute le signe  , qui est un déterminatif, sauf dans le cas où il note
+le pronom suffixe  = i \frquote{moi}. Nous avons vu son emploi comme possessif (cours 3), mais
+vous savez déjà qu'il peut remplir le rôle de sujet et se traduit alors par \frquote{je}.
+Nous avons aussi déjà rencontré le mot  m, une préposition qui signifie \frquote{dans}.
+Et vous connaissez le mot  pr \frquote{maison}.
+Avec tous ces éléments en tête, comment traduiriez-vous de manière, disons, intuitive ?
+iw=i m pr
+\frquote{Je (suis) dans la maison}
+
+Vous avez traduit votre première phrase égyptienne. Avant de poursuivre nos traductions,
+nous allons donc, avant, présenter quelques éléments théoriques indispensables pour fixer le
+vocabulaire que nous allons utiliser.
+
+II  -- P RESENTATION DU SYSTEME PREDICATIF PHARAONIQUE .
+
+La phrase que vous venez de traduire appartient, en égyptien, au groupe des phrases non
+verbales (c'est-à-dire sans verbe), objet du cours de cette année. Cette catégorie englobe
+notamment toutes les phrases françaises ayant pour verbe principal, le verbe \frquote{être} ou
+\frquote{avoir}. Il y a en égyptien ancien plusieurs catégories de phrases non verbales. Celle-ci est
+appelée proposition à prédicat adverbial. Pour comprendre ce que signifie cette
+désignation, il faut poser un certain nombre de généralités relatives à la langue et à sa
+structure.
+Le langage humain est un outil de communication.
+Il transmet des informations aux moyens d'énoncés.
+Du point de vue de la syntaxe, un énoncé comprend deux parties :
+-- Le sujet (= le thème de l'énoncé) \frquote{je}
+-- Le prédicat (= ce qui est dit du sujet). \frquote{suis dans la maison}
+Un énoncé complet met en avant une relation prédicative : il établit un lien entre un sujet et
+ce qui en est dit, le prédicat.
+Il existe deux grands types de relations prédicatives : relation d'identité (\frquote{Pierre est mon frère, un étudiant, grand}) ou relation de situation (\frquote{Pierre est devant vous}, \frquote{Pierre est arrivé}, \frquote{je suis dans la maison}) 2 .
+
+Relation d'identité  Relation de situation
+Stricte  Classe  Qualité 
+\frquote{Pierre est mon frère}
+\frquote{Pierre est un étudiant»}
+\frquote{Pierre est grand}
+\frquote{Pierre est là, sur le pas de la porte}
+\frquote{Pierre est en train de manger}
+\frquote{Pierre est arrivé}
+\frquote{Pierre mange}
+\frquote{Pierre vient}
+\frquote{Je suis dans la maison}
+En français, le rapport qui lie le sujet au prédicat est exprimé au moyen d'un prédicat verbal
+(phrases verbales, exemple : \frquote{j'entre dans la maison}) ou au moyen du verbe \frquote{être} (ex :
+\frquote{je suis dans la maison}) qu'on appelle la \frquote{copule 3}
+2 Voir P. G RANDET , B. M ATHIEU , Cours d'égyptien hiéroglyphique, p. 43-44.
+3 Cum apio \frquote{attacher avec}. Terme utilisé pour différencier cet usage du verbe \frquote{être} de son rôle d'auxiliaire.
+
+Relation prédicative avec copule  Prédicat verbal
+Identité  Situation  Situation
+\frquote{Pierre est mon frère}
+\frquote{Pierre est un étudiant}
+\frquote{Pierre est grand}
+\frquote{Pierre est là}
+\frquote{Pierre est sur le pas de la porte}
+\frquote{Pierre est en train de manger}
+\frquote{Pierre est arrivé}
+\frquote{Je suis dans la maison}
+\frquote{Pierre mange}
+\frquote{Pierre vient}
+En égyptien ancien, on retrouve cette même distinction :
+-- Phrases à prédicat verbal,
+-- Phrases à prédicat non verbal.
+Ce semestre nous nous intéresserons d'abord à ces dernières. La grande différence entre le
+français et l'égyptien ancien est que, comme dans toutes les langues sémitiques, l'emploi de la
+copule \frquote{être} est superflu. On dira :
+Pierre : mon frère = Pierre (est) mon frère
+Pierre : un étudiant
+Pierre : grand
+Pierre : là
+Dans tous ces exemples, \frquote{Pierre} est le sujet de la phrase et le groupe qui suit le prédicat.
+Ainsi, selon la nature du prédicat, on parle de :
+-- phrase ou proposition à prédicat substantival (nominal), (Pierre est mon frère ;
+Pierre est un étudiant)
+-- proposition à prédicat adjectival -- Pierre (est) grand
+-- proposition à prédicat adverbial -- Pierre (est) là. Pierre (est) dans la maison
+Nous allons commencer par la proposition à prédicat adverbial, qui est simple et qui suit un
+ordre dont nous avons l'habitude Sujet-Prédicat.
+
+III  -- S YNTAXE DE LA PROPOSITION A PREDICAT ADVERBIAL .
+
+Vous avez déjà traduit une proposition à prédicat adverbial un peu de manière empirique. On
+va à présent procéder à l'analyse de ce type de phrase.
+Elle se construit sur le modèle :
+Sujet + Prédicat
+iw Xrd im
+\frquote{l'enfant est là}
+Passons en revu les différents éléments : 1. Le sujet, 2. Le prédicat, 3. L'auxiliaire iw.
+1. Le sujet.
+Il peut être assumé par différents types de mots ou groupes :
+-- Substantif
+-- Groupe nominal
+-- Pronom personnnel
+-- Démonstratif neutre 
+2. Le prédicat.
+Le prédicat vient en deuxième position. Il est nécessairement de nature adverbiale, c'est-à-
+dire qu'il est assumé soit par un adverbe, soit par un groupe nominal introduit par une
+préposition.
+a) Adverbe.
+Xrd im
+L'enfant  est  là
+
+Voici quelques adverbes à connaître.
+
+Adverbes de lieu :
+aA \frquote{ici}
+im \frquote{là}
+
+Adverbes de temps :
+min \frquote{aujourd'hui}
+sf \frquote{hier}
+dwAw \frquote{matin}
+ra nb \frquote{chaque jour}
+b) Groupe prépositionnel.
+Le prédicat adverbial peut aussi être assumé par un groupe ou syntagme prépositionnel, c'est-
+à-dire introduit par une préposition. La présence de cette préposition est fondamentale, car
+sans elle l'énoncé ne décrit plus une situation, et le prédicat n'est plus de nature adverbiale.
+Il y a deux types de groupes prépositionnels :
+-- Préposition + groupe nominal
+-- Préposition + pronom suffixe
+Xrd
+L'enfant
+est
+Hn a mw.t=f
+avec sa mère
+ẖrd
+L'enfant
+est  Hn a =s
+avec elle
+3. Auxiliaire iw.
+La Proposition à prédicat adverbial n'a pas de valeur temporelle, ni de valeur modale 4 (il n'y a
+aucune forme verbale à conjuguer). Elle comporte donc normalement un 3 e élément, un
+élément introducteur, qui apporte des indications sur ces aspects. L'élément introducteur
+peut être de trois sortes :
+-  Un auxiliaire d'énonciation, qui indique la position du locuteur sur son énoncé ;
+-  un convertisseur temporel, qui transpose la phrase adverbial ;
+-  une négation ;
+-  ou encore ø (rien).
+L'élément introducteur le plus fréquent, celui qui fait partie de la structure de base de
+la phrase à prédicat adverbial est l'auxiliaire iw  . Il n'est pas traduit. Il indique
+simplement que l'énoncé est présenté comme un fait objectif. Il donne donc une \frquote{valeur
+d'indicatif 5} (voir notre conjugaison française du mode indicatif). Du point de vue temporel,
+4 Indicatif, subjonctif, conditionnel
+5 M. M ALAISE , J. W INAND , Grammaire raisonnée, p. 324.
+
+le moment de référence est celui de l'énonciation. La proposition à prédicat adverbial
+introduite par iw est donc le plus souvent traduite par un présent de l'indicatif, et ce que nous
+allons généralement faire ici. Notez déjà toutefois que, dans un récit, en raison du point de
+référence qui peut être situé dans le passé et en vertu de la concordance des temps, il peut être
+traduit par l'imparfait.
+iw
+ẖrd
+Hn a mw.t=f
+L'enfant  est  avec sa mère
+Après iw, si le sujet est pronominal, on utilise un pronom suffixe :
+iw = f Hn a mw.t=f
+Il est avec sa mère
+NB. La proposition à prédicat adverbial avec iw a une valeur indicative, c'est-à-dire que
+l'énoncé est présenté comme un constat objectif. L'auxiliaire n'est donc pas réellement
+traduit en français. Il constitue simplement une indication pour nous permettre de choisir à
+quel temps on mettra, dans la traduction, le verbe \frquote{être}, en l'occurrence généralement au
+présent de l'indicatif (parfois l'imparfait de l'indicatif).
+Par conséquence, ce que l'on sera réellement amener à traduire, c'est d'une part le
+remplacement de iw par des auxiliaires et particules ayant des sens précis ou l'absence
+d'élément introducteur qui peut être la marque que l'énoncé n'est pas un constat objectif.
+Nous verrons cela au prochain cours. Pour le moment, nous donnerons une valeur
+exclamative aux propositions à prédicat adverbial sans élément introducteur iw.
+ẖrd Hn a mw.t=f
+L'enfant n'est pas avec sa mère !
+4. Les prépositions (1) :
+Etant donné l'importance des prépositions dans la structure de la proposition à prédicat
+adverbial, il convient de connaître les prépositions les plus fréquentes et leur sens.
+a)  m
+— localisation spatiale :  m pr \frquote{dans la maison}
+
+— état mental ou physique :  m rSw.t \frquote{dans la joie}
+NB : cette préposition prend une forme spéciale lorsqu'elle est suivie d'un pronom suffixe :
+. im=f \frquote{en lui}.
+b)  r
+-- en direction de, contre, par rapport à,
+c)  n
+-- pour, en faveur de
+d)  Hr
+— localisation spatiale \frquote{sur}
+e)  Xr
+— localisation spatiale \frquote{sous}  Xr nh.t \frquote{sous le sycomore}
+—sous l'effet de d'une émotion  ẖr rSw.t \frquote{sous la joie}
+-- \frquote{être sous quelque chose} signifie aussi \frquote{apporter} (voir prochain cours)
+f)  mi
+— comparaison : \frquote{comme}
+— conformité : \frquote{comme}
+g)  Hn a
+-- avec
+h)  mm
+-- \frquote{parmi}
+5. Prépositions (2) : m et r \frquote{d'état}
+Les prépositions m \frquote{dans} et r \frquote{vers} peuvent avoir un sens particulier dans le cadre du
+groupe prépositionnel.
+peut avoir le sens de \frquote{en tant que}
+
+iw = f m b A k
+Il est en tant que serviteur (= il est dans la situation d'être un serviteur).
+On traduira cette phrase par un simple \frquote{il est un serviteur}, mais ayez toujours en tête le mot
+à mot \frquote{il est en tant que serviteur}. Nous verrons au semestre prochain qu'il y a 2
+possibilités pour traduire en égyptien classique \frquote{il est un serviteur} : la proposition à
+prédicat adverbial avec le m \frquote{d'état} et une proposition à prédicat substantival. Il y a une
+nuance sémantique entre les deux constructions que nous n'avons pas en français. La
+proposition à prédicat adverbial présente l'état comme une situation et non une identité.
+r d'état : cette préposition exprime l'idée d'un état à venir.
+iw = f r b A k
+Il est en direction d'être un serviteur.
+Il sera un serviteur
+Exemples 6 :
+iw = f m nxnw (Urk. VII, 49,14)
+Il est un bébé.
+iw = f r i A w (Urk. VII, 54, 4)
+Il va être un vieillard.
+Faire l'exercice 13 (à rendre par email) et l'exercice 14 (épigraphie)
+6 Repris de P. G RANDET , B. M ATHIEU , Cours d'égyptien hiéroglyphique, p. 61.
+
+%======================================================================
+
+É GYPTIEN CLASSIQUE  - S EMESTRE  1
+Cours 7 -- Grammaire de l'égyptien classique
+2 e partie -- Les phrases non verbales 
+III  -- S YNTAXE DE LA PROPOSITION A PREDICAT ADVERBIAL  ( SUITE )
+6. Prépositions (3) : n \frquote{d'appartenance} ou n \frquote{d'attribution}
+La préposition n  \frquote{à, pour} sert, dans le cadre de la proposition à prédicat adverbial, à
+exprimer la possession et donc à construire une phrase qui fonctionne comme un équivalent à
+nos phrases exprimant la possession utilisant le verbe \frquote{avoir}.
+*
+*iw pr n s
+Une maison est à l'homme
+= Une maison appartient à l'homme
+(= l'homme a une maison)
+iw pr.t-xrw n=f
+Une offrande invocatoire lui appartient (CT VII, 238n)
+Remarque sur le terme pr.t-xrw  . Il s'agit d'un mot composé de  pr(.t) \frquote{sortie} et xrw
+“voix”, avec comme déterminatif le pain, le vase de bière et le pain de fête. L'expression désigne
+l'offrande funéraire par excellence : une offrande alimentaire et liquide accompagnée de paroles rituelles,
+la formule prononcée pouvant se substituer entièrement aux aliments si nécessaire.
+Remarques sur la mention CT VII : la mention CT renvoie à l'édition des Coffin Texts de De Buck,
+l'édition des textes funéraires appelés Textes des sarcophages.
+
+iw anx n N. pn (CT VII, 467b, sarcophage B6C)
+La vie appartient à N 1 . que voici.
+Un fait important est à noter ici et surtout à retenir. La structure de la Proposition à prédicat
+adverbial est, vous le savez à présent : iw + Sujet + Prédicat (un ordre des mots qui nous est
+familier). Dans un seul cas, le prédicat adverbial peut être placé avant le sujet : quand le
+prédicat adverbial est n + pronom suffixe. En ce cas, le prédicat peut, soit être à sa place
+normale (après le sujet), soit placé avant le sujet :
+iw n=i anx (CT VII, 467b, sarcophage B9C)
+À moi est la vie = la vie m'appartient.
+7. Prépositions (4) : sens particulier de ẖr \frquote{sous}
+On a vu, dans le cours précédent (cours 6), le sens premier, spatial, de la préposition  ẖr
+\frquote{sous}. On a vu aussi son sens plus métaphorique \frquote{sous l'effet} d'une émotion. Il existe un
+autre sens particulier de cette préposition dans certains contextes : \frquote{être sous des objets}
+peut signifier les porter (voir le déterminatif du verbe fAi \frquote{porter}  )
+iw=i ẖr Htp.wt r iwnw 2 (CT VI, 67k, B9C)
+littéralement : Je suis sous les offrandes en direction d'Héliopolis
+= j'apporte des offrandes à Héliopolis.
+8. Les auxiliaires, éléments introducteurs
+À côté de l'auxiliaire  , qui marque le fait énoncé dans la phrase comme
+une réalité objectivement avérée, il existe d'autres auxilaires d'énonciation et éléments
+introducteurs.
+L'indicateur d'énonciation iw présente un énoncé fait sur le mode de constat
+objectif. Le locuteur communique une information :  iw bAk m pr \frquote{le
+serviteur est dans la maison}. C'est un fait. Point. Pour conférer d'autres nuances modales à
+l'énoncé, il faut modifier cet élément introducteur. Qu'entend-on par \frquote{nuances modales} ? Il
+s'agit de la façon dont le locuteur appréhende l'information qu'il donne : au lieu de présenter
+1 La mention N. indique que, dans le texte originel, était indiqué le nom du défunt.
+2 Noter la graphie du déterminatif de la ville. Au lieu d'être noté simplement
+, il est écrit comme le groupe
+niw.t \frquote{ville}
+
+la situation sur le mode du constat objectif (\frquote{le serviteur est dans la maison}), il peut le
+souhaiter (\frquote{puisse le serviteur être dans la maison !}) ou en donner l'ordre (\frquote{que le
+serviteur soit dans la maison !}, ou encore s'en étonner (\frquote{le serviteur est dans la maison !},
+etc.
+Plusieurs transformations de l'élément introducteur iw sont suceptibles de rendre ces
+nuances. Par voie de conséquence, si iw n'est pas rendu dans la traduction en français, son
+absence ou sa substitution doivent l'être.
+-- élément introducteur : ø = suppression de iw
+La suppression de l'indicateur d'énonciation peut suffire en rendre à rendre ces
+nuances.
+bAk m pr !
+Le serviteur est dans la maison !
+En l'absence de contexte permettant de déterminer la nuance modale à conférer à la
+phrase, dans la traduction, on se contentera de noter la suppression de iw par un point
+d'exclamation. Selon le contexte de la phrase, cette proposition à valeur exclamative peut
+avoir plusieurs nuances modales :
+- exclamation (joie, peine\dots)
+- affirmation péremptoire
+- souhait ou ordre
+n kA=T
+\frquote{pour ton ka} = \frquote{à ta santé}
+-- l'auxiliaire présentatif mk et le pronom dépendant
+iw peut être aussi remplacer par un autre élément introducteur, en particulier l'auxiliaire
+présentatif mk  . Cet auxiliaire (traduit par \frquote{vois}) sert à attirer l'attention de la
+personne à laquelle on s'adresse sur l'information donnée. Très souvent il est utilisé dans le
+cadre d'un discours argumentatif :
+mk, bAk m pr !
+Vois, le serviteur est dans la maison
+Mk est probablement, avec iw, un des éléments introducteurs les plus courants. Contrairement
+à iw qui est invariable, l'auxiliaire mk s'accorde avec l'interlocuteur à qui on s'adresse.
+
+mk \frquote{vois}, en s'adressant à un homme
+mT ou  mt \frquote{vois}, en s'adressant à une femme
+mTn ou  mtn \frquote{voyez}, en s'adressant à plusieurs personnes
+Différentes graphies :
+mk s'écrit au moyen de l'unilitère m, du bilitère (Gardiner List D 38)  mi et de l'unilitère k.
+Le bilitère mi est régulièrement remplacé par le bras (valeur normale a) ou encore l'avant-bras portant le pain
+triangulaire  (valeur normale di) :
+mk \frquote{vois}. En ce cas, prenez soin de translittérer mk et jamais mak, l'avant-bras n'a pas la
+valeur ayn.
+mk, \frquote{vois}. Même chose, ne jamais translittérer mdik mais mk.
+Les variations de graphies s'expliquent probablement par la cursive hiératique et de la confusion
+possible entre des signes très proches dans des écritures rapides : et 
+Cette variation du deuxième signe s'observe aussi pour les formes mT et mTn.
+mTn 
+graphie hiératique dans une lettre (n o 2) du dossier d'Héqanakht
+(Allen, Heqanakht Papyri, 2002)
+mtn, Sps.wt Hr Sd.w
+Voyez, les nobles dames sont sur des radeaux (Admonitions of an Egyptian Sage 7,10)
+Auxiliaire présentatif, sujet + prédicat adverbial (groupe prépositionnel)
+Un élément de syntaxe important : lorsque le sujet d'une proposition à prédicat adverbial
+intoduit par mk est pronominal, ce n'est pas le pronom suffixe qui est utilisé mais le pronom
+dépendant. Le pronom dépendant est la deuxième catégorie de pronoms personnels de
+l'égyptien classique (qui en comporte 3), après le pronom suffixe (voir cours 3). Le pronom
+dépendant ne se fixe pas au mot qui précède, mais en revanche, il est en position dépendante,
+c'est-à-dire qu'il ne peut pas se trouver en tête de phrase. Ce pronom dépendant est
+essentiellement employé comme sujet 3 , pour les cas où le pronom suffixe ne peut être utilisé.
+3 Il peut être employé comme COD pronominal des verbes (sauf après un verbe à l'infinitif), mais nous verrons
+cela plus tard.
+
+Pronoms dépendants
+Masculin  Féminin
+Singulier moi 1.
+wi
+Toi 2.
+Tw ,  Tn  , 
+Lui/elle 3.
+sw  ,  sy  ,  , , 
+st  , ,  s.t aussi
+valeur de neutre \frquote{cela}
+Pluriel nous 1.
+n  , 
+Vous 2.
+Tn  ,  ,  , 
+Ils/elles 3.
+sn  ,  ,  , 
+Mk, wi r-gs=k
+\frquote{Vois, je suis à côté de toi}
+auxiliaire présentatif, sujet pronom dépendant + groupe prépositionnel prédicat (adverbial)
+vocabulaire :  r-gs préposition composée \frquote{à côté de}
+-  Auxiliaire optatif HA  ,  (Hwy  ,  )
+Cette particule peut remplacer iw ; elle exprime un souhait teinté de regret : \frquote{Ah si\dots}.
+HA n=i Ssp nb mnx
+Ah si j'avais quelque amulette efficace (Conte du Paysan B 22-24)
+Proposition à prédicat adverbial introduite par HA + groupe prépositionnel prédical (sur la position voir cours 6) +
+Sujet (groupe nominal)
+Notez l'imparfait dans la traduction française, commandé par l'expression \frquote{ah, si}
+
+-- Autres auxiliaires et particules proclitiques 4 isk,  isT,  sk,  ti. Ces
+particules présentent la situation énoncée comme se déroulant dans le même temps qu'une
+autre mentionnée avant. On les traduit souvent par \frquote{or,\dots}
+- nHmn  : cette particule sert à renforcer l'affirmation de l'énoncé. Elle est
+traduite par \frquote{certes, assurément}.
+9. La négation de la proposition à prédicat adverbial nn
+La négation de la phrase à prédicat adverbial se fait à l'aide de la particule nn. 
+Exercice : donnez l'équivalent négatif de  iw bAk m pr le serviteur est dans la maison.
+Réponse : page suivante
+nn mw.t=k Hna=k
+\frquote{Ta mère n'est pas avec toi}
+(Papyrus magique Berlin 3027)
+C'est le pronom dépendant qui est employé en cas de sujet pronominal.
+nn s.t m-ẖnw=f
+\frquote{Ce n'est pas à l'intérieur} (ou \frquote{elle n'est pas à l'intérieur})
+Littéralement : cela n'est pas à l'intérieur de lui.
+Remarque : si la négation nn se substitue à iw, en revanche la négation peut être précédée de
+l'auxiliaire présentatif mk.
+4 = qui se placent en tête de phrase (à la différence des particules enclitiques qui se placent en 2 e position).
+
+Réponse à l'exercice de la page précédente: nn bAk m pr le serviteur n'est pas dans la maison
+10. les convertisseurs temporels
+D'autres éléments introducteurs peuvent encore fonctionner avec la proposition à prédicat
+adverbial, et en particulier des \frquote{convertisseurs temporels}. On a dit que la phrase iw bAk m
+pr n'a pas de valeur temporelle. Il s'agit d'un constat fait sur le mode indicatif (objectif),
+avec pour point de référence temporel le moment de l'énonciation (donc le présent) ou
+éventuellement l'énoncé précédent (et en vertu de la concordance des temps, éventuellement
+un imparfait de l'indicatif).
+Pour transposer l'énoncé iw bAk m pr au futur ou au passé, on peut recourir à des
+convertisseurs temporels :
+--  wnn (convertisseur futur)
+--  wn (convertisseur passé)
+-- [il existe aussi un wn convertisseur subjonctif dont nous ne nous occupons pas pour
+l'instant]
+wn bAk m pr \frquote{le serviteur sera dans la maison} -- wn bAk m pr \frquote{le serviteur était dans la
+maison}.
+Ces auxiliaires sont dérivés du verbe wnn \frquote{exister}. Ils peuvent être précédés de mk.
+wnn nn n(y) ?.t n sA =k
+Ces choses seront pour ton fils
+Ces choses appartiendront à ton fils.
+
+IV  -- S EQUENCES DE PLUSIEURS PROPOSITIONS
+
+La phrase  iw=i m pr \frquote{je suis dans la maison}, décrit une situation simple.
+On peut décrire des situations plus compliquées en utilisant une succession de propositions à
+prédicat adverbial, ou une succession de syntagmes adverbiaux se rapportant au même sujet.
+Ex. 1 : 
+*iw=i m pr Hna sA=k
+Je suis dans la maison et avec ton fils.
+Je suis dans la maison, avec ton fils.
+L'analyse est la suivante :
+Proposition à prédicat adverbial : l'auxiliaire iw + sujet + deux groupes prépositionnels (que
+l'on peut considérer soit comme dex prédicats coordonnés, soit comme prédicat, et
+complément circonstanciel).
+Ex. 2 : 
+*iw=i m pr, sA=k Hna=i
+Je suis dans la maison, ton fils avec moi.
+= je suis dans la maison, ton fils étant avec moi.
+= je suis dans la maison, alors que ton fils est avec moi.
+On peut analyser ainsi : Deux propositions à prédicat adverbial : proposition 1 (iw + sujet +
+prédicat), proposition 2 (sujet + prédicat).
+Dans ce cas de figure, deux propositions à prédicat adverbial sont juxtaposées, iw
+n'introduisant que la première. On appelle la première proposition proposition initiale (celle
+qui est en tête) et la seconde proposition séquentielle. Ces deux propositions associées
+forment une phrase plus complexe, décrivant une situation plus complexe. On peut traduire
+ces deux propositions :
+-- soit de manière coordonnées (je suis dans la maison et ton fils est avec moi)
+-- soit, par un effet de traduction, comme phrase principale et phrase circonstancielle (je
+suis dans la maison, ton fils étant avec moi).
+Retenez bien cette terminologie d'analyse (proposition initiale, proposition séquentielle).
+Nous nous en servirons beaucoup, notamment en 2 e année.
+iw ẖnw m sgr, ib.w m gmw
+La Résidence (royale) était dans le silence, les c{\oe}urs dans l'affliction
+(Conte de Sinouhé, R, 8-9 : description de l'état du palais royal à l'annonce de la mort du roi)
+Analyse : Deux propositions à prédicat adverbial,
+-- la première  initiale introduite par iw
+-- et la seconde  séquentielle (sans iw).
+
+Les deux décrivent, ensemble, une situation complexe, par une seule phrase, complexe.
+Notez bien que, si le scribe avait ajouté un second iw avant  , il aurait
+fallu traduire la séquence comme deux phrases indépendantes : *iw ẖnw m sgr . iw ib.w m
+gmw. *La Résidence est dans le silence. Les c{\oe}urs sont dans l'affliction.
+Dans un seul cas de figure, la présence de iw pour introduire la deuxième proposition ne
+signifie pas nécessairement que les deux phrases sont indépendantes. Avez-vous une idée de
+la situation en question ? Observez la phrase suivante :
+*
+* iw sA=k ẖr rSw.t iw=k Hna=f
+Pouvez-vous choisir à coup sûr entre les deux traductions suivantes :
+1. *Ton fils est en joie. Tu es avec lui. (analyse : deux propositions indépendantes)
+2. *Ton fils est en joie, alors que tu es avec lui. (analyse : proposition initiale et
+proposition séquentielle)
+En ce cas précis, les deux traductions et analyses sont envisageables. En effet, la présence du
+second iw ne signifie pas nécessairement qu'il y a une nouvelle phrase indépendante, puisque
+le sujet de la deuxième proposition est un pronom suffixe. Or, les pronoms suffixes ne
+peuvent commencer une phrase, puisqu'ils ont besoin de s'appuyer sur un élément. La
+présence du iw, en ce cas, peut donc être requise par la présence d'un sujet pronominal dans la
+deuxième proposition.
+En résumé, dans le cadre de séquences de plusieurs propositions :
+-- en égyptien classique, la proposition à prédicat adverbial commençant par iw + sujet
+nominal est toujours une proposition indépendante ou initiale (c'est-à-dire, dans
+notre analyse grammaticale française classique, une proposition principale) ;
+-- la proposition à prédicat adverbial commençant par iw + pronom suffixe peut être
+analysée comme une proposition indépendante, une proposition initiale, ou encore
+une proposition séquentielle (c'est-à-dire comme une principale ou une
+subordonnée).
+
+wnn=f imty nTr.wi aA.wi, iw=sn.y m p.t
+Proposition initiale (convertisseur temporel+ sujet pronominal + groupe prépositionnel), proposition séquentielle
+(iw + pronom sffixe sujet + groupe prépositionnel prédicat)
+Vocabulaire :  imytw (préposition) \frquote{entre, au milieu de}
+Littéralement : \frquote{Il sera entre les deux grands dieux, eux étant au ciel}
+= \frquote{Il sera entre les deux dieux, qui sont au ciel}
+(la séquentielle est traduite en français ici par une proposition relative explicative).
+(CT V, 387 c-d)
+Faire l'exercice 15 (à rendre par email)
+
+%======================================================================
+
+É GYPTIEN CLASSIQUE  - S EMESTRE  1
+Cours 8 -- Grammaire de l'égyptien classique
+2 e partie -- Les phrases non verbales 
+V -- S YNTAXE DE LA PROPOSITION A PREDICAT ADVERBIAL  ( SUITE
+ET FIN )
+Nous allons à présent terminer notre exploration de la proposition à prédicat adverbial avec un
+dernier complément, qui concerne cette fois le sujet de la proposition à prédicat adverbial.
+Nous avons vu que le sujet pouvait être assumé par :
+× un nom ou un groupe nominal
+× un pronom personnel (pronom suffixe avec iw et les convertisseurs temporels, pronom
+dépendant avec d'autres auxiliaires comme mk)
+Observez cette phrase :
+iw mi sxr nTr (conte de Sinouhé)
+Vous reconnaissez  la préposition mi \frquote{comme}.
+sxr signifie \frquote{plan, dessein} et il a pour complément de nom au génitif direct  .
+Nous avons donc l'auxiliaire indicatif iw puis, directement, un groupe prépositionnel mi sxr
+nTr \frquote{comme le dessein d'un dieu}.
+D'après ce que vous savez de la structure de la Proposition à prédicat adverbial quel élément
+manque-t-il ? Effectivement : le sujet. Dans certains cas, on trouve en effet une omission du
+sujet. Cette omission correspond en fait à notre sujet indéfini \frquote{c'}.
+iw ø mi sxr nTr (conte de Sinouhé)
+\frquote{C'était comme le dessin d'un dieu}
+(affirme le héros Sinouhé en guise d'explication à sa fuite inexpliquée hors d'\kmt)
+Ce type de construction correspond, du point de vue du sens, au proposition à prédicat
+adverbial ayant pour sujet un pronom démonstratif neutre (sur les pronoms démonstratifs, voir
+cours 4).
+
+iw nA m sbAy.t
+Cela est un enseignement
+(iw + sujet/pronom démonastratif neutre + prédicat adverbial)
+À faire : Exercice 16 à rendre par email
+=> Le cours de grammaire de cette semaine est bref. Faites avec soin et réflexion l'exercice
+16, qui porte sur la Proposition à prédicat adverbial, dont nous avons vus les différents
+éléments.
+=> Après avoir fait l'exercice sur la Proposition à prédicat adverbial, prenez le temps de faire
+l'exercice d'épigraphie 17, un exercice de traduction sur document qui sera une sorte de
+révision du groupe nominal.
+=> Lisez et apprenez aussi ensuite, le complément de cours sur le groupe nominal
+
+%======================================================================
+
+É GYPTIEN CLASSIQUE  - S EMESTRE  1
+Cours 8 -- Grammaire de l'égyptien classique
+Le groupe nominal -- compléments
+1) Expression de l'ipséité (\frquote{lui-même}, \frquote{en personne})
+On peut renforcer un substantif en utilisant des expressions qui équivalent au français
+\frquote{même}, \frquote{en personne}.
+- élément souligné +  ou  Ds + pronom suffixe (qui s'accorde avec l'élément
+souligné).
+Ex. :  Hm=f Ds=f \frquote{sa Majesté en personne}.
+- élément souligné + préposition  m (\frquote{dans}), ou  n (\frquote{à, pour}), ou r (\frquote{vers,
+contre}), +  Ha.w (\frquote{corps}) + pronom suffixe.
+Ex. :  sxty pn m Ha.w=f \frquote{ce paysan lui-même}.
+2) Expression de l'intégralité (\frquote{tout entier})
+L'égyptien dispose de plusieurs périphrases pour exprimer le français \frquote{entier}, \frquote{tout
+entier}.
+-  r-Dr + pronom suffixe :  r-Dr=f, litt. \frquote{jusqu'à sa limite}
+-  r-Aw + pronom suffixe :  r-Aw=f, litt. \frquote{jusqu'à sa longueur}
+-  mi qd  ou mi qi  + pronom suffixe, litt. \frquote{comme (sa) forme}
+Ex. :  tA pn r-Dr=f \frquote{ce pays tout entier}
+
+%======================================================================
+
+É GYPTIEN CLASSIQUE  - S EMESTRE  1
+Cours 9 -- Épigraphie
+Titulature royale
+La titulature royale est un élément important de l'idéologie pharaonique. À partir de la \dyn{5},
+elle comprend cinq noms, introduits par une désignation spécifique. Cette titulature se fige dans une
+forme canonique au \MK.
+-  Le nom d'Horus (Hr) est signalé par le motif du serekh 1 (façade du palais royal)
+surmonté du faucon Horus, divinité tutélaire de la royauté pharaonique (ou simplement par le
+faucon Horus) -- le nom est généralement écrit dans le serekh.  : roi l'Horus Ouadjy de la \dyn{1}. Le nom d'Horus est le nom le plus anciennement attesté (voir l'Horus Nârmer).
+-  Le nom des Deux Maîtresses (nb.ty) est aussi attesté dès la \dyn{1}. Il renvoie à
+deux divinités tutélaires de la Haute et la Basse \kmt, la déesse vautour Nekhbet d'Elkab, et
+la déesse cobra Ouadjet de Bouto dans le Delta. Ce nom renvoie à la conception dualiste du
+territoire égyptien pour les pharaons et leurs sujets 2 .
+-  Le nom d'Horus d'or (Hr (ny) nbw) est attesté dès la \dyn{4}. Il est introduit par
+le faucon Horus juché sur le collier, signe de l'or, nbw.
+-  Le nom de roi de Haute et Basse-\kmt (n(y)-sw.t bity) fait son apparition pendant la \dyn{5}. Il est écrit dans un cartouche  et devient le nom le plus important de la
+titulature. Ce nom est appelé \frquote{nom de couronnement} et renvoie encore une fois à la
+conception dualiste du territoire égyptien : n(y)-sw.t \frquote{celui-du-roseau}, c'est-à-dire le roi de
+Haute-Egypte ; bit(y) \frquote{celui de l'abeille}, c'est-à-dire le roi de Basse Egypte.
+-  Le nom de fils de Rê (sA Ra) est aussi écrit dans un cartouche et correspond au nom
+personnel du souverain. Son inscription dans le cartouche est attestée dès la \dyn{4}.
+1 Ce mot est étymologiquement lié au verbe srx \frquote{faire connaître}.
+2 Voir
+tA.wy le Double-Pays.
+
+Exemple : titulature de Sésostris III (\dyn{12})
+Hr NTr-xpr L'Horus Netjer-khépérou 
+Nb.ty NTr-msw.t Les Deux maîtresses Netjer-mésout 
+Nsw-bity le roi de Haute et Basse Egypte Khâ-kaou-Rê 
+Hr nbw xpr L'Horus d'or Khéper 
+sA R a S-n-wsr.t le fils de Rê Senousret
+Plusieurs choses sont à noter :
+1. Pour les anciens Egyptiens, Sésostris III n'est pas Sésostris III, mais Sésostris
+Khâkaourê (c'est le reste de sa titulature qui le distingue des autres rois dont le nom de
+naissance est aussi Sésostris.
+2. Notez aussi que la transcription la plus proche du nom personnel de Sésostris est
+Sénousret. Sésostris est la forme qui nous a été livré par la tradition classique.
+3. Remarquez enfin la disposition des signes dans les cartouches. Le principe de
+l'antéposition honorifique fonctionne ici. Si le nom royal est théophore (avec un nom
+de dieu), le nom de dieu est placé en tête, quel que soit sa position dans la séquence :
+Khâ-kaou-Rê : Le disque solaire est en antéposition honorifique.
+4. En effet, les noms égyptiens signifient quelque chose. Il s'agit souvent de phrases,
+d'énoncés qui peuvent être traduits. Il n'est pas nécessaire de le faire dans une
+traduction de texte. Il est en revanche intéressant, pour connaître l'idéologie d'un
+règne, de traduire les noms du protocole. Le nom Khâkaourê met l'accent sur la
+divinité solaire héliopolitaine. Le nom personnel Senousret renvoie à une divinité
+féminine : \frquote{l'homme-de-la-Puissante}.
+À ces cinq titres s'ajoutent souvent, dans le protocole royal complet, les épithètes secondaires
+suivantes :
+Accompagnant le nom de roi de \HBE :
+Nb tA.wy \frquote{Seigneur du Double Pays}
+NTr nfr  \frquote{Dieu parfait}
+Nb ir(.t) x.t  \frquote{Seigneur de l'accomplissement des rites} (litt. des choses)
+Accompagnant le nom de fils de Rê :
+Nb xa.w \frquote{Seigneur des couronnes} ou \frquote{Seigneur des apparitions}
+
+SA Ra n(y) ẖ.t=f \frquote{Fils charnel de Rê} (litt. \frquote{fils de Rê de son
+corps})
+Les noms du roi sont généralement suivis de bénédictions (formules d'eulogie) :
+-  , version abrégée de anx wDA snb \frquote{qu'il vive, intact et en bonne santé} (traduit
+conventionnellement par \frquote{vie, santé, force} ou \frquote{V.S.F.})
+-  anx D.t \frquote{qu'il vive éternellement}
+-  di anx mi Ra 3 \frquote{doué 4 de vie comme Rê}
+La titulature royale comprend aussi fréquemment mention de l'élection du roi par les dieux :
+-- le roi est dit \frquote{aimé} d'une divinité. Ex.  ou  mry 5 imn \frquote{aimé
+d'Amon} (noter l'antéposition honorifique)
+-- ou \frquote{choisi} par la divinité. Ex.  stp.n 6 R? \frquote{qu'a élu Rê, élu de Rê}
+(noter l'antéposition honorifique).
+Rappel sur quelques désignations :
+--  Hm =f \frquote{sa Majesté}
+--  nsw \frquote{roi}
+--  ou  ity \frquote{souverain}
+Faire l'exercice 18 (à rendre par email)
+3 Noter l'antéposition honorifique.
+4 L'explication grammaticale de cette traduction sera donnée au semestre prochain.
+5 L'analyse grammaticale de cette forme verbale sera faite en 2 e année
+6 L'analyse grammaticale de cette forme verbale sera faite en 2 e année.
+
+%======================================================================
+
+É GYPTIEN CLASSIQUE  - S EMESTRE  1
+Cours 9 -- Épigraphie - papyrologie
+Titulature royale en hiératique
+(partie facultative)
+La titulature royale peut évidemment être écrite en hiératique. Voici à titre d'exemple la titulature de
+Sésostris III.
+Rappel : titulature de Sésostris III (\dyn{12})
+Hr NTr-xpr L'Horus Netjer-khépérou 
+Nb.ty NTr-msw.t Les Deux maîtresses Netjer-mésout 
+Nsw-bity le roi de Haute et Basse Egypte Khâ-kaou-Rê 
+Hr nbw xpr L'Horus d'or Khéper 
+sA R a S-n-wsr.t le fils de Rê Senousret
+
+D'après G. Möller, Hieratische Lesestücke 1, Leipzig, 1927, p. 4 (extrait d'un papyrus de Lahoun/Kahoun,
+portant des hymnes à Sésostris III). Papyrus UC 32157.
+Cf. M. Collier, S. Quirke, The UCL Lahun Papyri. Religious, Literary, Legal, Mathematical and Medical, BAR-
+IS 1209, Oxford, 2004, p. 16.
+En comparant avec la titulature du roi, page précédente, essayez de reconnaître la valeur des
+signes hiératiques. Remarquez que le cartouche est simplement noté par ses deux extrémités
+(ouverture du cartouche et fermeture du cartouche).
+Solution à la page suivante.
+
+Dans le cartouche 1 : 
+Dans le cartouche 2 : 
+Fac-similé du texte hiératique et transcription hiéroglyphique
+
+%======================================================================
+
+É GYPTIEN CLASSIQUE  - S EMESTRE  1
+Cours 11 -- Grammaire
+Les propositions avec constructions pseudo-verbales (2 e partie)
+IV. Les formes pseudo-verbales avec infinitif (2) : inaccompli avec sens
+futur : r + infinitif
+Il existe une autre construction pseudo-verbale avec infinitif, toujours dans le non-accompli.
+Cette fois, la construction est r + infinitif. Elle ne note pas le présent, mais le futur (appelé
+\frquote{allatif} chez Grandet/Mathieu) 1 . Le sens vient du sens premier de la préposition \frquote{vers, en
+direction de} (comparer avec le \frquote{r d'état} du cours 6).
+iw bAk r wnm
+\frquote{Le serviteur mangera (va manger)}
+iw bAk r pr.t m pr
+\frquote{Le serviteur sortira de la maison}
+La syntaxe est en tous points identique à celle des formes de l'inaccompli progressif Hr/m +
+infinitif (voir cours 10).
+iw = f r sDm \frquote{il écoutera}
+iw = f r sDm nb=f \frquote{il écoutera son maître}
+iw = f r sDm =f \frquote{il l'écoutera} (COD pronominal après un infinitif :
+pronom suffixe)
+mk sw r sDm=f \frquote{vois, il l'écoutera}
+iw=f r it.t tA.w rsy.w
+\frquote{Il (le roi) conquerra les pays du Sud} (Conte de Sinouhé B71 72)
+1 Cette forme donnera en néo-égyptien le Futur III.
+
+Quelques précisions sur la valeur de la construction iw + sujet + r + infinitif sont à noter.
+La construction a deux sens :
+1) Un futur obligé, inéluctable, futur déontique.
+2) ou, par affaiblissement, un futur éloigné.
+Il existe d'autres types de futurs (sous d'autres modalités, ou dans des constructions
+syntaxiques spécifiques) qui sont exprimés par d'autres constructions, notamment par des
+formes de la conjugaison suffixale (qui sera vue l'année prochaine), le subjonctif sDm = f
+(\frquote{qu'il écoute}) et le prospectif sDm(w) = f (\frquote{il écoutera}). Mais, à titre de première
+approche, on peut déjà noter que :
+-  Pour le souhait ou l'ordre poli, on utilisera la forme dite sDm = f subjonctif (“puisse-t-il
+écouter”, “qu'il écoute”)
+-  Pour l'expression, à la première personne, de la volonté de faire quelque chose, on
+utilise aussi le subjonctif sDm = f : sDm = i \frquote{j'ai l'intention d'écouter}
+-  Le futur objectif et obligatoire, normalement assumé par r + infinitif, pourra être
+exprimé dans certaines constructions particulières par un sDm(w) = f dit prospectif. En
+particulier le prospectif sDm(w) = f est utilisé pour nier le futur objectif, comme on va
+le voir.
+Remarque : vous notez que dans la conjugaison dite suffixale de type sDm = f le pronom suffixe indique le sujet de
+la forme verbale. L'ordre des mots des propositions verbales est donc, normalement Verbe + Sujet.
+V. Négations des constructions pseudo-verbales avec infinitif
+L'inaccompli progressif Hr + infinitif et m + infinitif se nie tout simplement en remplaçant
+iw par l'auxiliaire de la négation nn  . C'est la même négation que pour la proposition à
+prédicat adverbial (voir cours 7). Lorsque le sujet est pronominal on utilise le pronom
+dépendant.
+nn sw Hr wnm
+Il n'est pas en train de manger.
+Il ne mange pas
+Pour le futur r + infinitif, la construction attendue -- nn b A k r sDm \frquote{le serviteur n'écoutera
+pas} -- n'est pas utilisée 2 .
+2 Une construction de ce type apparaît à partir de la \dyn{18}, voir Malaise, Winand, Grammaire
+raisonnée, § 642.
+
+Le corrélat négatif habituel de iw = f r sDm utilise une forme de la conjugaison suffixale, le
+prospectif sDm(w) = f :  \frquote{il n'écoutera pas} --  nn
+sDmw bAk \frquote{il n'écoutera pas}. Nous aborderons la morphologie de cette forme verbale l'an
+prochain avec le reste de la conjugaison suffixale, mais notez déjà son lien avec la
+construction r + infinitif.
+VI. Les convertisseurs (temporels) dans les constructions pseudo-verbales
+avec infinitif
+Comme pour la proposition à prédicat adverbial, une phrase à prédicat pseudo-verbal (Hr /m +
+infinitif en particulier) peut être introduite par un convertisseur (temporel)  et  (voir
+cours 7). Dans la phrase iw bAk Hr sDm \frquote{le serviteur écoute} (est en train d'écouter), le point
+de référence temporel est celui de l'énonciation, donc le présent (sauf si la phrase s'insère
+dans un récit au passé).
+On peut transposer cette proposition dans le passé ou dans le futur, par rapport au point de
+référence, avec des convertisseurs.
+Ex. 
+Wn = t(w) Hr qd xnr.t pn (Malaise/Winand, Grammaire raisonnée, exemple 1220)
+On était en train de construire cette enceinte.
+Faire l'exercice 21 (à rendre par email)
+
+\end{comment}
+
+%======================================================================
+%======================================================================
+%======================================================================
+%======================================================================

@@ -1,0 +1,84 @@
+\documentclass[%
+  % draft, %
+  french, %
+  hiero, %
+  % background, %
+  dvipsnames, %
+  svgnames, %
+  a4paper, %
+  twoside, %
+  openany, %
+  10pt, %
+  oldfontcommands, %
+  article, %
+]{nefermemoir}
+
+\includeonly{%
+  DULAEP_EG_Cours_01,
+  DULAEP_EG_Cours_02,
+  DULAEP_EG_Cours_03,
+  DULAEP_EG_Cours_04,
+  DULAEP_EG_Cours_05,
+  DULAEP_EG_Cours_06,
+  DULAEP_EG_Cours_07,
+  DULAEP_EG_Cours_08,
+  DULAEP_EG_Cours_09,
+  DULAEP_EG_Cours_10,
+  DULAEP_EG_Cours_11,
+  DULAEP_EG_Cours_12,
+}
+
+\graphicspath{%
+  {../img/}%
+}
+
+\newcommand{\clef}[1]{%
+  \textbf{\textcolor{red}{#1}}
+}
+\newcommand{\info}[1]{%
+  \textcolor{DarkGreen}{#1}
+}
+
+%======================================================================
+\title{DULA -- Égyptien classique}
+% \short{Histoire de l'\kmt}
+% \subtitle{de la Préhistoire au \NK}
+% \lecturer{\PG}
+% \orga{Cours de \textsf{l'\IK} par}
+\author{\SL}
+\date{\today}
+
+\hypersetup{%
+  pdftitle  = {DULA -- Égyptien classique}, 
+  pdfauthor = {Sonia Labetoulle}
+}
+% pdfsubject % pdfcreator % pdfproducer % pdfkeywords
+
+%======================================================================
+
+% \backgroundsetup{%
+%   opacity   = 0.18,
+%   contents  = \includegraphics{DeB_Hathor},
+%   % position  = current page.center,
+%   scale     = 0.5
+% }
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+
+\SmallerText
+
+Sylvie~\bsc{Donnat}\\
+sylvie.donnat@misha.fr
+
+\bsc{Égyptien classique} -- \bsc{Semestre~1}
+
+\include{DULAEP_EG_Cours_01}
+\include{DULAEP_EG_Cours_02}
+\include{DULAEP_EG_Cours_03}
+\include{DULAEP_EG_Cours_10}
+\include{DULAEP_EG_Cours_12}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\end{document}
