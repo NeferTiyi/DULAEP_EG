@@ -32,6 +32,9 @@
   {../img/}%
 }
 
+\newcommand{\doc}[1]{%
+  \textbf{\textcolor{purple}{#1}}
+}
 \newcommand{\clef}[1]{%
   \textbf{\textcolor{red}{#1}}
 }

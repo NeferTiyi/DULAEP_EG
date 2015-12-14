@@ -1,3 +1,7 @@
+ori/*.pdf
+Exos/*.pdf
+Docs/*.pdf
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
