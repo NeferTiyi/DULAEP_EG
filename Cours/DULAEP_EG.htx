@@ -19,13 +19,13 @@
   DULAEP_EG_Cours_03,
   DULAEP_EG_Cours_04,
   DULAEP_EG_Cours_05,
-  DULAEP_EG_Cours_06,
-  DULAEP_EG_Cours_07,
-  DULAEP_EG_Cours_08,
-  DULAEP_EG_Cours_09,
-  DULAEP_EG_Cours_10,
-  DULAEP_EG_Cours_11,
-  DULAEP_EG_Cours_12,
+  % DULAEP_EG_Cours_06,
+  % DULAEP_EG_Cours_07,
+  % DULAEP_EG_Cours_08,
+  % DULAEP_EG_Cours_09,
+  % DULAEP_EG_Cours_10,
+  % DULAEP_EG_Cours_11,
+  % DULAEP_EG_Cours_12,
 }
 
 \graphicspath{%
@@ -79,6 +79,9 @@ sylvie.donnat@misha.fr
 \include{DULAEP_EG_Cours_01}
 \include{DULAEP_EG_Cours_02}
 \include{DULAEP_EG_Cours_03}
+\include{DULAEP_EG_Cours_04}
+\include{DULAEP_EG_Cours_05}
+\include{DULAEP_EG_Cours_06}
 \include{DULAEP_EG_Cours_10}
 \include{DULAEP_EG_Cours_12}
 

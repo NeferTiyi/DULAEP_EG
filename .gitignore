@@ -1,6 +1,10 @@
-ori/*.pdf
+ori/*
 Exos/*.pdf
+Exos/*.CR2
+Exos/*.jpg
+Exos/*.dop
 Docs/*.pdf
+img/cours*.*
 
 ## Core latex/pdflatex auxiliary files:
 *.aux
