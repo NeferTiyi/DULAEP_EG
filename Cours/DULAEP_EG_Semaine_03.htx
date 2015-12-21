@@ -24,6 +24,12 @@ abordant :
 Vous verrez que, tout en traitant de grammaire, nous continuerons à 
 préciser le système graphique.
 
+
+
+
+
+\begin{comment}
+
 \chapter{Le substantif}
 %======================================================================
 
@@ -70,7 +76,7 @@ avec un \emph{t} final qui se réalise ou non dans la prononciation
 
 Ainsi :
 
-\begin{tabular}{c\@{--}c}
+\begin{tabular}{cc}
   \begin{hieroglyph}nTr-T:r-A40\end{hieroglyph}
     \tlb{nTr} \frquote{dieu} & 
     \begin{hieroglyph}nTr-T:r-t-I12\end{hieroglyph}
@@ -93,7 +99,7 @@ analyse de la séquence.
 Comme en français, de nombreux mots ont une forme masculine et 
 féminine. Aux mots mentionnés ci-dessus, on peut ajouter : 
 
-\begin{tabular}{c\@{--}c}
+\begin{tabular}{cc}
   \begin{hieroglyph}bA:k-A1\end{hieroglyph} 
     \tlb{bAk} \frquote{serviteur} &
     \begin{hieroglyph}bA-k:t-B1\end{hieroglyph}
@@ -132,7 +138,7 @@ l'indique d'autres graphies concurrences du mot
 \textcoptic{eiwt}/\textcoptic{iwt}.
 
 \begin{aparte}
-  \textbf{\unline{Exercice} :} translittérer les mots suivants (en 
+  \textbf{\uline{Exercice} :} translittérer les mots suivants (en 
   vous aidant des listes de signes) et indiquer s'ils sont féminins 
   ou masculins. \emph{Solution page suivante}
 
@@ -164,7 +170,7 @@ Ces exceptions sont peu nombreuses et sont à apprendre par c{\oe}ur.
   \begin{hieroglyph}xt:t*1\end{hieroglyph}
   \tlb{xt} \frquote{bois}
 
-  \begin{hieroglyph}n:ht:x*t-D40\end{hieroglyph}
+  \begin{hieroglyph}n:xt:x*t-D40\end{hieroglyph}
   \tlb{nxt} \frquote{force, victoire}
 
   \begin{hieroglyph}it\end{hieroglyph}
@@ -206,7 +212,7 @@ Comparer \begin{hieroglyph}km-m-t:niwt\end{hieroglyph} \tlb{Km.t}
 sont traités comme des féminins.
 
 \begin{aparte}
-  \textbf{\unline{Solution de l'exercice page 3} :} translittérer les 
+  \textbf{\uline{Solution de l'exercice page 3} :} translittérer les 
   mots suivants (en vous aidant des listes de signes) et indiquer 
   s'ils sont féminins ou masculins. \emph{Solution page suivante}
 
@@ -313,12 +319,6 @@ précisions :
   \item En plus du déterminatif du pluriel (les trois traits), il existe des déterminatifs particuliers : le déterminatif de la collectivité  (homme assis + femme assise + trois traits du pluriel. Ainsi :  Xrd \frquote{enfant} =>  Xrd.w \frquote{enfants} ou ẖrd.w.
   \item La notation phonétique du pluriel se fait au moyen des unilitères w  ou . Toutefois, la nature de la dernière consonne du mot mis au pluriel peut amener le scribe à utiliser, pour noter le phonème .w, un signe bilitère comprenant le son w. Dans cet usage, on rencontre notamment le bilitère nw  :
 \end{enumerate}
-
-
-
-
-
-\begin{comment}
 
 --  sn \frquote{frère} => sn.w \frquote{frères}  (bilitère sn + complément phonétique n --
 bilitère nw + complément phonétique w -- déterminatifs homme assis et trois traits du pluriel).

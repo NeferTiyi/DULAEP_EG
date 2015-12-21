@@ -15,24 +15,24 @@
 
 \includeonly{%
   DULAEP_EG_Semaine_00_a,
-  DULAEP_EG_Semaine_00_b,
-  DULAEP_EG_Semaine_01_a,
-  DULAEP_EG_Semaine_01_b,
-  DULAEP_EG_Semaine_02_a,
-  DULAEP_EG_Semaine_02_b,
-  DULAEP_EG_Semaine_03,
+  % DULAEP_EG_Semaine_00_b,
+  % DULAEP_EG_Semaine_01_a,
+  % DULAEP_EG_Semaine_01_b,
+  % DULAEP_EG_Semaine_02_a,
+  % DULAEP_EG_Semaine_02_b,
+  % DULAEP_EG_Semaine_03,
   % DULAEP_EG_Semaine_04,
   % DULAEP_EG_Semaine_05,
   % DULAEP_EG_Semaine_06,
   % DULAEP_EG_Semaine_07,
   % DULAEP_EG_Semaine_08,
-  DULAEP_EG_Semaine_09,
-  DULAEP_EG_Semaine_10,
-  DULAEP_EG_Semaine_11,
-  DULAEP_EG_Semaine_12,
+  % DULAEP_EG_Semaine_09,
+  % DULAEP_EG_Semaine_10,
+  % DULAEP_EG_Semaine_11,
+  % DULAEP_EG_Semaine_12,
 }
 
-% \usepackage{neferkheops}
+\usepackage{multicol}
 
 \graphicspath{%
   {../img/}%
