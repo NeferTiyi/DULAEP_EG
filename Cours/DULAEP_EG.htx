@@ -14,23 +14,78 @@
 ]{nefermemoir}
 
 \includeonly{%
-  DULAEP_EG_Cours_01,
-  DULAEP_EG_Cours_02,
-  DULAEP_EG_Cours_03,
-  DULAEP_EG_Cours_04,
-  DULAEP_EG_Cours_05,
-  % DULAEP_EG_Cours_06,
-  % DULAEP_EG_Cours_07,
-  % DULAEP_EG_Cours_08,
-  % DULAEP_EG_Cours_09,
-  % DULAEP_EG_Cours_10,
-  % DULAEP_EG_Cours_11,
-  % DULAEP_EG_Cours_12,
+  DULAEP_EG_Semaine_00_a,
+  DULAEP_EG_Semaine_00_b,
+  DULAEP_EG_Semaine_01_a,
+  DULAEP_EG_Semaine_01_b,
+  DULAEP_EG_Semaine_02_a,
+  DULAEP_EG_Semaine_02_b,
+  DULAEP_EG_Semaine_03,
+  % DULAEP_EG_Semaine_04,
+  % DULAEP_EG_Semaine_05,
+  % DULAEP_EG_Semaine_06,
+  % DULAEP_EG_Semaine_07,
+  % DULAEP_EG_Semaine_08,
+  DULAEP_EG_Semaine_09,
+  DULAEP_EG_Semaine_10,
+  DULAEP_EG_Semaine_11,
+  DULAEP_EG_Semaine_12,
 }
+
+% \usepackage{neferkheops}
 
 \graphicspath{%
   {../img/}%
 }
+
+
+
+
+
+% ... Redefine headings ...
+% -------------------------
+\makeatletter
+  % \markboth{\@lecturer}{\@short}
+  \makepagestyle{ruled}
+  \makeevenhead{ruled}
+    {\normalfont\itshape\@title}
+    {}
+    {\normalfont\itshape\leftmark}
+  \makeoddhead{ruled}
+    {\normalfont\itshape\rightmark}
+    {}
+    {\normalfont\itshape\@author}
+  \makeevenfoot{ruled}
+    {}
+    {\thepage}
+    {}
+  \makeoddfoot{ruled}
+    {}
+    {\thepage}
+    {}
+  \makeheadrule{ruled}{\textwidth}{\normalrulethickness}
+  % \makefootrule{ruled}{\textwidth}{\normalrulethickness}{1pt}
+
+  \makepsmarks{ruled}{%
+    \nouppercaseheads
+    \createmark{chapter}{left}{shownumber}{}{.\ }
+    \createmark{section}{right}{shownumber}{}{.\ }
+    \createplainmark{toc}{both}{\contentsname}
+    \createplainmark{lof}{both}{\listfigurename}
+    \createplainmark{lot}{both}{\listtablename}
+    \createplainmark{bib}{both}{\bibname}
+    \createplainmark{index}{both}{\indexname}
+    \createplainmark{glossary}{both}{\glossaryname}
+  }
+
+\pagestyle{ruled}
+\makeatother
+
+
+
+
+
+
 
 \newcommand{\doc}[1]{%
   \textbf{\textcolor{purple}{#1}}
@@ -76,14 +131,23 @@ sylvie.donnat@misha.fr
 
 \bsc{Égyptien classique} -- \bsc{Semestre~1}
 
-\include{DULAEP_EG_Cours_01}
-\include{DULAEP_EG_Cours_02}
-\include{DULAEP_EG_Cours_03}
-\include{DULAEP_EG_Cours_04}
-\include{DULAEP_EG_Cours_05}
-\include{DULAEP_EG_Cours_06}
-\include{DULAEP_EG_Cours_10}
-\include{DULAEP_EG_Cours_12}
+\include{DULAEP_EG_Semaine_00_a}
+\include{DULAEP_EG_Semaine_00_b}
+\include{DULAEP_EG_Semaine_01_a}
+\include{DULAEP_EG_Semaine_01_b}
+\include{DULAEP_EG_Semaine_02_a}
+\include{DULAEP_EG_Semaine_02_b}
+\include{DULAEP_EG_Semaine_03}
+\include{DULAEP_EG_Semaine_04}
+% \include{DULAEP_EG_Semaine_05}
+% \include{DULAEP_EG_Semaine_06}
+% \include{DULAEP_EG_Semaine_07}
+% \include{DULAEP_EG_Semaine_08}
+\include{DULAEP_EG_Semaine_09}
+\include{DULAEP_EG_Semaine_10}
+\include{DULAEP_EG_Semaine_11}
+\include{DULAEP_EG_Semaine_12}
+
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
