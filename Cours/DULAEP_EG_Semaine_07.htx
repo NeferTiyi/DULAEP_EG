@@ -234,6 +234,130 @@ qui on s'adresse.
   \tl{mT} et \tl{mTn}. 
 \end{aparte}
 
+\bigskip
+
+\begin{center}
+  \DisplayHieroglyphs
+  \tl{mTn} \raisebox{.75\depth}{\reflectbox{%
+    \EnColonne[1.2\Htm]{\begin{hieroglyph}m-di'-T-n\end{hieroglyph}}%
+  }} 
+  \raisebox{-0.66\baselineskip}{%
+    \includegraphics[height=2.5\baselineskip]{mk_3}%
+  }
+
+  graphie hiératique dans une lettre (\no2) du dossier d'Héqanakht\\
+  (\bsc{Allen}, \source{Heqanakht Papyri}, 2002)
+\end{center}
+
+\bigskip
+
+\begin{center}
+  \begin{hieroglyph}
+    m:a-t:n:3-A51-s-t:Y1-B1-Z3-Hr-1-Sd:d-W:P1-Z3
+  \end{hieroglyph}\\
+  \tl{mtn, Sps.wt Hr Sd.w}\\
+  \td{Voyez, les nobles dames sont sur des radeaux.} 
+  (\source{Admonitions of an Egyptian Sage} 7,10)\\
+  Auxiliaire présentatif, sujet + prédicat adverbial (groupe 
+  prépositionnel)
+\end{center}
+
+Un élément de syntaxe important : lorsque le sujet d'une proposition 
+à prédicat adverbial introduit par \tl{mk} est pronominal, ce n'est 
+pas le pronom suffixe qui est utilisé mais le pronom dépendant. Le 
+\textbf{pronom dépendant} est la deuxième catégorie de pronoms 
+personnels de l'égyptien classique (qui en comporte trois), après 
+le pronom suffixe (voir \doc{cours~3}). Le pronom dépendant ne se 
+fixe pas au mot qui précède, mais en revanche, il est en position 
+dépendante, c'est-à-dire qu'il ne peut pas se trouver en tête de 
+phrase. Ce pronom dépendant est essentiellement employé comme 
+sujet\footnote{Il peut être employé comme COD pronominal des verbes 
+(sauf après un verbe à l'infinitif), mais nous verrons cela plus 
+tard.}, pour les cas où le pronom suffixe ne peut être utilisé.
+
+\subsubsection*{Tableau des pronoms personnels -- Pronoms dépendants}
+
+\begin{tabular}{>{\bfseries}M{3cm}rM{4cm}M{4cm}}
+    \multicolumn{2}{c}{~} &
+    \textbf{Masculin} &
+    \textbf{Féminin} 
+  \tabularnewline
+  \otoprule
+    \multirow{3}{*}{Singulier} &
+    moi \textbf{1.} &
+    \multicolumn{2}{c}{%
+      \tl{wi} 
+      \begin{hieroglyph}
+        w-A1+l, +sW-A1+l, +sw-i+l, +sw
+      \end{hieroglyph}
+    } 
+  \tabularnewline
+     &
+    toi \textbf{2.} &
+    \tl{Tw} \begin{hieroglyph}T-w\end{hieroglyph} 
+    \tl{tw} \begin{hieroglyph}t-W\end{hieroglyph} &
+    \tl{Tn} \begin{hieroglyph}T:n\end{hieroglyph} 
+    \tl{tn} \begin{hieroglyph}t:n\end{hieroglyph} 
+  \tabularnewline
+     &
+    lui/elle \textbf{3.} &
+    \tl{sw} \begin{hieroglyph}sw-w+l, +ssw-W\end{hieroglyph} &
+    \tl{sy} \begin{hieroglyph}
+      s-y+l, +sz:y+l, +ss+l, +sz
+    \end{hieroglyph}\\
+    \tl{st} \begin{hieroglyph}
+      s-t+l, +ss-t:3+l, +sz:t
+    \end{hieroglyph}\\
+    \rem{\tl{s.t} aussi valeur de neutre \td{cela}}
+  \tabularnewline
+  \midrule
+    \multirow{3}{*}{Pluriel} &
+    nous \textbf{1.} &
+    \multicolumn{2}{c}{%
+      \tl{n} \begin{hieroglyph}n:3+l, +sn\end{hieroglyph}
+    } 
+  \tabularnewline
+     &
+    vous \textbf{2.} &
+    \multicolumn{2}{c}{%
+      \tl{Tn} \begin{hieroglyph}T:n:3+l, +sT:n\end{hieroglyph}%
+      \quad%
+      \tl{tn} \begin{hieroglyph}t:n:3+l, +st:n\end{hieroglyph}
+    } 
+  \tabularnewline
+     &
+    ils/elles \textbf{3.} &
+    \multicolumn{2}{c}{%
+      \tl{sn} 
+      \begin{hieroglyph}
+        s-n:3+l, +ss-n+l, +sz:n:3+l, +sz:n
+      \end{hieroglyph}
+    } 
+  \tabularnewline
+  \bottomrule
+\end{tabular}
+
+\bigskip
+
+\begin{center}
+  \begin{hieroglyph}m-a:k-w-A1-r:gs*1-k\end{hieroglyph}\\
+  \tl{Mk, wi r-gs=k}\\
+  \td{Vois, je suis à côté de toi.}
+
+  auxiliaire présentatif, sujet pronom dépendant + groupe 
+  prépositionnel prédicat (adverbial)
+
+  \bigskip
+
+  vocabulaire : \begin{hieroglyph}r:gs*1\end{hieroglyph} \tl{r-gs} 
+  préposition composée \td{à côté de}
+\end{center}
+
+
+
+
+
+
 
 
 
@@ -244,76 +368,58 @@ qui on s'adresse.
 
 \begin{comment}
 
+\subsection{L'auxiliaire optatif \tl{HA}}
+%~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   ,  (\tl{Hwy}  ,  )
 
+Cette particule peut remplacer \tl{iw} ; elle exprime un souhait teinté de regret : \td{Ah si\dots}.
 
-\tl{mTn} graphie hiératique dans une lettre (n o 2) du dossier d'Héqanakht
-(Allen, Heqanakht Papyri, 2002)
-mtn, Sps.wt Hr Sd.w
-Voyez, les nobles dames sont sur des radeaux (Admonitions of an Egyptian Sage 7,10)
-Auxiliaire présentatif, sujet + prédicat adverbial (groupe prépositionnel)
-Un élément de syntaxe important : lorsque le sujet d'une proposition à prédicat adverbial
-intoduit par mk est pronominal, ce n'est pas le pronom suffixe qui est utilisé mais le pronom
-dépendant. Le pronom dépendant est la deuxième catégorie de pronoms personnels de
-l'égyptien classique (qui en comporte 3), après le pronom suffixe (voir cours 3). Le pronom
-dépendant ne se fixe pas au mot qui précède, mais en revanche, il est en position dépendante,
-c'est-à-dire qu'il ne peut pas se trouver en tête de phrase. Ce pronom dépendant est
-essentiellement employé comme sujet 3 , pour les cas où le pronom suffixe ne peut être utilisé.
-3 Il peut être employé comme COD pronominal des verbes (sauf après un verbe à l'infinitif), mais nous verrons
-cela plus tard.
-
-Pronoms dépendants
-Masculin  Féminin
-Singulier moi 1.
-wi
-Toi 2.
-Tw ,  Tn  , 
-Lui/elle 3.
-sw  ,  sy  ,  , , 
-st  , ,  s.t aussi
-valeur de neutre \frquote{cela}
-Pluriel nous 1.
-n  , 
-Vous 2.
-Tn  ,  ,  , 
-Ils/elles 3.
-sn  ,  ,  , 
-Mk, wi r-gs=k
-\frquote{Vois, je suis à côté de toi}
-auxiliaire présentatif, sujet pronom dépendant + groupe prépositionnel prédicat (adverbial)
-vocabulaire :  r-gs préposition composée \frquote{à côté de}
--  Auxiliaire optatif HA  ,  (Hwy  ,  )
-Cette particule peut remplacer iw ; elle exprime un souhait teinté de regret : \frquote{Ah si\dots}.
-HA n=i Ssp nb mnx
+\tl{HA n=i Ssp nb mnx}
 Ah si j'avais quelque amulette efficace (Conte du Paysan B 22-24)
-Proposition à prédicat adverbial introduite par HA + groupe prépositionnel prédical (sur la position voir cours 6) +
-Sujet (groupe nominal)
-Notez l'imparfait dans la traduction française, commandé par l'expression \frquote{ah, si}
+Proposition à prédicat adverbial introduite par \tl{HA} + groupe prépositionnel prédical (sur la position voir cours 6) + Sujet (groupe nominal)
 
--- Autres auxiliaires et particules proclitiques 4 isk,  isT,  sk,  ti. Ces
-particules présentent la situation énoncée comme se déroulant dans le même temps qu'une
-autre mentionnée avant. On les traduit souvent par \frquote{or,\dots}
-- nHmn  : cette particule sert à renforcer l'affirmation de l'énoncé. Elle est
-traduite par \frquote{certes, assurément}.
-9. La négation de la proposition à prédicat adverbial nn
-La négation de la phrase à prédicat adverbial se fait à l'aide de la particule nn. 
-Exercice : donnez l'équivalent négatif de  iw bAk m pr le serviteur est dans la maison.
+Notez l'imparfait dans la traduction française, commandé par l'expression \td{ah, si}
+
+\subsection[Autres auxiliaires et particules proclitiques]
+           {Autres auxiliaires et particules proclitiques\protect\footnote{= qui se placent en tête de phrase (à la différence des particules enclitiques qui se placent en 2\ieme~position).}}
+%~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+\tl{isk},  \tl{isT},  \tl{sk},  \tl{ti}. Ces
+
+particules présentent la situation énoncée comme se déroulant dans le même temps qu'une autre mentionnée avant. On les traduit souvent par \td{or,\dots}
+
+\subsection{L'auxiliaire optatif \tl{nHm}}
+%~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+  : cette particule sert à renforcer l'affirmation de l'énoncé. Elle est
+traduite par \td{certes, assurément}.
+
+9. La négation de la proposition à prédicat adverbial \tl{nn}
+
+La négation de la phrase à prédicat adverbial se fait à l'aide de la particule \tl{nn}. 
+
+Exercice : donnez l'équivalent négatif de  \tl{iw bAk m pr} le serviteur est dans la maison.
+
 Réponse : page suivante
-nn mw.t=k Hna=k
-\frquote{Ta mère n'est pas avec toi}
-(Papyrus magique Berlin 3027)
-C'est le pronom dépendant qui est employé en cas de sujet pronominal.
-nn s.t m-Xnw=f
-\frquote{Ce n'est pas à l'intérieur} (ou \frquote{elle n'est pas à l'intérieur})
-Littéralement : cela n'est pas à l'intérieur de lui.
-Remarque : si la négation nn se substitue à iw, en revanche la négation peut être précédée de
-l'auxiliaire présentatif mk.
-4 = qui se placent en tête de phrase (à la différence des particules enclitiques qui se placent en 2 e position).
 
-Réponse à l'exercice de la page précédente: nn bAk m pr le serviteur n'est pas dans la maison
+\tl{nn mw.t=k Hna=k}
+\td{Ta mère n'est pas avec toi}
+(Papyrus magique Berlin 3027)
+
+C'est le pronom dépendant qui est employé en cas de sujet pronominal.
+
+\tl{nn s.t m-Xnw=f}
+\td{Ce n'est pas à l'intérieur} (ou \td{elle n'est pas à l'intérieur})
+Littéralement : cela n'est pas à l'intérieur de lui.
+
+Remarque : si la négation \tl{nn} se substitue à \tl{iw}, en revanche la négation peut être précédée de l'auxiliaire présentatif \tl{mk}.
+
+
+
+Réponse à l'exercice de la page précédente: \tl{nn bAk m pr} le serviteur n'est pas dans la maison
 10. les convertisseurs temporels
 D'autres éléments introducteurs peuvent encore fonctionner avec la proposition à prédicat
-adverbial, et en particulier des \frquote{convertisseurs temporels}. On a dit que la phrase iw bAk m
-pr n'a pas de valeur temporelle. Il s'agit d'un constat fait sur le mode indicatif (objectif),
+adverbial, et en particulier des \frquote{convertisseurs temporels}. On a dit que la phrase \tl{iw bAk m
+pr} n'a pas de valeur temporelle. Il s'agit d'un constat fait sur le mode indicatif (objectif),
 avec pour point de référence temporel le moment de l'énonciation (donc le présent) ou
 éventuellement l'énoncé précédent (et en vertu de la concordance des temps, éventuellement
 un imparfait de l'indicatif).
@@ -323,16 +429,16 @@ convertisseurs temporels :
 --  wn (convertisseur passé)
 -- [il existe aussi un wn convertisseur subjonctif dont nous ne nous occupons pas pour
 l'instant]
-wn bAk m pr \frquote{le serviteur sera dans la maison} -- wn bAk m pr \frquote{le serviteur était dans la
+wn bAk m pr \td{le serviteur sera dans la maison} -- wn bAk m pr \td{le serviteur était dans la
 maison}.
-Ces auxiliaires sont dérivés du verbe wnn \frquote{exister}. Ils peuvent être précédés de mk.
+Ces auxiliaires sont dérivés du verbe wnn \td{exister}. Ils peuvent être précédés de mk.
 wnn nn n(y) ?.t n sA =k
 Ces choses seront pour ton fils
 Ces choses appartiendront à ton fils.
 
 IV  -- S EQUENCES DE PLUSIEURS PROPOSITIONS
 
-La phrase  iw=i m pr \frquote{je suis dans la maison}, décrit une situation simple.
+La phrase  iw=i m pr \td{je suis dans la maison}, décrit une situation simple.
 On peut décrire des situations plus compliquées en utilisant une succession de propositions à
 prédicat adverbial, ou une succession de syntagmes adverbiaux se rapportant au même sujet.
 Ex. 1 : 
