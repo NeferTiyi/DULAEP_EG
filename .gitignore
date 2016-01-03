@@ -4,7 +4,7 @@ Exos/*.CR2
 Exos/*.jpg
 Exos/*.dop
 Docs/*.pdf
-img/cours*.*
+img/tmp/
 
 ## Core latex/pdflatex auxiliary files:
 *.aux
@@ -15,6 +15,7 @@ img/cours*.*
 *.out
 *.toc
 *_full.htx
+*.dic
 
 ## Intermediate documents:
 *.dvi
