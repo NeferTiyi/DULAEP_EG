@@ -141,9 +141,7 @@
   \textcolor{DarkGreen}{#1}%
 }
 
-\renewcommand{\PPA}{%
-  \titre{Proposition à prédicat adverbial}\xspace%
-}
+\renewcommand{\PPA}{Proposition à prédicat adverbial\xspace}
 
 \newcolumntype{+}{>{\global\let\currentrowstyle\relax}}
 \newcolumntype{^}{>{\currentrowstyle}}
