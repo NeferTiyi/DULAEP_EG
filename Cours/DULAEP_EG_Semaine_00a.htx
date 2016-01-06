@@ -5,8 +5,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \begin{aparte}
-  \uline{Première distinction à opérer dans ce cours :}
-
+      [title={Première distinction à opérer dans ce cours :}]
   Il faut distinguer \textbf{la langue des anciens égyptiens}, et 
   l'écriture, \textbf{les écritures}, qui ont servi à noter cette 
   langue. Au cours de son histoire plusieurs fois millénaire, la 
@@ -88,7 +87,7 @@ dans des corps expéditionnaires égyptiens et les scribes égyptiens :
 ces locuteurs sémitiques ont repris des signes du système 
 hiéroglyphique égyptien, mais en leur donnant des valeurs différentes. 
 Par exemple, le signe de la maison 
-\begin{hieroglyph}pr\end{hieroglyph}, \tlb{pr} en égyptien ancien, 
+\begin{hieroglyph}pr\end{hieroglyph}, \tl{pr} en égyptien ancien, 
 mais \emph{bêt} en sémitique, a été utilisé, sur le principe de 
 l'\textcolor{green}{acrophonie}, pour noter le son [b]. Notre système 
 graphique alphabétique, bien que totalement distinct du système 
@@ -129,7 +128,7 @@ Les différentes branches de ce groupe sont les suivantes :
 \begin{enumerate}
   \item \emph{L'égyptien ancien} ;
   \item \emph{Le sémitique} ;
-  \item \emph{Le berbère} ou \emph{les langues lybico-berbères} ;
+  \item \emph{Le berbère} ou \emph{les langues libyco-berbères} ;
   \item \emph{Les langues couchitiques} (groupe de langues parlées 
         par \num{15}~millions de personnes en Afrique orientale, 
         de la frontière égyptienne à l'Éthiopie, Djibouti, Somalie, 
@@ -154,11 +153,11 @@ linguistiques.\\
   \item un suffixe adjectival en -i (\emph{nisbé}, nom de relation).
 \end{itemize}
 
-\begin{aparte}
-  \textbf{Sources :}
+\bigskip
 
-  A.~Loprieno, \emph{Ancient Egyptian. A Linguistic Introduction}, 
-  Cambridge University Press, 1995, p.~1-5.
+\begin{aparte}[title={Sources :}]
+  A.~\bsc{Loprieno}, \emph{Ancient Egyptian. A Linguistic 
+  Introduction}, Cambridge University Press, 1995, p.~1-5.
 
   P.~\bsc{Vernus}, \emph{Dictionnaire amoureux de l'\kmt ancienne}, 
   Paris, 2009, s.v. Égyptien (apparentement linguistique), p.~269-274.
@@ -316,9 +315,7 @@ difficiles à mémoriser pour un débutant.
 
 \bigskip
 
-\begin{aparte}
-  \emph{Nota bene} :
-
+\begin{aparte}[title={Nota bene}]
   Dans ce cours, nous n'aborderons la langue \frquote{égyptien 
   classique} que par le système de notation dit 
   \textbf{hiéroglyphique}. L'objectif du cours est la maîtrise 

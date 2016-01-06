@@ -12,9 +12,9 @@ fige dans une forme canonique au \MK.
 \begin{itemize}
   \item \raisebox{0.75\depth}{\reflectbox{%
         \EnColonne[1.2\Htm]{\begin{hieroglyph}G5-O33\end{hieroglyph}}%
-        }} \textbf{Le nom d'Horus} (\tlb{Hr}) est signalé par le 
+        }} \textbf{Le nom d'Horus} (\tl{Hr}) est signalé par le 
         motif du \emph{sérekh}\footnote{Voir 
-        \begin{hieroglyph}tA:tA\end{hieroglyph} \tlb{tA.wy} le 
+        \begin{hieroglyph}tA:tA\end{hieroglyph} \tl{tA.wy} le 
         Double-Pays.} (façade du palais royal) surmonté du faucon 
         Horus, divinité tutélaire de la royauté pharaonique (ou 
         simplement par le faucon Horus) -- le nom est généralement 
@@ -24,29 +24,29 @@ fige dans une forme canonique au \MK.
         Ouadjy de la \dyn{1}. Le nom d'Horus est le nom le plus 
         anciennement attesté (voir l'Horus Nârmer).
   \item \reflectbox{\begin{hieroglyph}nbty\end{hieroglyph}} 
-        \textbf{Le nom des Deux Maîtresses} (\tlb{nb.ty}) est aussi 
+        \textbf{Le nom des Deux Maîtresses} (\tl{nb.ty}) est aussi 
         attesté dès la \dyn{1}. Il renvoie à deux divinités tutélaires 
         de la Haute et la \BE, la déesse vautour Nekhbet d'Elkab, et 
         la déesse cobra Ouadjet de Bouto dans le Delta. Ce nom renvoie 
         à la conception dualiste du territoire égyptien pour les 
         pharaons et leurs sujets\footnote{Ce mot est étymologiquement 
-        lié au verbe \tlb{srx} \td{faire connaître}.}.
+        lié au verbe \tl{srx} \td{faire connaître}.}.
   \item \reflectbox{\begin{hieroglyph}G8\end{hieroglyph}} 
-        \textbf{Le nom d'Horus d'or} (\tlb{Hr (ny) nbw}) est attesté 
+        \textbf{Le nom d'Horus d'or} (\tl{Hr (ny) nbw}) est attesté 
         dès la \dyn{4}. Il est introduit par le faucon Horus juché sur 
-        le collier, signe de l'or, \tlb{nbw}.
+        le collier, signe de l'or, \tl{nbw}.
   \item \reflectbox{\begin{hieroglyph}nswbjty\end{hieroglyph}} 
-        \textbf{Le nom de roi de \HBE} (\tlb{n(y)-sw.t bity}) fait 
+        \textbf{Le nom de roi de \HBE} (\tl{n(y)-sw.t bity}) fait 
         son apparition pendant la \dyn{5}. Il est écrit dans un 
         cartouche \begin{hieroglyph}V9\end{hieroglyph} et devient le 
         nom le plus important de la titulature. Ce nom est appelé 
         \frquote{nom de couronnement} et renvoie encore une fois à la 
-        conception dualiste du territoire égyptien : \tlb{n(y)-sw.t} 
+        conception dualiste du territoire égyptien : \tl{n(y)-sw.t} 
         \td{celui-du-roseau}, c'est-à-dire le roi de \HE ; 
-        \tlb{bit(y)} \td{celui de l'abeille}, c'est-à-dire le roi 
+        \tl{bit(y)} \td{celui de l'abeille}, c'est-à-dire le roi 
         de \BE.
   \item \reflectbox{\begin{hieroglyph}sAra\end{hieroglyph}} 
-        \textbf{Le nom de fils de Rê} (\tlb{sA Ra}) est aussi écrit 
+        \textbf{Le nom de fils de Rê} (\tl{sA Ra}) est aussi écrit 
         dans un cartouche et correspond au nom personnel du souverain. 
         Son inscription dans le cartouche est attestée dès la \dyn{4}.
 \end{itemize}
@@ -55,21 +55,21 @@ fige dans une forme canonique au \MK.
   Exemple : \textbf{titulature de Sésostris~III (\dyn{12})}
   
   \RaggedLeft
-  \tlb{Hr NTr-xpr} L'Horus Netjer-khépérou 
+  \tl{Hr NTr-xpr} L'Horus Netjer-khépérou 
     \reflectbox{\begin{hieroglyph}G7-nTr-xpr-w\end{hieroglyph}}
 
-  \tlb{Nb.ty NTr-msw.t} Les Deux maîtresses Netjer-mésout 
+  \tl{Nb.ty NTr-msw.t} Les Deux maîtresses Netjer-mésout 
     \reflectbox{\begin{hieroglyph}nbty-nTr-ms-t-w\end{hieroglyph}}
 
-  \tlb{Nsw-bity} le roi de \HBE Khâ-kaou-Rê 
+  \tl{Nsw-bity} le roi de \HBE Khâ-kaou-Rê 
     \reflectbox{%
       \begin{hieroglyph}sw:t-bit:t<-ra:kA-xA:kA*kA->\end{hieroglyph}%
     }
 
-  \tlb{Hr nbw xpr} L'Horus d'or Khéper 
+  \tl{Hr nbw xpr} L'Horus d'or Khéper 
     \reflectbox{\begin{hieroglyph}G8-xpr\end{hieroglyph}}
 
-  \tlb{sA R a S-n-wsr.t} le fils de Rê Sénousret
+  \tl{sA R a S-n-wsr.t} le fils de Rê Sénousret
     \reflectbox{%
       \begin{hieroglyph}zA-\!\!\!ra:.-wsr-s-r:t:z:n\end{hieroglyph}%
     }
@@ -107,13 +107,13 @@ les épithètes secondaires suivantes :
 
 \begin{tabular}{ll}
   \reflectbox{\begin{hieroglyph}nb:tA:tA\end{hieroglyph}} 
-  \tlb{Nb tA.wy} & 
+  \tl{Nb tA.wy} & 
     \td{Seigneur du Double Pays} \\
   \reflectbox{\begin{hieroglyph}nTr nfr\end{hieroglyph}} 
-  \tlb{NTr nfr} &
+  \tl{NTr nfr} &
     \td{Dieu parfait} \\
   \reflectbox{\begin{hieroglyph}nb:ir:x*t\end{hieroglyph}} 
-  \tlb{Nb ir(.t) x.t} &
+  \tl{Nb ir(.t) x.t} &
     \td{Seigneur de l'accomplissement des rites} 
     (\litt des choses) \\
 \end{tabular}
@@ -122,10 +122,10 @@ les épithètes secondaires suivantes :
 
 \begin{tabular}{ll}
   \reflectbox{\begin{hieroglyph}nb:xA*3\end{hieroglyph}} 
-  \tlb{Nb xa.w} &
+  \tl{Nb xa.w} &
     \td{Seigneur des couronnes} ou \td{Seigneur des apparitions} \\
   \reflectbox{\begin{hieroglyph}sAra-n-X:t*1-f\end{hieroglyph}} 
-  \tlb{\%A Ra n(y) X.t=f} &
+  \tl{\%A Ra n(y) X.t=f} &
     \td{Fils charnel de Rê} (\litt \td{fils de Rê de son corps}) \\
 \end{tabular}
 
@@ -134,14 +134,14 @@ bénédictions (formules d'eulogie) :}
 
 \begin{tabular}{ll}
   \reflectbox{\begin{hieroglyph}anx-DA-s\end{hieroglyph}}, 
-  version abrégée de \tlb{anx wDA snb} &
+  version abrégée de \tl{anx wDA snb} &
     \td{qu'il vive, intact et en bonne santé} (traduit 
     conventionnellement par \td{vie, santé, force} ou \td{V.S.F.}) \\
   \reflectbox{\begin{hieroglyph}anx-Dt\end{hieroglyph}} 
-  \tlb{anx D.t} &
+  \tl{anx D.t} &
     \td{qu'il vive éternellement} \\
   \reflectbox{\begin{hieroglyph}di-anx-ra-mi\end{hieroglyph}} 
-  \tlb{di anx mi Ra}\footnote{Noter l'antéposition honorifique.} &
+  \tl{di anx mi Ra}\footnote{Noter l'antéposition honorifique.} &
     \td{doué\footnote{L'explication grammaticale de cette 
     traduction sera donnée au semestre prochain.} de vie comme Rê} \\
 \end{tabular}
@@ -153,12 +153,12 @@ mention de l'élection du roi par les dieux :}
   \item le roi est dit \td{aimé} d'une divinité. 
         Ex. \begin{hieroglyph}i-mn:n-A40-mr-i-i\end{hieroglyph} ou 
         \begin{hieroglyph}C12-N36\end{hieroglyph} 
-        \tlb{mry\footnote{L'analyse grammaticale de cette forme 
+        \tl{mry\footnote{L'analyse grammaticale de cette forme 
         verbale sera faite en 2\ieme~année.} imn} 
         \td{aimé d'Amon} (noter l'antéposition honorifique)
   \item ou \td{choisi} par la divinité. 
         Ex. \begin{hieroglyph}ra-s-t:p-stp-Y1:n\end{hieroglyph} 
-        \tlb{stp.n\footnote{L'analyse grammaticale de cette forme 
+        \tl{stp.n\footnote{L'analyse grammaticale de cette forme 
         verbale sera faite en 2\ieme~année.} Ra} 
         \td{qu'a élu Rê, élu de Rê} (noter l'antéposition honorifique).
 \end{itemize}
@@ -166,12 +166,12 @@ mention de l'élection du roi par les dieux :}
 \noindent\uline{Rappel sur quelques désignations :}
 
 \begin{tabular}{ll}
-  \begin{hieroglyph}Hm-1-f\end{hieroglyph} \tlb{Hm=f} & 
+  \begin{hieroglyph}Hm-1-f\end{hieroglyph} \tl{Hm=f} & 
     \td{sa Majesté} \\
-  \begin{hieroglyph}sw-t:n\end{hieroglyph} \tlb{nsw} &
+  \begin{hieroglyph}sw-t:n\end{hieroglyph} \tl{nsw} &
     \td{roi} \\
   \begin{hieroglyph}i-ti-i-i-A23\end{hieroglyph} ou 
-  \begin{hieroglyph}mzH:mzH-G8\end{hieroglyph} \tlb{ity} &
+  \begin{hieroglyph}mzH:mzH-G8\end{hieroglyph} \tl{ity} &
     \td{souverain} \\
 \end{tabular}
 
@@ -191,15 +191,15 @@ Voici à titre d'exemple la titulature de Sésostris~III.
   Rappel : \textbf{titulature de Sésostris~III (\dyn{12})}
   
   \RaggedLeft
-  \tlb{Hr NTr-xpr} L'Horus Netjer-khépérou 
+  \tl{Hr NTr-xpr} L'Horus Netjer-khépérou 
     \begin{hieroglyph}G7-nTr-xpr-w\end{hieroglyph}\\
-  \tlb{Nb.ty NTr-msw.t} Les Deux maîtresses Netjer-mésout 
+  \tl{Nb.ty NTr-msw.t} Les Deux maîtresses Netjer-mésout 
     \begin{hieroglyph}nbty-nTr-ms-t-w\end{hieroglyph}\\
-  \tlb{Nsw-bity} le roi de \HBE Khâ-kaou-Rê 
+  \tl{Nsw-bity} le roi de \HBE Khâ-kaou-Rê 
     \begin{hieroglyph}sw:t-bit:t<-ra:kA-xA:kA*kA->\end{hieroglyph}\\
-  \tlb{Hr nbw xpr} L'Horus d'or Khéper 
+  \tl{Hr nbw xpr} L'Horus d'or Khéper 
     \begin{hieroglyph}G8-xpr\end{hieroglyph}\\
-  \tlb{sA R a S-n-wsr.t} le fils de Rê Sénousret
+  \tl{sA R a S-n-wsr.t} le fils de Rê Sénousret
     \begin{hieroglyph}zA-\!\!\!ra:.-wsr-s-r:t:z:n\end{hieroglyph}
 \end{aparte}
 

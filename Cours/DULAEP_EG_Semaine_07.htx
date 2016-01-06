@@ -5,15 +5,6 @@
 Présentation du système prédicatif égyptien}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-% \chapter{L'histoire du déchiffrement}
-%======================================================================
-
-% \section{La perte de la tradition}
-%----------------------------------------------------------------------
-
-% \subsection{Le \sieclenum{18} : plusieurs tentatives}
-%~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
 \chapter{Syntaxe de la proposition à prédicat adverbial (suite)}
 %======================================================================
 
@@ -463,114 +454,235 @@ C'est le pronom dépendant qui est employé en cas de sujet pronominal.
   négation peut être précédée de l'auxiliaire présentatif \tl{mk}.
 \end{remarque}
 
+\bigskip
 
+\begin{exercice}
+  \textbf{Exercice :} donnez l'équivalent négatif de 
+  \begin{hieroglyph}i-w bA:k-A1 m pr-1\end{hieroglyph} 
+  \tl{iw bAk m pr}, \td{le serviteur est dans la maison.}
 
+  \emph{Réponse :}
 
+  \tl{nn bAk m pr} \td{le serviteur n'est pas dans la maison.}
+\end{exercice}
 
+\section{Les convertisseurs temporels}
+%----------------------------------------------------------------------
 
+D'autres éléments introducteurs peuvent encore fonctionner avec la 
+\PPA, et en particulier des \frquote{convertisseurs temporels}. On 
+a dit que la phrase \tl{iw bAk m pr} n'a pas de valeur temporelle. 
+Il s'agit d'un constat fait sur le mode \textbf{indicatif} (objectif), 
+avec pour point de référence temporel le moment de l'énonciation 
+(donc le présent) ou éventuellement l'énoncé précédent (et en vertu 
+de la concordance des temps, éventuellement un imparfait de 
+l'indicatif).
 
+Pour transposer l'énoncé \tl{iw bAk m pr} au futur ou au passé, on 
+peut recourir à des convertisseurs temporels :
 
+\begin{itemize}
+  \item \begin{hieroglyph}wn:n:n\end{hieroglyph} \tl{wnn} 
+        (convertisseur futur)
+  \item \begin{hieroglyph}wn:n\end{hieroglyph} \tl{wn} 
+        (convertisseur passé)
+  \item {[il existe aussi un \tl{wn} convertisseur subjonctif dont 
+          nous ne nous occupons pas pour l'instant]}
+\end{itemize}
 
+\bigskip
 
+\begin{minipage}{0.4\textwidth}
+  % \centering
+  \tl{wnn bAk m pr}\\\td{le serviteur sera dans la maison.}
+\end{minipage}%
+\hfill%
+\begin{minipage}{0.4\textwidth}
+  \tl{wn bAk m pr}\\\td{le serviteur était dans la maison.}
+\end{minipage}%
 
-\begin{comment}
+\bigskip
 
-Réponse à l'exercice de la page précédente: \tl{nn bAk m pr} le serviteur n'est pas dans la maison
-10. les convertisseurs temporels
-D'autres éléments introducteurs peuvent encore fonctionner avec la proposition à prédicat
-adverbial, et en particulier des \frquote{convertisseurs temporels}. On a dit que la phrase \tl{iw bAk m
-pr} n'a pas de valeur temporelle. Il s'agit d'un constat fait sur le mode indicatif (objectif),
-avec pour point de référence temporel le moment de l'énonciation (donc le présent) ou
-éventuellement l'énoncé précédent (et en vertu de la concordance des temps, éventuellement
-un imparfait de l'indicatif).
-Pour transposer l'énoncé iw bAk m pr au futur ou au passé, on peut recourir à des
-convertisseurs temporels :
---  wnn (convertisseur futur)
---  wn (convertisseur passé)
--- [il existe aussi un wn convertisseur subjonctif dont nous ne nous occupons pas pour
-l'instant]
-wn bAk m pr \td{le serviteur sera dans la maison} -- wn bAk m pr \td{le serviteur était dans la
-maison}.
-Ces auxiliaires sont dérivés du verbe wnn \td{exister}. Ils peuvent être précédés de mk.
-wnn nn n(y) ?.t n sA =k
-Ces choses seront pour ton fils
-Ces choses appartiendront à ton fils.
+Ces auxiliaires sont dérivés du verbe \tl{wnn} \td{exister}. 
+Ils peuvent être précédés de \tl{mk}.
 
-IV  -- S EQUENCES DE PLUSIEURS PROPOSITIONS
+\begin{center}
+  \begin{hieroglyph}wn:n:n-M22-M22-n-x:t-Y1:3-n-zA-k\end{hieroglyph}
 
-La phrase  iw=i m pr \td{je suis dans la maison}, décrit une situation simple.
-On peut décrire des situations plus compliquées en utilisant une succession de propositions à
-prédicat adverbial, ou une succession de syntagmes adverbiaux se rapportant au même sujet.
+  \tl{wnn nn n(y) x.t n sA=k}
+
+  \td{Ces choses seront pour ton fils.}\\
+  \td{Ces choses appartiendront à ton fils.}
+\end{center}
+
+\chapter{Séquences de plusieurs propositions}
+%======================================================================
+
+La phrase \begin{hieroglyph}i-w A1 m pr-1\end{hieroglyph} 
+\tl{iw=i m pr} \td{je suis dans la maison}, décrit une situation 
+simple. On peut décrire des situations plus compliquées en utilisant 
+une succession de propositions à prédicat adverbial, ou une succession 
+de syntagmes adverbiaux se rapportant au même sujet.
+
 Ex. 1 : 
-*iw=i m pr Hna sA=k
-Je suis dans la maison et avec ton fils.
-Je suis dans la maison, avec ton fils.
-L'analyse est la suivante :
-Proposition à prédicat adverbial : l'auxiliaire iw + sujet + deux groupes prépositionnels (que
-l'on peut considérer soit comme dex prédicats coordonnés, soit comme prédicat, et
-complément circonstanciel).
+\begin{quote}
+  \begin{hieroglyph}i-w A1 m pr-1 H-n:a zA-A1 k\end{hieroglyph}
+
+  \tl{*iw=i m pr Hna sA=k}
+
+  \td{Je suis dans la maison et avec ton fils.}\\
+  \td{Je suis dans la maison, avec ton fils.}
+\end{quote}
+
+L'analyse est la suivante :\\
+\PPA : l'auxiliaire \tl{iw} + sujet + deux groupes prépositionnels 
+(que l'on peut considérer soit comme deux prédicats coordonnés, soit 
+comme prédicat, et complément circonstanciel).
+
 Ex. 2 : 
-*iw=i m pr, sA=k Hna=i
-Je suis dans la maison, ton fils avec moi.
-= je suis dans la maison, ton fils étant avec moi.
-= je suis dans la maison, alors que ton fils est avec moi.
-On peut analyser ainsi : Deux propositions à prédicat adverbial : proposition 1 (iw + sujet +
-prédicat), proposition 2 (sujet + prédicat).
-Dans ce cas de figure, deux propositions à prédicat adverbial sont juxtaposées, iw
-n'introduisant que la première. On appelle la première proposition proposition initiale (celle
-qui est en tête) et la seconde proposition séquentielle. Ces deux propositions associées
-forment une phrase plus complexe, décrivant une situation plus complexe. On peut traduire
-ces deux propositions :
--- soit de manière coordonnées (je suis dans la maison et ton fils est avec moi)
--- soit, par un effet de traduction, comme phrase principale et phrase circonstancielle (je
-suis dans la maison, ton fils étant avec moi).
-Retenez bien cette terminologie d'analyse (proposition initiale, proposition séquentielle).
-Nous nous en servirons beaucoup, notamment en 2 e année.
-iw Xnw m sgr, ib.w m gmw
-La Résidence (royale) était dans le silence, les c{\oe}urs dans l'affliction
-(Conte de Sinouhé, R, 8-9 : description de l'état du palais royal à l'annonce de la mort du roi)
+\begin{quote}
+  \begin{hieroglyph}i-w A1 m pr-1 zA-A1 k H-n:a A1\end{hieroglyph}
+
+  \tl{*iw=i m pr, sA=k Hna=i}
+
+  \td{Je suis dans la maison, ton fils avec moi.}\\
+  = \td{je suis dans la maison, ton fils étant avec moi.}\\
+  = \td{Je suis dans la maison, alors que ton fils est avec moi.}
+\end{quote}
+
+On peut analyser ainsi : Deux propositions à prédicat adverbial : 
+proposition~1 (\tl{iw} + sujet + prédicat), proposition~2 (sujet + 
+prédicat).
+
+Dans ce cas de figure, deux propositions à prédicat adverbial sont 
+juxtaposées, \tl{iw} \textbf{n'introduisant que la première}. On 
+appelle la première proposition \textbf{proposition initiale} (celle 
+qui est en tête) et la seconde \textbf{proposition séquentielle}. 
+Ces deux propositions associées forment une phrase plus complexe, 
+décrivant une situation plus complexe. On peut traduire ces deux 
+propositions :
+
+\begin{itemize}
+  \item soit de manière coordonnées (\td{je suis dans la maison et 
+        ton fils est avec moi})
+  \item soit, par un effet de traduction, comme phrase principale 
+        et phrase circonstancielle (\td{je suis dans la maison, ton 
+        fils étant avec moi}).
+\end{itemize}
+
+Retenez bien cette terminologie d'analyse (proposition initiale, 
+proposition séquentielle). Nous nous en servirons beaucoup, notamment 
+en 2\ieme~année.
+
+\begin{center}
+  \begin{hieroglyph}
+    i-w-Xn-n:nw*W-niwt-m-s-g:r-A2-ib:3-m-gm-m-W-G37:3
+  \end{hieroglyph}
+
+  \tl{iw Xnw m sgr, ib.w m gmw}
+
+  \td{La Résidence (royale) était dans le silence, les c{\oe}urs 
+      dans l'affliction.}
+
+  (\source{Conte de Sinouhé}, R, 8-9 : description de l'état du 
+  palais royal à l'annonce de la mort du roi.)
+\end{center}
+
 Analyse : Deux propositions à prédicat adverbial,
--- la première  initiale introduite par iw
--- et la seconde  séquentielle (sans iw).
 
-Les deux décrivent, ensemble, une situation complexe, par une seule phrase, complexe.
-Notez bien que, si le scribe avait ajouté un second iw avant  , il aurait
-fallu traduire la séquence comme deux phrases indépendantes : *iw Xnw m sgr . iw ib.w m
-gmw. *La Résidence est dans le silence. Les c{\oe}urs sont dans l'affliction.
-Dans un seul cas de figure, la présence de iw pour introduire la deuxième proposition ne
-signifie pas nécessairement que les deux phrases sont indépendantes. Avez-vous une idée de
-la situation en question ? Observez la phrase suivante :
-*
-* iw sA=k Xr rSw.t iw=k Hna=f
+\begin{itemize}
+  \item la première \begin{hieroglyph}
+          i-w-Xn-n:nw*W-niwt-m-s-g:r-A2
+        \end{hieroglyph} \clef{initiale} introduite par \tl{iw}
+  \item et la seconde 
+        \begin{hieroglyph}ib:3-m-gm-m-W-G37:3\end{hieroglyph} 
+        \clef{séquentielle} (sans \tl{iw}).
+\end{itemize}
+
+Les deux décrivent, ensemble, une situation complexe, par une seule 
+phrase, complexe.
+
+Notez bien que, si le scribe avait ajouté un second \tl{iw} avant 
+\begin{hieroglyph}ib:3-m-gm-m-W-G37:3\end{hieroglyph}, il aurait 
+fallu traduire la séquence comme deux phrases indépendantes : 
+*\tl{iw Xnw m sgr. iw ib.w m gmw.} \td{*La Résidence est dans le 
+silence. Les c{\oe}urs sont dans l'affliction.}
+
+Dans un seul cas de figure, la présence de \tl{iw} pour introduire 
+la deuxième proposition ne signifie pas nécessairement que les deux 
+phrases sont indépendantes. Avez-vous une idée de la situation en 
+question ? Observez la phrase suivante :
+
+\begin{center}
+  *\begin{hieroglyph}
+    i-w-zA-A1-k-Xr:r-r:S-w-D19-Y1:3-i-w-k-H-n:a-f
+  \end{hieroglyph}
+
+  *\tl{iw sA=k Xr rSw.t \textcolor{orange}{iw}=k Hna=f}
+
+  \td{La Résidence (royale) était dans le silence, les c{\oe}urs 
+      dans l'affliction.}
+
+  (\source{Conte de Sinouhé}, R, 8-9 : description de l'état du 
+  palais royal à l'annonce de la mort du roi.)
+\end{center}
+
 Pouvez-vous choisir à coup sûr entre les deux traductions suivantes :
-1. *Ton fils est en joie. Tu es avec lui. (analyse : deux propositions indépendantes)
-2. *Ton fils est en joie, alors que tu es avec lui. (analyse : proposition initiale et
-proposition séquentielle)
-En ce cas précis, les deux traductions et analyses sont envisageables. En effet, la présence du
-second iw ne signifie pas nécessairement qu'il y a une nouvelle phrase indépendante, puisque
-le sujet de la deuxième proposition est un pronom suffixe. Or, les pronoms suffixes ne
-peuvent commencer une phrase, puisqu'ils ont besoin de s'appuyer sur un élément. La
-présence du iw, en ce cas, peut donc être requise par la présence d'un sujet pronominal dans la
-deuxième proposition.
-En résumé, dans le cadre de séquences de plusieurs propositions :
--- en égyptien classique, la proposition à prédicat adverbial commençant par iw + sujet
-nominal est toujours une proposition indépendante ou initiale (c'est-à-dire, dans
-notre analyse grammaticale française classique, une proposition principale) ;
--- la proposition à prédicat adverbial commençant par iw + pronom suffixe peut être
-analysée comme une proposition indépendante, une proposition initiale, ou encore
-une proposition séquentielle (c'est-à-dire comme une principale ou une
-subordonnée).
 
-wnn=f imty nTr.wi aA.wi, iw=sn.y m p.t
-Proposition initiale (convertisseur temporel+ sujet pronominal + groupe prépositionnel), proposition séquentielle
-(iw + pronom sffixe sujet + groupe prépositionnel prédicat)
-Vocabulaire :  imytw (préposition) \frquote{entre, au milieu de}
-Littéralement : \frquote{Il sera entre les deux grands dieux, eux étant au ciel}
-= \frquote{Il sera entre les deux dieux, qui sont au ciel}
-(la séquentielle est traduite en français ici par une proposition relative explicative).
-(CT V, 387 c-d)
+\begin{enumerate}
+  \item \td{*Ton fils est en joie. Tu es avec lui.} (analyse : 
+        deux propositions \textbf{indépendantes})
+  \item \td{*Ton fils est en joie, alors que tu es avec lui.} 
+        (analyse : proposition initiale et proposition 
+        \textbf{séquentielle})
+\end{enumerate}
 
-\end{comment}
+En ce cas précis, les deux traductions et analyses sont envisageables. 
+En effet, la présence du second \tl{iw} ne signifie pas nécessairement 
+qu'il y a une nouvelle phrase indépendante, puisque le sujet de la 
+deuxième proposition est un \uline{pronom suffixe}. Or, les pronoms 
+suffixes ne peuvent commencer une phrase, puisqu'ils ont besoin de 
+s'appuyer sur un élément. La présence du \tl{iw}, en ce cas, peut donc 
+être requise par la présence d'un sujet pronominal dans la deuxième 
+proposition.
+
+\paragraph{En résumé, dans le cadre de séquences de plusieurs 
+propositions :}
+\begin{itemize}
+  \item en égyptien classique, la \PPA commençant par \tl{iw} + sujet 
+        nominal est toujours une \textbf{proposition indépendante ou 
+        initiale} (c'est-à-dire, dans notre analyse grammaticale 
+        française classique, une proposition principale) ;
+  \item la \PPA commençant par \tl{iw} + pronom suffixe peut être 
+        analysée comme une \textbf{proposition indépendante, une 
+        proposition initiale, ou encore une proposition séquentielle} 
+        (c'est-à-dire comme une principale ou une subordonnée).
+\end{itemize}
+
+\begin{center}
+  \begin{hieroglyph}
+    wn:n:n-f-i-imi-m-y:t-nTr-1:y-A40-aA:a-w-y-i-w-s-n:y-m-p*t:pt
+  \end{hieroglyph}
+
+  \tl{wnn=f imty nTr.wi aA.wi, iw=sn.y m p.t} (\CTx{V}, 387\,c-d)
+
+  \td{La Résidence (royale) était dans le silence, les c{\oe}urs 
+      dans l'affliction.}
+
+  \rem{Proposition initiale (convertisseur temporel+ sujet pronominal 
+  + groupe prépositionnel),\\proposition séquentielle (\tl{iw} + 
+  pronom suffixe sujet + groupe prépositionnel prédicat)}
+
+  Vocabulaire : \begin{hieroglyph}i-imi-m-t:y\end{hieroglyph} 
+  \tl{imytw} (préposition) \td{entre}, \td{au milieu de}
+
+  \litt : \td{Il sera entre les deux grands dieux, eux étant 
+  au ciel}\\
+  = \td{Il sera entre les deux dieux, qui sont au ciel}
+
+  \rem{(la séquentielle est traduite en français ici par une 
+  proposition relative explicative.)}
+\end{center}
 
 \bigskip
 

@@ -79,30 +79,30 @@ peut-être essayer de deviner le sens.
 \end{center}
 
 Vous avez déjà rencontré tous les mots, sauf 
-\begin{hieroglyph}i-w\end{hieroglyph} \tlb{iw} qui est une particule 
+\begin{hieroglyph}i-w\end{hieroglyph} \tl{iw} qui est une particule 
 introductive, dont nous allons reparler, mais qui n'est pas à 
 traduire.
 
 Vous reconnaissez sans doute le signe 
 \begin{hieroglyph}A1\end{hieroglyph}, qui est un déterminatif, sauf 
-dans le cas où il note le pronom suffixe \tlb{=i} \frquote{moi}. 
+dans le cas où il note le pronom suffixe \tl{=i} \frquote{moi}. 
 Nous avons vu son emploi comme possessif (\doc{cours~3}), mais vous 
 savez déjà qu'il peut remplir le rôle de sujet et se traduit alors 
 par \td{je}.
 
 Nous avons aussi déjà rencontré le mot 
-\begin{hieroglyph}m\end{hieroglyph} \tlb{m}, une préposition qui 
+\begin{hieroglyph}m\end{hieroglyph} \tl{m}, une préposition qui 
 signifie \td{dans}.
 
 Et vous connaissez le mot \begin{hieroglyph}pr-1\end{hieroglyph} 
-\tlb{pr} \td{maison}.
+\tl{pr} \td{maison}.
 
 Avec tous ces éléments en tête, comment traduiriez-vous de manière, 
 disons, intuitive ?
 
 \begin{center}
   \begin{hieroglyph}i-w-A1-m-pr-1\end{hieroglyph}\\
-  \tlb{iw=i m pr}\\
+  \tl{iw=i m pr}\\
   \td{Je (suis) dans la maison}
 \end{center}
 
@@ -146,7 +146,7 @@ maison})\footnote{Voir P.~\bsc{Grandet}, B.~\bsc{Mathieu},
 \bigskip
 
 \noindent%
-\begin{tabular}{*{3}{M{.14\textwidth}}M{.50\textwidth}}
+\begin{tabularx}{\textwidth}{*{3}{M{.14\textwidth}}X}
   \toprule
     \multicolumn{3}{c}{\textbf{Relation d'identité}} &
     \multirow{2}{*}{\textbf{Relation de situation}}
@@ -165,7 +165,7 @@ maison})\footnote{Voir P.~\bsc{Grandet}, B.~\bsc{Mathieu},
     \td{Je suis dans la maison.}
   \tabularnewline
   \bottomrule
-\end{tabular}
+\end{tabularx}
 
 \bigskip
 
@@ -179,7 +179,7 @@ verbe \frquote{être} de son rôle d'auxiliaire.}}
 \bigskip
 
 \noindent%
-\begin{tabular}{*{2}{M{.26\textwidth}}M{.40\textwidth}}
+\begin{tabularx}{\textwidth}{*{2}{M{.26\textwidth}}X}
   \toprule
     \multicolumn{2}{c}{\textbf{Relation prédicative avec copule}} &
     \textbf{Prédicat verbal}
@@ -199,7 +199,7 @@ verbe \frquote{être} de son rôle d'auxiliaire.}}
     \td{Pierre vient.}
   \tabularnewline
   \bottomrule
-\end{tabular}
+\end{tabularx}
 
 \bigskip
 
@@ -248,12 +248,12 @@ Sujet + Prédicat
 
 \begin{center}
   \begin{hieroglyph}i-w-X:r:d-Xrd-A1-i-m\end{hieroglyph}\\
-  \tlb{iw Xrd im}\\
-  \frquote{l'enfant est là}
+  \tl{iw Xrd im}\\
+  \td{l'enfant est là}
 \end{center}
 
 Passons en revu les différents éléments : 1.~Le sujet, 2.~Le prédicat, 
-3.~L'auxiliaire \tlb{iw}.
+3.~L'auxiliaire \tl{iw}.
 
 \section{Le sujet}
 %----------------------------------------------------------------------
@@ -282,9 +282,9 @@ préposition}.
     \texttimes &
     \begin{hieroglyph}i-m\end{hieroglyph}
   \\
-    \tlb{Xrd} &
+    \tl{Xrd} &
     \texttimes &
-    \tlb{im}
+    \tl{im}
   \\
     \td{l'enfant} &
     \td{est} &
@@ -292,28 +292,30 @@ préposition}.
   \\
 \end{tabular}
 
-Voici quelques adverbes à connaître.
+\bigskip
+
+\noindent Voici quelques adverbes à connaître :
 
 \subsubsection*{Adverbes de lieu}
 \begin{multicols}{2}
   \noindent%
   \begin{hieroglyph}aA:a-A-N31\end{hieroglyph}
-  \tlb{aA} \td{ici}\\
+  \tl{aA} \td{ici}\\
   \begin{hieroglyph}i-m\end{hieroglyph}
-  \tlb{im} \td{là}
+  \tl{im} \td{là}
 \end{multicols}
 
 \subsubsection*{Adverbes de temps}
 \begin{multicols}{2}
   \noindent%
   \begin{hieroglyph}mi-n:ra\end{hieroglyph}
-  \tlb{min} \td{aujourd'hui}\\
+  \tl{min} \td{aujourd'hui}\\
   \begin{hieroglyph}s-f:ra\end{hieroglyph}
-  \tlb{sf} \td{hier}\\
+  \tl{sf} \td{hier}\\
   \begin{hieroglyph}dwA-A-w-ra\end{hieroglyph}
-  \tlb{dwAw} \td{matin}\\
+  \tl{dwAw} \td{matin}\\
   \begin{hieroglyph}ra*1:nb\end{hieroglyph}
-  \tlb{ra nb} \td{chaque jour}
+  \tl{ra nb} \td{chaque jour}
 \end{multicols}
 
 \subsection{Groupe prépositionnel}
@@ -333,39 +335,40 @@ Il y a deux types de groupes prépositionnels :
 
 \bigskip
 
-\begin{tabular}{lcl}
-    \begin{hieroglyph}X:r:d-Xrd-A1\end{hieroglyph} &
-    \texttimes &
-    \begin{hieroglyph}H-n:a mwt-\!\!t:.-B1 f\end{hieroglyph}
-  \\
-    \tl{Xrd} &
-    \texttimes &
-    \tl{Hna mw.t=f}
-  \\
-    \td{l'enfant} &
-    \td{est} &
-    \td{avec sa mère}
-  \\
-\end{tabular}
+\begin{minipage}{0.5\textwidth}
+  \begin{tabular}{lcl}
+      \begin{hieroglyph}X:r:d-Xrd-A1\end{hieroglyph} &
+      \texttimes &
+      \begin{hieroglyph}H-n:a mwt-\!\!t:.-B1 f\end{hieroglyph}
+    \\
+      \tl{Xrd} &
+      \texttimes &
+      \tl{Hna mw.t=f}
+    \\
+      \td{l'enfant} &
+      \td{est} &
+      \td{avec sa mère}
+    \\
+  \end{tabular}
+\end{minipage}%
+\begin{minipage}{0.5\textwidth}
+  \begin{tabular}{lcl}
+      \begin{hieroglyph}X:r:d-Xrd-A1\end{hieroglyph} &
+      \texttimes &
+      \begin{hieroglyph}H-n:a s\end{hieroglyph}
+    \\
+      \tl{Xrd} &
+      \texttimes &
+      \tl{Hna=s}
+    \\
+      \td{l'enfant} &
+      \td{est} &
+      \td{avec elle}
+    \\
+  \end{tabular}
+\end{minipage}
 
-\bigskip
-
-\begin{tabular}{lcl}
-    \begin{hieroglyph}X:r:d-Xrd-A1\end{hieroglyph} &
-    \texttimes &
-    \begin{hieroglyph}H-n:a s\end{hieroglyph}
-  \\
-    \tl{Xrd} &
-    \texttimes &
-    \tl{Hna=s}
-  \\
-    \td{l'enfant} &
-    \td{est} &
-    \td{avec elle}
-  \\
-\end{tabular}
-
-\section{Auxiliaire \tlb{iw}}
+\section{Auxiliaire \tl{iw}}
 %----------------------------------------------------------------------
 
 La proposition à prédicat adverbial n'a pas de \clef{valeur 
@@ -385,7 +388,7 @@ introducteur peut être de trois sortes :
 
 L'élément introducteur le plus fréquent, celui qui fait partie de la 
 structure de base de la phrase à prédicat adverbial est l'auxiliaire 
-\tlb{iw} \begin{hieroglyph}i-w\end{hieroglyph}. Il n'est pas traduit. 
+\tl{iw} \begin{hieroglyph}i-w\end{hieroglyph}. Il n'est pas traduit. 
 Il indique simplement que l'énoncé est présenté comme un fait 
 objectif. Il donne donc une \frquote{valeur 
 d'indicatif\footnote{M.~\bsc{Malaise}, J.~\bsc{Winand}, 

@@ -1,76 +1,140 @@
 %!TEX root = DULAEP_EG.htx
 %##HieroDef.txt
 
-\part{Cours~6 -- Grammaire -- Les phrases non verbales -- 
-Présentation du système prédicatif égyptien}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\part{Cours~8 -- Grammaire -- Les phrases non verbales (2)}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-% \chapter{L'histoire du déchiffrement}
+\chapter{Syntaxe de la \PPA (suite et fin)}
 %======================================================================
 
-% \section{La perte de la tradition}
-%----------------------------------------------------------------------
+Nous allons à présent terminer notre exploration de la \PPA avec un 
+dernier complément, qui concerne cette fois le sujet de la \PPA.
 
-% \subsection{Le \sieclenum{18} : plusieurs tentatives}
-%~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-É GYPTIEN CLASSIQUE  - S EMESTRE  1
-Cours 8 -- Grammaire de l'égyptien classique
-2 e partie -- Les phrases non verbales 
-V -- S YNTAXE DE LA PROPOSITION A PREDICAT ADVERBIAL  ( SUITE
-ET FIN )
-Nous allons à présent terminer notre exploration de la proposition à prédicat adverbial avec un
-dernier complément, qui concerne cette fois le sujet de la proposition à prédicat adverbial.
 Nous avons vu que le sujet pouvait être assumé par :
-× un nom ou un groupe nominal
-× un pronom personnel (pronom suffixe avec iw et les convertisseurs temporels, pronom
-dépendant avec d'autres auxiliaires comme mk)
+\begin{itemize}
+  \item un nom ou un groupe nominal
+  \item un pronom personnel (pronom suffixe avec \tl{iw} et les 
+        convertisseurs temporels, pronom dépendant avec d'autres 
+        auxiliaires comme \tl{mk})
+\end{itemize}
+
+\bigskip
+
 Observez cette phrase :
-iw mi sxr nTr (conte de Sinouhé)
-Vous reconnaissez  la préposition mi \frquote{comme}.
-sxr signifie \frquote{plan, dessein} et il a pour complément de nom au génitif direct  .
-Nous avons donc l'auxiliaire indicatif iw puis, directement, un groupe prépositionnel mi sxr
-nTr \frquote{comme le dessein d'un dieu}.
-D'après ce que vous savez de la structure de la Proposition à prédicat adverbial quel élément
-manque-t-il ? Effectivement : le sujet. Dans certains cas, on trouve en effet une omission du
-sujet. Cette omission correspond en fait à notre sujet indéfini \frquote{c'}.
-iw ø mi sxr nTr (conte de Sinouhé)
-\frquote{C'était comme le dessin d'un dieu}
-(affirme le héros Sinouhé en guise d'explication à sa fuite inexpliquée hors d'\kmt)
-Ce type de construction correspond, du point de vue du sens, au proposition à prédicat
-adverbial ayant pour sujet un pronom démonstratif neutre (sur les pronoms démonstratifs, voir
-cours 4).
 
-iw nA m sbAy.t
-Cela est un enseignement
-(iw + sujet/pronom démonastratif neutre + prédicat adverbial)
-À faire : Exercice 16 à rendre par email
-=> Le cours de grammaire de cette semaine est bref. Faites avec soin et réflexion l'exercice
-16, qui porte sur la Proposition à prédicat adverbial, dont nous avons vus les différents
-éléments.
-=> Après avoir fait l'exercice sur la Proposition à prédicat adverbial, prenez le temps de faire
-l'exercice d'épigraphie 17, un exercice de traduction sur document qui sera une sorte de
-révision du groupe nominal.
-=> Lisez et apprenez aussi ensuite, le complément de cours sur le groupe nominal
+\begin{center}
+  \begin{hieroglyph}i-w-mi-i-s-x:r:Y1-nTr-1\end{hieroglyph}
 
+  \tl{iw mi sxr nTr} (\source{Conte de Sinouhé})
+\end{center}
+
+Vous reconnaissez \begin{hieroglyph}mi-i\end{hieroglyph} la 
+préposition \tl{mi} \td{comme}.
+
+\begin{hieroglyph}s-x:r:Y1\end{hieroglyph} \tl{sxr} signifie 
+\td{plan}, \td{dessein} et il a pour complément de nom au génitif 
+direct \begin{hieroglyph}nTr-1\end{hieroglyph}.
+
+Nous avons donc l'auxiliaire indicatif \tl{iw} puis, directement, un 
+groupe prépositionnel \tl{mi sxr nTr} \td{comme le dessein d'un dieu}.
+
+D'après ce que vous savez de la structure de la \PPA quel élément 
+manque-t-il ? Effectivement : le sujet. Dans certains cas, on trouve 
+en effet une omission du sujet. Cette omission correspond en fait à 
+notre sujet indéfini \td{c'}.
+
+\begin{center}
+  \begin{hieroglyph}i-w-mi-i-s-x:r:Y1-nTr-1\end{hieroglyph}
+
+  \tl{iw \colorbox{Aqua}{$\emptyset$} mi sxr nTr} 
+  (\source{Conte de Sinouhé})
+
+  \td{C'était comme le dessin d'un dieu.}
+
+  \rem{(affirme le héros Sinouhé en guise d'explication à sa fuite 
+  inexpliquée hors d'\kmt)}
+\end{center}
+
+Ce type de construction correspond, du point de vue du sens, 
+au proposition à prédicat adverbial ayant pour sujet un pronom 
+démonstratif neutre (sur les pronoms démonstratifs, voir 
+\doc{cours~4}).
+
+\begin{center}
+  \begin{hieroglyph}i-w-n:A-m-s-sbA-i-i-t:Y1\end{hieroglyph}
+
+  \tl{iw nA m sbAy.t} 
+
+  \td{Cela est un enseignement.}
+
+  \rem{(\tl{iw} + sujet/pronom démonstratif neutre + prédicat 
+  adverbial)}
+\end{center}
+
+\bigskip
+
+\begin{exercice}
+  À faire : Exercice~16 à rendre par email
+\end{exercice}
+
+\bigskip
+
+\donc{} Le cours de grammaire de cette semaine est bref. Faites 
+avec soin et réflexion l'exercice~16, qui porte sur la \PPA, dont 
+nous avons vus les différents éléments.
+
+\donc{} Après avoir fait l'exercice sur la \PPA, prenez le temps 
+de faire l'exercice d'épigraphie~17, un exercice de traduction sur 
+document qui sera une sorte de révision du groupe nominal.
+
+\donc{} Lisez et apprenez aussi ensuite, le complément de cours sur 
+le groupe nominal
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\part{Cours~8 -- Grammaire -- Le groupe nominal -- compléments}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\chapter{Expression de l'ipséité (\td{lui-même}, \td{en personne})}
 %======================================================================
 
-É GYPTIEN CLASSIQUE  - S EMESTRE  1
-Cours 8 -- Grammaire de l'égyptien classique
-Le groupe nominal -- compléments
-1) Expression de l'ipséité (\frquote{lui-même}, \frquote{en personne})
-On peut renforcer un substantif en utilisant des expressions qui équivalent au français
-\frquote{même}, \frquote{en personne}.
-- élément souligné +  ou  Ds + pronom suffixe (qui s'accorde avec l'élément
-souligné).
-Ex. :  Hm=f Ds=f \frquote{sa Majesté en personne}.
-- élément souligné + préposition  m (\frquote{dans}), ou  n (\frquote{à, pour}), ou r (\frquote{vers,
-contre}), +  Ha.w (\frquote{corps}) + pronom suffixe.
-Ex. :  sxty pn m Ha.w=f \frquote{ce paysan lui-même}.
-2) Expression de l'intégralité (\frquote{tout entier})
-L'égyptien dispose de plusieurs périphrases pour exprimer le français \frquote{entier}, \frquote{tout
-entier}.
--  r-Dr + pronom suffixe :  r-Dr=f, litt. \frquote{jusqu'à sa limite}
--  r-Aw + pronom suffixe :  r-Aw=f, litt. \frquote{jusqu'à sa longueur}
--  mi qd  ou mi qi  + pronom suffixe, litt. \frquote{comme (sa) forme}
-Ex. :  tA pn r-Dr=f \frquote{ce pays tout entier}
+On peut renforcer un substantif en utilisant des expressions qui 
+équivalent au français \td{même}, \td{en personne}.
+
+\begin{itemize}
+  \item élément souligné + \begin{hieroglyph}D-s\end{hieroglyph} ou 
+        \begin{hieroglyph}D:\!z\s2\end{hieroglyph} \tl{Ds} + pronom 
+        suffixe (s'accordant avec l'élément souligné).\\
+        Ex. : \begin{hieroglyph}Hm:f D-s f\end{hieroglyph} 
+        \tl{Hm=f Ds=f} \td{sa Majesté en personne}.
+  \item élément souligné + préposition 
+        \begin{hieroglyph}m\end{hieroglyph} \tl{m} (\td{dans}), ou
+        \begin{hieroglyph}n\end{hieroglyph} \tl{n} (\td{à, pour}), ou 
+        \begin{hieroglyph}r\end{hieroglyph} \tl{r} (\td{vers}, 
+        \td{contre}) +
+        \begin{hieroglyph}H-a:F51*F51*F51\end{hieroglyph} \tl{Ha.w} 
+        (\td{toutes les parties du corps}) + pronom suffixe.\\
+        Ex. : \begin{hieroglyph}
+          sxt-t:y-A1 p:n m H-a:F51-3:f
+        \end{hieroglyph} 
+        \tl{sxty pn m Ha.w=f} \td{ce paysan lui-même}.
+\end{itemize}
+
+\chapter{Expression de l'intégralité (\td{tout entier})}
+%======================================================================
+
+L'égyptien dispose de plusieurs périphrases pour exprimer le français 
+\td{entier}, \td{tout entier}.
+
+\begin{itemize}
+  \item \tl{r-Dr} + pronom suffixe : 
+        \begin{hieroglyph}r-Dr:r-f\end{hieroglyph} \tl{r-Dr=f}, 
+        \litt \td{jusqu'à sa limite}
+  \item \tl{r-Aw} + pronom suffixe : 
+        \begin{hieroglyph}r-Aw:Y1-f\end{hieroglyph} \tl{r-Aw=f}, 
+        \litt \td{jusqu'à sa longueur}
+  \item \tl{mi qd} \begin{hieroglyph}mi-i-qd-d:nw\end{hieroglyph} ou 
+        \tl{mi qi} \begin{hieroglyph}mi-i-q-i-A53\end{hieroglyph} + 
+        pronom suffixe, \litt \td{comme (sa) forme}
+\end{itemize}
