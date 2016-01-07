@@ -12,25 +12,25 @@
 En égyptien classique, il n'y a pas d'article. Le groupe nominal 
 débute normalement par le substantif principal ; les déterminants 
 du nom et les compléments de noms le suivent. Exception pour les
-démonstratifs de la série \tlb{pA}, \tlb{tA}, \tlb{nA} et pour 
-les équivalents du démonstratif pluriel : \tlb{nn n(y)}, etc.
+démonstratifs de la série \tl{pA}, \tl{tA}, \tl{nA} et pour 
+les équivalents du démonstratif pluriel : \tl{nn n(y)}, etc.
 
 \section{Structure de la phrase non verbale, type à prédicat 
 adverbial ou à construction pseudo-verbale}
 % --------------------------------------------------------------
 La proposition à prédicat adverbial (description de situation) 
-et la phrase avec construction pseudo-verbal \tlb{Hr}/\tlb{m}
-ou \tlb{r} + infinitif ont le schéma suivant : 
-\primo élément introducteur (par défaut \tlb{iw}), le sujet et 
+et la phrase avec construction pseudo-verbal \tl{Hr}/\tl{m}
+ou \tl{r} + infinitif ont le schéma suivant : 
+\primo élément introducteur (par défaut \tl{iw}), le sujet et 
 le prédicat.
 
 \section{L'égyptien classique a plusieurs séries de pronoms 
 personnels}
 % --------------------------------------------------------------
 On a vu le pronom suffixe (qui peut servir de possessif dans le 
-cadre du groupe nominal, de sujet de la phrase après \tlb{iw} 
+cadre du groupe nominal, de sujet de la phrase après \tl{iw} 
 notamment, de COD d'un infinitif. Après certains éléments 
-introductions (comme \tlb{mk} ou la négation \tlb{nn}), le 
+introductions (comme \tl{mk} ou la négation \tl{nn}), le 
 pronom dépendant est requis comme sujet pronominal.
 
 \section{Les séquences de propositions}
@@ -48,8 +48,8 @@ traduites comme des phrases coordonnées ou des circonstancielles.
 % --------------------------------------------------------------
 L'infinitif est la première forme verbale que nous étudions. 
 Nous avons vu son emploi dans les prédicats pseudo-verbaux : 
-\tlb{Hr}/\tlb{m} + infinitif (inaccompli progressif) et 
-\tlb{r} + infinitif (futur).
+\tl{Hr}/\tl{m} + infinitif (inaccompli progressif) et 
+\tl{r} + infinitif (futur).
 
 \section{Temps et aspect du verbe}
 % --------------------------------------------------------------
@@ -101,18 +101,18 @@ infinitif.
 \end{center}
 
 \textbf{L'agent de l'infinitif peut être introduit par la 
-préposition \tlb{in} \frquote{par} :}
+préposition \tl{in} \frquote{par} :}
 
 \begin{hieroglyph}
   N41:z:t-A1-r-sDm-m-spr:r-w-A2-+l (\dots) +s-i-n-irypat-HAtya-
   +l (\dots) +s-r:x:Y1-mi:1-mi
 \end{hieroglyph}\\
-\tlb{Hms.t r sDm sprw (\dots) in r-pa(.t) HAty-a (\dots) 
+\tl{Hms.t r sDm sprw (\dots) in r-pa(.t) HAty-a (\dots) 
 Rx-mi-Ra}\\
 S'asseoir pour écouter le plaignant (\dots) par le noble, 
 le prince local (\dots) Rekhmirê (ex. Gardiner, 
 \emph{Egyptian Grammar}, §~305)\\
-Infinitif de  \tlb{Hmsi} \vi{4}.\\
+Infinitif de  \tl{Hmsi} \vi{4}.\\
 (Légende d'une scène dans la Tombe Thébaine~100, de Rekhmirê, 
 vizir sous Touthmosis~III, \dyn{xviii}, \fref{fig:TT100}).
 
@@ -140,16 +140,16 @@ partielles sont des questions plus précises, portant sur un
 élément de réponse.
 
 \paragraph{\emph{L'interrogation globale}} se forme avec un 
-auxiliaire d'énonciation spécifique : \tlb{in} ou \tlb{in-iw} 
-\begin{hieroglyph}i-n-i-w\end{hieroglyph} \frquote{est-ce que ?}.
+auxiliaire d'énonciation spécifique : \tl{in} ou \tl{in-iw} 
+\begin{hieroglyph}i-n-i-w\end{hieroglyph} \td{est-ce que ?}.
 
 \begin{center}
   \begin{hieroglyph}i-n-i-w-k-r-z:A1*1-n:n-nH-h-h-ra\end{hieroglyph}\\
   (Oasien B\,126)\\
-  \tlb{in-iw=k r s n(y) nHH ?}\\
+  \tl{in-iw=k r s n(y) nHH ?}\\
   Est-ce que tu seras un homme d'éternité ?\\
   Seras-tu un homme d'éternité ?\\
-  Proposition à prédicat adverbial avec \tlb{r} d'état, 
+  Proposition à prédicat adverbial avec \tl{r} d'état, 
   proposition interrogative
 \end{center}
 
@@ -157,33 +157,35 @@ auxiliaire d'énonciation spécifique : \tlb{in} ou \tlb{in-iw}
 un pronom interrogatif.
 
 \begin{itemize}
-  \item quoi ? \begin{hieroglyph}i-x:Y1\end{hieroglyph} \tlb{ix}
+  \item quoi ? \begin{hieroglyph}i-x:Y1\end{hieroglyph} \tl{ix}
   \item quoi ? 
-        \begin{hieroglyph}i-Ss-z:t-A2\end{hieroglyph} \tlb{iSs.t}
+        \begin{hieroglyph}i-Ss-z:t-A2\end{hieroglyph} \tl{iSs.t}
   \item qui ? quel ? quoi ? 
-        \begin{hieroglyph}p*t:r-tr\end{hieroglyph} \tlb{ptr}
-  \item qui, quoi \begin{hieroglyph}m:a\end{hieroglyph} \tlb{mi}
+        \begin{hieroglyph}p*t:r-tr\end{hieroglyph} \tl{ptr}
+  \item qui, quoi \begin{hieroglyph}m:a\end{hieroglyph} \tl{mi}
   \item qui ? quel ? quoi ? 
-        \begin{hieroglyph}zb-i-i-Y1\end{hieroglyph} \tlb{sy}
-  \item où \begin{hieroglyph}t:n-nw-w-T14-pA'\end{hieroglyph} \tlb{Tnw}
+        \begin{hieroglyph}zb-i-i-Y1\end{hieroglyph} \tl{sy}
+  \item où \begin{hieroglyph}t:n-nw-w-T14-pA'\end{hieroglyph} \tl{Tnw}
 \end{itemize}
 
 L'adverbe interrogatif se place à la place qu'occuperait 
 la réponse dans la phrase affirmative :
 
 Ex. \begin{hieroglyph}i-w-T:n-mi-i-i-x:Y1\end{hieroglyph}\\
-    \tlb{iw=Tn mi ix ?}\\
+    \tl{iw=Tn mi ix ?}\\
     \emph{Vous êtes comme quoi ?}\\
     Comment allez-vous ?
 
 Ex. \begin{hieroglyph}i-w-k-t:n-nw-w-T14-pA'\end{hieroglyph}\\
-    \tlb{iw=k tnw ?}\\
+    \tl{iw=k tnw ?}\\
     \emph{Tu es où ?}\\
     où es-tu ?
 
 \bigskip
 
-Faire l'exercice~22 (à rendre par email)
+\begin{exercice}
+  Faire l'exercice~22 (à rendre par email)
+\end{exercice}
 
 \begin{center}
   \em

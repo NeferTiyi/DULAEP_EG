@@ -6,7 +6,7 @@ pseudo-verbales (2\ieme~partie)}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \chapter{Les formes pseudo-verbales avec infinitif (2) : inaccompli 
-avec sens futur : \tlb{r} + infinitif}
+avec sens futur : \tl{r} + infinitif}
 %======================================================================
 
 %\section{La perte de la tradition}
@@ -14,52 +14,52 @@ avec sens futur : \tlb{r} + infinitif}
 
 Il existe une autre construction pseudo-verbale avec infinitif, 
 toujours dans le non-accompli. Cette fois, la construction est 
-\uline{\tlb{r} + infinitif}. Elle ne note pas le présent, mais le 
+\uline{\tl{r} + infinitif}. Elle ne note pas le présent, mais le 
 futur (appelé \frquote{allatif} chez Grandet/Mathieu)\footnote{Cette 
 forme donnera en néo-égyptien le Futur~III.}. Le sens vient du sens 
-premier de la préposition \frquote{vers, en direction de} (comparer 
-avec le \frquote{\tlb{r} d'état} du \doc{cours~6}).
+premier de la préposition \td{vers}, \td{en direction de} (comparer 
+avec le \frquote{\tl{r} d'état} du \doc{cours~6}).
 
 \begin{center}
   \begin{hieroglyph}i-w-bA:k-r-imi-m-A2\end{hieroglyph}\\
-  \tlb{iw bAk r wnm}\\
-  \frquote{Le serviteur mangera (va manger)}
+  \tl{iw bAk r wnm}\\
+  \td{Le serviteur mangera (va manger)}
 
   \begin{hieroglyph}i-w-bA:k-r-pr:r-t:D54-m-pr-1\end{hieroglyph}\\
-  \tlb{iw bAk r pr.t m pr}\\
-  \frquote{Le serviteur sortira de la maison}
+  \tl{iw bAk r pr.t m pr}\\
+  \td{Le serviteur sortira de la maison}
 \end{center}
 
 La syntaxe est en tous points identique à celle des formes de 
-l'inaccompli progressif \tlb{Hr}/\tlb{m} + infinitif (voir 
+l'inaccompli progressif \tl{Hr}/\tl{m} + infinitif (voir 
 \doc{cours~10)}.
 
 \begin{aparte}
   \begin{hieroglyph}i-w-f:r-sDm-m\end{hieroglyph}
-  \tlb{iw=f r sDm} \frquote{il écoutera}
+  \tl{iw=f r sDm} \td{il écoutera}
 
   \begin{hieroglyph}i-w-f:r-sDm-m-nb-A1-f\end{hieroglyph}
-  \tlb{iw=f r sDm nb=f} \frquote{il écoutera son maître}
+  \tl{iw=f r sDm nb=f} \td{il écoutera son maître}
 
   \begin{hieroglyph}i-w-f:r-sDm-m-f\end{hieroglyph}
-  \tlb{iw=f r sDm=f} \frquote{il l'écoutera} (COD pronominal après 
+  \tl{iw=f r sDm=f} \td{il l'écoutera} (COD pronominal après 
   un infinitif : pronom suffixe)
 
   \begin{hieroglyph}m-D38:k-sw-W-r-sDm-m-f\end{hieroglyph}
-  \tlb{mk sw r sDm=f} \frquote{vois, il l'écoutera}
+  \tl{mk sw r sDm=f} \td{vois, il l'écoutera}
 \end{aparte}
 
 \begin{center}
   \begin{hieroglyph}
     i-w-f:r-iTi:t*t-tA:tA-tA:N23*N23-sw-N23:3
   \end{hieroglyph}\\
-  \tlb{iw=f r it.t tA.w rsy.w}\\
-  \frquote{Il (le roi) conquerra les pays du Sud} (\emph{Conte de 
+  \tl{iw=f r it.t tA.w rsy.w}\\
+  \td{Il (le roi) conquerra les pays du Sud} (\emph{Conte de 
   Sinouhé} B71~72)
 \end{center}
 
-Quelques précisions sur la valeur de la construction \tlb{iw} + 
-sujet + \tlb{r} + infinitif sont à noter.
+Quelques précisions sur la valeur de la construction \tl{iw} + 
+sujet + \tl{r} + infinitif sont à noter.
 La construction a deux sens :
 {\bfseries%
 \begin{enumerate}
@@ -73,62 +73,62 @@ Il existe d'autres types de futurs (sous d'autres modalités, ou
 dans des constructions syntaxiques spécifiques) qui sont exprimés 
 par d'autres constructions, notamment par des formes de la 
 \textbf{\textcolor{orange}{conjugaison suffixale}} (qui sera vue 
-l'année prochaine), le subjonctif \tlb{sDm=f} (\frquote{qu'il écoute}) 
-et le prospectif \tlb{sDm(w)=f} (\frquote{il écoutera}). Mais, à titre 
+l'année prochaine), le subjonctif \tl{sDm=f} (\td{qu'il écoute}) 
+et le prospectif \tl{sDm(w)=f} (\td{il écoutera}). Mais, à titre 
 de première approche, on peut déjà noter que :
 \begin{itemize}
   \item Pour \textbf{le souhait} ou \textbf{l'ordre poli}, on 
-        utilisera la forme dite \tlb{sDm=f} subjonctif 
-        (\frquote{puisse-t-il écouter}, \frquote{qu'il écoute})
+        utilisera la forme dite \tl{sDm=f} subjonctif 
+        (\td{puisse-t-il écouter}, \td{qu'il écoute})
   \item Pour l'expression, \textbf{à la première personne}, de la 
         volonté de faire quelque chose, on utilise aussi le subjonctif 
-        \tlb{sDm=f} : \tlb{sDm=i} \frquote{j'ai l'intention d'écouter}
+        \tl{sDm=f} : \tl{sDm=i} \td{j'ai l'intention d'écouter}
   \item Le futur objectif et obligatoire, normalement assumé par 
-        \tlb{r} + infinitif, pourra être exprimé dans certaines 
-        constructions particulières par un \tlb{sDm(w)=f} dit 
-        prospectif. En particulier le prospectif \tlb{sDm(w)=f} est 
+        \tl{r} + infinitif, pourra être exprimé dans certaines 
+        constructions particulières par un \tl{sDm(w)=f} dit 
+        prospectif. En particulier le prospectif \tl{sDm(w)=f} est 
         utilisé pour \textbf{nier le futur objectif}, comme on va le 
         voir.
 \end{itemize}
 
-\begin{aparte}
+\begin{remarque}
   Remarque : vous notez que dans la conjugaison dite suffixale de type 
-  \tlb{sDm=f} le pronom suffixe indique le sujet de la forme verbale. 
+  \tl{sDm=f} le pronom suffixe indique le sujet de la forme verbale. 
   L'ordre des mots des propositions verbales est donc, normalement 
   Verbe + Sujet.
-\end{aparte}
+\end{remarque}
 
 \chapter{Négations des constructions pseudo-verbales avec infinitif}
 %======================================================================
 
-\textbf{L'inaccompli progressif} \tlb{Hr} + infinitif et 
-\tlb{m} + infinitif se nie tout simplement en remplaçant 
-\tlb{iw} par l'auxiliaire de la négation \tlb{nn} 
+\textbf{L'inaccompli progressif} \tl{Hr} + infinitif et 
+\tl{m} + infinitif se nie tout simplement en remplaçant 
+\tl{iw} par l'auxiliaire de la négation \tl{nn} 
 \begin{hieroglyph}nn\end{hieroglyph}. C'est la même négation que 
 pour la proposition à prédicat adverbial (voir \doc{cours~7}). 
 Lorsque le sujet est pronominal on utilise le pronom dépendant.
 
 \begin{center}
   \begin{hieroglyph}nn-sw-W-Hr-1-imi-m-A2\end{hieroglyph}\\
-  \tlb{nn sw Hr wnm}\\
+  \tl{nn sw Hr wnm}\\
   Il n'est pas en train de manger.\\
   Il ne mange pas
 \end{center}
 
-Pour le futur \textbf{\tlb{r} + infinitif}, la construction attendue 
--- \tlb{nn b A k r sDm} \frquote{le serviteur n'écoutera pas} -- n'est 
+Pour le futur \textbf{\tl{r} + infinitif}, la construction attendue 
+-- \tl{nn b A k r sDm} \td{le serviteur n'écoutera pas} -- n'est 
 pas utilisée\footnote{Une construction de ce type apparaît à partir de 
 la \dyn{18}, voir \bsc{Malaise}, \bsc{Winand}, \emph{Grammaire 
 raisonnée}, §~642.}.
 
-Le corrélat négatif habituel de \tlb{iw=f r sDm} utilise une forme de 
+Le corrélat négatif habituel de \tl{iw=f r sDm} utilise une forme de 
 la \textbf{\textcolor{orange}{conjugaison suffixale}}, le prospectif 
-\tlb{sDm(w)=f} : \begin{hieroglyph}nn-imi-m-W-f\end{hieroglyph} 
-\frquote{il n'écoutera pas} -- 
-\begin{hieroglyph}nn-imi-m-W-bA:k-A1\end{hieroglyph} \tlb{nn sDmw bAk} 
-\frquote{le serviteur n'écoutera pas}. Nous aborderons la morphologie 
+\tl{sDm(w)=f} : \begin{hieroglyph}nn-imi-m-W-f\end{hieroglyph} 
+\td{il n'écoutera pas} -- 
+\begin{hieroglyph}nn-imi-m-W-bA:k-A1\end{hieroglyph} \tl{nn sDmw bAk} 
+\td{le serviteur n'écoutera pas}. Nous aborderons la morphologie 
 de cette forme verbale l'an prochain avec le reste de la conjugaison 
-suffixale, mais notez déjà son lien avec la construction \tlb{r} + 
+suffixale, mais notez déjà son lien avec la construction \tl{r} + 
 infinitif.
 
 \chapter{Les convertisseurs (temporels) dans les constructions 
@@ -136,11 +136,11 @@ pseudo-verbales avec infinitif}
 %======================================================================
 
 Comme pour la proposition à prédicat adverbial, une phrase à prédicat 
-pseudo-verbal (\tlb{Hr}/\tlb{m} + infinitif en particulier) peut être 
+pseudo-verbal (\tl{Hr}/\tl{m} + infinitif en particulier) peut être 
 introduite par un convertisseur (temporel) 
 \begin{hieroglyph}wn:n\end{hieroglyph} et 
 \begin{hieroglyph}wn:n:n\end{hieroglyph} (voir \doc{cours~7}). 
-Dans la phrase \tlb{iw bAk Hr sDm} \frquote{le serviteur écoute} 
+Dans la phrase \tl{iw bAk Hr sDm} \td{le serviteur écoute} 
 (est en train d'écouter), le point de référence temporel est celui 
 de l'énonciation, donc le présent (sauf si la phrase s'insère dans 
 un récit au passé).
@@ -149,7 +149,7 @@ On peut transposer cette proposition dans le passé ou dans le futur,
 par rapport au point de référence, avec des convertisseurs.
 
 Ex. \begin{hieroglyph}wn:n-t:Hr-qd nn-imi-m-W-bA:k-A1\end{hieroglyph} 
-\tlb{Wn = t(w) Hr qd xnr.t pn} (\bsc{Malaise}/\bsc{Winand}, 
+\tl{wn=t(w) Hr od xnr.t pn} (\bsc{Malaise}/\bsc{Winand}, 
 \emph{Grammaire raisonnée}, exemple~1220)
 On était en train de construire cette enceinte.
 

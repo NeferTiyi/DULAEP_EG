@@ -47,7 +47,7 @@ l'écriture\footnote{Voir P.~\bsc{Vernus}, \emph{Aegyptus} LXXXI/1-2
 \textbf{\uline{Quel est le nombre de signes 
 hiéroglyphiques ?}\footnote{Ph.~\bsc{Collombert}, \frquote{Combien y 
 avait-il de hiéroglyphes}, \emph{\kmt. Afrique \& Orient}~46, 2007, 
-p.~15-28. Téléchargeable : \url{http://www.unige.ch/lettres/antic/ 
+p.~15-28. Téléchargeable : \url{http://www.unige.ch/lettres/antic/%
 egyptologie/enseignants/philippecollombert/}.} La réponse n'est pas si 
 aisée qu'on le penserait.}
 
@@ -147,6 +147,6 @@ logographique (un signe = un mot), mais aussi et surtout valeur
 phonétique sur le principe du rébus. Tout ceci est développé dans 
 la prochaine section.
 
-\begin{aparte}
-  \donc Exercice~1 à faire
-\end{aparte}
+\begin{exercice}
+  \donc{} Exercice~1 à faire
+\end{exercice}

@@ -5,15 +5,6 @@
 (suite)}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-% \chapter{L'histoire du déchiffrement}
-%======================================================================
-
-% \section{La perte de la tradition}
-%----------------------------------------------------------------------
-
-% \subsection{Le \sieclenum{18} : plusieurs tentatives}
-%~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
 Nous poursuivons notre exploration du groupe nominal et des mots qui 
 le composent afin de prendre progressivement connaissance des 
 structures de la langue.
@@ -34,7 +25,7 @@ En égyptien ancien, il y a deux grands types d'adjectifs :
   \item les adjectifs dits \frquote{nisbés}, dérivés de substantifs.
   \item à ces deux catégories, s'ajoute le cas particulier de 
         l'adjectif indéfini \begin{hieroglyph}nb\end{hieroglyph} 
-        \tlb{nb} (\frquote{tout}, \frquote{chaque})
+        \tl{nb} (\td{tout}, \td{chaque})
 \end{itemize}
 
 Nous allons aborder les trois séries.
@@ -44,10 +35,10 @@ Nous allons aborder les trois séries.
 
 Étymologiquement, ces adjectifs sont formés à partir de verbes de 
 qualité. Par exemple, \begin{hieroglyph}d:S:r-dSr\end{hieroglyph} 
-\tlb{dSr}, \td{rouge}, dérive étymologiquement du verbe 
-\tlb{dSr} \td{devenir rouge} ; 
-\begin{hieroglyph}aA:a-A-Y1v\end{hieroglyph} \tlb{aA} 
-\frquote{grand}, d'un verbe \tlb{aAi} \td{devenir grand}.
+\tl{dSr}, \td{rouge}, dérive étymologiquement du verbe 
+\tl{dSr} \td{devenir rouge} ; 
+\begin{hieroglyph}aA:a-A-Y1v\end{hieroglyph} \tl{aA} 
+\td{grand}, d'un verbe \tl{aAi} \td{devenir grand}.
 
 Aucune marque graphique ou désinences ne distinguent les adjectifs 
 des autres mots. Utilisés en tant qu'épithètes du nom, les adjectifs 
@@ -57,29 +48,40 @@ et \textbf{s'accordent en genre et en nombre} avec lui.
 Les désinences du pluriel, du duel et du féminin sont les mêmes que 
 celles vues pour les substantifs.
 
-\subsection[Paradigme \tlb{nfr}, \td{bon}, \td{beau}, \td{parfait}]
-{Paradigme \begin{hieroglyph}nfr-f:r\end{hieroglyph} \tlb{nfr}, 
+\subsection[Paradigme \tl{nfr}, \td{bon}, \td{beau}, \td{parfait}]
+{Paradigme \begin{hieroglyph}nfr-f:r\end{hieroglyph} \tl{nfr}, 
 \td{bon}, \td{beau}, \td{parfait}}
 %~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-\begin{tabular}{ccc}
-  Adjectif  & masculin & féminin \\
-  Singulier & 
-    \begin{hieroglyph}nfr-f:r\end{hieroglyph} \tlb{nfr} &  
-    \begin{hieroglyph}nfr-f:r:t\end{hieroglyph} \tlb{nfr.t} \\
-  Pluriel   & 
-    \begin{hieroglyph}nfr-f:r-Z3\end{hieroglyph} \tlb{nfr.w} &
+\begin{tabular}{>{\bfseries}+c^c^c}
+  \toprule
+  \rowstyle{\bfseries}
+    Adjectif & masculin & féminin \\
+  \otoprule
+    Singulier & 
+    \begin{hieroglyph}nfr-f:r\end{hieroglyph} \tl{nfr} &  
+    \begin{hieroglyph}nfr-f:r:t\end{hieroglyph} \tl{nfr.t}
+  \\
+  \midrule
+    Pluriel   & 
+    \begin{hieroglyph}nfr-f:r-Z3\end{hieroglyph} \tl{nfr.w} &
     \begin{hieroglyph}
-      nfr-f:r:t-+l$\Bigg($+s-Z3-+l$\Bigg($+s
-    \end{hieroglyph} \tlb{nfr.(w)t} \\
-  Duel      & 
-   \begin{hieroglyph}
-     nfr-f:r:t-+l$\Bigg($+s-w-\!\!y:.-+l$\Bigg($+s
-   \end{hieroglyph} \tlb{nfr(.wy)} &
-   \begin{hieroglyph}
-     nfr-f:r:t-+l$\Bigg($+s-y-+l$\Bigg($+s
-   \end{hieroglyph} \tlb{nfr.t(y)} \\
+      nfr-f:r:t-+l$\Bigg($+s-Z3-+l$\Bigg)$+s
+    \end{hieroglyph} \tl{nfr.(w)t}
+  \\
+  \midrule
+    Duel      & 
+    \begin{hieroglyph}
+      nfr-f:r:t-+l$\Bigg($+s-w-\!\!y:.-+l$\Bigg)$+s
+    \end{hieroglyph} \tl{nfr(.wy)} &
+    \begin{hieroglyph}
+      nfr-f:r:t-+l$\Bigg($+s-y-+l$\Bigg)$+s
+    \end{hieroglyph} \tl{nfr.t(y)}
+  \\
+  \bottomrule
 \end{tabular}
+
+\bigskip
 
 NB : notez que les désinences qui sont parfois en ellipse. Cela 
 concerne des semi-voyelles.
@@ -88,14 +90,14 @@ concerne des semi-voyelles.
 %~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 \begin{hieroglyph}bA:k-w-A1:3 nfr-f:r-Z3\end{hieroglyph} 
-\tlb{bAk.w nfr.w}, \td{des/les serviteurs parfaits}.
+\tl{bAk.w nfr.w}, \td{des/les serviteurs parfaits}.
 
 \begin{hieroglyph}bA-k:t-B1 nfr-f:r:t\end{hieroglyph} 
-\tlb{bAk.t nfr.t} \td{une/la servante parfaite}
+\tl{bAk.t nfr.t}, \td{une/la servante parfaite}
 
 Notez que, comme en français, les adjectifs peuvent être employés de 
 manière substantivée : \begin{hieroglyph}nfr-f:r:t-B1\end{hieroglyph} 
-\tlb{nfr.t}, \td{la belle} (voir le nom de Néfertiti \tlb{Nfr.t-ii.ti} 
+\tl{nfr.t}, \td{la belle} (voir le nom de Néfertiti \tl{Nfr.t-ii.ti} 
 = \td{la Belle-est-venue})
 
 \section{Les adjectifs \frquote{nisbés}}
@@ -103,246 +105,270 @@ manière substantivée : \begin{hieroglyph}nfr-f:r:t-B1\end{hieroglyph}
 
 L'égyptien ancien possède une série d'adjectifs dérivés de substantifs 
 ou de prépositions. La dérivation s'obtient à ajoutant un suffixe 
-\begin{hieroglyph}y\end{hieroglyph} \tlb{y}. Cette dérivation indique 
+\begin{hieroglyph}y\end{hieroglyph} \tl{y}. Cette dérivation indique 
 une relation\footnote{Le mot \frquote{nisbé} est emprunté à la 
 grammaire arabe, \emph{ism el-nisba}, \td{nom de relation}.} avec le 
 terme dont ils sont dérivés.
 
 Exemples :
 
-\begin{hieroglyph}nTr-1\end{hieroglyph} \tlb{nTr}, \td{dieu} 
-\donc \begin{hieroglyph}nTr-T:r:y\end{hieroglyph} \tlb{nTry}, 
+\begin{hieroglyph}nTr-1\end{hieroglyph} \tl{nTr}, \td{dieu} 
+\donc{} \begin{hieroglyph}nTr-T:r:y\end{hieroglyph} \tl{nTry}, 
 \td{ce qui est relatif au dieu} = \td{divin}
 
-\begin{hieroglyph}Hr-1\end{hieroglyph} \tlb{Hr}, \td{sur} 
-(préposition) \donc \begin{hieroglyph}Hr-r:y-pt\end{hieroglyph} 
-\tlb{Hry}, \td{qui est sur}, \td{supérieur}\footnote{Noter en ce 
-cas la possibilité d'associer au nouveau mot formé un déterminatif 
-correspondant au sens nouveau. Ici, 
-\begin{hieroglyph}pt\end{hieroglyph}, la voûté céleste, pour ce qui 
-est au-dessus.}.
+\begin{hieroglyph}Hr-1\end{hieroglyph} \tl{Hr}, \td{sur} 
+(préposition) \donc{} \begin{hieroglyph}Hr-r:y-pt\end{hieroglyph} 
+\tl{Hry}, \td{qui est sur}, \td{supérieur}\footnote{\SmallerText 
+Noter en ce cas la possibilité d'associer au nouveau mot formé un 
+déterminatif correspondant au sens nouveau. 
+Ici, \begin{hieroglyph}pt\end{hieroglyph}, la voûté céleste, pour 
+ce qui est au-dessus.}.
 
 Les adjectifs formés sur des substantifs ne posent pas de problème de 
 traduction aux locuteurs francophones :
 
-Ex. \begin{hieroglyph}imnt-t:xAst\end{hieroglyph} \tlb{imn.t} 
-\td{l'Occident} / \td{l'Ouest} \donc 
-\begin{hieroglyph}imnt-t*y:xAst\end{hieroglyph} \tlb{imnty} 
+Ex. \begin{hieroglyph}imnt-t:xAst\end{hieroglyph} \tl{imn.t}, 
+\td{l'Occident} / \td{l'Ouest} \donc{} 
+\begin{hieroglyph}imnt-t*y:xAst\end{hieroglyph} \tl{imnty}, 
 \td{occidental}
 
 En revanche, il est souvent nécessaire de recourir à une proposition 
 subordonnée relative pour traduire un adjectif nisbé dérivé d'une 
 préposition.
 
-Ex. \begin{hieroglyph}m\end{hieroglyph} \tlb{m} \td{dans} 
+Ex. \begin{hieroglyph}m\end{hieroglyph} \tl{m} \td{dans} 
 (préposition) \donc{} 
-\begin{hieroglyph}i-imi-m-\!\!y:.\end{hieroglyph} \tlb{imy} 
-\td{qui est dans} \smaller{[noter la graphie par rapport à la 
-préposition initiale : trilitère \tlb{imi} + deux compléments 
-phonétiques \tlb{i} et \tlb{m} + le suffixe de dérivation \tlb{y}.]}
+\begin{hieroglyph}i-imi-m-\!\!y:.\end{hieroglyph} \tl{imy} 
+\td{qui est dans} \textsmaller{[noter la graphie par rapport à la 
+préposition initiale : trilitère \tl{imi} + deux compléments 
+phonétiques \tl{i} et \tl{m} + le suffixe de dérivation \tl{y}.]}
 
-En dehors des problèmes éventuels de traduction, les adjectifs nisbés 
-fonctionnent comme les adjectifs de qualité. Quand ils sont épithètes 
-du substantif, ils se \uline{\textbf{placent après}} celui-ci et 
-\uline{\textbf{s'accordent avec lui en genre et en nombre}}. Les 
-désinences sont les mêmes que précédemment.
+En dehors des problèmes éventuels de traduction, les adjectifs 
+nisbés fonctionnent comme les adjectifs de qualité. Quand ils sont 
+épithètes du substantif, ils se \textbf{placent après} celui-ci et 
+\textbf{s'accordent avec lui en genre et en nombre}. Les désinences 
+sont les mêmes que précédemment.
 
-\begin{tabular}{ccc}
-  Adjectif  & masculin & féminin \\
-  Singulier & 
-    \begin{hieroglyph}nTr-T:r:y-Y1v\end{hieroglyph} \tlb{nTry} &  
-    \begin{hieroglyph}nTr-T:r:t-Y1v\end{hieroglyph} \tlb{nTr(y).t} \\
-  Pluriel   & 
-    \begin{hieroglyph}nTr-T:r:y-Y1v-Z3\end{hieroglyph} \tlb{nTry.w} &
+\bigskip
+
+\begin{tabular}{+>{\bfseries}c^c^c}
+  \toprule
+  \rowstyle{\bfseries}
+    Adjectif  & masculin & féminin \\
+  \otoprule
+    Singulier & 
+    \begin{hieroglyph}nTr-T:r:y-Y1v\end{hieroglyph} \tl{nTry} &  
+    \begin{hieroglyph}nTr-T:r:t-Y1v\end{hieroglyph} \tl{nTr(y).t} \\
+  \midrule
+    Pluriel   & 
+    \begin{hieroglyph}nTr-T:r:y-Y1v-Z3\end{hieroglyph} \tl{nTry.w} &
     \begin{hieroglyph}
       nTr-T:r:t-Y1v-+l$\Bigg($+s-Z3-+l$\Bigg)$+s
-    \end{hieroglyph} \tlb{nTr(y).wt} \\
+    \end{hieroglyph} \tl{nTr(y).wt} \\
+  \bottomrule
 \end{tabular}
 
+\bigskip
+
 Observez bien le tableau ci-dessus et notez bien que le suffixe 
-\tlb{-y}, puisqu'il est une semi-voyelle peut parfois ne pas être 
+\tl{-y}, puisqu'il est une semi-voyelle peut parfois ne pas être 
 noté.
+
+\bigskip
 
 \textbf{Remarques importantes concernant les graphies :} les adjectifs 
 nisbés, formés sur des substantifs féminins ou sur des mots dont la 
-racine se termine par un \tlb{t}, présenteront comme derniers phonèmes 
-\tlb{-ty} au masculin singulier (\tlb{t} de la racine + le suffixe 
-\tlb{y}).
+racine se termine par un \tl{t}, présenteront comme derniers phonèmes 
+\tl{-ty} au masculin singulier (\tl{t} de la racine + le suffixe 
+\tl{y}).
 
-Ex. \begin{hieroglyph}imnt-t:xAst\end{hieroglyph} \tlb{imn.t} 
-\td{l'Occident} / \td{l'Ouest} (mot féminin) \donc dérivé en 
-\begin{hieroglyph}imnt-t*y:xAst\end{hieroglyph} \tlb{imnty} 
-\td{occidental}
+Ex. \begin{hieroglyph}imnt-t:xAst\end{hieroglyph} \tl{imn.t} 
+\td{l'Occident} / \td{l'Ouest} (mot féminin) \quad\donc\quad 
+dérivé en \begin{hieroglyph}imnt-t*y:xAst\end{hieroglyph} 
+\tl{imnty} \td{occidental}
 
 Au masculin pluriel, cette catégorie de nisbé se terminera par 
-\tlb{-ty.w}. Au lieu de noter ce groupe 
+\tl{-ty.w}. Au lieu de noter ce groupe 
 \begin{hieroglyph}t-y-W\end{hieroglyph}, les scribes ont recours 
-à un trilière \tlb{tyw} \begin{hieroglyph}tyw\end{hieroglyph} 
-(\MdC{G4})\footnote{\emph{Gardiner list} \MdC{G4}. À distinguer 
-du \emph{aleph}, \begin{hieroglyph}A\end{hieroglyph} \MdC{G1}.}, 
-phonogramme de valeur \tlb{tyw}.
-
-Ex. :
+à un trilière \tl{tyw} \begin{hieroglyph}tyw\end{hieroglyph} 
+(\MdC{G4})\footnote{\SmallerText\emph{Gardiner list} \MdC{G4}. À 
+distinguer du \emph{aleph}, \begin{hieroglyph}A\end{hieroglyph} 
+\MdC{G1}.}, phonogramme de valeur \tl{tyw}.
 
 \noindent%
-\begin{minipage}[t]{0.4\textwidth}
-  \begin{hieroglyph}imnt-t:xAst\end{hieroglyph} \tlb{imn.t} 
+\begin{minipage}[t]{0.3\textwidth}
+  Ex. :
+  \begin{hieroglyph}imnt-t:xAst\end{hieroglyph} \tl{imn.t}, 
   \td{l'Occident}, \td{l'Ouest}
 \end{minipage}%
-\hfill$\longrightarrow$\hfill%
+\qquad\donc\qquad%
 \begin{minipage}[t]{0.4\textwidth}
-  \begin{hieroglyph}imnt-t:y\end{hieroglyph} \tlb{imnty} 
+  \begin{hieroglyph}imnt-t:y\end{hieroglyph} \tl{imnty}, 
   \td{occidental}\\
-  \begin{hieroglyph}imnt-tyw-Z3\end{hieroglyph} \tlb{imnt(y).w} 
+  \begin{hieroglyph}imnt-tyw-Z3\end{hieroglyph} \tl{imnt(y).w}, 
   \td{occidentaux}\\
-  \begin{hieroglyph}imnt-t:t\end{hieroglyph} \tlb{imnt(y).t} 
+  \begin{hieroglyph}imnt-t:t\end{hieroglyph} \tl{imnt(y).t}, 
   \td{occidentale}\\
-  \begin{hieroglyph}imnt-t:t-Z3\end{hieroglyph} \tlb{imnt(y).wt} 
+  \begin{hieroglyph}imnt-t:t-Z3\end{hieroglyph} \tl{imnt(y).wt}, 
   \td{occidentales}
 \end{minipage}
 
 \paragraph{Les nisbés formés sur des substantifs} ne sont pas très 
 nombreux. Voici quelques exemples en plus de l'exemple précédent :
 
-\begin{tabular}{ll}
+\begin{tabular}{l@{\qquad\donc\qquad}l}
   \begin{hieroglyph}rsw-w-niwt\end{hieroglyph} 
-    \tlb{rsw}, \td{le Sud} & 
+    \tl{rsw}, \td{le Sud} & 
     \begin{hieroglyph}rsw-y:N23\end{hieroglyph} 
-    \tlb{rsy}, \td{méridional} \\
+    \tl{rsy}, \td{méridional} \\
   \begin{hieroglyph}iAb-t:xAst\end{hieroglyph} 
-    \tlb{iAb.t}, \td{l'Est}, \td{l'Orient} &
+    \tl{iAb.t}, \td{l'Est}, \td{l'Orient} &
     \begin{hieroglyph}iAb-b-t:y\end{hieroglyph} 
-    \tlb{iAbty}, \td{oriental} \\
+    \tl{iAbty}, \td{oriental} \\
   \begin{hieroglyph}mH:t*N23\end{hieroglyph} 
-    \tlb{mH.t}, \td{le Nord} & 
+    \tl{mH.t}, \td{le Nord} & 
     \begin{hieroglyph}mH:t*y\end{hieroglyph} 
-    \tlb{mHty}, \td{septentrional} \\
+    \tl{mHty}, \td{septentrional} \\
   \begin{hieroglyph}niwt:t*1\end{hieroglyph} 
-    \tlb{niw.t}, \td{ville} & 
+    \tl{niw.t}, \td{ville} & 
     \begin{hieroglyph}niwt:t*y\end{hieroglyph} 
-    \tlb{niwty}, \td{de la ville}, \td{local}\\
+    \tl{niwty}, \td{de la ville}, \td{local}\\
   \begin{hieroglyph}Axt:t*1\end{hieroglyph} 
-    \tlb{Ax.t} \td{l'horizon} & 
+    \tl{Ax.t} \td{l'horizon} & 
     \begin{hieroglyph}Axt:t*y\end{hieroglyph} 
-    \tlb{Axty} \td{horizontain}, \td{de l'horizon}\\
+    \tl{Axty} \td{horizontain}, \td{de l'horizon}\\
 \end{tabular}
 
-Exemple :\\
-\begin{hieroglyph}N17:N17:N17-rsw-N23:3\end{hieroglyph} 
-\tlb{tA.w rsy.w}, \td{les terres méridionales}.
+\bigskip
+
+% \noindent Exemple :\\
+\begin{example}
+  \begin{hieroglyph}N17:N17:N17-rsw-N23:3\end{hieroglyph} 
+  \tl{tA.w rsy.w}, \td{les terres méridionales}.
+\end{example}
 
 Attention à certaines graphies particulières des nisbés. On a déjà 
 parlé des \emph{duels apparents} (cours 3). On en rencontre dans les 
 graphies de certains adjectifs \emph{nisbés} dérivés de mots féminins 
-et donc se terminant par \tlb{ty}. Ces phonèmes rappellent en effet 
-le duel féminin \tlb{.ti} et peuvent être notés graphiquement sous 
+et donc se terminant par \tl{ty}. Ces phonèmes rappellent en effet 
+le duel féminin \tl{.ti} et peuvent être notés graphiquement sous 
 la forme de duels \emph{apparents}. Ainsi :
 
 \begin{example}
-  \begin{hieroglyph}niwt:t*1\end{hieroglyph} \tlb{niw.t} \td{ville} 
-  \donc{} \begin{hieroglyph}niwt:niwt\end{hieroglyph} \tlb{niwty} 
-  (duel apparent) \td{citadin}, \td{local} [et non pas \tlb{niw.ty} 
+  \begin{hieroglyph}niwt:t*1\end{hieroglyph} \tl{niw.t} \td{ville} 
+  \donc{} \begin{hieroglyph}niwt:niwt\end{hieroglyph} \tl{niwty} 
+  (duel apparent) \td{citadin}, \td{local} [et non pas \tl{niw.ty} 
   \td{les deux villes}].
 \end{example}
 
 Un exemple fréquent : \begin{hieroglyph}nTr-niwt:niwt\end{hieroglyph} 
-\tlb{nTr niwty}, \td{le dieu local}, \td{le dieu de la ville}.
+\tl{nTr niwty}, \td{le dieu local}, \td{le dieu de la ville}.
 
 \begin{example}
-  Même graphie possible pour \tlb{Axty} : 
+  Même graphie possible pour \tl{Axty} : \\
   \begin{hieroglyph}Axt:t*1\end{hieroglyph} \td{Horizon} \donc{} 
-  \begin{hieroglyph}Axt:t*y\end{hieroglyph} \tlb{Axty} 
+  \begin{hieroglyph}Axt:t*y\end{hieroglyph} \tl{Axty} 
   \td{horizontain}, \td{de l'horizon} ou 
-  \begin{hieroglyph}Axt:Axt\end{hieroglyph} \tlb{Axty}
+  \begin{hieroglyph}Axt:Axt\end{hieroglyph} \tl{Axty}
 \end{example}
 
 Un exemple fréquent : \begin{hieroglyph}G5-Axt:Axt\end{hieroglyph} 
-\tlb{Hr-Axty}, \td{Horakhty}, \td{Horus-l'horizontain}, 
+\tl{Hr-Axty}, \td{Horakhty}, \td{Horus-l'horizontain}, 
 \td{Horus-de-l'Horizon}.
 
 \paragraph{Nisbés formés sur des prépositions} C'est le groupe le 
 plus important. Il est très utilisé. Voici une liste indicative des 
 principales prépositions et de leurs dérivés.
 
-\begin{tabular}{ll}
+\begin{tabular}{l@{\qquad\donc\qquad}l}
   \begin{hieroglyph}m\end{hieroglyph} 
-    \tlb{m}, \td{dans} & 
+    \tl{m}, \td{dans} & 
     \begin{hieroglyph}i-imi-m-y\end{hieroglyph} 
-    \tlb{imy}, \td{qui est dans}\\
+    \tl{imy}, \td{qui est dans}\\
   \begin{hieroglyph}n\end{hieroglyph} 
-    \tlb{n}, \td{à, pour} & 
-    \begin{hieroglyph}n:y\end{hieroglyph} \tlb{ny}, 
-    plus souvent \begin{hieroglyph}n\end{hieroglyph} \tlb{n(y)}, 
-    féminin \begin{hieroglyph}n:t\end{hieroglyph} \tlb{n(y).t}, 
+    \tl{n}, \td{à, pour} & 
+    \begin{hieroglyph}n:y\end{hieroglyph} \tl{ny}, 
+    plus souvent \begin{hieroglyph}n\end{hieroglyph} \tl{n(y)}, 
+    féminin \begin{hieroglyph}n:t\end{hieroglyph} \tl{n(y).t}, 
     \td{provenant de, destiné à}\\
-  \begin{hieroglyph}r\end{hieroglyph} \tlb{r}, \td{vers, à} & 
+  \begin{hieroglyph}r\end{hieroglyph} \tl{r}, \td{vers, à} & 
     \begin{hieroglyph}i-r:y-iry\end{hieroglyph} 
-    \tlb{iry}, \td{qui est en relation avec}\\
-  \begin{hieroglyph}Hr*1\end{hieroglyph} \tlb{Hr}, \td{sur} & 
+    \tl{iry}, \td{qui est en relation avec}\\
+  \begin{hieroglyph}Hr*1\end{hieroglyph} \tl{Hr}, \td{sur} & 
     \begin{hieroglyph}Hr_r:y-pt\end{hieroglyph} 
-    \tlb{Hry}, \td{qui est sur, supérieur}\\
-  \begin{hieroglyph}Hr:r\end{hieroglyph} \tlb{Xr}, \td{sous} & 
+    \tl{Hry}, \td{qui est sur, supérieur}\\
+  \begin{hieroglyph}Hr:r\end{hieroglyph} \tl{Xr}, \td{sous} & 
     \begin{hieroglyph}Hr:r-y:Y1\end{hieroglyph} 
-    \tlb{Xry}, \td{qui est sous}\\
-  \begin{hieroglyph}tp*1\end{hieroglyph} \tlb{tp}, \td{sur} & 
-    \begin{hieroglyph}tp:p*y\end{hieroglyph} \tlb{tpy}, 
+    \tl{Xry}, \td{qui est sous}\\
+  \begin{hieroglyph}tp*1\end{hieroglyph} \tl{tp}, \td{sur} & 
+    \begin{hieroglyph}tp:p*y\end{hieroglyph} \tl{tpy}, 
     \td{qui est sur}, aussi 
-    \begin{hieroglyph}T8\end{hieroglyph} \tlb{tpy}, \td{premier}\\
+    \begin{hieroglyph}T8\end{hieroglyph} \tl{tpy}, \td{premier}\\
 \end{tabular}
 
+\bigskip
 
-Exemple :\\
-\begin{hieroglyph}nTr-nTr-nTr i-m-w Ab-b-Dw:niwt\end{hieroglyph} 
-\tlb{nTr.w im(y).w AbDw}, \td{les dieux qui sont dans Abydos}.
+\begin{example}
+  \begin{hieroglyph}nTr-nTr-nTr i-m-w Ab-b-Dw:niwt\end{hieroglyph} 
+  \tl{nTr.w im(y).w AbDw}, \td{les dieux qui sont dans Abydos}.
+\end{example}
 
-\textbf{NB :} comme les adjectifs de qualité, les adjectifs 
-\emph{nisbés} peuvent être utilisés de manière substantivée : 
-\begin{hieroglyph}Hr-r:y-pt-A1\end{hieroglyph} \tlb{Hry}, 
-\td{le supérieur}.
+\begin{notabene}
+  comme les adjectifs de qualité, les adjectifs \emph{nisbés} 
+  peuvent être utilisés de manière substantivée : 
+  \begin{hieroglyph}Hr-r:y-pt-A1\end{hieroglyph} 
+  \tl{Hry}, \td{le supérieur}.
+\end{notabene}
 
-\textbf{NB2 :} certains dérivés en \tlb{-y} ne sont attestés 
-qu'employés comme substantifs et non comme adjectifs :\\
-\begin{hieroglyph}sxt:t*N23\end{hieroglyph} \tlb{sx.t}, 
-\td{la campagne} $\longrightarrow$ 
-\begin{hieroglyph}sxt:t*y-A1\end{hieroglyph} \tlb{sxty}, 
-\td{paysan}, \td{campagnard} (\td{celui de la campagne}).\\
-\begin{hieroglyph}x:f:t\end{hieroglyph} \tlb{xft}, \td{devant}, 
-\td{en face de}, \td{à l'avant de} (préposition) $\longrightarrow$ 
-\begin{hieroglyph}x:f-t:y-A13\end{hieroglyph} \tlb{xfty}, 
-\td{l'adversaire}
+\begin{notabene}[NB2]
+  certains dérivés en \tl{-y} ne sont attestés qu'employés comme 
+  substantifs et non comme adjectifs :\\
+  \begin{tabular}{p{0.33\textwidth}@{\quad\donc\quad}p{0.33\textwidth}}
+    \begin{hieroglyph}sxt:t*N23\end{hieroglyph} 
+      \tl{sx.t}, \td{la campagne} &
+      \begin{hieroglyph}sxt:t*y-A1\end{hieroglyph} \tl{sxty}, 
+      \td{paysan}, \td{campagnard} (\td{celui de la campagne}).\\
+    \begin{hieroglyph}x:f:t\end{hieroglyph} \tl{xft}, \td{devant}, 
+      \td{en face de}, \td{à l'avant de} (préposition) &
+      \begin{hieroglyph}x:f-t:y-A13\end{hieroglyph} 
+      \tl{xfty}, \td{l'adversaire} \\
+  \end{tabular}
+\end{notabene}
 
-\section{L'adjectif indéfini \tlb{nb}}
+\section{L'adjectif indéfini \tl{nb}}
 %----------------------------------------------------------------------
 
-L'adjectif indéfini \begin{hieroglyph}nb\end{hieroglyph} \tlb{nb} a 
+L'adjectif indéfini \begin{hieroglyph}nb\end{hieroglyph} \tl{nb} a 
 le sens \td{tout}, \td{chaque}, \td{n'importe lequel}\footnote{Dans 
 les propositions négatives, il pourra avoir le sens \td{aucun}.}. 
 Il se place \uline{après le substantif}, mais il a priorité sur 
 les autres adjectifs\footnote{Mais nécessairement après le pronom 
 suffixe.}, c'est-à-dire qu'en cas de substantif déterminé par 
-plusieurs adjectifs, l'adjectif indéfini \tlb{nb} sera toujours 
+plusieurs adjectifs, l'adjectif indéfini \tl{nb} sera toujours 
 le premier adjectif mentionné. 
 
 En théorie, l'adjectif indéfini s'accorde en genre et en nombre 
 avec le substantif qu'il qualifie, mais les désinences, notamment 
 du pluriel, sont souvent omises.
 
-\begin{hieroglyph}x:t-Y1:3-nb:t\end{hieroglyph} \tlb{x.t nb.t}, 
+\begin{hieroglyph}x:t-Y1:3-nb:t\end{hieroglyph} \tl{x.t nb.t}, 
 \td{toutes choses} (collectif).
 
-\begin{hieroglyph}nTr-nTr-nTr nb\end{hieroglyph} \tlb{nTr.w nb(.w)}, 
+\begin{hieroglyph}nTr-nTr-nTr nb\end{hieroglyph} \tl{nTr.w nb(.w)}, 
 \td{tous les dieux}.
 
-\textbf{NB :} attention à ne pas confondre, l'adjectif indéfini 
-\tlb{nb}, et le substantif \tlb{nb} \td{seigneur}, \td{maître}. 
-Plus que les graphies, c'est le contexte de la phrase, mais aussi 
-l'ordre des mots qui vous aidera. 
-Ainsi, \begin{hieroglyph}xAst:1*t nb:t\end{hieroglyph} 
-\tlb{xAs.t nb.t} signifie \td{chaque pays (étranger)}, 
-mais \begin{hieroglyph}nb tA:tA\end{hieroglyph} \tlb{nb tA.wi} ne 
-peut en aucun cas signifier \td{chaque Double-Pays} puisque \tlb{nb} 
-est en tête. Nous verrons plus tard que le groupe \tlb{nb-TA.wi} 
-signifie le \td{maître du Double Pays} (le pharaon).
+\begin{notabene}
+  attention à ne pas confondre, l'adjectif indéfini \tl{nb}, et 
+  le substantif \tl{nb} \td{seigneur}, \td{maître}. Plus que les 
+  graphies, c'est le contexte de la phrase, mais aussi l'ordre des 
+  mots qui vous aidera. 
+  Ainsi, \begin{hieroglyph}xAst:1*t nb:t\end{hieroglyph} 
+  \tl{xAs.t nb.t} signifie \td{chaque pays (étranger)}, mais 
+  \begin{hieroglyph}nb tA:tA\end{hieroglyph} \tl{nb tA.wi} ne peut 
+  en aucun cas signifier \td{chaque Double-Pays} puisque \tl{nb} 
+  est en tête. Nous verrons plus tard que le groupe \tl{nb-\&A.wi} 
+  signifie le \td{maître du Double Pays} (le pharaon).
+\end{notabene}
 
 
 \chapter{Autres expressions adjectivales}
@@ -358,43 +384,45 @@ indéfinis sur le plan sémantique.
 %----------------------------------------------------------------------
 
 Ces expressions se placent avant le substantif et se construisent 
-de manière indirecte au moyen du \tlb{n(y)} de relation.
+de manière indirecte au moyen du \tl{n(y)} de relation.
 
 \begin{hieroglyph}n:h-y:G37-N33:3-n\end{hieroglyph} 
-\tlb{nhy n(y)} : \td{un peu de}.
+\tl{nhy n(y)} : \td{un peu de}.
 
-\begin{hieroglyph}HH-n\end{hieroglyph} \tlb{HH n(y)} : 
+\begin{hieroglyph}HH-n\end{hieroglyph} \tl{HH n(y)} : 
 \td{beaucoup de} (\litt \td{million de})
 
-Exemple : \begin{hieroglyph}n:h-y:G37-N33:3-n mw\end{hieroglyph} 
-\tlb{nhy n(y) mw} : \td{un peu d'eau}.
+\begin{example}
+  \begin{hieroglyph}n:h-y:G37-N33:3-n mw\end{hieroglyph} 
+  \tl{nhy n(y) mw} : \td{un peu d'eau}.
+\end{example}
 
 \section{Expression de la différence}
 %----------------------------------------------------------------------
 
 La différence s'exprime au moyen de 
-\begin{hieroglyph}k-i-i\end{hieroglyph} \tlb{ky}, \td{autre}, un mot 
+\begin{hieroglyph}k-i-i\end{hieroglyph} \tl{ky}, \td{autre}, un mot 
 (à l'origine un substantif) qui \uline{\textbf{se place avant}} le 
 substantif auquel il se rapporte et avec lequel il s'accorde.
 
-\begin{example}
-  Masculin (singulier) : 
-  \begin{hieroglyph}k-i-i\end{hieroglyph} \tlb{ky}
+Masculin (singulier) : 
+\begin{hieroglyph}k-i-i\end{hieroglyph} \tl{ky}
 
-  Masculin (pluriel) : 
-  \begin{hieroglyph}k:y-w-\!\!y:.\end{hieroglyph} \tlb{ky.wy}, 
-  \begin{hieroglyph}k-w-\!\!y:.\end{hieroglyph} \tlb{k(y).wy}, 
-  \begin{hieroglyph}k-w\end{hieroglyph} \tlb{k(y).w(y)}
+Masculin (pluriel) : 
+\begin{hieroglyph}k:y-w-\!\!y:.\end{hieroglyph} \tl{ky.wy}, 
+\begin{hieroglyph}k-w-\!\!y:.\end{hieroglyph} \tl{k(y).wy}, 
+\begin{hieroglyph}k-w\end{hieroglyph} \tl{k(y).w(y)}
 
-  Féminin (singulier et pluriel) : 
-  \begin{hieroglyph}k:t\end{hieroglyph} \tlb{k(y).t}, \tlb{k(y.w)t}
+Féminin (singulier et pluriel) : 
+\begin{hieroglyph}k:t\end{hieroglyph} \tl{k(y).t}, \tl{k(y.w)t}
+
+\begin{example}[title={Exemples :}]
+  \begin{hieroglyph}k-i-i z:p*zp\end{hieroglyph} 
+  \tl{ky sp} : \td{autre fois}.
+
+  \begin{hieroglyph}k:t pXr:r*t-N33:3\end{hieroglyph} 
+  \tl{k.t pXr.t} : \td{autre remède}.
 \end{example}
-
-\begin{hieroglyph}k-i-i z:p*zp\end{hieroglyph} 
-\tlb{ky sp} : \td{autre fois}.
-
-\begin{hieroglyph}k:t pXr:r*t-N33:3\end{hieroglyph} 
-\tlb{k.t pXr.t} : \td{autre remède}.
 
 
 \chapter{Les démonstratifs}
@@ -404,10 +432,10 @@ L'égyptien classique ne possède pas d'article défini. En revanche, il
 possède des articles démonstratifs. Il en existe quatre séries.
 
 \begin{itemize}
-  \item La série \tlb{pn} (ce), \tlb{tn} (cette), \tlb{nn} (cela)
-  \item La série \tlb{pw} (ce), \tlb{tw} (cette), \tlb{nw} (cela)
-  \item La série \tlb{pf} (ce), \tlb{tf} (cette), \tlb{nf} (cela)
-  \item Et la série \tlb{pA} (ce), \tlb{tA} (cette), \tlb{nA} (cela)
+  \item La série \tl{pn} (ce), \tl{tn} (cette), \tl{nn} (cela)
+  \item La série \tl{pw} (ce), \tl{tw} (cette), \tl{nw} (cela)
+  \item La série \tl{pf} (ce), \tl{tf} (cette), \tl{nf} (cela)
+  \item Et la série \tl{pA} (ce), \tl{tA} (cette), \tl{nA} (cela)
 \end{itemize}
 
 La différence entre les séries est : soit une distinction de sens 
@@ -415,9 +443,9 @@ La différence entre les séries est : soit une distinction de sens
 soit de syntaxe). Du point de vue de la syntaxe, les démonstratifs :
 
 \begin{itemize}
-  \item La série \tlb{pn} (ce), \tlb{tn} (cette)
-  \item La série \tlb{pw} (ce), \tlb{tw} (cette)
-  \item La série \tlb{pf} (ce), \tlb{tf} (cette)
+  \item La série \tl{pn} (ce), \tl{tn} (cette)
+  \item La série \tl{pw} (ce), \tl{tw} (cette)
+  \item La série \tl{pf} (ce), \tl{tf} (cette)
 \end{itemize}
 
 au singulier, ces démonstratifs se placent 
@@ -425,32 +453,48 @@ au singulier, ces démonstratifs se placent
 déterminent, par priorité sur tous les adjectifs\footnote{Mais 
 nécessairement après le pronom suffixe.}.
 
+\bigskip
+
 \begin{center}
-  \begin{hieroglyph}pr-1 p:n\end{hieroglyph} 
-  \tlb{pr pn} \td{cette maison}, \td{la maison que voici}
+  \begin{hieroglyph}pr-1-p:n\end{hieroglyph}
 
-  \begin{hieroglyph}pr-1 p:n nfr-f:r\end{hieroglyph} 
-  \tlb{pr pn nfr} \td{cette belle maison}
+  \tl{pr pn}
 
-  \begin{hieroglyph}pr-1-f p:n nfr-f:r\end{hieroglyph} 
-  \tlb{pr=f pn nfr} \td{sa belle maison que voici}, 
-  \td{cette sienne belle maison}
+  \td{cette maison}, \td{la maison que voici}
 \end{center}
+
+\begin{center}
+  \begin{hieroglyph}pr-1-p:n-nfr-f:r\end{hieroglyph}
+
+  \tl{pr pn nfr}
+
+  \td{cette belle maison}
+\end{center}
+
+\begin{center}
+  \begin{hieroglyph}pr-1-f-p:n-nfr-f:r\end{hieroglyph}
+
+  \tl{pr=f pn nfr}
+
+  \td{sa belle maison que voici}, \td{cette sienne belle maison}
+\end{center}
+
+\bigskip
 
 En revanche, les démonstratifs :
 
 \begin{itemize}
-  \item Et la série \tlb{pA} (ce), \tlb{tA} (cette)
+  \item Et la série \tl{pA} (ce), \tl{tA} (cette)
 \end{itemize}
 
 Se placent \uline{\textbf{devant}} le substantif. 
-\begin{hieroglyph}pA-A pr-1\end{hieroglyph} \tlb{pA pr} \td{cette 
+\begin{hieroglyph}pA-A pr-1\end{hieroglyph} \tl{pA pr} \td{cette 
 maison}. Les déterminatifs de cette série sont les plus récents de 
 la langue. Ce sont eux qui serviront d'article dans l'égyptien de 
 la 2\up{nde}~phase.
 
 Le pluriel des démonstratifs est un peu complexe. Les trois premières 
-séries (\tlb{pn}, \tlb{pw}, \tlb{pf}) possèdent une forme pluriel (qui 
+séries (\tl{pn}, \tl{pw}, \tl{pf}) possèdent une forme pluriel (qui 
 se place aussi après le substantif), mais qui n'est plus vivante au 
 \MK (\td{démonstratifs pluriels archaïques}, voir tableau ci-dessous). 
 Au \MK, l'égyptien recourt plutôt, à des périphrases utilisant le 
@@ -458,77 +502,102 @@ démonstratif neutre des séries. placé devant le substantif et
 construit de manière indirecte au moyen du nisbé (voir \doc{cours~3}) 
 \begin{hieroglyph}n\end{hieroglyph} n(y) \td{de}.
 
-\begin{hieroglyph}pr-1-f p:n\end{hieroglyph} \\
-\tlb{pr pn} \td{cette maison}
+\noindent%
+\begin{minipage}[t]{0.4\textwidth}
+  \centering
+  \begin{hieroglyph}pr-1-f-p:n\end{hieroglyph}
 
-mais
+  \tl{pr pn} \td{cette maison}
+\end{minipage}%
+\quad mais \quad%
+\begin{minipage}[t]{0.4\textwidth}
+  \centering
+  \begin{hieroglyph}M22-M22-n-pr-1\end{hieroglyph}
 
-\begin{hieroglyph}M22-M22-n pr-1\end{hieroglyph} \\
-\tlb{nn n(y) pr} \td{ces maisons} (\litt \td{cela des maisons})
+  \tl{nn n(y) pr} \td{ces maisons}\\
+  (\litt \td{cela des maisons})
+\end{minipage}
 
 \section*{Tableau récapitulatif des démonstratifs}
 %----------------------------------------------------------------------
 
-\begin{tabular}{ccccc}
+\noindent%
+\begin{tabularx}{\textwidth}{+>{\bfseries}X*{4}{^M{2.7cm}}}
+  \toprule
+  \rowstyle{\bfseries}
     ~ &
-    Série \tlb{pn} \emph{\smaller Démonstratif de proximité} &
-    Série \tlb{pf} \emph{\smaller Démonstratif d'éloignement} &
-    Série \tlb{pw} \emph{\smaller (ancien)} &
-    Série \tlb{pA} \emph{\smaller (récent) Se place devant le nom}
-  \\
+    Série \tl{pn}\\\rem{démonstratif de proximité} &
+    Série \tl{pf}\\\rem{démonstratif d'éloignement} &
+    Série \tl{pw}\\\rem{(ancien)} &
+    Série \tl{pA}\\\rem{(récent) se place devant le nom}
+  \tabularnewline
+  \otoprule
     Masculin singulier &
-    \begin{hieroglyph}p:n\end{hieroglyph} \tlb{pn} &
-    \begin{hieroglyph}p:f\end{hieroglyph} \tlb{pf} &
+    \begin{hieroglyph}p:n\end{hieroglyph}\\ \tl{pn} &
+    \begin{hieroglyph}p:f\end{hieroglyph}\\ \tl{pf} &
     \begin{hieroglyph}p-w\end{hieroglyph} ou 
-    \begin{hieroglyph}p-W\end{hieroglyph} \tlb{pw} &
-    \begin{hieroglyph}pA-A\end{hieroglyph} \tlb{pA}
-  \\
+    \begin{hieroglyph}p-W\end{hieroglyph}\\ \tl{pw} &
+    \begin{hieroglyph}pA-A\end{hieroglyph}\\ \tl{pA}
+  \tabularnewline
+  \midrule
     Féminin Singulier &
-    \begin{hieroglyph}t:n\end{hieroglyph} \tlb{tn} &
-    \begin{hieroglyph}t:f\end{hieroglyph} \tlb{tf} &
+    \begin{hieroglyph}t:n\end{hieroglyph}\\ \tl{tn} &
+    \begin{hieroglyph}t:f\end{hieroglyph}\\ \tl{tf} &
     \begin{hieroglyph}t-w\end{hieroglyph} ou 
-    \begin{hieroglyph}t-W\end{hieroglyph} \tlb{tw} &
-    \begin{hieroglyph}t-A\end{hieroglyph} \tlb{tA}
-  \\
+    \begin{hieroglyph}t-W\end{hieroglyph}\\ \tl{tw} &
+    \begin{hieroglyph}t-A\end{hieroglyph}\\ \tl{tA}
+  \tabularnewline
+  \midrule
     Pluriel archaïque &
-    \begin{hieroglyph}i-p:n\end{hieroglyph} ipn (masc.) 
-    \begin{hieroglyph}i-p*t:n\end{hieroglyph} iptn (fém.) &
-    \begin{hieroglyph}i-p:f\end{hieroglyph} ipf (masc.) 
-    \begin{hieroglyph}i-p*t:f\end{hieroglyph} iptf (fém.) &
-    \begin{hieroglyph}i-p-w\end{hieroglyph} ipw (masc.) 
-    \begin{hieroglyph}i-p:t-w\end{hieroglyph} iptw (fém.) &
+    \begin{hieroglyph}i-p:n\end{hieroglyph}\\ 
+    \tl{ipn} \rem{(masc.)}\\
+    \begin{hieroglyph}i-p*t:n\end{hieroglyph}\\ 
+    \tl{iptn} \rem{(fém.)} &
+    \begin{hieroglyph}i-p:f\end{hieroglyph}\\ 
+    \tl{ipf} \rem{(masc.)}\\
+    \begin{hieroglyph}i-p*t:f\end{hieroglyph}\\ 
+    \tl{iptf} \rem{(fém.)} &
+    \begin{hieroglyph}i-p-w\end{hieroglyph}\\ 
+    \tl{ipw} \rem{(masc.)}\\
+    \begin{hieroglyph}i-p:t-w\end{hieroglyph}\\ 
+    \tl{iptw} \rem{(fém.)} &
     ~
-  \\
-    Pluriel (ou neutre) &
-    \begin{hieroglyph}M22-M22\end{hieroglyph} \tlb{nn (n(y))} &
-    \begin{hieroglyph}n:f\end{hieroglyph} \tlb{nf (n(y))} &
-    \begin{hieroglyph}n:\end{hieroglyph} \tlb{nw (n(y))} &
-    \begin{hieroglyph}n:U19-nw:W\end{hieroglyph} \tlb{nA (n(y))} 
-  \\
-\end{tabular}
+  \tabularnewline
+  \midrule
+    Pluriel\\(ou neutre) &
+    \begin{hieroglyph}M22-M22\end{hieroglyph}\\ 
+    \tl{nn (n(y))} &
+    \begin{hieroglyph}n:f\end{hieroglyph}\\ 
+    \tl{nf (n(y))} &
+    \begin{hieroglyph}n:U19-nw:W\end{hieroglyph}\\ 
+    \tl{nw (n(y))} &
+    \begin{hieroglyph}n:A\end{hieroglyph}\\ 
+    \tl{nA (n(y))}
+  \tabularnewline
+  \bottomrule
+\end{tabularx}
+
+\bigskip
 
 \begin{hieroglyph}i-iz-z:pr p:n nfr-f:r\end{hieroglyph} 
-\tlb{is pn nfr} : \td{cette belle tombe}.
+\tl{is pn nfr} : \td{cette belle tombe}.
 
 \begin{hieroglyph}M22-M22-n sxt-t:y-A1\end{hieroglyph} 
-\tlb{nn n(y) sxty} : \td{ces paysans}.
+\tl{nn n(y) sxty} : \td{ces paysans}.
 
 \begin{hieroglyph}M22-M22-n TAw-w-w-Z3\end{hieroglyph} 
-\tlb{nn n(y) TAw.w} : \td{ces souffles}.
+\tl{nn n(y) TAw.w} : \td{ces souffles}.
+
+\bigskip
 
 \begin{exercice}
   Faire l'exercice~11 \emph{(à rendre par email)}
 \end{exercice}
 
+\begin{comment}
 
 \chapter{Éléments de syntaxe : le complément de nom / le génitif}
 %======================================================================
-
-
-
-
-
-\begin{comment}
 
 Le génitif est le cas du complément de nom. Un substantif peut être 
 précisé par un autre substantif qui lui sert alors de complément. Deux 
@@ -549,1010 +618,51 @@ nb TA.wy \td{le Seigneur du Double Pays}
   l'inversion respectueuse}\\
   Si le complément est un être royal ou divin, le complément s'écrit 
   avant le substantif qu'il complète pour respecter la préséance. Il 
-  s'agit d'un procédé graphique (on translittère donc dans l'ordre 
-  normal).
+  s'agit d'un \emph{procédé graphique} (on translittère donc dans 
+  l'ordre normal).
 
   Ex. : \begin{hieroglyph}sw-t:n zA-1-A1\end{hieroglyph}
-  \tlb{sA n(y)-sw.t} \td{le fils du roi}.
+  \tl{sA n(y)-sw.t} \td{le fils du roi}.
 
   Ex. : \begin{hieroglyph}nTr-Hwt-t:pr\end{hieroglyph}
-  \tlb{Hw.t-nTr} \td{le château-du-dieu, le temple}
+  \tl{Hw.t-nTr} \td{le château-du-dieu, le temple}
 
   Ex. : \begin{hieroglyph}nTr-Hm\end{hieroglyph}
-  \tlb{Hm-nTr} \td{le serviteur-du-dieu, le prêtre}.
+  \tl{Hm-nTr} \td{le serviteur-du-dieu, le prêtre}.
 \end{quote}
 
-- Le génitif indirect : dans cette construction, les deux éléments ne sont plus directement en
-contact mais reliés au moyen de l'adjectif nisbé n(y) (\td{qui appartient à}, \td{qui est en relation
-avec}), qui s'accorde avec le substantif déterminé. Les significations du complément sont
-multiples : appartenance, matière, origine, quantité, caractéristique\dots
-Sing. : masculin :  n(y) -- féminin :  n(y).t
-Pluriel : masculin  n(y).w -- féminin :  n(y.w)t
+\paragraph{Le génitif indirect} : dans cette construction, les deux 
+éléments ne sont plus directement en contact mais reliés au moyen 
+de l'adjectif nisbé \tl{n(y)} (\td{qui appartient à}, \td{qui est 
+en relation avec}), qui s'accorde avec le substantif déterminé. Les 
+significations du complément sont multiples : appartenance, matière, 
+origine, quantité, caractéristique\dots
 
-Ex.  rn n(y) mr pn \td{le nom de ce canal}
-Ex. :  sbA.w n(y).w wA.wt \td{les portes des chemins}
-NB : dans le cas du génitif indirect, le substantif et son complément peuvent être séparés par
-un pronom suffixe, un adjectif épithète, un démonstratif.
+\begin{tabular}{lcc}
+    ~ & masculin & féminin
+  \\
+    Sing. &
+    \begin{hieroglyph}n\end{hieroglyph} \tl{n(y)} &
+    \begin{hieroglyph}n:t\end{hieroglyph} \tl{n(y).t}
+  \\
+    Pluriel &
+    \begin{hieroglyph}nw-1\end{hieroglyph} \tl{n(y).w} &
+    \begin{hieroglyph}n:t\end{hieroglyph} \tl{n(y.w)t}
+  \\
+\end{tabular}
 
+Ex. \begin{hieroglyph}r:n n N36:1 p:n\end{hieroglyph} 
+\tl{rn n(y) mr pn} \td{le nom de ce canal}
 
-%======================================================================
+Ex. : \begin{hieroglyph}s-b-sbA-pr:3 nw-1 N31:t*1-Z3A\end{hieroglyph} 
+\tl{sbA.w n(y).w wA.wt} \td{les portes des chemins}
 
-É GYPTIEN CLASSIQUE  - S EMESTRE  1
-Cours 5 -- Grammaire de l'égyptien classique
-1 re partie -- Présentation du Groupe nominal et de ses composants (suite)
-Nous avons vu plusieurs éléments constitutifs du groupe nominal et des règles élémentaires
-de syntaxe sur l'ordre des mots dans le groupe nominal.
-*
-bAk.t=f tn nb.t nfr.t
-*chaque sienne servante parfaite que voici
-(ordre des mots: 1. Substantif 2. Pronom suffixe 3. Démonstratif singulier 4. Adjectif indéfini 5. Autre adjectif
-Nous continuons notre exploration avec des éléments de syntaxe plus complexes.
-VI. E LEMENTS DE SYNTAXE : LE COMPLEMENT DE NOM / LE
-GENITIF
-Le génitif est le cas du complément de nom. Un substantif peut être précisé par un autre
-substantif qui lui sert alors de complément : \td{la maison de mon oncle}. Deux constructions
-sont possibles en égyptien ancien : une construction directe appelée génitif direct, une
-construction indirecte appelée génitif indirect.
-1. Génitif direct : cette construction est utilisée en cas de lien fort entre les deux éléments.
-Elle consiste à simplement juxtaposer les deux substantifs. Cette construction est fréquente
-dans les titres de fonctionnaires et dans quelques expressions courantes.
-Ex. :  nb TA.wy \td{le Seigneur du Double Pays}
-Le lien entre le substantif et son complément de nom est tellement étroit qu'on peut
-quasiment les considérer comme un mot composé. Le génitif direct est particulièrement utilisé
-dans les épithètes divines ou royales, ainsi que dans la formation de certains titres.
+\bigskip
 
-NB : particularité graphique: l'antéposition honorifique ou l'inversion
-respectueuse
-Si le complément de nom (construit au génitif direct) est un être royal ou divin, il est d'usage
-d'écrire le complément de nom avant le substantif qu'il complète, afin de respecter la
-préséance.
-Ex. :  sA n(y)-sw.t \td{le fils du roi}.
-Ex. :  Hw.t-nTr \td{le château-du-dieu, le temple}
-Ex. :  Hm-nTr \td{le serviteur-du-dieu, le prêtre}.
-Notez bien que l'antéposition honorifique est un procédé graphique et ne renvoie pas à une
-inversion des mots dans la prononciation. On translittère donc dans l'ordre normal commandé
-par la syntaxe.
-Remarque sur le mot ny-sw.t \td{roi} :  désigne le roi, à l'origine le roi de Haute Egypte, puis le roi
-de manière générale. Ce terme se translittère n(y)-sw.t, mais vous notez que l'ordre des signes est sw.t  puis
-n(y)  . N(y)-sw.t signifierait \td{(celui) du-roseau-sout}, le roseau-sout étant l'emblème de la Haute-Egypte.
-2. Le génitif indirect : dans cette construction, les deux éléments (nom et complément de
-nom) ne sont plus directement en contact mais reliés au moyen de l'adjectif nisbé n(y) (\td{qui
-appartient à}, \td{qui est en relation avec}, \td{de}), qui s'accorde avec le substantif déterminé.
-Sing. : masculin :  n(y) -- féminin :  n(y).t
-Pluriel : masculin  n(y).w -- féminin :  n(y.w)t
-Ex.  rn n(y) mr pn \td{le nom de ce canal}
-
-Ex. :  sbA.w n(y).w wA.wt \td{les portes des chemins}
-NB : dans le cas du génitif indirect, le substantif et son complément peuvent être séparés par
-un pronom suffixe, un adjectif épithète, un démonstratif.
-wḍ pn n(y) nsw \td{cet ordre du roi}
-VII. E LEMENTS DE SYNTAXE : L ' APPOSITION
-On appelle \td{apposition} une juxtaposition de deux mots qui désignent la même réalité :
-\td{Hector, mon frère}. L'apposition est évidemment utilisée dans la langue égyptienne pour
-expliciter des identités.
-- Apposition dans une relation d'identité :
-Un substantif peut être apposé à un autre substantif pour expliciter l'identité du premier. Cet
-usage est fréquent dans les épithètes divines.
-Ex. :  MnTw nb WAs.t \td{Montou, seigneur de Thèbes}.
-VIII.  E LEMENTS DE SYNTAXE : L A COORDINATION  \td{ ET}
-Deux substantifs peuvent être coordonné (\td{mon frère et ma s{\oe}ur}). En égyptien ancien, la
-coordination s'exprime le plus souvent par une simple juxtaposition.
--  t H(n)q.t \td{pain et bière}
-Plus rarement, l'égyptien ancien peut recourir à des préposition .
-Hna, litt. \td{avec}
-Hr, litt. \td{sur, ainsi que}
-
-Ex. :  ms.w=i Hna sn.w=i \td{mes enfants et mes frères et s{\oe}urs}.
-NB : en relisant les sections du cours portant sur le génitif direct, l'apposition et la
-coordination, portez votre attention sur le fait que la juxtaposition de deux substantifs en
-égyptien ancien est donc susceptible, à priori, de 3 analyses possibles : apposition, génitif
-direct ou coordination. C'est le contexte et le sens qui permet de faire le choix de l'une ou
-l'autre analyse.
-t H(n)q.t pourrait être compris \td{le pain, plus particulièrement la bière}
-(apposition), mais cela n'a aucun sens puisqu'il s'agit de deux réalités totalement
-différentes. En conséquence, la coordination s'impose : \td{le pain et la bière}.
-Face à deux substantifs juxtaposés, n'oubliez pas dans le processus d'analyse, les 3
-possibilités d'interprétation et procédé par élimination pour trouver la bonne.
-IX. E LEMENTS DE SYNTAXE : L A DISJONCTION  \td{ OU}
-L'équivalent de la conjonction \td{ou} est exprimé en égyptien ancien au moyen de la locution
-r-pw. Contrairement au français, cette locution se place en fin d'énumération.
-Ex. :  s s.t r-pw \td{un homme ou une femme}
-X. E LEMENTS DE SYNTAXE : L' IPSEITE  \td{ LUI - MEME , EN
-PERSONNE}
-On peut renforcer un substantif en utilisant des expressions qui équivalent au français
-\td{même}, \td{en personne}.
-- élément souligné +  ou  Ds + pronom suffixe (s'accordant avec l'élément souligné).
-Ex. :  Hm=f Ds=f \td{sa Majesté en personne}.
-
-- élément souligné + préposition  m, ou  n, ou r +  Ha.w (\td{toutes les parties du
-corps}) + pronom suffixe.
-Ex. :  sxty pn m Ha.w=f \td{ce paysan lui-même}.
-XI. E LEMENTS DE SYNTAXE : L ' INTEGRALITE  \td{ TOUT ENTIER}
-L'égyptien dispose de plusieurs périphrases pour exprimer le français \td{entier}, \td{tout
-entier}.
--  r-Dr + pronom suffixe :  r-Dr=f, litt. \td{jusqu'à sa limite}
--  r-Aw + pronom suffixe :  r-Aw=f, litt. \td{jusqu'à sa longueur}
--  mi qd  ou mi qi  + pronom suffixe, litt. \td{comme (sa) forme}
-Ex. :  tA pn r-Dr=f \td{ce pays tout entier}
-Ex. :  xAs.wt Hry.wt mi-qd=sn \td{les contrées élevées toutes entières}
-
-XII. ELEMENTS DE SYNTAXE : LE VOCATIF
-
-Le vocatif est le cas du substantif, quand il est en tête de proposition et quand il sert à
-interpeller. Il peut alors être précédé d'interjections : hA ou  i ou  i
-Ex. :  hA Wsir pn \td{Ô Osiris que voici !}
-
-Synthèse
-L' ORDRE DES MOTS DANS LE SYNTAGME NOMINAL  -- RECAPITULATIF
-Nous avons vu à présent les éléments essentiels du groupe nominal. En guise de synthèse,
-voici un groupe nominal comportant plusieurs éléments. Observez, et rappelez-vous, des
-priorités dans l'ordre des déterminants et compléments de nom. C'est un élément de syntaxe
-très utile pour procéder aux analyses grammaticales et traduire.
-pr.w=i nb.w ipn nfr.w n(y) inr
-\td{Toutes ces miennes belles maisons en pierre}
-(Malaise/Winand, Grammaire raisonnée, ex. 76)
-1. Substantif
-2. Pronom suffixe
-3. Adjectif indéfini nb
-4. Démonstratif (ici démonstratif pluriel archaïque)
-5. Adjectif épithète
-6. Génitif indirect
-Retenez tout ceci et relisez-le au besoin.
-Faites ensuite l'exercice 12 (à rendre par email)
-Puis faites l'exercice d'épigraphie sur les noms divins
-
-%======================================================================
-
-É GYPTIEN CLASSIQUE  - S EMESTRE  1
-Cours 5 -- Écriture 2 e partie
-Dans ce volet, nous allons revenir sur certains détails du système graphique égyptiens.
-PLAN :
-1. Antéposition honorifique (voir Grammaire cours 5 sur le génitif direct)
-2. \td{Orthographe} et évolution des graphies
-3. Principes généraux des signes en écriture hiératique avec un exercice de lecture
-(partie du cours facultative)
-I.  L'antéposition honorifique
-(voir cours 5 -- Grammaire - génitif direct)
-II.  \td{Orthographe} et évolution des graphies
-Il n'y a pas d'orthographe dans le sens d'une seule et unique graphie correcte pour un mot.
-Une fixation graphique trop rigide serait en effet en quelque sorte antinomique avec les
-potentialités de jeux visuels offertes par le système hiéroglyphique. Pour autant, il y a eu, au
-cours de la longue histoire de l'écriture égyptienne, processus de normalisation des graphies,
-(notamment pendant la \dyn{12}) qui ont fixé des usages préférentiels. Ainsi, si le terme
-Sps “noble, précieux” s'écrit volontiers avec des phonèmes unilitères  (suivi
-éventuellement d'un déterminatif) dans les Textes des pyramides (\OK), plus tard
-(à partir du \MK) les graphies privilégieront la graphie  avec le trilitère Sps
-(à la fois notation phonétique et indication visuelle sur le sens général du mot).
-Un même mot peut donc posséder une série de graphies attestées, selon les époques 1 . Ces
-graphies sont du reste susceptibles d'évoluer, plus ou moins en liaison avec l'évolution de la
-pronociation de la langue. Un phénomène bien connu est notamment celui de
-l'affaiblissement de certains phonèmes (dépalatalisation):
--- le  D (dj) tend à être prononcé d comme la main 
--- le  T (tj) tend à être prononcé t comme le pain
-2
-Il s'en suit dans les graphies une substitution potentielle du D par le d, et du T par le t, en cas
-de volonté d'actualisation de la graphie.
-1 Ce dont essaient de rendre compte de la manière la plus exhaustive possible les dictionnaires de références les
-plus complets comme le Wörterbuch der ägyptischen Sprache et la base de données elexicographique en ligne
-du Thesaurus Linguae aegyptiae voir bibliographie générale.
-2 Voir A.H. Gardiner, Egyptian Grammar § 19.
-
-D'où les variantes :  nTr \td{dieu}  ntr \td{dieu}
-Ou encore les différentes formes du pronom suffixe 2 e personne singulier féminin  =T ou
-=t (voir cours 3).
-À l'inverse, certains mots conservent traces d'une pronociation ancienne désormais obsolète.
-Par exemple, la graphie  du verbe \td{boire} swr est une graphie historique
-conservant la notation du phonème r, alors même que le mot est prononcé swi depuis le
-\MK.
-III.  Principes généraux des signes en écriture hiératique (partie du cours
-facultative)
-On a déjà évoqué, notamment lors de la présentation du travail de Jean-François Champollion
-(Cours 2) l'unité profonde qui existe entre l'écriture dite hiéroglyphique et l'écriture cursive
-dite hiératique. Les signes hiératiques ne sont que des simplifications cursives des signes
-hiéroglyphiques. Le système d'écriture est donc tout à fait le même et les signes hiératiques et
-hiéroglyphiques se correspondent signe à signe, un peu comme se correspondent notre lettres
-majuscules et nos lettres en écriture \td{attachée}.
-Pour rappel, les différences essentiels entre le hiérogyphique et le hiératique sont les
-suivantes :
--- simplification et schématisation des signes hiératiques (tachygraphie) ;
--- écriture uniquement de droite à gauche pour le hiératique ;
--- jusqu'à la Première période intermédiaire, l'écriture hiératique est tracée
-essentiellement en colonnes (de haut en bas et de droite à gauche), puis dans le courant
-de la \dyn{12}, l'écriture en ligne de droite à gauche s'impose pour devenir la
-norme ;
--- possibilité de ligatures entre les signes.
-Nous n'avons pas encore vu d'exemple de ligatures entre deux signes.
-En vous aidant, de la liste des unilitères (formes hiéroglyphiques + hiératiques), vous pouvez
-essayer de transcrire le mot ci-dessous, sachant que le dernier signe est le déterminatif des
-verbes de mouvements (réponse page suivante) 3
-3 Source du fac-similé : G. M ÖLLER , Hieratische Lesestücke I, Leipzig, 1909, pl. 6 (P. Berlin 10499 Rs-
-Sinouhé)
-
-Réponse
-hAb \frquote{envoyer un message/un messager}
-
-%======================================================================
-
-É GYPTIEN CLASSIQUE  - S EMESTRE  1
-Cours 6 -- Grammaire de l'égyptien classique
-2 e partie -- Les phrases non verbales 
-I
-Présentation
-du système prédicatif égyptien
-I  -- P REALABLES HISTORIOGRAPHIQUES :
-L ES RECHERCHES SUR LA GRAMMAIRE EGYPTIENNE
-Avec le travail de Champollion, puis les révisions de Richard Lepsius en 1837, le
-système hiéroglyphique était désormais compris. Les chercheurs allaient ensuite se concentrer
-plus spécialement sur l'étude de la grammaire et de la lexicographie égyptienne, afin de
-comprendre la syntaxe des phrases et le sens des mots. On ne développera pas ici l'histoire
-riche de ces études, mais il est important de poser 4 grands jalons historiographiques 1 , pour
-vous donner une idée de la genèse des connaissances qui vont vous être présentées.
-1) L'École de Berlin, fin  XIX e s. et sa tête de file Adolf Erman. Ces chercheurs sont
-influencés par la linguistique sémitique de leur époque. L'égyptologie leur doit,
-notamment, la distinction des deux grandes phases de la langue égyptienne, ainsi que
-le Wörterbuch der ägyptischen Sprache (1926-1953), dictionnaire de référence (voir
-bibliographie).
-2) Alan H. Gardiner, élève de A. Erman et K. Sethe, fixe le modèle longtemps suivi
-pour l'étude et l'apprentissage de la langue pharaonique, avec la publication en 1927
-de son Egyptian Grammar (3 e éd. en 1957). Son ouvrage continue à être le point de
-référence de la tradition académique européenne en matière de grammaire égyptienne.
-La classification alphanumérique des signes hiéroglyphiques couramment utilisée
-aujourd'hui est tirée de cet ouvrage.
-3) Hans J. Polotsky, avec la publication en 1976 de l'article La transposition du verbe
-en égyptien classique, relança les recherches sur la syntaxe égyptienne. Il présentait
-notamment l'idée de la transposition des verbes : à partir de formes particulières des
-1 D'après A. L OPRIENO , Ancient Egyptian ; M. M ALAISE , J. W INAND , Grammaire raisonnée, p. I-VI
-verbes qui leur permettent de passer dans les catégories substantif, adjectif, adverbial
-(= \frquote{Standart Theory} de la syntaxe égyptienne qui inspira de nombreux chercheurs
-par la suite).
-4) Égyptologues et linguistique. Dans les années 1990, un réexamen critique de cette
-théorie générale a été entrepris (notamment Pascal Vernus, Les parties du discours en
-Moyen Egyptien. Autopsie d'une théorie, Genève, 1997), car elle apparaissait, sur
-certains points, comme en contradiction avec les études de linguistique générale. Les
-égyptologues qui travaillent sur la langue égyptienne prennent donc en compte les
-acquis de la linguistique générale pour améliorer notre compréhension de cette langue,
-en combinant à l'approche syntaxique les \frquote{points de vue sémantiques et énonciatifs}.
-L'ouvrage de M. Malaise et J. Winand, Grammaire raisonnée (1999) se propose
-ainsi de faire le bilan de tous les apports pour la connaissance de la langue moyen
-égyptien ou égyptien classique.
-Forts de tous ces travaux, nous disposons aujourd'hui d'une bonne connaissance de cette
-langue, en dépit des difficultés (inhérentes à l'ancienneté de la langue et à son système de
-notation excluant les voyelles) et des progrès qui seront faits dans l'avenir.
-Nous pouvons à présent explorer la structure de la phrase égyptienne en commençant par des
-phrases très simples de ce type. Avant l'introduction d'usage, voici une phrase modèle dont
-vous pouvez peut-être essayer de deviner le sens.
-Vous avez déjà rencontré tous les mots, sauf  iw qui est une particule introductive, dont
-nous allons reparler, mais qui n'est pas à traduire.
-Vous reconnaissez sans doute le signe  , qui est un déterminatif, sauf dans le cas où il note
-le pronom suffixe  = i \frquote{moi}. Nous avons vu son emploi comme possessif (cours 3), mais
-vous savez déjà qu'il peut remplir le rôle de sujet et se traduit alors par \frquote{je}.
-Nous avons aussi déjà rencontré le mot  m, une préposition qui signifie \frquote{dans}.
-Et vous connaissez le mot  pr \frquote{maison}.
-Avec tous ces éléments en tête, comment traduiriez-vous de manière, disons, intuitive ?
-iw=i m pr
-\frquote{Je (suis) dans la maison}
-
-Vous avez traduit votre première phrase égyptienne. Avant de poursuivre nos traductions,
-nous allons donc, avant, présenter quelques éléments théoriques indispensables pour fixer le
-vocabulaire que nous allons utiliser.
-
-II  -- P RESENTATION DU SYSTEME PREDICATIF PHARAONIQUE .
-
-La phrase que vous venez de traduire appartient, en égyptien, au groupe des phrases non
-verbales (c'est-à-dire sans verbe), objet du cours de cette année. Cette catégorie englobe
-notamment toutes les phrases françaises ayant pour verbe principal, le verbe \frquote{être} ou
-\frquote{avoir}. Il y a en égyptien ancien plusieurs catégories de phrases non verbales. Celle-ci est
-appelée proposition à prédicat adverbial. Pour comprendre ce que signifie cette
-désignation, il faut poser un certain nombre de généralités relatives à la langue et à sa
-structure.
-Le langage humain est un outil de communication.
-Il transmet des informations aux moyens d'énoncés.
-Du point de vue de la syntaxe, un énoncé comprend deux parties :
--- Le sujet (= le thème de l'énoncé) \frquote{je}
--- Le prédicat (= ce qui est dit du sujet). \frquote{suis dans la maison}
-Un énoncé complet met en avant une relation prédicative : il établit un lien entre un sujet et
-ce qui en est dit, le prédicat.
-Il existe deux grands types de relations prédicatives : relation d'identité (\frquote{Pierre est mon frère, un étudiant, grand}) ou relation de situation (\frquote{Pierre est devant vous}, \frquote{Pierre est arrivé}, \frquote{je suis dans la maison}) 2 .
-
-Relation d'identité  Relation de situation
-Stricte  Classe  Qualité 
-\frquote{Pierre est mon frère}
-\frquote{Pierre est un étudiant»}
-\frquote{Pierre est grand}
-\frquote{Pierre est là, sur le pas de la porte}
-\frquote{Pierre est en train de manger}
-\frquote{Pierre est arrivé}
-\frquote{Pierre mange}
-\frquote{Pierre vient}
-\frquote{Je suis dans la maison}
-En français, le rapport qui lie le sujet au prédicat est exprimé au moyen d'un prédicat verbal
-(phrases verbales, exemple : \frquote{j'entre dans la maison}) ou au moyen du verbe \frquote{être} (ex :
-\frquote{je suis dans la maison}) qu'on appelle la \frquote{copule 3}
-2 Voir P. G RANDET , B. M ATHIEU , Cours d'égyptien hiéroglyphique, p. 43-44.
-3 Cum apio \frquote{attacher avec}. Terme utilisé pour différencier cet usage du verbe \frquote{être} de son rôle d'auxiliaire.
-
-Relation prédicative avec copule  Prédicat verbal
-Identité  Situation  Situation
-\frquote{Pierre est mon frère}
-\frquote{Pierre est un étudiant}
-\frquote{Pierre est grand}
-\frquote{Pierre est là}
-\frquote{Pierre est sur le pas de la porte}
-\frquote{Pierre est en train de manger}
-\frquote{Pierre est arrivé}
-\frquote{Je suis dans la maison}
-\frquote{Pierre mange}
-\frquote{Pierre vient}
-En égyptien ancien, on retrouve cette même distinction :
--- Phrases à prédicat verbal,
--- Phrases à prédicat non verbal.
-Ce semestre nous nous intéresserons d'abord à ces dernières. La grande différence entre le
-français et l'égyptien ancien est que, comme dans toutes les langues sémitiques, l'emploi de la
-copule \frquote{être} est superflu. On dira :
-Pierre : mon frère = Pierre (est) mon frère
-Pierre : un étudiant
-Pierre : grand
-Pierre : là
-Dans tous ces exemples, \frquote{Pierre} est le sujet de la phrase et le groupe qui suit le prédicat.
-Ainsi, selon la nature du prédicat, on parle de :
--- phrase ou proposition à prédicat substantival (nominal), (Pierre est mon frère ;
-Pierre est un étudiant)
--- proposition à prédicat adjectival -- Pierre (est) grand
--- proposition à prédicat adverbial -- Pierre (est) là. Pierre (est) dans la maison
-Nous allons commencer par la proposition à prédicat adverbial, qui est simple et qui suit un
-ordre dont nous avons l'habitude Sujet-Prédicat.
-
-III  -- S YNTAXE DE LA PROPOSITION A PREDICAT ADVERBIAL .
-
-Vous avez déjà traduit une proposition à prédicat adverbial un peu de manière empirique. On
-va à présent procéder à l'analyse de ce type de phrase.
-Elle se construit sur le modèle :
-Sujet + Prédicat
-iw Xrd im
-\frquote{l'enfant est là}
-Passons en revu les différents éléments : 1. Le sujet, 2. Le prédicat, 3. L'auxiliaire iw.
-1. Le sujet.
-Il peut être assumé par différents types de mots ou groupes :
--- Substantif
--- Groupe nominal
--- Pronom personnnel
--- Démonstratif neutre 
-2. Le prédicat.
-Le prédicat vient en deuxième position. Il est nécessairement de nature adverbiale, c'est-à-
-dire qu'il est assumé soit par un adverbe, soit par un groupe nominal introduit par une
-préposition.
-a) Adverbe.
-Xrd im
-L'enfant  est  là
-
-Voici quelques adverbes à connaître.
-
-Adverbes de lieu :
-aA \frquote{ici}
-im \frquote{là}
-
-Adverbes de temps :
-min \frquote{aujourd'hui}
-sf \frquote{hier}
-dwAw \frquote{matin}
-ra nb \frquote{chaque jour}
-b) Groupe prépositionnel.
-Le prédicat adverbial peut aussi être assumé par un groupe ou syntagme prépositionnel, c'est-
-à-dire introduit par une préposition. La présence de cette préposition est fondamentale, car
-sans elle l'énoncé ne décrit plus une situation, et le prédicat n'est plus de nature adverbiale.
-Il y a deux types de groupes prépositionnels :
--- Préposition + groupe nominal
--- Préposition + pronom suffixe
-Xrd
-L'enfant
-est
-Hn a mw.t=f
-avec sa mère
-ẖrd
-L'enfant
-est  Hn a =s
-avec elle
-3. Auxiliaire iw.
-La Proposition à prédicat adverbial n'a pas de valeur temporelle, ni de valeur modale 4 (il n'y a
-aucune forme verbale à conjuguer). Elle comporte donc normalement un 3 e élément, un
-élément introducteur, qui apporte des indications sur ces aspects. L'élément introducteur
-peut être de trois sortes :
--  Un auxiliaire d'énonciation, qui indique la position du locuteur sur son énoncé ;
--  un convertisseur temporel, qui transpose la phrase adverbial ;
--  une négation ;
--  ou encore ø (rien).
-L'élément introducteur le plus fréquent, celui qui fait partie de la structure de base de
-la phrase à prédicat adverbial est l'auxiliaire iw  . Il n'est pas traduit. Il indique
-simplement que l'énoncé est présenté comme un fait objectif. Il donne donc une \frquote{valeur
-d'indicatif 5} (voir notre conjugaison française du mode indicatif). Du point de vue temporel,
-4 Indicatif, subjonctif, conditionnel
-5 M. M ALAISE , J. W INAND , Grammaire raisonnée, p. 324.
-
-le moment de référence est celui de l'énonciation. La proposition à prédicat adverbial
-introduite par iw est donc le plus souvent traduite par un présent de l'indicatif, et ce que nous
-allons généralement faire ici. Notez déjà toutefois que, dans un récit, en raison du point de
-référence qui peut être situé dans le passé et en vertu de la concordance des temps, il peut être
-traduit par l'imparfait.
-iw
-ẖrd
-Hn a mw.t=f
-L'enfant  est  avec sa mère
-Après iw, si le sujet est pronominal, on utilise un pronom suffixe :
-iw = f Hn a mw.t=f
-Il est avec sa mère
-NB. La proposition à prédicat adverbial avec iw a une valeur indicative, c'est-à-dire que
-l'énoncé est présenté comme un constat objectif. L'auxiliaire n'est donc pas réellement
-traduit en français. Il constitue simplement une indication pour nous permettre de choisir à
-quel temps on mettra, dans la traduction, le verbe \frquote{être}, en l'occurrence généralement au
-présent de l'indicatif (parfois l'imparfait de l'indicatif).
-Par conséquence, ce que l'on sera réellement amener à traduire, c'est d'une part le
-remplacement de iw par des auxiliaires et particules ayant des sens précis ou l'absence
-d'élément introducteur qui peut être la marque que l'énoncé n'est pas un constat objectif.
-Nous verrons cela au prochain cours. Pour le moment, nous donnerons une valeur
-exclamative aux propositions à prédicat adverbial sans élément introducteur iw.
-ẖrd Hn a mw.t=f
-L'enfant n'est pas avec sa mère !
-4. Les prépositions (1) :
-Etant donné l'importance des prépositions dans la structure de la proposition à prédicat
-adverbial, il convient de connaître les prépositions les plus fréquentes et leur sens.
-a)  m
-— localisation spatiale :  m pr \frquote{dans la maison}
-
-— état mental ou physique :  m rSw.t \frquote{dans la joie}
-NB : cette préposition prend une forme spéciale lorsqu'elle est suivie d'un pronom suffixe :
-. im=f \frquote{en lui}.
-b)  r
--- en direction de, contre, par rapport à,
-c)  n
--- pour, en faveur de
-d)  Hr
-— localisation spatiale \frquote{sur}
-e)  Xr
-— localisation spatiale \frquote{sous}  Xr nh.t \frquote{sous le sycomore}
-—sous l'effet de d'une émotion  ẖr rSw.t \frquote{sous la joie}
--- \frquote{être sous quelque chose} signifie aussi \frquote{apporter} (voir prochain cours)
-f)  mi
-— comparaison : \frquote{comme}
-— conformité : \frquote{comme}
-g)  Hn a
--- avec
-h)  mm
--- \frquote{parmi}
-5. Prépositions (2) : m et r \frquote{d'état}
-Les prépositions m \frquote{dans} et r \frquote{vers} peuvent avoir un sens particulier dans le cadre du
-groupe prépositionnel.
-peut avoir le sens de \frquote{en tant que}
-
-iw = f m b A k
-Il est en tant que serviteur (= il est dans la situation d'être un serviteur).
-On traduira cette phrase par un simple \frquote{il est un serviteur}, mais ayez toujours en tête le mot
-à mot \frquote{il est en tant que serviteur}. Nous verrons au semestre prochain qu'il y a 2
-possibilités pour traduire en égyptien classique \frquote{il est un serviteur} : la proposition à
-prédicat adverbial avec le m \frquote{d'état} et une proposition à prédicat substantival. Il y a une
-nuance sémantique entre les deux constructions que nous n'avons pas en français. La
-proposition à prédicat adverbial présente l'état comme une situation et non une identité.
-r d'état : cette préposition exprime l'idée d'un état à venir.
-iw = f r b A k
-Il est en direction d'être un serviteur.
-Il sera un serviteur
-Exemples 6 :
-iw = f m nxnw (Urk. VII, 49,14)
-Il est un bébé.
-iw = f r i A w (Urk. VII, 54, 4)
-Il va être un vieillard.
-Faire l'exercice 13 (à rendre par email) et l'exercice 14 (épigraphie)
-6 Repris de P. G RANDET , B. M ATHIEU , Cours d'égyptien hiéroglyphique, p. 61.
-
-%======================================================================
-
-É GYPTIEN CLASSIQUE  - S EMESTRE  1
-Cours 7 -- Grammaire de l'égyptien classique
-2 e partie -- Les phrases non verbales 
-III  -- S YNTAXE DE LA PROPOSITION A PREDICAT ADVERBIAL  ( SUITE )
-6. Prépositions (3) : n \frquote{d'appartenance} ou n \frquote{d'attribution}
-La préposition n  \frquote{à, pour} sert, dans le cadre de la proposition à prédicat adverbial, à
-exprimer la possession et donc à construire une phrase qui fonctionne comme un équivalent à
-nos phrases exprimant la possession utilisant le verbe \frquote{avoir}.
-*
-*iw pr n s
-Une maison est à l'homme
-= Une maison appartient à l'homme
-(= l'homme a une maison)
-iw pr.t-xrw n=f
-Une offrande invocatoire lui appartient (CT VII, 238n)
-Remarque sur le terme pr.t-xrw  . Il s'agit d'un mot composé de  pr(.t) \frquote{sortie} et xrw
-“voix”, avec comme déterminatif le pain, le vase de bière et le pain de fête. L'expression désigne
-l'offrande funéraire par excellence : une offrande alimentaire et liquide accompagnée de paroles rituelles,
-la formule prononcée pouvant se substituer entièrement aux aliments si nécessaire.
-Remarques sur la mention CT VII : la mention CT renvoie à l'édition des Coffin Texts de De Buck,
-l'édition des textes funéraires appelés Textes des sarcophages.
-
-iw anx n N. pn (CT VII, 467b, sarcophage B6C)
-La vie appartient à N 1 . que voici.
-Un fait important est à noter ici et surtout à retenir. La structure de la Proposition à prédicat
-adverbial est, vous le savez à présent : iw + Sujet + Prédicat (un ordre des mots qui nous est
-familier). Dans un seul cas, le prédicat adverbial peut être placé avant le sujet : quand le
-prédicat adverbial est n + pronom suffixe. En ce cas, le prédicat peut, soit être à sa place
-normale (après le sujet), soit placé avant le sujet :
-iw n=i anx (CT VII, 467b, sarcophage B9C)
-À moi est la vie = la vie m'appartient.
-7. Prépositions (4) : sens particulier de ẖr \frquote{sous}
-On a vu, dans le cours précédent (cours 6), le sens premier, spatial, de la préposition  ẖr
-\frquote{sous}. On a vu aussi son sens plus métaphorique \frquote{sous l'effet} d'une émotion. Il existe un
-autre sens particulier de cette préposition dans certains contextes : \frquote{être sous des objets}
-peut signifier les porter (voir le déterminatif du verbe fAi \frquote{porter}  )
-iw=i ẖr Htp.wt r iwnw 2 (CT VI, 67k, B9C)
-littéralement : Je suis sous les offrandes en direction d'Héliopolis
-= j'apporte des offrandes à Héliopolis.
-8. Les auxiliaires, éléments introducteurs
-À côté de l'auxiliaire  , qui marque le fait énoncé dans la phrase comme
-une réalité objectivement avérée, il existe d'autres auxilaires d'énonciation et éléments
-introducteurs.
-L'indicateur d'énonciation iw présente un énoncé fait sur le mode de constat
-objectif. Le locuteur communique une information :  iw bAk m pr \frquote{le
-serviteur est dans la maison}. C'est un fait. Point. Pour conférer d'autres nuances modales à
-l'énoncé, il faut modifier cet élément introducteur. Qu'entend-on par \frquote{nuances modales} ? Il
-s'agit de la façon dont le locuteur appréhende l'information qu'il donne : au lieu de présenter
-1 La mention N. indique que, dans le texte originel, était indiqué le nom du défunt.
-2 Noter la graphie du déterminatif de la ville. Au lieu d'être noté simplement
-, il est écrit comme le groupe
-niw.t \frquote{ville}
-
-la situation sur le mode du constat objectif (\frquote{le serviteur est dans la maison}), il peut le
-souhaiter (\frquote{puisse le serviteur être dans la maison !}) ou en donner l'ordre (\frquote{que le
-serviteur soit dans la maison !}, ou encore s'en étonner (\frquote{le serviteur est dans la maison !},
-etc.
-Plusieurs transformations de l'élément introducteur iw sont suceptibles de rendre ces
-nuances. Par voie de conséquence, si iw n'est pas rendu dans la traduction en français, son
-absence ou sa substitution doivent l'être.
--- élément introducteur : ø = suppression de iw
-La suppression de l'indicateur d'énonciation peut suffire en rendre à rendre ces
-nuances.
-bAk m pr !
-Le serviteur est dans la maison !
-En l'absence de contexte permettant de déterminer la nuance modale à conférer à la
-phrase, dans la traduction, on se contentera de noter la suppression de iw par un point
-d'exclamation. Selon le contexte de la phrase, cette proposition à valeur exclamative peut
-avoir plusieurs nuances modales :
-- exclamation (joie, peine\dots)
-- affirmation péremptoire
-- souhait ou ordre
-n kA=T
-\frquote{pour ton ka} = \frquote{à ta santé}
--- l'auxiliaire présentatif mk et le pronom dépendant
-iw peut être aussi remplacer par un autre élément introducteur, en particulier l'auxiliaire
-présentatif mk  . Cet auxiliaire (traduit par \frquote{vois}) sert à attirer l'attention de la
-personne à laquelle on s'adresse sur l'information donnée. Très souvent il est utilisé dans le
-cadre d'un discours argumentatif :
-mk, bAk m pr !
-Vois, le serviteur est dans la maison
-Mk est probablement, avec iw, un des éléments introducteurs les plus courants. Contrairement
-à iw qui est invariable, l'auxiliaire mk s'accorde avec l'interlocuteur à qui on s'adresse.
-
-mk \frquote{vois}, en s'adressant à un homme
-mT ou  mt \frquote{vois}, en s'adressant à une femme
-mTn ou  mtn \frquote{voyez}, en s'adressant à plusieurs personnes
-Différentes graphies :
-mk s'écrit au moyen de l'unilitère m, du bilitère (Gardiner List D 38)  mi et de l'unilitère k.
-Le bilitère mi est régulièrement remplacé par le bras (valeur normale a) ou encore l'avant-bras portant le pain
-triangulaire  (valeur normale di) :
-mk \frquote{vois}. En ce cas, prenez soin de translittérer mk et jamais mak, l'avant-bras n'a pas la
-valeur ayn.
-mk, \frquote{vois}. Même chose, ne jamais translittérer mdik mais mk.
-Les variations de graphies s'expliquent probablement par la cursive hiératique et de la confusion
-possible entre des signes très proches dans des écritures rapides : et 
-Cette variation du deuxième signe s'observe aussi pour les formes mT et mTn.
-mTn 
-graphie hiératique dans une lettre (n o 2) du dossier d'Héqanakht
-(Allen, Heqanakht Papyri, 2002)
-mtn, Sps.wt Hr Sd.w
-Voyez, les nobles dames sont sur des radeaux (Admonitions of an Egyptian Sage 7,10)
-Auxiliaire présentatif, sujet + prédicat adverbial (groupe prépositionnel)
-Un élément de syntaxe important : lorsque le sujet d'une proposition à prédicat adverbial
-intoduit par mk est pronominal, ce n'est pas le pronom suffixe qui est utilisé mais le pronom
-dépendant. Le pronom dépendant est la deuxième catégorie de pronoms personnels de
-l'égyptien classique (qui en comporte 3), après le pronom suffixe (voir cours 3). Le pronom
-dépendant ne se fixe pas au mot qui précède, mais en revanche, il est en position dépendante,
-c'est-à-dire qu'il ne peut pas se trouver en tête de phrase. Ce pronom dépendant est
-essentiellement employé comme sujet 3 , pour les cas où le pronom suffixe ne peut être utilisé.
-3 Il peut être employé comme COD pronominal des verbes (sauf après un verbe à l'infinitif), mais nous verrons
-cela plus tard.
-
-Pronoms dépendants
-Masculin  Féminin
-Singulier moi 1.
-wi
-Toi 2.
-Tw ,  Tn  , 
-Lui/elle 3.
-sw  ,  sy  ,  , , 
-st  , ,  s.t aussi
-valeur de neutre \frquote{cela}
-Pluriel nous 1.
-n  , 
-Vous 2.
-Tn  ,  ,  , 
-Ils/elles 3.
-sn  ,  ,  , 
-Mk, wi r-gs=k
-\frquote{Vois, je suis à côté de toi}
-auxiliaire présentatif, sujet pronom dépendant + groupe prépositionnel prédicat (adverbial)
-vocabulaire :  r-gs préposition composée \frquote{à côté de}
--  Auxiliaire optatif HA  ,  (Hwy  ,  )
-Cette particule peut remplacer iw ; elle exprime un souhait teinté de regret : \frquote{Ah si\dots}.
-HA n=i Ssp nb mnx
-Ah si j'avais quelque amulette efficace (Conte du Paysan B 22-24)
-Proposition à prédicat adverbial introduite par HA + groupe prépositionnel prédical (sur la position voir cours 6) +
-Sujet (groupe nominal)
-Notez l'imparfait dans la traduction française, commandé par l'expression \frquote{ah, si}
-
--- Autres auxiliaires et particules proclitiques 4 isk,  isT,  sk,  ti. Ces
-particules présentent la situation énoncée comme se déroulant dans le même temps qu'une
-autre mentionnée avant. On les traduit souvent par \frquote{or,\dots}
-- nHmn  : cette particule sert à renforcer l'affirmation de l'énoncé. Elle est
-traduite par \frquote{certes, assurément}.
-9. La négation de la proposition à prédicat adverbial nn
-La négation de la phrase à prédicat adverbial se fait à l'aide de la particule nn. 
-Exercice : donnez l'équivalent négatif de  iw bAk m pr le serviteur est dans la maison.
-Réponse : page suivante
-nn mw.t=k Hna=k
-\frquote{Ta mère n'est pas avec toi}
-(Papyrus magique Berlin 3027)
-C'est le pronom dépendant qui est employé en cas de sujet pronominal.
-nn s.t m-ẖnw=f
-\frquote{Ce n'est pas à l'intérieur} (ou \frquote{elle n'est pas à l'intérieur})
-Littéralement : cela n'est pas à l'intérieur de lui.
-Remarque : si la négation nn se substitue à iw, en revanche la négation peut être précédée de
-l'auxiliaire présentatif mk.
-4 = qui se placent en tête de phrase (à la différence des particules enclitiques qui se placent en 2 e position).
-
-Réponse à l'exercice de la page précédente: nn bAk m pr le serviteur n'est pas dans la maison
-10. les convertisseurs temporels
-D'autres éléments introducteurs peuvent encore fonctionner avec la proposition à prédicat
-adverbial, et en particulier des \frquote{convertisseurs temporels}. On a dit que la phrase iw bAk m
-pr n'a pas de valeur temporelle. Il s'agit d'un constat fait sur le mode indicatif (objectif),
-avec pour point de référence temporel le moment de l'énonciation (donc le présent) ou
-éventuellement l'énoncé précédent (et en vertu de la concordance des temps, éventuellement
-un imparfait de l'indicatif).
-Pour transposer l'énoncé iw bAk m pr au futur ou au passé, on peut recourir à des
-convertisseurs temporels :
---  wnn (convertisseur futur)
---  wn (convertisseur passé)
--- [il existe aussi un wn convertisseur subjonctif dont nous ne nous occupons pas pour
-l'instant]
-wn bAk m pr \frquote{le serviteur sera dans la maison} -- wn bAk m pr \frquote{le serviteur était dans la
-maison}.
-Ces auxiliaires sont dérivés du verbe wnn \frquote{exister}. Ils peuvent être précédés de mk.
-wnn nn n(y) ?.t n sA =k
-Ces choses seront pour ton fils
-Ces choses appartiendront à ton fils.
-
-IV  -- S EQUENCES DE PLUSIEURS PROPOSITIONS
-
-La phrase  iw=i m pr \frquote{je suis dans la maison}, décrit une situation simple.
-On peut décrire des situations plus compliquées en utilisant une succession de propositions à
-prédicat adverbial, ou une succession de syntagmes adverbiaux se rapportant au même sujet.
-Ex. 1 : 
-*iw=i m pr Hna sA=k
-Je suis dans la maison et avec ton fils.
-Je suis dans la maison, avec ton fils.
-L'analyse est la suivante :
-Proposition à prédicat adverbial : l'auxiliaire iw + sujet + deux groupes prépositionnels (que
-l'on peut considérer soit comme dex prédicats coordonnés, soit comme prédicat, et
-complément circonstanciel).
-Ex. 2 : 
-*iw=i m pr, sA=k Hna=i
-Je suis dans la maison, ton fils avec moi.
-= je suis dans la maison, ton fils étant avec moi.
-= je suis dans la maison, alors que ton fils est avec moi.
-On peut analyser ainsi : Deux propositions à prédicat adverbial : proposition 1 (iw + sujet +
-prédicat), proposition 2 (sujet + prédicat).
-Dans ce cas de figure, deux propositions à prédicat adverbial sont juxtaposées, iw
-n'introduisant que la première. On appelle la première proposition proposition initiale (celle
-qui est en tête) et la seconde proposition séquentielle. Ces deux propositions associées
-forment une phrase plus complexe, décrivant une situation plus complexe. On peut traduire
-ces deux propositions :
--- soit de manière coordonnées (je suis dans la maison et ton fils est avec moi)
--- soit, par un effet de traduction, comme phrase principale et phrase circonstancielle (je
-suis dans la maison, ton fils étant avec moi).
-Retenez bien cette terminologie d'analyse (proposition initiale, proposition séquentielle).
-Nous nous en servirons beaucoup, notamment en 2 e année.
-iw ẖnw m sgr, ib.w m gmw
-La Résidence (royale) était dans le silence, les c{\oe}urs dans l'affliction
-(Conte de Sinouhé, R, 8-9 : description de l'état du palais royal à l'annonce de la mort du roi)
-Analyse : Deux propositions à prédicat adverbial,
--- la première  initiale introduite par iw
--- et la seconde  séquentielle (sans iw).
-
-Les deux décrivent, ensemble, une situation complexe, par une seule phrase, complexe.
-Notez bien que, si le scribe avait ajouté un second iw avant  , il aurait
-fallu traduire la séquence comme deux phrases indépendantes : *iw ẖnw m sgr . iw ib.w m
-gmw. *La Résidence est dans le silence. Les c{\oe}urs sont dans l'affliction.
-Dans un seul cas de figure, la présence de iw pour introduire la deuxième proposition ne
-signifie pas nécessairement que les deux phrases sont indépendantes. Avez-vous une idée de
-la situation en question ? Observez la phrase suivante :
-*
-* iw sA=k ẖr rSw.t iw=k Hna=f
-Pouvez-vous choisir à coup sûr entre les deux traductions suivantes :
-1. *Ton fils est en joie. Tu es avec lui. (analyse : deux propositions indépendantes)
-2. *Ton fils est en joie, alors que tu es avec lui. (analyse : proposition initiale et
-proposition séquentielle)
-En ce cas précis, les deux traductions et analyses sont envisageables. En effet, la présence du
-second iw ne signifie pas nécessairement qu'il y a une nouvelle phrase indépendante, puisque
-le sujet de la deuxième proposition est un pronom suffixe. Or, les pronoms suffixes ne
-peuvent commencer une phrase, puisqu'ils ont besoin de s'appuyer sur un élément. La
-présence du iw, en ce cas, peut donc être requise par la présence d'un sujet pronominal dans la
-deuxième proposition.
-En résumé, dans le cadre de séquences de plusieurs propositions :
--- en égyptien classique, la proposition à prédicat adverbial commençant par iw + sujet
-nominal est toujours une proposition indépendante ou initiale (c'est-à-dire, dans
-notre analyse grammaticale française classique, une proposition principale) ;
--- la proposition à prédicat adverbial commençant par iw + pronom suffixe peut être
-analysée comme une proposition indépendante, une proposition initiale, ou encore
-une proposition séquentielle (c'est-à-dire comme une principale ou une
-subordonnée).
-
-wnn=f imty nTr.wi aA.wi, iw=sn.y m p.t
-Proposition initiale (convertisseur temporel+ sujet pronominal + groupe prépositionnel), proposition séquentielle
-(iw + pronom sffixe sujet + groupe prépositionnel prédicat)
-Vocabulaire :  imytw (préposition) \frquote{entre, au milieu de}
-Littéralement : \frquote{Il sera entre les deux grands dieux, eux étant au ciel}
-= \frquote{Il sera entre les deux dieux, qui sont au ciel}
-(la séquentielle est traduite en français ici par une proposition relative explicative).
-(CT V, 387 c-d)
-Faire l'exercice 15 (à rendre par email)
-
-%======================================================================
-
-É GYPTIEN CLASSIQUE  - S EMESTRE  1
-Cours 8 -- Grammaire de l'égyptien classique
-2 e partie -- Les phrases non verbales 
-V -- S YNTAXE DE LA PROPOSITION A PREDICAT ADVERBIAL  ( SUITE
-ET FIN )
-Nous allons à présent terminer notre exploration de la proposition à prédicat adverbial avec un
-dernier complément, qui concerne cette fois le sujet de la proposition à prédicat adverbial.
-Nous avons vu que le sujet pouvait être assumé par :
-× un nom ou un groupe nominal
-× un pronom personnel (pronom suffixe avec iw et les convertisseurs temporels, pronom
-dépendant avec d'autres auxiliaires comme mk)
-Observez cette phrase :
-iw mi sxr nTr (conte de Sinouhé)
-Vous reconnaissez  la préposition mi \frquote{comme}.
-sxr signifie \frquote{plan, dessein} et il a pour complément de nom au génitif direct  .
-Nous avons donc l'auxiliaire indicatif iw puis, directement, un groupe prépositionnel mi sxr
-nTr \frquote{comme le dessein d'un dieu}.
-D'après ce que vous savez de la structure de la Proposition à prédicat adverbial quel élément
-manque-t-il ? Effectivement : le sujet. Dans certains cas, on trouve en effet une omission du
-sujet. Cette omission correspond en fait à notre sujet indéfini \frquote{c'}.
-iw ø mi sxr nTr (conte de Sinouhé)
-\frquote{C'était comme le dessin d'un dieu}
-(affirme le héros Sinouhé en guise d'explication à sa fuite inexpliquée hors d'\kmt)
-Ce type de construction correspond, du point de vue du sens, au proposition à prédicat
-adverbial ayant pour sujet un pronom démonstratif neutre (sur les pronoms démonstratifs, voir
-cours 4).
-
-iw nA m sbAy.t
-Cela est un enseignement
-(iw + sujet/pronom démonastratif neutre + prédicat adverbial)
-À faire : Exercice 16 à rendre par email
-=> Le cours de grammaire de cette semaine est bref. Faites avec soin et réflexion l'exercice
-16, qui porte sur la Proposition à prédicat adverbial, dont nous avons vus les différents
-éléments.
-=> Après avoir fait l'exercice sur la Proposition à prédicat adverbial, prenez le temps de faire
-l'exercice d'épigraphie 17, un exercice de traduction sur document qui sera une sorte de
-révision du groupe nominal.
-=> Lisez et apprenez aussi ensuite, le complément de cours sur le groupe nominal
-
-%======================================================================
-
-É GYPTIEN CLASSIQUE  - S EMESTRE  1
-Cours 8 -- Grammaire de l'égyptien classique
-Le groupe nominal -- compléments
-1) Expression de l'ipséité (\frquote{lui-même}, \frquote{en personne})
-On peut renforcer un substantif en utilisant des expressions qui équivalent au français
-\frquote{même}, \frquote{en personne}.
-- élément souligné +  ou  Ds + pronom suffixe (qui s'accorde avec l'élément
-souligné).
-Ex. :  Hm=f Ds=f \frquote{sa Majesté en personne}.
-- élément souligné + préposition  m (\frquote{dans}), ou  n (\frquote{à, pour}), ou r (\frquote{vers,
-contre}), +  Ha.w (\frquote{corps}) + pronom suffixe.
-Ex. :  sxty pn m Ha.w=f \frquote{ce paysan lui-même}.
-2) Expression de l'intégralité (\frquote{tout entier})
-L'égyptien dispose de plusieurs périphrases pour exprimer le français \frquote{entier}, \frquote{tout
-entier}.
--  r-Dr + pronom suffixe :  r-Dr=f, litt. \frquote{jusqu'à sa limite}
--  r-Aw + pronom suffixe :  r-Aw=f, litt. \frquote{jusqu'à sa longueur}
--  mi qd  ou mi qi  + pronom suffixe, litt. \frquote{comme (sa) forme}
-Ex. :  tA pn r-Dr=f \frquote{ce pays tout entier}
-
-%======================================================================
-
-É GYPTIEN CLASSIQUE  - S EMESTRE  1
-Cours 9 -- Épigraphie
-Titulature royale
-La titulature royale est un élément important de l'idéologie pharaonique. À partir de la \dyn{5},
-elle comprend cinq noms, introduits par une désignation spécifique. Cette titulature se fige dans une
-forme canonique au \MK.
--  Le nom d'Horus (Hr) est signalé par le motif du serekh 1 (façade du palais royal)
-surmonté du faucon Horus, divinité tutélaire de la royauté pharaonique (ou simplement par le
-faucon Horus) -- le nom est généralement écrit dans le serekh.  : roi l'Horus Ouadjy de la \dyn{1}. Le nom d'Horus est le nom le plus anciennement attesté (voir l'Horus Nârmer).
--  Le nom des Deux Maîtresses (nb.ty) est aussi attesté dès la \dyn{1}. Il renvoie à
-deux divinités tutélaires de la Haute et la Basse \kmt, la déesse vautour Nekhbet d'Elkab, et
-la déesse cobra Ouadjet de Bouto dans le Delta. Ce nom renvoie à la conception dualiste du
-territoire égyptien pour les pharaons et leurs sujets 2 .
--  Le nom d'Horus d'or (Hr (ny) nbw) est attesté dès la \dyn{4}. Il est introduit par
-le faucon Horus juché sur le collier, signe de l'or, nbw.
--  Le nom de roi de Haute et Basse-\kmt (n(y)-sw.t bity) fait son apparition pendant la \dyn{5}. Il est écrit dans un cartouche  et devient le nom le plus important de la
-titulature. Ce nom est appelé \frquote{nom de couronnement} et renvoie encore une fois à la
-conception dualiste du territoire égyptien : n(y)-sw.t \frquote{celui-du-roseau}, c'est-à-dire le roi de
-Haute-Egypte ; bit(y) \frquote{celui de l'abeille}, c'est-à-dire le roi de Basse Egypte.
--  Le nom de fils de Rê (sA Ra) est aussi écrit dans un cartouche et correspond au nom
-personnel du souverain. Son inscription dans le cartouche est attestée dès la \dyn{4}.
-1 Ce mot est étymologiquement lié au verbe srx \frquote{faire connaître}.
-2 Voir
-tA.wy le Double-Pays.
-
-Exemple : titulature de Sésostris III (\dyn{12})
-Hr NTr-xpr L'Horus Netjer-khépérou 
-Nb.ty NTr-msw.t Les Deux maîtresses Netjer-mésout 
-Nsw-bity le roi de Haute et Basse Egypte Khâ-kaou-Rê 
-Hr nbw xpr L'Horus d'or Khéper 
-sA R a S-n-wsr.t le fils de Rê Senousret
-Plusieurs choses sont à noter :
-1. Pour les anciens Egyptiens, Sésostris III n'est pas Sésostris III, mais Sésostris
-Khâkaourê (c'est le reste de sa titulature qui le distingue des autres rois dont le nom de
-naissance est aussi Sésostris.
-2. Notez aussi que la transcription la plus proche du nom personnel de Sésostris est
-Sénousret. Sésostris est la forme qui nous a été livré par la tradition classique.
-3. Remarquez enfin la disposition des signes dans les cartouches. Le principe de
-l'antéposition honorifique fonctionne ici. Si le nom royal est théophore (avec un nom
-de dieu), le nom de dieu est placé en tête, quel que soit sa position dans la séquence :
-Khâ-kaou-Rê : Le disque solaire est en antéposition honorifique.
-4. En effet, les noms égyptiens signifient quelque chose. Il s'agit souvent de phrases,
-d'énoncés qui peuvent être traduits. Il n'est pas nécessaire de le faire dans une
-traduction de texte. Il est en revanche intéressant, pour connaître l'idéologie d'un
-règne, de traduire les noms du protocole. Le nom Khâkaourê met l'accent sur la
-divinité solaire héliopolitaine. Le nom personnel Senousret renvoie à une divinité
-féminine : \frquote{l'homme-de-la-Puissante}.
-À ces cinq titres s'ajoutent souvent, dans le protocole royal complet, les épithètes secondaires
-suivantes :
-Accompagnant le nom de roi de \HBE :
-Nb tA.wy \frquote{Seigneur du Double Pays}
-NTr nfr  \frquote{Dieu parfait}
-Nb ir(.t) x.t  \frquote{Seigneur de l'accomplissement des rites} (litt. des choses)
-Accompagnant le nom de fils de Rê :
-Nb xa.w \frquote{Seigneur des couronnes} ou \frquote{Seigneur des apparitions}
-
-SA Ra n(y) ẖ.t=f \frquote{Fils charnel de Rê} (litt. \frquote{fils de Rê de son
-corps})
-Les noms du roi sont généralement suivis de bénédictions (formules d'eulogie) :
--  , version abrégée de anx wDA snb \frquote{qu'il vive, intact et en bonne santé} (traduit
-conventionnellement par \frquote{vie, santé, force} ou \frquote{V.S.F.})
--  anx D.t \frquote{qu'il vive éternellement}
--  di anx mi Ra 3 \frquote{doué 4 de vie comme Rê}
-La titulature royale comprend aussi fréquemment mention de l'élection du roi par les dieux :
--- le roi est dit \frquote{aimé} d'une divinité. Ex.  ou  mry 5 imn \frquote{aimé
-d'Amon} (noter l'antéposition honorifique)
--- ou \frquote{choisi} par la divinité. Ex.  stp.n 6 R? \frquote{qu'a élu Rê, élu de Rê}
-(noter l'antéposition honorifique).
-Rappel sur quelques désignations :
---  Hm =f \frquote{sa Majesté}
---  nsw \frquote{roi}
---  ou  ity \frquote{souverain}
-Faire l'exercice 18 (à rendre par email)
-3 Noter l'antéposition honorifique.
-4 L'explication grammaticale de cette traduction sera donnée au semestre prochain.
-5 L'analyse grammaticale de cette forme verbale sera faite en 2 e année
-6 L'analyse grammaticale de cette forme verbale sera faite en 2 e année.
-
-%======================================================================
-
-É GYPTIEN CLASSIQUE  - S EMESTRE  1
-Cours 9 -- Épigraphie - papyrologie
-Titulature royale en hiératique
-(partie facultative)
-La titulature royale peut évidemment être écrite en hiératique. Voici à titre d'exemple la titulature de
-Sésostris III.
-Rappel : titulature de Sésostris III (\dyn{12})
-Hr NTr-xpr L'Horus Netjer-khépérou 
-Nb.ty NTr-msw.t Les Deux maîtresses Netjer-mésout 
-Nsw-bity le roi de Haute et Basse Egypte Khâ-kaou-Rê 
-Hr nbw xpr L'Horus d'or Khéper 
-sA R a S-n-wsr.t le fils de Rê Senousret
-
-D'après G. Möller, Hieratische Lesestücke 1, Leipzig, 1927, p. 4 (extrait d'un papyrus de Lahoun/Kahoun,
-portant des hymnes à Sésostris III). Papyrus UC 32157.
-Cf. M. Collier, S. Quirke, The UCL Lahun Papyri. Religious, Literary, Legal, Mathematical and Medical, BAR-
-IS 1209, Oxford, 2004, p. 16.
-En comparant avec la titulature du roi, page précédente, essayez de reconnaître la valeur des
-signes hiératiques. Remarquez que le cartouche est simplement noté par ses deux extrémités
-(ouverture du cartouche et fermeture du cartouche).
-Solution à la page suivante.
-
-Dans le cartouche 1 : 
-Dans le cartouche 2 : 
-Fac-similé du texte hiératique et transcription hiéroglyphique
-
-%======================================================================
-
-É GYPTIEN CLASSIQUE  - S EMESTRE  1
-Cours 11 -- Grammaire
-Les propositions avec constructions pseudo-verbales (2 e partie)
-IV. Les formes pseudo-verbales avec infinitif (2) : inaccompli avec sens
-futur : r + infinitif
-Il existe une autre construction pseudo-verbale avec infinitif, toujours dans le non-accompli.
-Cette fois, la construction est r + infinitif. Elle ne note pas le présent, mais le futur (appelé
-\frquote{allatif} chez Grandet/Mathieu) 1 . Le sens vient du sens premier de la préposition \frquote{vers, en
-direction de} (comparer avec le \frquote{r d'état} du cours 6).
-iw bAk r wnm
-\frquote{Le serviteur mangera (va manger)}
-iw bAk r pr.t m pr
-\frquote{Le serviteur sortira de la maison}
-La syntaxe est en tous points identique à celle des formes de l'inaccompli progressif Hr/m +
-infinitif (voir cours 10).
-iw = f r sDm \frquote{il écoutera}
-iw = f r sDm nb=f \frquote{il écoutera son maître}
-iw = f r sDm =f \frquote{il l'écoutera} (COD pronominal après un infinitif :
-pronom suffixe)
-mk sw r sDm=f \frquote{vois, il l'écoutera}
-iw=f r it.t tA.w rsy.w
-\frquote{Il (le roi) conquerra les pays du Sud} (Conte de Sinouhé B71 72)
-1 Cette forme donnera en néo-égyptien le Futur III.
-
-Quelques précisions sur la valeur de la construction iw + sujet + r + infinitif sont à noter.
-La construction a deux sens :
-1) Un futur obligé, inéluctable, futur déontique.
-2) ou, par affaiblissement, un futur éloigné.
-Il existe d'autres types de futurs (sous d'autres modalités, ou dans des constructions
-syntaxiques spécifiques) qui sont exprimés par d'autres constructions, notamment par des
-formes de la conjugaison suffixale (qui sera vue l'année prochaine), le subjonctif sDm = f
-(\frquote{qu'il écoute}) et le prospectif sDm(w) = f (\frquote{il écoutera}). Mais, à titre de première
-approche, on peut déjà noter que :
--  Pour le souhait ou l'ordre poli, on utilisera la forme dite sDm = f subjonctif (“puisse-t-il
-écouter”, “qu'il écoute”)
--  Pour l'expression, à la première personne, de la volonté de faire quelque chose, on
-utilise aussi le subjonctif sDm = f : sDm = i \frquote{j'ai l'intention d'écouter}
--  Le futur objectif et obligatoire, normalement assumé par r + infinitif, pourra être
-exprimé dans certaines constructions particulières par un sDm(w) = f dit prospectif. En
-particulier le prospectif sDm(w) = f est utilisé pour nier le futur objectif, comme on va
-le voir.
-Remarque : vous notez que dans la conjugaison dite suffixale de type sDm = f le pronom suffixe indique le sujet de
-la forme verbale. L'ordre des mots des propositions verbales est donc, normalement Verbe + Sujet.
-V. Négations des constructions pseudo-verbales avec infinitif
-L'inaccompli progressif Hr + infinitif et m + infinitif se nie tout simplement en remplaçant
-iw par l'auxiliaire de la négation nn  . C'est la même négation que pour la proposition à
-prédicat adverbial (voir cours 7). Lorsque le sujet est pronominal on utilise le pronom
-dépendant.
-nn sw Hr wnm
-Il n'est pas en train de manger.
-Il ne mange pas
-Pour le futur r + infinitif, la construction attendue -- nn b A k r sDm \frquote{le serviteur n'écoutera
-pas} -- n'est pas utilisée 2 .
-2 Une construction de ce type apparaît à partir de la \dyn{18}, voir Malaise, Winand, Grammaire
-raisonnée, § 642.
-
-Le corrélat négatif habituel de iw = f r sDm utilise une forme de la conjugaison suffixale, le
-prospectif sDm(w) = f :  \frquote{il n'écoutera pas} --  nn
-sDmw bAk \frquote{il n'écoutera pas}. Nous aborderons la morphologie de cette forme verbale l'an
-prochain avec le reste de la conjugaison suffixale, mais notez déjà son lien avec la
-construction r + infinitif.
-VI. Les convertisseurs (temporels) dans les constructions pseudo-verbales
-avec infinitif
-Comme pour la proposition à prédicat adverbial, une phrase à prédicat pseudo-verbal (Hr /m +
-infinitif en particulier) peut être introduite par un convertisseur (temporel)  et  (voir
-cours 7). Dans la phrase iw bAk Hr sDm \frquote{le serviteur écoute} (est en train d'écouter), le point
-de référence temporel est celui de l'énonciation, donc le présent (sauf si la phrase s'insère
-dans un récit au passé).
-On peut transposer cette proposition dans le passé ou dans le futur, par rapport au point de
-référence, avec des convertisseurs.
-Ex. 
-Wn = t(w) Hr qd xnr.t pn (Malaise/Winand, Grammaire raisonnée, exemple 1220)
-On était en train de construire cette enceinte.
-Faire l'exercice 21 (à rendre par email)
+\begin{notabene}
+  dans le cas du génitif indirect, le substantif et son complément 
+  peuvent être séparés par un pronom suffixe, un adjectif épithète, 
+  un démonstratif.
+\end{notabene}
 
 \end{comment}
-
-%======================================================================
-%======================================================================
-%======================================================================
-%======================================================================

@@ -15,22 +15,22 @@
 ]{nefermemoir}
 
 \includeonly{%
-  % DULAEP_EG_Semaine_00a,
-  % DULAEP_EG_Semaine_00b,
-  % DULAEP_EG_Semaine_01a,
-  % DULAEP_EG_Semaine_01b,
-  % DULAEP_EG_Semaine_02a,
-  % DULAEP_EG_Semaine_02b,
-  % DULAEP_EG_Semaine_03,
+  DULAEP_EG_Semaine_00a,
+  DULAEP_EG_Semaine_00b,
+  DULAEP_EG_Semaine_01a,
+  DULAEP_EG_Semaine_01b,
+  DULAEP_EG_Semaine_02a,
+  DULAEP_EG_Semaine_02b,
+  DULAEP_EG_Semaine_03,
   DULAEP_EG_Semaine_04,
-  % DULAEP_EG_Semaine_05,
-  % DULAEP_EG_Semaine_06,
-  % DULAEP_EG_Semaine_07,
-  % DULAEP_EG_Semaine_08,
-  % DULAEP_EG_Semaine_09,
-  % DULAEP_EG_Semaine_10,
-  % DULAEP_EG_Semaine_11,
-  % DULAEP_EG_Semaine_12,
+  DULAEP_EG_Semaine_05,
+  DULAEP_EG_Semaine_06,
+  DULAEP_EG_Semaine_07,
+  DULAEP_EG_Semaine_08,
+  DULAEP_EG_Semaine_09,
+  DULAEP_EG_Semaine_10,
+  DULAEP_EG_Semaine_11,
+  DULAEP_EG_Semaine_12,
 }
 
 \usepackage{multicol}
@@ -43,20 +43,23 @@
 \newtcolorbox{example}[1][]{%
   % show bounding box, %
   % breakable, %
-  colframe  = AntiqueWhite!75!black, %
-  colback   = AntiqueWhite, %
+  title     = {Exemple :},
+  colframe  = Ivory!80!black, %
+  coltitle  = black,
+  colbacktitle = Ivory!95!black,
+  colback   = Ivory, %
   parbox    = false, %
   before    = \vspace{1ex plus 1pt minus .4pt}\noindent,
   after     = \vspace{1ex plus 1pt minus .4pt},
   % before    = \vspace{\baselineskip}\noindent, %
   % after     = \vspace{\baselineskip}, %
-  before upper = \indent, %
+  before upper = {\setlength{\parindent}{0pt}}, %
   % before    = \vspace{\baselineskip plus 1pt minus .4pt}, %
   % after     = \vspace{\baselineskip plus 1pt minus .4pt}, %
   % enlarge top initially by  = \baselineskip, %
   % enlarge bottom finally by = \baselineskip, %
   % before upper = {\setlength{\parindent}{0pt}}, %
-  fonttitle    = \large\bfseries, %
+  fonttitle    = \bfseries, %
   % fuzzy shadow = {3mm}{-2mm}{0mm}{0.3mm}{black}, %
   % bottomtitle = 3mm, %
   % toptitle    = 2mm, %
@@ -66,8 +69,8 @@
 \newtcolorbox{exercice}[1][]{%
   % show bounding box, %
   % breakable, %
-  colframe  = LightBlue!75!black, %
-  colback   = LightBlue, %
+  colframe  = LightBlue, %
+  colback   = LightBlue!25, %
   parbox    = false, %
   before    = \vspace{1ex plus 1pt minus .4pt}\noindent,
   after     = \vspace{1ex plus 1pt minus .4pt},
@@ -86,6 +89,20 @@
   #1, %
 }
 
+
+\newenvironment{notabene}[1][NB]{%
+  \bigskip
+  \begin{list}{#1}{%
+    \renewcommand\makelabel[1]{\bfseries\uline{##1} :}%
+    \settowidth\labelwidth{\makelabel{#1}}%
+    \setlength\leftmargin{\labelwidth + \labelsep}%
+  }%
+  \item\ignorespaces%
+}%
+{%
+  \unskip\end{list}%
+  \bigskip%
+}
 
 
 % ... Redefine headings ...
@@ -129,17 +146,27 @@
 
 
 \newcommand{\tdr}[1]{%
-  \textcolor{red}{\td{#1}}
+  \textcolor{red}{\td{#1}}%
 }
 \newcommand{\doc}[1]{%
-  \textbf{\textcolor{purple}{#1}}
+  \textbf{\textcolor{purple}{#1}}%
 }
 \newcommand{\clef}[1]{%
-  \textbf{\textcolor{red}{#1}}
+  \textbf{\textcolor{red}{#1}}%
 }
 \newcommand{\info}[1]{%
-  \textcolor{DarkGreen}{#1}
+  \textcolor{DarkGreen}{#1}%
 }
+
+\renewcommand{\PPA}{Proposition à prédicat adverbial\xspace}
+
+\newcolumntype{+}{>{\global\let\currentrowstyle\relax}}
+\newcolumntype{^}{>{\currentrowstyle}}
+\newcommand{\rowstyle}[1]{%
+  \gdef\currentrowstyle{#1}#1\ignorespaces%
+}
+\renewcommand\tabularxcolumn[1]{M{#1}}
+
 
 %======================================================================
 \title{DULA -- Égyptien classique}
@@ -158,7 +185,7 @@
 
 %======================================================================
 
-\addbibresource{DULAEP_EG.bib}
+\addbibresource{DULAEP_EG_biblio.bib}
 
 % \backgroundsetup{%
 %   opacity   = 0.18,
@@ -186,10 +213,10 @@
 \include{DULAEP_EG_Semaine_02b}
 \include{DULAEP_EG_Semaine_03}
 \include{DULAEP_EG_Semaine_04}
-% \include{DULAEP_EG_Semaine_05}
-% \include{DULAEP_EG_Semaine_06}
-% \include{DULAEP_EG_Semaine_07}
-% \include{DULAEP_EG_Semaine_08}
+\include{DULAEP_EG_Semaine_05}
+\include{DULAEP_EG_Semaine_06}
+\include{DULAEP_EG_Semaine_07}
+\include{DULAEP_EG_Semaine_08}
 \include{DULAEP_EG_Semaine_09}
 \include{DULAEP_EG_Semaine_10}
 \include{DULAEP_EG_Semaine_11}

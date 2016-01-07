@@ -9,7 +9,7 @@ texte hiéroglyphique, on doit d'abord \emph{translittérer le texte},
 c'est-à-dire transposer la notation hiéroglyphique en une notation 
 phonétique conventionnelle. 
 Le mot \begin{hieroglyph}pr-1\end{hieroglyph} est ainsi translittéré 
-\tlb{pr}, puis traduit \frquote{maison}.
+\tl{pr}, puis traduit \td{maison}.
 
 \textbf{\uline{Pour pouvoir translittérer, il vous faut} :}
 \begin{enumerate}
@@ -30,11 +30,11 @@ et observez bien les informations fournies. Le tableau vous indique
 la prononciation approximative, ainsi que le signe à utiliser pour 
 la translittération.
 
-\begin{aparte}
+\begin{exercice}
   Après avoir soigneusement observé et lu ce tableau, faites 
   \textbf{l'exercice~3}. Il est à me rendre par email pour correction 
   individuelle.
-\end{aparte}
+\end{exercice}
 
 \begin{center}
   ***
@@ -50,8 +50,8 @@ hiéroglyphique} (voir bibliographie).
 \paragraph{Les phonèmes de la langue égyptienne ancienne}
 L'égyptien ancien possède 27~phonèmes consonantiques (voir le 
 document \doc{Tableau phonologique de l'égyptien ancien}). Il est à 
-noter que le phonème \emph{l} n'a pas de signe propre. Son existence 
-est établie par comparatisme avec d'autres langues afro-asiatiques et 
+noter que le phonème [l] n'a pas de signe propre. Son existence est 
+établie par comparatisme avec d'autres langues afro-asiatiques et 
 avec le copte où le phonème est bien attesté.
 
 \paragraph{La vocalisation des textes égyptiens}
@@ -67,8 +67,8 @@ voyelles\footnote{Voir M.~\bsc{Malaise}, J.~\bsc{Winand},
 
 Toutefois, pour des raisons pratiques, les égyptologues utilisent 
 souvent (mais pas toujours) une prononciation artificielle. 
-En ce cas, \emph{aleph} et \emph{ayn} sont lus \frquote{\frquote{a}}, 
-le \emph{yod} et le \emph{waw} sont lus respectivement \frquote{i} et 
-\frquote{ou}, et on intercale un \frquote{e} bref entre les phonèmes : 
-par exemple \begin{hieroglyph}pr-1\end{hieroglyph} \tlb{nfr} peut être 
-lu de façon conventionnelle \frquote{néfèr}.
+En ce cas, \emph{aleph} et \emph{ayn} sont lus \frquote{a}, 
+le \emph{yod} et le \emph{waw} sont lus respectivement \frquote{i} 
+et \frquote{ou}, et on intercale un \frquote{e} bref entre les 
+phonèmes : par exemple \begin{hieroglyph}pr-1\end{hieroglyph} 
+\tl{nfr} peut être lu de façon conventionnelle \frquote{néfèr}.

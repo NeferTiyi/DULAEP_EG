@@ -70,13 +70,14 @@ pousse les chercheurs désireux de percer le mystère des hiéroglyphes
 à explorer la piste de l'interprétation cachée, allégorique des 
 hiéroglyphes.
 
-\section{Les étapes du déchiffrement : quelques 
+\section[Les étapes du déchiffrement : quelques jalons]
+        {Les étapes du déchiffrement : quelques 
 jalons\protect\footnote{5 Voir J.~\bsc{Leclant}, \frquote{Champollion, 
 la pierre de Rosette et le déchiffrement des hiéroglyphes}, dans 
 \emph{Comptes rendus des séances de l'Académie des Inscriptions et 
 Belles-Lettres}, 116\ieme~année, N.~3, 1972. pp.~557-565. 
 doi : 10.3406/crai.1972.12797 
-url : \url{/web/revues/home/prescript/article/
+url : \url{/web/revues/home/prescript/article/%
 crai_0065-0536_1972_num_116_3_12797}, consulté le 24~août~2015}}
 %----------------------------------------------------------------------
 
@@ -118,7 +119,7 @@ Inscription datée de l'an~9 du règne de Ptolémée~V Épiphane
 démotique, grec). Des copies sont faites avant la confiscation par 
 les Anglais de la célèbre pierre en \ano[0]{1801}. L'original est 
 aujourd'hui au \BM\footnote{\musee{\BM}, \inv{EA\,24} : 
-\url{https://www.google.com/culturalinstitute/asset-viewer/
+\url{https://www.google.com/culturalinstitute/asset-viewer/%
 the-rosetta-stone/DgH6pMM1guUUPA}}.
 
 La traduction de la version grecque est rapidement faite. Plusieurs 
@@ -144,12 +145,12 @@ sont alors entreprises, notamment par :
         \url{http://gallica.bnf.fr/ark:/12148/bpt6k396352}}, puis la 
         développe dans son \emph{Précis du système 
         hiéroglyphique}\footnote{Document sur Gallica : 
-        \url{http://gallica.bnf.fr/ark:/12148/
+        \url{http://gallica.bnf.fr/ark:/12148/%
         bpt6k117252f.r="précis+du+système+hiéroglyphique".langFR}}, 
         1824. Sa \emph{Grammaire égyptienne, ou principes généraux de 
         l'écriture sacrée égyptienne appliquée à la représentation de 
         la langue parlé}e, Paris, 1836\footnote{Document sur Gallica : 
-        \url{http://gallica.bnf.fr/ark:/12148/
+        \url{http://gallica.bnf.fr/ark:/12148/%
         bpt6k117252f.r="précis+du+système+hiéroglyphique".langFR}} est 
         un ouvrage posthume.
 \end{itemize}
@@ -165,8 +166,8 @@ cartouche avec le nom Ptolémée. \\
 \begin{hieroglyph}p\end{hieroglyph} = P \\
 \begin{hieroglyph}t\end{hieroglyph} = T \\
 \begin{hieroglyph}wA\end{hieroglyph} = O 
-(valeur véritable bilitère \tlb{wA}) \\
-\begin{hieroglyph}rw\end{hieroglyph} = L (bilitère \tlb{rw}) \\
+(valeur véritable bilitère \tl{wA}) \\
+\begin{hieroglyph}rw\end{hieroglyph} = L (bilitère \tl{rw}) \\
 \begin{hieroglyph}i\end{hieroglyph} = Y \\
 \begin{hieroglyph}s\end{hieroglyph} = S
 
@@ -188,18 +189,18 @@ derniers signes, présents dans le nom Ptolémée
 ensuite dans le premier signe circulaire la représentation d'un disque 
 solaire, dont il connaît le nom en copte : \textcoptic{rh}. Il a enfin 
 rencontré le signe \begin{hieroglyph}ms\end{hieroglyph} (bilitère 
-\tlb{ms}) en relation avec une expression grecque relative à un 
+\tl{ms}) en relation avec une expression grecque relative à un 
 anniversaire et le rapproche du mot \textcoptic{mice} en copte 
-\frquote{mettre au monde}. Il peut ainsi reconnaître dans le cartouche 
+\td{mettre au monde}. Il peut ainsi reconnaître dans le cartouche 
 le nom du roi Ramsès de la liste de Manéthon et traduit ce nom 
-\frquote{Rê l'a mis au monde}. La clef de la compréhension du système 
+\td{Rê l'a mis au monde}. La clef de la compréhension du système 
 hiéroglyphique était découverte.
 
-\begin{aparte}
+\begin{exercice}
   \textbf{Exercice :}
 
   À ce stade, Champollion donnait au signe 
-  \begin{hieroglyph}ms\end{hieroglyph} la valeur \tlb{m}, n'ayant 
+  \begin{hieroglyph}ms\end{hieroglyph} la valeur \tl{m}, n'ayant 
   pas encore identifié la présence de signes phonétiques unilitères 
   et bilitères. Avec vos connaissances actuelles, translittérer le 
   cartouche suivant de Ramsès (réponses ci-dessous) :
@@ -208,20 +209,20 @@ hiéroglyphique était découverte.
 
   Translittérer aussi sa variante : 
   \begin{hieroglyph}<-ra-ms-s-sw->\end{hieroglyph}
-\end{aparte}
+\end{exercice}
 
-\begin{aparte}
+\begin{exercice}
   \textbf{Réponses :}
 
   \begin{hieroglyph}<-ra-ms-s-s->\end{hieroglyph} 
-  \tlb{Ra-ms-s(w)} 
+  \tl{Ra-ms-s(w)} 
   \begin{hieroglyph}<-ra-ms-s-sw->\end{hieroglyph} 
-  \tlb{Ra-ms-sw}, avec \begin{hieroglyph}ra\end{hieroglyph} avec 
-  valeur de logogramme \tlb{Ra}, \begin{hieroglyph}ms\end{hieroglyph} 
-  bilitère \tlb{ms}, \begin{hieroglyph}s\end{hieroglyph} complément 
+  \tl{Ra-ms-sw}, avec \begin{hieroglyph}ra\end{hieroglyph} avec 
+  valeur de logogramme \tl{Ra}, \begin{hieroglyph}ms\end{hieroglyph} 
+  bilitère \tl{ms}, \begin{hieroglyph}s\end{hieroglyph} complément 
   phonétique, \begin{hieroglyph}sw\end{hieroglyph} autre bilitère 
-  (\tlb{sw} = \frquote{lui})
-\end{aparte}
+  (\tl{sw} = \td{lui})
+\end{exercice}
 
 \subsection{L'après Champollion}
 %~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -239,6 +240,7 @@ avancées majeures a été de \uline{démontrer} le caractère
   extrêmes, c'est-à-dire que le système graphique égyptien tout entier 
   employa simultanément des \emph{signes d'idées} et des \emph{signes 
   de sons}.}
+
   \begin{RaggedRight}
     Champollion le-Jeune, \emph{Grammaire}, p.~xviii
   \end{RaggedRight}
@@ -249,7 +251,7 @@ Si Champollion tenait la clef, un élément important manquait à son
 Pour Champollion, tous les signes phonétiques notaient un son, une 
 \frquote{articulation}, donc tous les signes phonétiques étaient 
 alphabétiques. Ainsi, le signe \begin{hieroglyph}ms\end{hieroglyph}, 
-que nous savons noter le groupe \tlb{ms}, notait simplement pour lui 
+que nous savons noter le groupe \tl{ms}, notait simplement pour lui 
 le son \emph{m}. Il en résultait que son alphabet hiéroglyphique 
 comportait un nombre importants de signes (trop important pour un 
 système proprement alphabétique), et que pour noter un même phonème 
@@ -278,12 +280,13 @@ exemple, D.~Meeks, \frquote{La paléographie hiéroglyphique. Une
 discipline nouvelle.}, \emph{\kmt. Afrique \& Orient}~46, 2007, 
 p.~3-14.}.
 
-\begin{aparte}
+\begin{exercice}
   Faire l'exercice~8 sur les noms de rois\\
   Voir corrigé en ligne
-\end{aparte}
+\end{exercice}
 
-\subsection{Champollion et l'écriture hiératique\protect\footnote{Voir 
+\subsection[Champollion et l'écriture hiératique]
+           {Champollion et l'écriture hiératique\protect\footnote{Voir 
 G.~\bsc{POSENER}, \frquote{Champollion et le déchiffrement de 
 l'écriture hiératique}, dans \emph{Comptes rendus des séances de 
 l'Académie des Inscriptions et Belles-Lettres}, 116\ieme~année, N.~3, 
@@ -353,9 +356,9 @@ signe en hiéroglyphique. Le plus souvent la parenté formelle est
 nettement visible.
 
 \begin{center}
-  \includegraphics{cadrats}\\
-  \reflectbox{\begin{hieroglyph}nfr-r:r-r-i-q:r-Y1\end{hieroglyph}}\\
-  \tlb{nfr r-iqr} \frquote{extrêmement bon}
+  \includegraphics{hieratique}\\
+  \reflectbox{\begin{hieroglyph}nfr-f:r-r-i-q:r-Y1\end{hieroglyph}}\\
+  \tl{nfr r-iqr} \td{extrêmement bon}
 \end{center}
 
 Les principales différences entre l'écriture hiéroglyphique et 

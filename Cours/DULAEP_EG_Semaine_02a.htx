@@ -25,7 +25,7 @@ En résumé, on peut dire qu'il y a normalement deux parties :
 \end{itemize}
 
 Par exemple : 1. \begin{hieroglyph}b:n-b:n-t-O24\end{hieroglyph} 
-\frquote{pyramidion}. En vous aidant du tableau des signes 
+\td{pyramidion}. En vous aidant du tableau des signes 
 unilitères, translittérez. Quelle est la valeur du dernier signe ? 
 (réponse : ci-dessous)
 
@@ -39,12 +39,12 @@ de deux consonnes (bilitères) et d'autres de trois consonnes
 apprendrez progressivement.
 
 
-\begin{aparte}
+\begin{exercice}
   \textbf{Réponse}
 
-  1. \begin{hieroglyph}b:n-b:n-t-O24\end{hieroglyph} \tlb{bnbn.t} 
-  \frquote{pyramidion}, le dernier signe est le déterminatif.
-\end{aparte}
+  1. \begin{hieroglyph}b:n-b:n-t-O24\end{hieroglyph} \tl{bnbn.t} 
+  \td{pyramidion}, le dernier signe est le déterminatif.
+\end{exercice}
 
 \chapter{Retour sur les phonogrammes plurilitères}
 %======================================================================
@@ -59,14 +59,13 @@ est écrit au moyen de deux groupes de signes:
   \end{enumerate}
 
   \textbf{Exemple :} \begin{hieroglyph}b:n-b:n-t-O24\end{hieroglyph} 
-  \tlb{bnbn.t} pyramidion, ci-dessus : les quatre premiers signes sont 
+  \tl{bnbn.t} pyramidion, ci-dessus : les quatre premiers signes sont 
   des signes phonétiques (unilitères) et le dernier un déterminatif.
 \end{aparte}
 
 Pour les mots écrits par des \textbf{logogrammes}, on peut dire que ce 
 schéma fonctionne aussi d'une certaine manière :
 
-% \begin{comment}
 \begin{aparte}
   \begin{enumerate}
     \item Le logogramme ;
@@ -76,17 +75,17 @@ schéma fonctionne aussi d'une certaine manière :
 
   \textbf{Exemple :} 
   \begin{hieroglyph}pr-1\end{hieroglyph} 
-    \tlb{pr} \frquote{maison, domaine} ; 
+    \tl{pr} \td{maison}, \td{domaine} ; 
   \begin{hieroglyph}ra-1\end{hieroglyph} 
-    \tlb{ra} \frquote{Rê, soleil} ;
+    \tl{ra} \td{Rê}, \td{soleil} ;
   \begin{hieroglyph}nTr-1\end{hieroglyph} 
-    \tlb{nTr} \frquote{dieu}.
+    \tl{nTr} \td{dieu}.
 \end{aparte}
 
-\begin{aparte}
+\begin{exercice}
   Faire l'exercice~4 en vous aidant du tableau des signes unilitères 
   et de celui des signes plurilitères. \emph{Voir corrigé en ligne.}
-\end{aparte}
+\end{exercice}
 
 \chapter{La disposition des signes}
 %======================================================================
@@ -103,8 +102,8 @@ sous forme de \textbf{\frquote{cadrats}}, c'est-à-dire de carrés
 virtuels permettant une disposition harmonieuse des signes.
 
 \begin{figure}[h!]
-  \includegraphics[width=0.75\textwidth]{cadrats}
-  \caption{Texte hiéroglyphique disposé en cadrats (\bsc{Garniner}, 
+  \includegraphics[width=\textwidth]{cadrats}
+  \caption{Texte hiéroglyphique disposé en cadrats (\bsc{Gardiner}, 
            \emph{Egyptian Grammar}, 3\ieme~éd., Oxford, 1957, p.~310) 
            \rem{(figure reprise de Grandet, Mathieu, \emph{Cours 
            d'égyptien hiéroglyphique}, p.~20)}}
@@ -141,26 +140,26 @@ mots. L'orthographe nous sert, en français écrit, d'indicateur
 sémantique. Les déterminatifs des hiéroglyphes ont une fonction 
 similaire.
 
-\begin{hieroglyph}d:p*t-P1\end{hieroglyph} \tlb{dp.t} 
-\frquote{bateau}
+\begin{hieroglyph}d:p*t-P1\end{hieroglyph} \tl{dp.t} 
+\td{bateau}
 
-\begin{hieroglyph}d:p*t-ns-A2\end{hieroglyph} \tlb{dp.t} 
-\frquote{le goût}, avec \begin{hieroglyph}ns\end{hieroglyph} 
-(langue de b{\oe}uf, par ailleurs aussi bilitère valeur \tlb{ns})
+\begin{hieroglyph}d:p*t-ns-A2\end{hieroglyph} \tl{dp.t} 
+\td{le goût}, avec \begin{hieroglyph}ns\end{hieroglyph} 
+(langue de b{\oe}uf, par ailleurs aussi bilitère valeur \tl{ns})
 
-\begin{hieroglyph}mn:n-Y1v\end{hieroglyph} \tlb{mn} 
-\frquote{être durable} avec \begin{hieroglyph}nTr-1\end{hieroglyph}, 
+\begin{hieroglyph}mn:n-Y1v\end{hieroglyph} \tl{mn} 
+\td{être durable} avec \begin{hieroglyph}nTr-1\end{hieroglyph}, 
 rouleau de papyrus fermé, déterminatif des notions abstraites
 
-\begin{hieroglyph}mn:n-A1\end{hieroglyph} \tlb{mn} 
-\frquote{un tel} (dans \frquote{un tel qu'a mis au monde une telle}, 
+\begin{hieroglyph}mn:n-A1\end{hieroglyph} \tl{mn} 
+\td{un tel} (dans \td{un tel qu'a mis au monde une telle}, 
 expression utilisée dans les manuels de rites de protection pour 
 indiquer que l'on doit ajouter ici le nom du patient)
 
-\begin{aparte}
+\begin{exercice}
   Voir le document \doc{5 Déterminatifs} et Faire l'exercice~5.
   \emph{Voir corrigé en ligne.}
-\end{aparte}
+\end{exercice}
 
 \chapter{Les logogrammes ou signes-mots}
 %======================================================================
@@ -169,16 +168,16 @@ Les logogrammes sont perçus comme le c{\oe}ur et l'origine du système
 d'écriture hiéroglyphique, puisque les signes phonogrammes en sont 
 dérivés selon le principe du \textbf{rébus par transfert} (voir plus 
 haut : le signe \begin{hieroglyph}pr\end{hieroglyph} note le mot 
-\frquote{maison} qui comporte les consonnes \tlb{pr}, le même 
+\td{maison} qui comporte les consonnes \tl{pr}, le même 
 signe est donc réutilisé pour noter simplement ces phonèmes).
 
 Il demeure de très nombreux mots notés par un seul signe dans 
 l'écriture hiéroglyphique égyptienne.
 
 \textbf{Par exemple :} 
-\begin{hieroglyph}pr-1\end{hieroglyph} \tlb{pr} \frquote{maison} ; 
-\begin{hieroglyph}Hr-1\end{hieroglyph} \tlb{Hr} \frquote{visage} ; 
-\begin{hieroglyph}ib-1\end{hieroglyph} \tlb{ib} \frquote{c{\oe}ur, 
+\begin{hieroglyph}pr-1\end{hieroglyph} \tl{pr} \td{maison} ; 
+\begin{hieroglyph}Hr-1\end{hieroglyph} \tl{Hr} \td{visage} ; 
+\begin{hieroglyph}ib-1\end{hieroglyph} \tl{ib} \td{c{\oe}ur, 
 conscience} 
 
 Un signe utilisé comme notation de mot complet est normalement suivi 
@@ -188,11 +187,10 @@ ou encore \frquote{trait de l'idéogramme} (Obsomer), signalant la
 valeur logographique à conférer au signe.
 
 NB : une exception courante \begin{hieroglyph}mw\end{hieroglyph} 
-\tlb{mw} \frquote{eau}
+\tl{mw} \td{eau}
 
 \begin{aparte}
-  \textbf{Remarque sur la terminologie employée :}
-
+      [title={Remarque sur la terminologie employée :}, breakable]
   Les deux termes \textbf{\frquote{idéogrammes}} et 
   \textbf{\frquote{logogrammes}} sont utilisés dans les manuels 
   pour désigner les signes égyptiens notant un mot complet et 
@@ -212,21 +210,21 @@ NB : une exception courante \begin{hieroglyph}mw\end{hieroglyph}
   (ouvrage disponible sur Gallica.fr). cf. aussi M.~\bsc{Malaise}, 
   J.~\bsc{Winand}, \emph{Grammaire raisonnée de l'égyptien classique}, 
   p.~28.}}. Par exemple, une image du visage de face pour noter le mot 
-  \frquote{image, face} \begin{hieroglyph}Hr-1\end{hieroglyph} ou 
-  \begin{hieroglyph}r-1\end{hieroglyph} \frquote{bouche} \tlb{r(A)}.
+  \td{image}, \td{face} \begin{hieroglyph}Hr-1\end{hieroglyph} ou 
+  \begin{hieroglyph}r-1\end{hieroglyph} \td{bouche} \tl{r(A)}.
 
   Champollion définit une seconde catégorie de \frquote{signes-mots} : 
   les caractères \frquote{tropiques ou symboliques}, permettant de 
   noter des mots renvoyant à des idées plus abstraites. Par exemple, 
   le vase \begin{hieroglyph}ib-1\end{hieroglyph} pour noter le mot 
-  \tlb{ib}, \frquote{c{\oe}ur ou conscience}.
+  \tl{ib}, \td{c{\oe}ur} ou \td{conscience}.
 
   Quant au signe \begin{hieroglyph}zA\end{hieroglyph} dans le mot 
   \begin{hieroglyph}zA-\!\!\!1:.\end{hieroglyph} ou 
-  \begin{hieroglyph}zA-A1\end{hieroglyph} \tlb{sA} \frquote{fils}, il 
-  est en fait utilisé comme notation phonétique \tlb{sA}, sans doute 
-  dérivée du terme \tlb{s.t} \begin{hieroglyph}z:t-zA\end{hieroglyph} 
-  \frquote{canard (pilet)}.
+  \begin{hieroglyph}zA-A1\end{hieroglyph} \tl{sA} \td{fils}, il 
+  est en fait utilisé comme notation phonétique \tl{sA}, sans doute 
+  dérivée du terme \tl{s.t} \begin{hieroglyph}z:t-zA\end{hieroglyph} 
+  \td{canard (pilet)}.
 
   On préfère donc fréquemment le terme logogramme, qui renvoie à 
   l'idée de mot noté par un signe quelque soit la méthode de 
@@ -243,25 +241,24 @@ deux signes : le logogramme et le trait.
 Il arrive que les logogrammes soient accompagnés d'autres signes 
 encore. Observez les exemples ci-dessous :
 
-\begin{aparte}
-  \textbf{Exemples :}
+\begin{example}[title={Exemples :}]
   \begin{hieroglyph}d:t*1\end{hieroglyph} 
-    \tlb{Dr.t} \frquote{main} ; 
+    \tl{Dr.t} \td{main} ; 
   \begin{hieroglyph}ir:t*1\end{hieroglyph} 
-    \tlb{ir.t} \frquote{{\oe}il} ; 
+    \tl{ir.t} \td{{\oe}il} ; 
   \begin{hieroglyph}niwt:t*1\end{hieroglyph} 
-    \tlb{niw.t} \frquote{ville} ; 
+    \tl{niw.t} \td{ville} ; 
   \begin{hieroglyph}N31:t*1\end{hieroglyph} 
-    \tlb{wA.t} \frquote{chemin} ; 
+    \tl{wA.t} \td{chemin} ; 
   \begin{hieroglyph}Axt:t*1\end{hieroglyph} 
-    \tlb{Ax.t} \frquote{horizon}
-\end{aparte}
+    \tl{Ax.t} \td{horizon}
+\end{example}
 
 Vous remarquez que tous ces mots sont écrits au moyen d'un 
 logogramme accompagné du trait vertical, mais aussi accompagné du 
 \begin{hieroglyph}t\end{hieroglyph} (voir tableau des unilitères), 
-phonogramme \tlb{t}. Nous verrons dans le premier cours consacré à 
-la grammaire égyptienne que le \tlb{t} est la désinence du féminin. 
+phonogramme \tl{t}. Nous verrons dans le premier cours consacré à 
+la grammaire égyptienne que le \tl{t} est la désinence du féminin. 
 Lorsqu'un logogramme note un mot féminin, la désinence du féminin 
 est explicitée par sa notation phonétique.
 
@@ -269,28 +266,27 @@ Enfin, dans quelques cas, le logogramme, en plus du trait de lecture
 directe, peut être accompagné d'un déterminatif indiquant de manière 
 complémentaire un élément de sens. 
 
-\begin{aparte}
-  \textbf{Exemples :}
+\begin{example}[title={Exemples :}]
   \begin{hieroglyph}tA:N23*1\end{hieroglyph} 
-    \tlb{tA} \frquote{terre} ; 
+    \tl{tA} \td{terre} ; 
   \begin{hieroglyph}zA-\!\!\!1:.-A1\end{hieroglyph} 
-    \tlb{sA} \frquote{fils} ; 
+    \tl{sA} \td{fils} ; 
   comparer 
   \begin{hieroglyph}z:1-xt\end{hieroglyph} 
-    \tlb{s} \frquote{verrou} et 
+    \tl{s} \td{verrou} et 
   \begin{hieroglyph}z:A1*1\end{hieroglyph} 
-    \tlb{s} \frquote{homme} 
-\end{aparte}
+    \tl{s} \td{homme} 
+\end{example}
 
 Voir encore : 
 \begin{hieroglyph}zS-A1\end{hieroglyph} 
-  \tlb{sS} \frquote{scribe} ; 
+  \tl{sS} \td{scribe} ; 
 \begin{hieroglyph}zS-Y1v\end{hieroglyph} 
-  \tlb{sS} \frquote{écrire}
+  \tl{sS} \td{écrire}
 
-\begin{aparte}
+\begin{exercice}
   Faire l'exercice~6.\emph{Voir corrigé en ligne.}
-\end{aparte}
+\end{exercice}
 
 \chapter{Les codes des signes hiéroglyphiques}
 
@@ -311,8 +307,6 @@ des signes égyptiens dans sa version en français publiée par
 M.~\bsc{Malaise} et J.~\bsc{Winand}, dans la \emph{Grammaire raisonnée 
 de l'égyptien classique}, dans le document \doc{7-Gardiner List}.
 
-\begin{aparte}
+\begin{exercice}
   Faire l'exercice de synthèse~7, à rendre par email.
-\end{aparte}
-
-% \end{comment}
+\end{exercice}
