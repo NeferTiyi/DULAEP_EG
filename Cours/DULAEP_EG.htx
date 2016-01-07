@@ -2,6 +2,7 @@
   % draft, %
   french, %
   hiero, %
+  coptic, %
   % background, %
   dvipsnames, %
   svgnames, %
@@ -14,14 +15,14 @@
 ]{nefermemoir}
 
 \includeonly{%
-  DULAEP_EG_Semaine_00_a,
-  % DULAEP_EG_Semaine_00_b,
-  % DULAEP_EG_Semaine_01_a,
-  % DULAEP_EG_Semaine_01_b,
-  % DULAEP_EG_Semaine_02_a,
-  % DULAEP_EG_Semaine_02_b,
+  % DULAEP_EG_Semaine_00a,
+  % DULAEP_EG_Semaine_00b,
+  % DULAEP_EG_Semaine_01a,
+  % DULAEP_EG_Semaine_01b,
+  % DULAEP_EG_Semaine_02a,
+  % DULAEP_EG_Semaine_02b,
   % DULAEP_EG_Semaine_03,
-  % DULAEP_EG_Semaine_04,
+  DULAEP_EG_Semaine_04,
   % DULAEP_EG_Semaine_05,
   % DULAEP_EG_Semaine_06,
   % DULAEP_EG_Semaine_07,
@@ -39,6 +40,51 @@
 }
 
 
+\newtcolorbox{example}[1][]{%
+  % show bounding box, %
+  % breakable, %
+  colframe  = AntiqueWhite!75!black, %
+  colback   = AntiqueWhite, %
+  parbox    = false, %
+  before    = \vspace{1ex plus 1pt minus .4pt}\noindent,
+  after     = \vspace{1ex plus 1pt minus .4pt},
+  % before    = \vspace{\baselineskip}\noindent, %
+  % after     = \vspace{\baselineskip}, %
+  before upper = \indent, %
+  % before    = \vspace{\baselineskip plus 1pt minus .4pt}, %
+  % after     = \vspace{\baselineskip plus 1pt minus .4pt}, %
+  % enlarge top initially by  = \baselineskip, %
+  % enlarge bottom finally by = \baselineskip, %
+  % before upper = {\setlength{\parindent}{0pt}}, %
+  fonttitle    = \large\bfseries, %
+  % fuzzy shadow = {3mm}{-2mm}{0mm}{0.3mm}{black}, %
+  % bottomtitle = 3mm, %
+  % toptitle    = 2mm, %
+  #1, %
+}
+
+\newtcolorbox{exercice}[1][]{%
+  % show bounding box, %
+  % breakable, %
+  colframe  = LightBlue!75!black, %
+  colback   = LightBlue, %
+  parbox    = false, %
+  before    = \vspace{1ex plus 1pt minus .4pt}\noindent,
+  after     = \vspace{1ex plus 1pt minus .4pt},
+  % before    = \vspace{\baselineskip}\noindent, %
+  % after     = \vspace{\baselineskip}, %
+  before upper = \indent, %
+  % before    = \vspace{\baselineskip plus 1pt minus .4pt}, %
+  % after     = \vspace{\baselineskip plus 1pt minus .4pt}, %
+  % enlarge top initially by  = \baselineskip, %
+  % enlarge bottom finally by = \baselineskip, %
+  % before upper = {\setlength{\parindent}{0pt}}, %
+  fonttitle    = \large\bfseries, %
+  % fuzzy shadow = {3mm}{-2mm}{0mm}{0.3mm}{black}, %
+  % bottomtitle = 3mm, %
+  % toptitle    = 2mm, %
+  #1, %
+}
 
 
 
@@ -82,11 +128,9 @@
 \makeatother
 
 
-
-
-
-
-
+\newcommand{\tdr}[1]{%
+  \textcolor{red}{\td{#1}}
+}
 \newcommand{\doc}[1]{%
   \textbf{\textcolor{purple}{#1}}
 }
@@ -114,6 +158,8 @@
 
 %======================================================================
 
+\addbibresource{DULAEP_EG.bib}
+
 % \backgroundsetup{%
 %   opacity   = 0.18,
 %   contents  = \includegraphics{DeB_Hathor},
@@ -126,17 +172,18 @@
 
 \SmallerText
 
-Sylvie~\bsc{Donnat}\\
-sylvie.donnat@misha.fr
+\frontmatter
+\tableofcontents*
 
-\bsc{Égyptien classique} -- \bsc{Semestre~1}
+\mainmatter
+\CaptionNormal
 
-\include{DULAEP_EG_Semaine_00_a}
-\include{DULAEP_EG_Semaine_00_b}
-\include{DULAEP_EG_Semaine_01_a}
-\include{DULAEP_EG_Semaine_01_b}
-\include{DULAEP_EG_Semaine_02_a}
-\include{DULAEP_EG_Semaine_02_b}
+\include{DULAEP_EG_Semaine_00a}
+\include{DULAEP_EG_Semaine_00b}
+\include{DULAEP_EG_Semaine_01a}
+\include{DULAEP_EG_Semaine_01b}
+\include{DULAEP_EG_Semaine_02a}
+\include{DULAEP_EG_Semaine_02b}
 \include{DULAEP_EG_Semaine_03}
 \include{DULAEP_EG_Semaine_04}
 % \include{DULAEP_EG_Semaine_05}
@@ -148,6 +195,14 @@ sylvie.donnat@misha.fr
 \include{DULAEP_EG_Semaine_11}
 \include{DULAEP_EG_Semaine_12}
 
+
+\backmatter
+\newpage
+\listoffigures
+\listoftables
+
+\nocite{*}
+\printbibliography[heading=memoir,title=Bibliographie]
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

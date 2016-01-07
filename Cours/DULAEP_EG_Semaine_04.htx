@@ -1,7 +1,7 @@
 %!TEX root = DULAEP_EG.htx
 %##HieroDef.txt
 
-\part{Cours~2 -- Grammaire -- Le groupe nominal et ses composants 
+\part{Cours~4 -- Grammaire -- Le groupe nominal et ses composants 
 (suite)}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -57,9 +57,9 @@ et \textbf{s'accordent en genre et en nombre} avec lui.
 Les désinences du pluriel, du duel et du féminin sont les mêmes que 
 celles vues pour les substantifs.
 
-\subsection[Paradigme nfr]{Paradigme 
-\begin{hieroglyph}nfr-f:r\end{hieroglyph} \tlb{nfr}, \td{bon}, 
-\td{beau}, \td{parfait}}
+\subsection[Paradigme \tlb{nfr}, \td{bon}, \td{beau}, \td{parfait}]
+{Paradigme \begin{hieroglyph}nfr-f:r\end{hieroglyph} \tlb{nfr}, 
+\td{bon}, \td{beau}, \td{parfait}}
 %~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 \begin{tabular}{ccc}
@@ -69,13 +69,16 @@ celles vues pour les substantifs.
     \begin{hieroglyph}nfr-f:r:t\end{hieroglyph} \tlb{nfr.t} \\
   Pluriel   & 
     \begin{hieroglyph}nfr-f:r-Z3\end{hieroglyph} \tlb{nfr.w} &
-    \begin{hieroglyph}nfr-f:r:t-+l(+s-Z3-+l)+s\end{hieroglyph}
-    \tlb{nfr.(w)t} \\
+    \begin{hieroglyph}
+      nfr-f:r:t-+l$\Bigg($+s-Z3-+l$\Bigg($+s
+    \end{hieroglyph} \tlb{nfr.(w)t} \\
   Duel      & 
-   \begin{hieroglyph}nfr-f:r:t-+l(+s-w-\!\!y:.-+l)+s\end{hieroglyph} 
-   \tlb{nfr(.wy)} & 
-   \begin{hieroglyph}nfr-f:r:t-+l(+s-y-+l)+s\end{hieroglyph} 
-   \tlb{nfr.t(y)} \\
+   \begin{hieroglyph}
+     nfr-f:r:t-+l$\Bigg($+s-w-\!\!y:.-+l$\Bigg($+s
+   \end{hieroglyph} \tlb{nfr(.wy)} &
+   \begin{hieroglyph}
+     nfr-f:r:t-+l$\Bigg($+s-y-+l$\Bigg($+s
+   \end{hieroglyph} \tlb{nfr.t(y)} \\
 \end{tabular}
 
 NB : notez que les désinences qui sont parfois en ellipse. Cela 
@@ -84,229 +87,481 @@ concerne des semi-voyelles.
 \subsection{Exemples}
 %~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-bAk.w nfr.w, \td{des/les serviteurs parfaits}.
-bAk.t nfr.t \td{une/la servante parfaite}
-Notez que, comme en français, les adjectifs peuvent être employés de manière
-substantivée :  nfr.t, \td{la belle} (voir le nom de Néfertiti Nfr.t-ii.ti = \td{la Belle-est-
-venue})
-2. Les adjectifs \td{nisbés} :
-L'égyptien ancien possède une série d'adjectifs dérivés de substantifs ou de prépositions.
-La dérivation s'obtient à ajoutant un suffixe  y. Cette dérivation indique une relation 1 avec
-le terme dont ils sont dérivés.
+\begin{hieroglyph}bA:k-w-A1:3 nfr-f:r-Z3\end{hieroglyph} 
+\tlb{bAk.w nfr.w}, \td{des/les serviteurs parfaits}.
+
+\begin{hieroglyph}bA-k:t-B1 nfr-f:r:t\end{hieroglyph} 
+\tlb{bAk.t nfr.t} \td{une/la servante parfaite}
+
+Notez que, comme en français, les adjectifs peuvent être employés de 
+manière substantivée : \begin{hieroglyph}nfr-f:r:t-B1\end{hieroglyph} 
+\tlb{nfr.t}, \td{la belle} (voir le nom de Néfertiti \tlb{Nfr.t-ii.ti} 
+= \td{la Belle-est-venue})
+
+\section{Les adjectifs \frquote{nisbés}}
+%----------------------------------------------------------------------
+
+L'égyptien ancien possède une série d'adjectifs dérivés de substantifs 
+ou de prépositions. La dérivation s'obtient à ajoutant un suffixe 
+\begin{hieroglyph}y\end{hieroglyph} \tlb{y}. Cette dérivation indique 
+une relation\footnote{Le mot \frquote{nisbé} est emprunté à la 
+grammaire arabe, \emph{ism el-nisba}, \td{nom de relation}.} avec le 
+terme dont ils sont dérivés.
+
 Exemples :
-nTr, \td{dieu} nTry, \td{ce qui est relatif au dieu} = \td{divin}
-Hr, \td{sur} (préposition) Hry, \td{qui est sur}, \td{supérieur} 2 .
-Les adjectifs formés sur des substantifs ne posent pas de problème de traduction aux locuteurs
-francophones :
-Ex.  imn.t l'Occident / l'Ouest => imnty \td{occidental}
-1 Le mot \td{nisbé} est emprunté à la grammaire arabe, ism el-nisba, \td{nom de relation}.
-2 Noter en ce cas la possibilité d'associer au nouveau mot formé un déterminatif correspondant au sens nouveau.
-Ici,  , la voûté céleste pour ce qui est au-dessus.
 
-En revanche, il est souvent nécessaire de recourir à une proposition subordonnée relative pour
-traduire un adjectif nisbé dérivé d'une préposition.
-Ex.  m \td{dans} (préposition) => imy \td{qui est dans}  [noter la graphie par rapport à la
-préposition initiale : trilitère imi + 2 compléments phonétiques i et m + le suffixe de dérivation y.]
-En dehors des problèmes éventuels de traduction, les adjectifs nisbés fonctionnent
-comme les adjectifs de qualité. Quand ils sont épithètes du substantif, ils se placent après
-celui-ci et s'accordent avec lui en genre et en nombre. Les désinences sont les mêmes que
-précédemment.
-Adjectif  masculin  féminin
-Singulier 
-nTry
-nTr(y).t
-Pluriel 
-nTry.w
-( ) nTr(y).wt
-Observez bien le tableau ci-dessus et notez bien que le suffixe --y, puisqu'il est une semi-voyelle peut parfois ne
-pas être noté.
-Remarques importantes concernant les graphies : les adjectifs nisbés, formés sur des
-substantifs féminins ou sur des mots dont la racine se termine par un t, présenteront comme
-derniers phonèmes -ty au masculin singulier (t de la racine + le suffixe y).
-Ex.  imn.t l'Occident / l'Ouest (mot féminin) => dérivé en imnty
+\begin{hieroglyph}nTr-1\end{hieroglyph} \tlb{nTr}, \td{dieu} 
+\donc \begin{hieroglyph}nTr-T:r:y\end{hieroglyph} \tlb{nTry}, 
+\td{ce qui est relatif au dieu} = \td{divin}
+
+\begin{hieroglyph}Hr-1\end{hieroglyph} \tlb{Hr}, \td{sur} 
+(préposition) \donc \begin{hieroglyph}Hr-r:y-pt\end{hieroglyph} 
+\tlb{Hry}, \td{qui est sur}, \td{supérieur}\footnote{Noter en ce 
+cas la possibilité d'associer au nouveau mot formé un déterminatif 
+correspondant au sens nouveau. Ici, 
+\begin{hieroglyph}pt\end{hieroglyph}, la voûté céleste, pour ce qui 
+est au-dessus.}.
+
+Les adjectifs formés sur des substantifs ne posent pas de problème de 
+traduction aux locuteurs francophones :
+
+Ex. \begin{hieroglyph}imnt-t:xAst\end{hieroglyph} \tlb{imn.t} 
+\td{l'Occident} / \td{l'Ouest} \donc 
+\begin{hieroglyph}imnt-t*y:xAst\end{hieroglyph} \tlb{imnty} 
 \td{occidental}
-Au masculin pluriel, cette catégorie de nisbé se terminera par --ty.w. Au lieu de noter ce
-groupe  , les scribes ont recours à un trilière tyw  (G4) 3 , phonogramme de valeur
-tyw.
+
+En revanche, il est souvent nécessaire de recourir à une proposition 
+subordonnée relative pour traduire un adjectif nisbé dérivé d'une 
+préposition.
+
+Ex. \begin{hieroglyph}m\end{hieroglyph} \tlb{m} \td{dans} 
+(préposition) \donc{} 
+\begin{hieroglyph}i-imi-m-\!\!y:.\end{hieroglyph} \tlb{imy} 
+\td{qui est dans} \smaller{[noter la graphie par rapport à la 
+préposition initiale : trilitère \tlb{imi} + deux compléments 
+phonétiques \tlb{i} et \tlb{m} + le suffixe de dérivation \tlb{y}.]}
+
+En dehors des problèmes éventuels de traduction, les adjectifs nisbés 
+fonctionnent comme les adjectifs de qualité. Quand ils sont épithètes 
+du substantif, ils se \uline{\textbf{placent après}} celui-ci et 
+\uline{\textbf{s'accordent avec lui en genre et en nombre}}. Les 
+désinences sont les mêmes que précédemment.
+
+\begin{tabular}{ccc}
+  Adjectif  & masculin & féminin \\
+  Singulier & 
+    \begin{hieroglyph}nTr-T:r:y-Y1v\end{hieroglyph} \tlb{nTry} &  
+    \begin{hieroglyph}nTr-T:r:t-Y1v\end{hieroglyph} \tlb{nTr(y).t} \\
+  Pluriel   & 
+    \begin{hieroglyph}nTr-T:r:y-Y1v-Z3\end{hieroglyph} \tlb{nTry.w} &
+    \begin{hieroglyph}
+      nTr-T:r:t-Y1v-+l$\Bigg($+s-Z3-+l$\Bigg)$+s
+    \end{hieroglyph} \tlb{nTr(y).wt} \\
+\end{tabular}
+
+Observez bien le tableau ci-dessus et notez bien que le suffixe 
+\tlb{-y}, puisqu'il est une semi-voyelle peut parfois ne pas être 
+noté.
+
+\textbf{Remarques importantes concernant les graphies :} les adjectifs 
+nisbés, formés sur des substantifs féminins ou sur des mots dont la 
+racine se termine par un \tlb{t}, présenteront comme derniers phonèmes 
+\tlb{-ty} au masculin singulier (\tlb{t} de la racine + le suffixe 
+\tlb{y}).
+
+Ex. \begin{hieroglyph}imnt-t:xAst\end{hieroglyph} \tlb{imn.t} 
+\td{l'Occident} / \td{l'Ouest} (mot féminin) \donc dérivé en 
+\begin{hieroglyph}imnt-t*y:xAst\end{hieroglyph} \tlb{imnty} 
+\td{occidental}
+
+Au masculin pluriel, cette catégorie de nisbé se terminera par 
+\tlb{-ty.w}. Au lieu de noter ce groupe 
+\begin{hieroglyph}t-y-W\end{hieroglyph}, les scribes ont recours 
+à un trilière \tlb{tyw} \begin{hieroglyph}tyw\end{hieroglyph} 
+(\MdC{G4})\footnote{\emph{Gardiner list} \MdC{G4}. À distinguer 
+du \emph{aleph}, \begin{hieroglyph}A\end{hieroglyph} \MdC{G1}.}, 
+phonogramme de valeur \tlb{tyw}.
+
 Ex. :
-imn.t, \td{l'Occident}, \td{l'ouest} imnty, \td{occidental}
-imnt(y).w, \td{occidentaux}
-imnt(y).t, \td{occidentale}
-imnt(y).wt, \td{occidentales}
-3 Gardiner list G4. À distinguer du aleph,
-G1.
 
-Les nisbés formés sur des substantifs :
-ne sont pas très nombreux. Voici quelques exemples en plus de l'exemple précédent :
-rsw, \td{le Sud} :  rsy, \td{méridional}.
-iAb.t, \td{l'Est ; l'Orient} :  iAbty, \td{oriental}.
-mH.t, \td{le Nord} :  mHty, \td{septentrional}.
-niw.t, \td{ville} :  niwty, \td{de la ville, local}
-Ax.t \td{l'horizon} :  Axty \td{horizontain, de l'horizon}
-Exemple :
-tA.w rsy.w, \td{les terres méridionales}.
-Attention à certaines graphies particulières des nisbés. On a déjà parlé des duels apparents
-(cours 3). On en rencontre dans les graphies de certains adjectifs nisbés dérivés de mots
-féminins et donc se terminant par ty. Ces phonèmes rappellent en effet le duel féminin .ti et
-peuvent être notés graphiquement sous la forme de duels apparents. Ainsi :
-niw.t \td{ville} => niwty (duel apparent) \td{citadin, local} [et non pas niw.ty \td{les deux
-villes}].
-Un exemple fréquent :  nTr niwty, \td{le dieu local, le dieu de la ville}.
-Même graphie possible pour Axty :  \td{Horizon}
-= > Axty \td{horizontain, de l'horizon} ou  Axty
-Un exemple fréquent :  Hr-Axty, \td{Horakhty, Horus-l'horizontain, Horus-de-l'Horizon}.
+\noindent%
+\begin{minipage}[t]{0.4\textwidth}
+  \begin{hieroglyph}imnt-t:xAst\end{hieroglyph} \tlb{imn.t} 
+  \td{l'Occident}, \td{l'Ouest}
+\end{minipage}%
+\hfill$\longrightarrow$\hfill%
+\begin{minipage}[t]{0.4\textwidth}
+  \begin{hieroglyph}imnt-t:y\end{hieroglyph} \tlb{imnty} 
+  \td{occidental}\\
+  \begin{hieroglyph}imnt-tyw-Z3\end{hieroglyph} \tlb{imnt(y).w} 
+  \td{occidentaux}\\
+  \begin{hieroglyph}imnt-t:t\end{hieroglyph} \tlb{imnt(y).t} 
+  \td{occidentale}\\
+  \begin{hieroglyph}imnt-t:t-Z3\end{hieroglyph} \tlb{imnt(y).wt} 
+  \td{occidentales}
+\end{minipage}
 
-Nisbés formés sur des prépositions :
-C'est le groupe le plus important. Il est très utilisé. Voici une liste indicative des
+\paragraph{Les nisbés formés sur des substantifs} ne sont pas très 
+nombreux. Voici quelques exemples en plus de l'exemple précédent :
+
+\begin{tabular}{ll}
+  \begin{hieroglyph}rsw-w-niwt\end{hieroglyph} 
+    \tlb{rsw}, \td{le Sud} & 
+    \begin{hieroglyph}rsw-y:N23\end{hieroglyph} 
+    \tlb{rsy}, \td{méridional} \\
+  \begin{hieroglyph}iAb-t:xAst\end{hieroglyph} 
+    \tlb{iAb.t}, \td{l'Est}, \td{l'Orient} &
+    \begin{hieroglyph}iAb-b-t:y\end{hieroglyph} 
+    \tlb{iAbty}, \td{oriental} \\
+  \begin{hieroglyph}mH:t*N23\end{hieroglyph} 
+    \tlb{mH.t}, \td{le Nord} & 
+    \begin{hieroglyph}mH:t*y\end{hieroglyph} 
+    \tlb{mHty}, \td{septentrional} \\
+  \begin{hieroglyph}niwt:t*1\end{hieroglyph} 
+    \tlb{niw.t}, \td{ville} & 
+    \begin{hieroglyph}niwt:t*y\end{hieroglyph} 
+    \tlb{niwty}, \td{de la ville}, \td{local}\\
+  \begin{hieroglyph}Axt:t*1\end{hieroglyph} 
+    \tlb{Ax.t} \td{l'horizon} & 
+    \begin{hieroglyph}Axt:t*y\end{hieroglyph} 
+    \tlb{Axty} \td{horizontain}, \td{de l'horizon}\\
+\end{tabular}
+
+Exemple :\\
+\begin{hieroglyph}N17:N17:N17-rsw-N23:3\end{hieroglyph} 
+\tlb{tA.w rsy.w}, \td{les terres méridionales}.
+
+Attention à certaines graphies particulières des nisbés. On a déjà 
+parlé des \emph{duels apparents} (cours 3). On en rencontre dans les 
+graphies de certains adjectifs \emph{nisbés} dérivés de mots féminins 
+et donc se terminant par \tlb{ty}. Ces phonèmes rappellent en effet 
+le duel féminin \tlb{.ti} et peuvent être notés graphiquement sous 
+la forme de duels \emph{apparents}. Ainsi :
+
+\begin{example}
+  \begin{hieroglyph}niwt:t*1\end{hieroglyph} \tlb{niw.t} \td{ville} 
+  \donc{} \begin{hieroglyph}niwt:niwt\end{hieroglyph} \tlb{niwty} 
+  (duel apparent) \td{citadin}, \td{local} [et non pas \tlb{niw.ty} 
+  \td{les deux villes}].
+\end{example}
+
+Un exemple fréquent : \begin{hieroglyph}nTr-niwt:niwt\end{hieroglyph} 
+\tlb{nTr niwty}, \td{le dieu local}, \td{le dieu de la ville}.
+
+\begin{example}
+  Même graphie possible pour \tlb{Axty} : 
+  \begin{hieroglyph}Axt:t*1\end{hieroglyph} \td{Horizon} \donc{} 
+  \begin{hieroglyph}Axt:t*y\end{hieroglyph} \tlb{Axty} 
+  \td{horizontain}, \td{de l'horizon} ou 
+  \begin{hieroglyph}Axt:Axt\end{hieroglyph} \tlb{Axty}
+\end{example}
+
+Un exemple fréquent : \begin{hieroglyph}G5-Axt:Axt\end{hieroglyph} 
+\tlb{Hr-Axty}, \td{Horakhty}, \td{Horus-l'horizontain}, 
+\td{Horus-de-l'Horizon}.
+
+\paragraph{Nisbés formés sur des prépositions} C'est le groupe le 
+plus important. Il est très utilisé. Voici une liste indicative des 
 principales prépositions et de leurs dérivés.
-m, \td{dans} :  imy, \td{qui est dans}.
-n, \td{à, pour} :  ny, plus souvent  n(y), féminin  n(y).t, \td{provenant de, destiné
-à}.
-r, \td{vers, à} :  iry, \td{qui est en relation avec}.
-Hr, \td{sur} :  Hry, \td{qui est sur, supérieur}.
-Xr, \td{sous} :  Xry, \td{qui est sous}.
-tp, \td{sur} :  tpy, \td{qui est sur}, aussi tpy, \td{premier}
-Exemple :
-nTr.w imy.w AbDw, \td{les dieux qui sont dans Abydos}.
-NB : comme les adjectifs de qualité, les adjectifs nisbés peuvent être utilisés de manière
-substantivée :  Hry, \td{le supérieur}.
-NB2 : certains dérivés en -y ne sont attestés qu'employés comme substantifs et non comme
-adjectifs :
-sx.t, \td{la campagne} sxty, \td{paysan, campagnard (celui de la
-campagne)}.
-xft, \td{devant, en face de, à l'avant de} (préposition)  xfty,
+
+\begin{tabular}{ll}
+  \begin{hieroglyph}m\end{hieroglyph} 
+    \tlb{m}, \td{dans} & 
+    \begin{hieroglyph}i-imi-m-y\end{hieroglyph} 
+    \tlb{imy}, \td{qui est dans}\\
+  \begin{hieroglyph}n\end{hieroglyph} 
+    \tlb{n}, \td{à, pour} & 
+    \begin{hieroglyph}n:y\end{hieroglyph} \tlb{ny}, 
+    plus souvent \begin{hieroglyph}n\end{hieroglyph} \tlb{n(y)}, 
+    féminin \begin{hieroglyph}n:t\end{hieroglyph} \tlb{n(y).t}, 
+    \td{provenant de, destiné à}\\
+  \begin{hieroglyph}r\end{hieroglyph} \tlb{r}, \td{vers, à} & 
+    \begin{hieroglyph}i-r:y-iry\end{hieroglyph} 
+    \tlb{iry}, \td{qui est en relation avec}\\
+  \begin{hieroglyph}Hr*1\end{hieroglyph} \tlb{Hr}, \td{sur} & 
+    \begin{hieroglyph}Hr_r:y-pt\end{hieroglyph} 
+    \tlb{Hry}, \td{qui est sur, supérieur}\\
+  \begin{hieroglyph}Hr:r\end{hieroglyph} \tlb{Xr}, \td{sous} & 
+    \begin{hieroglyph}Hr:r-y:Y1\end{hieroglyph} 
+    \tlb{Xry}, \td{qui est sous}\\
+  \begin{hieroglyph}tp*1\end{hieroglyph} \tlb{tp}, \td{sur} & 
+    \begin{hieroglyph}tp:p*y\end{hieroglyph} \tlb{tpy}, 
+    \td{qui est sur}, aussi 
+    \begin{hieroglyph}T8\end{hieroglyph} \tlb{tpy}, \td{premier}\\
+\end{tabular}
+
+
+Exemple :\\
+\begin{hieroglyph}nTr-nTr-nTr i-m-w Ab-b-Dw:niwt\end{hieroglyph} 
+\tlb{nTr.w im(y).w AbDw}, \td{les dieux qui sont dans Abydos}.
+
+\textbf{NB :} comme les adjectifs de qualité, les adjectifs 
+\emph{nisbés} peuvent être utilisés de manière substantivée : 
+\begin{hieroglyph}Hr-r:y-pt-A1\end{hieroglyph} \tlb{Hry}, 
+\td{le supérieur}.
+
+\textbf{NB2 :} certains dérivés en \tlb{-y} ne sont attestés 
+qu'employés comme substantifs et non comme adjectifs :\\
+\begin{hieroglyph}sxt:t*N23\end{hieroglyph} \tlb{sx.t}, 
+\td{la campagne} $\longrightarrow$ 
+\begin{hieroglyph}sxt:t*y-A1\end{hieroglyph} \tlb{sxty}, 
+\td{paysan}, \td{campagnard} (\td{celui de la campagne}).\\
+\begin{hieroglyph}x:f:t\end{hieroglyph} \tlb{xft}, \td{devant}, 
+\td{en face de}, \td{à l'avant de} (préposition) $\longrightarrow$ 
+\begin{hieroglyph}x:f-t:y-A13\end{hieroglyph} \tlb{xfty}, 
 \td{l'adversaire}
 
-3. L'adjectif indéfini nb
-L'adjectif indéfini  nb a le sens \td{tout}, \td{chaque}, \td{n'importe lequel} 4 . Il se
-place après le substantif, mais il a priorité sur les autres adjectifs 5 , c'est-à-dire qu'en cas de
-substantif déterminé par plusieurs adjectifs, l'adjectif indéfini nb sera toujours le premier
-adjectif mentionné.
-En théorie, l'adjectif indéfini s'accorde en genre et en nombre avec le substantif qu'il
-qualifie, mais les désinences, notamment du pluriel, sont souvent omises.
-x.t nb.t, \td{toutes choses} (collectif).
-nTr.w nb(.w), \td{tous les dieux}.
-NB : attention à ne pas confondre, l'adjectif indéfini nb, et le substantif nb \td{seigneur,
-maître}. Plus que les graphies, c'est le contexte de la phrase, mais aussi l'ordre des mots qui
-vous aidera. Ainsi,  xAs.t nb.t signifie \td{chaque pays (étranger)}, mais  nb
-tA.wi ne peut en aucun cas signifier \td{chaque Double-Pays} puisque nb est en tête. Nous
-verrons plus tard que le groupe nb-TA.wi signifie le \td{maître du Double Pays} (le pharaon).
+\section{L'adjectif indéfini \tlb{nb}}
+%----------------------------------------------------------------------
+
+L'adjectif indéfini \begin{hieroglyph}nb\end{hieroglyph} \tlb{nb} a 
+le sens \td{tout}, \td{chaque}, \td{n'importe lequel}\footnote{Dans 
+les propositions négatives, il pourra avoir le sens \td{aucun}.}. 
+Il se place \uline{après le substantif}, mais il a priorité sur 
+les autres adjectifs\footnote{Mais nécessairement après le pronom 
+suffixe.}, c'est-à-dire qu'en cas de substantif déterminé par 
+plusieurs adjectifs, l'adjectif indéfini \tlb{nb} sera toujours 
+le premier adjectif mentionné. 
+
+En théorie, l'adjectif indéfini s'accorde en genre et en nombre 
+avec le substantif qu'il qualifie, mais les désinences, notamment 
+du pluriel, sont souvent omises.
+
+\begin{hieroglyph}x:t-Y1:3-nb:t\end{hieroglyph} \tlb{x.t nb.t}, 
+\td{toutes choses} (collectif).
+
+\begin{hieroglyph}nTr-nTr-nTr nb\end{hieroglyph} \tlb{nTr.w nb(.w)}, 
+\td{tous les dieux}.
+
+\textbf{NB :} attention à ne pas confondre, l'adjectif indéfini 
+\tlb{nb}, et le substantif \tlb{nb} \td{seigneur}, \td{maître}. 
+Plus que les graphies, c'est le contexte de la phrase, mais aussi 
+l'ordre des mots qui vous aidera. 
+Ainsi, \begin{hieroglyph}xAst:1*t nb:t\end{hieroglyph} 
+\tlb{xAs.t nb.t} signifie \td{chaque pays (étranger)}, 
+mais \begin{hieroglyph}nb tA:tA\end{hieroglyph} \tlb{nb tA.wi} ne 
+peut en aucun cas signifier \td{chaque Double-Pays} puisque \tlb{nb} 
+est en tête. Nous verrons plus tard que le groupe \tlb{nb-TA.wi} 
+signifie le \td{maître du Double Pays} (le pharaon).
+
+
+\chapter{Autres expressions adjectivales}
+%======================================================================
+
+Dans ce cours sur les adjectifs, nous devons mentionner des 
+expressions de l'indéfini, qui n'appartiennent pas à la catégorie 
+de l'adjectif en égyptien (voir notamment leur positionnement avant 
+le substantif et non après), mais qui correspondent à nos articles 
+indéfinis sur le plan sémantique.
+
+\section{Autres expressions de l'indéfini}
+%----------------------------------------------------------------------
+
+Ces expressions se placent avant le substantif et se construisent 
+de manière indirecte au moyen du \tlb{n(y)} de relation.
+
+\begin{hieroglyph}n:h-y:G37-N33:3-n\end{hieroglyph} 
+\tlb{nhy n(y)} : \td{un peu de}.
+
+\begin{hieroglyph}HH-n\end{hieroglyph} \tlb{HH n(y)} : 
+\td{beaucoup de} (\litt \td{million de})
+
+Exemple : \begin{hieroglyph}n:h-y:G37-N33:3-n mw\end{hieroglyph} 
+\tlb{nhy n(y) mw} : \td{un peu d'eau}.
+
+\section{Expression de la différence}
+%----------------------------------------------------------------------
+
+La différence s'exprime au moyen de 
+\begin{hieroglyph}k-i-i\end{hieroglyph} \tlb{ky}, \td{autre}, un mot 
+(à l'origine un substantif) qui \uline{\textbf{se place avant}} le 
+substantif auquel il se rapporte et avec lequel il s'accorde.
+
+\begin{example}
+  Masculin (singulier) : 
+  \begin{hieroglyph}k-i-i\end{hieroglyph} \tlb{ky}
+
+  Masculin (pluriel) : 
+  \begin{hieroglyph}k:y-w-\!\!y:.\end{hieroglyph} \tlb{ky.wy}, 
+  \begin{hieroglyph}k-w-\!\!y:.\end{hieroglyph} \tlb{k(y).wy}, 
+  \begin{hieroglyph}k-w\end{hieroglyph} \tlb{k(y).w(y)}
+
+  Féminin (singulier et pluriel) : 
+  \begin{hieroglyph}k:t\end{hieroglyph} \tlb{k(y).t}, \tlb{k(y.w)t}
+\end{example}
+
+\begin{hieroglyph}k-i-i z:p*zp\end{hieroglyph} 
+\tlb{ky sp} : \td{autre fois}.
+
+\begin{hieroglyph}k:t pXr:r*t-N33:3\end{hieroglyph} 
+\tlb{k.t pXr.t} : \td{autre remède}.
+
+
+\chapter{Les démonstratifs}
+%======================================================================
+
+L'égyptien classique ne possède pas d'article défini. En revanche, il 
+possède des articles démonstratifs. Il en existe quatre séries.
+
+\begin{itemize}
+  \item La série \tlb{pn} (ce), \tlb{tn} (cette), \tlb{nn} (cela)
+  \item La série \tlb{pw} (ce), \tlb{tw} (cette), \tlb{nw} (cela)
+  \item La série \tlb{pf} (ce), \tlb{tf} (cette), \tlb{nf} (cela)
+  \item Et la série \tlb{pA} (ce), \tlb{tA} (cette), \tlb{nA} (cela)
+\end{itemize}
+
+La différence entre les séries est : soit une distinction de sens 
+(valeur \info{déictique}, soit une distinction d'état de langue, 
+soit de syntaxe). Du point de vue de la syntaxe, les démonstratifs :
+
+\begin{itemize}
+  \item La série \tlb{pn} (ce), \tlb{tn} (cette)
+  \item La série \tlb{pw} (ce), \tlb{tw} (cette)
+  \item La série \tlb{pf} (ce), \tlb{tf} (cette)
+\end{itemize}
+
+au singulier, ces démonstratifs se placent 
+\uline{\textbf{immédiatement après}} le substantif qu'ils 
+déterminent, par priorité sur tous les adjectifs\footnote{Mais 
+nécessairement après le pronom suffixe.}.
+
+\begin{center}
+  \begin{hieroglyph}pr-1 p:n\end{hieroglyph} 
+  \tlb{pr pn} \td{cette maison}, \td{la maison que voici}
+
+  \begin{hieroglyph}pr-1 p:n nfr-f:r\end{hieroglyph} 
+  \tlb{pr pn nfr} \td{cette belle maison}
+
+  \begin{hieroglyph}pr-1-f p:n nfr-f:r\end{hieroglyph} 
+  \tlb{pr=f pn nfr} \td{sa belle maison que voici}, 
+  \td{cette sienne belle maison}
+\end{center}
+
+En revanche, les démonstratifs :
+
+\begin{itemize}
+  \item Et la série \tlb{pA} (ce), \tlb{tA} (cette)
+\end{itemize}
+
+Se placent \uline{\textbf{devant}} le substantif. 
+\begin{hieroglyph}pA-A pr-1\end{hieroglyph} \tlb{pA pr} \td{cette 
+maison}. Les déterminatifs de cette série sont les plus récents de 
+la langue. Ce sont eux qui serviront d'article dans l'égyptien de 
+la 2\up{nde}~phase.
+
+Le pluriel des démonstratifs est un peu complexe. Les trois premières 
+séries (\tlb{pn}, \tlb{pw}, \tlb{pf}) possèdent une forme pluriel (qui 
+se place aussi après le substantif), mais qui n'est plus vivante au 
+\MK (\td{démonstratifs pluriels archaïques}, voir tableau ci-dessous). 
+Au \MK, l'égyptien recourt plutôt, à des périphrases utilisant le 
+démonstratif neutre des séries. placé devant le substantif et 
+construit de manière indirecte au moyen du nisbé (voir \doc{cours~3}) 
+\begin{hieroglyph}n\end{hieroglyph} n(y) \td{de}.
+
+\begin{hieroglyph}pr-1-f p:n\end{hieroglyph} \\
+\tlb{pr pn} \td{cette maison}
+
+mais
+
+\begin{hieroglyph}M22-M22-n pr-1\end{hieroglyph} \\
+\tlb{nn n(y) pr} \td{ces maisons} (\litt \td{cela des maisons})
+
+\section*{Tableau récapitulatif des démonstratifs}
+%----------------------------------------------------------------------
+
+\begin{tabular}{ccccc}
+    ~ &
+    Série \tlb{pn} \emph{\smaller Démonstratif de proximité} &
+    Série \tlb{pf} \emph{\smaller Démonstratif d'éloignement} &
+    Série \tlb{pw} \emph{\smaller (ancien)} &
+    Série \tlb{pA} \emph{\smaller (récent) Se place devant le nom}
+  \\
+    Masculin singulier &
+    \begin{hieroglyph}p:n\end{hieroglyph} \tlb{pn} &
+    \begin{hieroglyph}p:f\end{hieroglyph} \tlb{pf} &
+    \begin{hieroglyph}p-w\end{hieroglyph} ou 
+    \begin{hieroglyph}p-W\end{hieroglyph} \tlb{pw} &
+    \begin{hieroglyph}pA-A\end{hieroglyph} \tlb{pA}
+  \\
+    Féminin Singulier &
+    \begin{hieroglyph}t:n\end{hieroglyph} \tlb{tn} &
+    \begin{hieroglyph}t:f\end{hieroglyph} \tlb{tf} &
+    \begin{hieroglyph}t-w\end{hieroglyph} ou 
+    \begin{hieroglyph}t-W\end{hieroglyph} \tlb{tw} &
+    \begin{hieroglyph}t-A\end{hieroglyph} \tlb{tA}
+  \\
+    Pluriel archaïque &
+    \begin{hieroglyph}i-p:n\end{hieroglyph} ipn (masc.) 
+    \begin{hieroglyph}i-p*t:n\end{hieroglyph} iptn (fém.) &
+    \begin{hieroglyph}i-p:f\end{hieroglyph} ipf (masc.) 
+    \begin{hieroglyph}i-p*t:f\end{hieroglyph} iptf (fém.) &
+    \begin{hieroglyph}i-p-w\end{hieroglyph} ipw (masc.) 
+    \begin{hieroglyph}i-p:t-w\end{hieroglyph} iptw (fém.) &
+    ~
+  \\
+    Pluriel (ou neutre) &
+    \begin{hieroglyph}M22-M22\end{hieroglyph} \tlb{nn (n(y))} &
+    \begin{hieroglyph}n:f\end{hieroglyph} \tlb{nf (n(y))} &
+    \begin{hieroglyph}n:\end{hieroglyph} \tlb{nw (n(y))} &
+    \begin{hieroglyph}n:U19-nw:W\end{hieroglyph} \tlb{nA (n(y))} 
+  \\
+\end{tabular}
+
+\begin{hieroglyph}i-iz-z:pr p:n nfr-f:r\end{hieroglyph} 
+\tlb{is pn nfr} : \td{cette belle tombe}.
+
+\begin{hieroglyph}M22-M22-n sxt-t:y-A1\end{hieroglyph} 
+\tlb{nn n(y) sxty} : \td{ces paysans}.
+
+\begin{hieroglyph}M22-M22-n TAw-w-w-Z3\end{hieroglyph} 
+\tlb{nn n(y) TAw.w} : \td{ces souffles}.
+
+\begin{exercice}
+  Faire l'exercice~11 \emph{(à rendre par email)}
+\end{exercice}
+
+
+\chapter{Éléments de syntaxe : le complément de nom / le génitif}
+%======================================================================
+
+
+
+
 
 \begin{comment}
 
-IV. A UTRES EXPRESSIONS ADJECTIVALES
+Le génitif est le cas du complément de nom. Un substantif peut être 
+précisé par un autre substantif qui lui sert alors de complément. Deux 
+constructions sont possibles en égyptien ancien : une construction 
+directe (génitif direct), une construction indirecte (génitif 
+indirect).
 
-Dans ce cours sur les adjectifs, nous devons mentionner des expressions de l'indéfini, qui
-n'appartiennent pas à la catégorie de l'adjectif en égyptien (voir notamment leur
-positionnement avant le substantif et non après), mais qui correspondent à nos articles
-indéfinis sur le plan sémantique.
-Autres expressions de l'indéfini
-Ces expressions se placent avant le substantif et se construisent de manière indirecte
-au moyen du n(y) de relation.
-nhy n(y) : \td{un peu de}.
-HH n(y) : \td{beaucoup de} (littéralement \td{million de})
-Exemple :  nhy n(y) mw : \td{un peu d'eau}.
-Expression de la différence
-4 Dans les propositions négatives, il pourra avoir le sens \td{aucun}.
-5 Mais nécessairement après le pronom suffixe.
+\paragraph{Génitif direct :} cette construction est utilisée en cas de 
+lien fort entre les deux éléments. Elle consiste à juxtaposer les deux 
+substantifs. Construction fréquente dans les titres de fonctionnaires 
+et dans quelques expressions courantes.
 
-La différence s'exprime au moyen de  ky, \td{autre}, un mot (à l'origine un
-substantif) qui se place avant le substantif auquel il se rapporte et avec lequel il s'accorde.
-Masculin (singulier) :  ky
-Masculin (pluriel) :  kywy,  k(y)wy,  k(y)w(y)
-Féminin (singulier et pluriel) : 
-ky sp : \td{autre fois}.
-k.t pẖr.t : \td{autre remède}.
-V.  L ES DEMONSTRATIFS
-L'égyptien classique ne possède pas d'article défini. En revanche, il possède des
-articles démonstratifs. Il en existe quatre séries.
--- La série pn (ce), tn (cette), nn (cela)
--- La série pw (ce), tw (cette), nw (cela)
--- La série pf (ce), tf (cette), nf (cela)
--- Et la série pA (ce), tA (cette), nA (cela)
-La différence entre les séries est : soit une distinction de sens (valeur déictique, soit une
-distinction d'état de langue, soit de syntaxe).
-Du point de vue de la syntaxe, les démonstratifs :
--- La série pn (ce), tn (cette)
--- La série pw (ce), tw (cette)
--- La série pf (ce), tf (cette)
-au singulier, ces démonstratifs se placent immédiatement après le substantif qu'ils
-déterminent, par priorité sur tous les adjectifs 6 .
-pr pn \td{cette maison, la maison que voici}
-pr pn nfr \td{cette belle maison}
-pr=f pn nfr \td{sa belle maison que voici, cette sienne belle maison}
-En revanche, les démonstratifs :
-6 Mais nécessairement après le pronom suffixe.
+Ex. : \begin{hieroglyph}nb-N17:N17\end{hieroglyph} 
+nb TA.wy \td{le Seigneur du Double Pays}
 
--- Et la série pA (ce), tA (cette)
-Se placent devant le substantif.  pA pr \td{cette maison}. Les déterminatifs de
-cette série sont les plus récents de la langue. Ce sont eux qui serviront d'article dans
-l'égyptien de la 2 nde phase.
-Le pluriel des démonstratifs est un peu complexe. Les trois premières séries (pn, pw, pf)
-possèdent une forme pluriel (qui se place aussi après le substantif), mais qui n'est plus vivante
-au \MK (\td{démonstratifs pluriels archaïques}, voir tableau ci-dessous). Au \MK, l'égyptien recourt plutôt, à des périphrases utilisant le démonstratif neutre des séries.
-placé devant le substantif et construit de manière indirecte au moyen du nisbé (voir cours 3)
-n(y) \td{de}.
-pr pn \td{cette maison}
-mais
-nn n(y) pr \td{ces maisons} (littéralement \td{cela des maisons})
-Tableau récapitulatif des démonstratifs
-Série pn
-Démonstratif de
-proximité
-Série pf
-Démonstratif
-d'éloignement
-Série pw
-(ancien)
-Série pA (récent)
-Se place devant le
-nom
-Masculin
-singulier
-pn  pf  ou  pw  pA
-Féminin
-Singulier
-tn  tf  ou  tw  tA
-Pluriel
-archaïque
-ipn
-(masc.)
-iptn (fém.)
-ipf (masc.)
-iptf (fém.)
-ipw
-(masc.)
-iptw
-(fém.)
-Pluriel  (ou
-neutre)
-nn (n(y))  nf (n(y))  nw
-(n(y))
-nA (n(y))
-is pn nfr : \td{cette belle tombe}.
-nn n(y) sxty : \td{ces paysans}.
-nn n(y) TAw.w : \td{ces souffles}.
+\begin{quote}
+  \textbf{NB : Cas particulier : l'antéposition honorifique/%
+  l'inversion respectueuse}\\
+  Si le complément est un être royal ou divin, le complément s'écrit 
+  avant le substantif qu'il complète pour respecter la préséance. Il 
+  s'agit d'un procédé graphique (on translittère donc dans l'ordre 
+  normal).
 
-Faire l'exercice 11 ( à rendre par email)
+  Ex. : \begin{hieroglyph}sw-t:n zA-1-A1\end{hieroglyph}
+  \tlb{sA n(y)-sw.t} \td{le fils du roi}.
 
-VI. E LEMENTS DE SYNTAXE : LE COMPLEMENT DE NOM / LE
-GENITIF
+  Ex. : \begin{hieroglyph}nTr-Hwt-t:pr\end{hieroglyph}
+  \tlb{Hw.t-nTr} \td{le château-du-dieu, le temple}
 
-Le génitif est le cas du complément de nom. Un substantif peut être précisé par un autre
-substantif qui lui sert alors de complément. Deux constructions sont possibles en égyptien
-ancien : une construction directe (génitif direct), une construction indirecte (génitif indirect).
-- Génitif direct : cette construction est utilisée en cas de lien fort entre les deux éléments.
-Elle consiste à juxtaposer les deux substantifs. Construction fréquente dans les titres de
-fonctionnaires et dans quelques expressions courantes.
-Ex. :  nb TA.wy \td{le Seigneur du Double Pays}
-NB : Cas particulier : l'antéposition honorifique/l'inversion respectueuse
-Si le complément est un être royal ou divin, le complément s'écrit avant le substantif
-qu'il complète pour respecter la préséance. Il s'agit d'un procédé graphique (on
-translittère donc dans l'ordre normal).
-Ex. :  sA n(y)-sw.t \td{le fils du roi}.
-Ex. :  Hw.t-nTr \td{le château-du-dieu, le temple}
-Ex. :  Hm-nTr \td{le serviteur-du-dieu, le prêtre}.
+  Ex. : \begin{hieroglyph}nTr-Hm\end{hieroglyph}
+  \tlb{Hm-nTr} \td{le serviteur-du-dieu, le prêtre}.
+\end{quote}
+
 - Le génitif indirect : dans cette construction, les deux éléments ne sont plus directement en
 contact mais reliés au moyen de l'adjectif nisbé n(y) (\td{qui appartient à}, \td{qui est en relation
 avec}), qui s'accorde avec le substantif déterminé. Les significations du complément sont

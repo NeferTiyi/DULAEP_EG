@@ -1,13 +1,13 @@
 %!TEX root = DULAEP_EG.htx
 %##HieroDef.txt
 
-\part{Cours~1, suite -- Le système graphique}\footnote{Cf. 
+\part{Cours~1, suite -- Le système graphique\protect\footnote{Cf. 
 W.~\bsc{Schenkel}, \emph{Lexikon der Ägyptologie}~V, col.~713-735, 
-s.v. Schrift.}
+s.v. Schrift.}}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \begin{aparte}
-  \textbf{Remarque préalable~1}\\
+  \noindent\textbf{Remarque préalable~1}\\
   Il convient d'emblée de dissiper un malentendu possible : 
   le système hiéroglyphique, s'il comporte des signes-mots (des
   logogrammes), comme le signe \begin{hieroglyph}pr\end{hieroglyph} 
@@ -21,7 +21,7 @@ s.v. Schrift.}
   (consonnes du mot \frquote{maison} en égyptien). Si vous aimez les 
   rébus, le système hiéroglyphique sera un jeu d'enfant pour vous\dots
 
-  \textbf{Remarque préalable~2}\\
+  \noindent\textbf{Remarque préalable~2}\\
   Vous l'aurez remarqué dans l'exemple précédent, l'écriture 
   hiéroglyphique, comme l'écriture arabe actuelle, ne note pas 
   les voyelles : seulement le squelette consonantique du mot.
@@ -118,6 +118,7 @@ ci-dessous : \textbf{logogrammes}, \textbf{phonogrammes},
 \textbf{déterminatifs}.
 
 \section{Logogrammes}
+%----------------------------------------------------------------------
 
 Certains signes sont des \textbf{logogrammes} (ou 
 \textbf{signes-mots}, aussi \textbf{idéogrammes}). 
@@ -127,10 +128,11 @@ phonologique\footnote{J.~\bsc{Winand}, A.~\bsc{Stella},
 Par exemple 
 \begin{hieroglyph}ra\end{hieroglyph} = Rê \frquote{soleil}, 
 \begin{hieroglyph}pr\end{hieroglyph} = \tlb{pr} \frquote{maison}, ou 
-\begin{hieroglyph}sA\end{hieroglyph} = \tlb{zA} \frquote{fils}, 
+\begin{hieroglyph}zA\end{hieroglyph} = \tlb{sA} \frquote{fils}, 
 \begin{hieroglyph}r\end{hieroglyph} = \tlb{r(A)} \frquote{bouche}.
 
 \section{Phonogrammes}
+%----------------------------------------------------------------------
 
 Les signes peuvent avoir seulement une valeur phonétique.
 
@@ -173,6 +175,7 @@ directe}.
 \end{enumerate}
 
 \section{Déterminatifs ou sémagrammes}
+%----------------------------------------------------------------------
 
 Observez ce groupe : \begin{hieroglyph}r:n-A2\end{hieroglyph}.
 
@@ -194,18 +197,18 @@ représente un homme qui porte la main à la bouche. Cela signifie
 que le mot \tlb{rn} désigne une chose qui est énoncé par la bouche : 
 le nom que l'on prononce. Ce type de signe sans valeur phonétique, 
 mais à simple valeur sémantique, est appelé \textbf{déterminatif} ou 
-\textbf{classificateur} Il se trouve toujours à la fin du mot et sert 
+\textbf{classificateur}. Il se trouve toujours à la fin du mot et sert 
 à distinguer les homogrammes.
 
 Observez ces deux mots suivants :\\
-1. \begin{hieroglyph}pr:r-t:D54\end{hieroglyph} et 
-2. \begin{hieroglyph}pr:r-t-ra\end{hieroglyph}
+1.~\begin{hieroglyph}pr:r-t:D54\end{hieroglyph} et 
+2.~\begin{hieroglyph}pr:r-t-ra\end{hieroglyph}
 
 Le seul signe différent est le dernier, le déterminatif. Dans un cas, 
 on a 
-1. \begin{hieroglyph}D54\end{hieroglyph}, déterminatif des verbes de 
+1.~\begin{hieroglyph}D54\end{hieroglyph}, déterminatif des verbes de 
 mouvement ; et dans l'autre,
-2. \begin{hieroglyph}ra\end{hieroglyph}, déterminatif des éléments en 
+2.~\begin{hieroglyph}ra\end{hieroglyph}, déterminatif des éléments en 
 rapport avec le cycle solaire.
 
 \begin{hieroglyph}pr:r-t:D54\end{hieroglyph} = \tlb{pr.t} 
@@ -214,7 +217,7 @@ rapport avec le cycle solaire.
 \frquote{saison \emph{péret}} (la saison des semailles)
 
 \begin{aparte}
-  \textbf{Bilan d'étape 1 :}
+  \textbf{Bilan d'étape~1 :}
 
   Un mot égyptien s'écrit donc normalement avec deux séries de signes :
   {\color{red}
@@ -237,10 +240,10 @@ rapport avec le cycle solaire.
 \end{aparte}
 
 \begin{aparte}
-  \textbf{Bilan d'étape 2 :}
+  \textbf{Bilan d'étape~2 :}
 
   Il y a donc trois valeurs possibles pour les signes {\hiero}iques 
-  égyptiens : \clef{logogrammes}, \clef{phonogrammes} ou 
+  égyptiens : \clef{logo\-grammes}, \clef{phonogrammes} ou 
   \clef{déterminatifs}. Si vous avez été attentif, vous avez repéré 
   que le signe \begin{hieroglyph}pr\end{hieroglyph} peut avoir 
   plusieurs valeurs possibles. En fait, certains signes peuvent avoir 
@@ -257,17 +260,17 @@ jusqu'ici, quel autre signe a deux valeurs ?
 
 \chapter{Les différents types de phonogrammes et les compléments 
 phonétiques}
-
+%======================================================================
 
 Pour compléter le tableau et préciser le système graphique 
 hiéroglyphique, nous devons revenir sur les phonogrammes. 
 Observez ces trois signes et leur valeur phonétique :
 
-\framebox{%
-  \noindent\begin{hieroglyph}pr\end{hieroglyph} \tlb{nfr}\\
+\fbox{\parbox{\textwidth}{%
+  \noindent\begin{hieroglyph}nfr\end{hieroglyph} \tlb{nfr}\\
   \begin{hieroglyph}pr\end{hieroglyph} \tlb{pr}\\
-  \begin{hieroglyph}pr\end{hieroglyph} \tlb{f}%
-}
+  \begin{hieroglyph}f\end{hieroglyph} \tlb{f}%
+}}
 
 Que remarquez-vous ?
 
@@ -288,14 +291,15 @@ Certains mots courants peuvent être écrits seulement au moyen de
 phonogrammes unilitères : 
 
 \begin{center}
-  \begin{hieroglyph}Dd'\end{hieroglyph} \tlb{Dd} \frquote{dire} -- 
-  \begin{hieroglyph}H-n:a\end{hieroglyph} \tlb{Hna} \frquote{avec}
+  \begin{hieroglyph}Dd'\end{hieroglyph} \tlb{Dd} 
+  \frquote{dire} -- \begin{hieroglyph}H-n:a\end{hieroglyph} 
+  \tlb{Hna} \frquote{avec}
 \end{center}
 
 Toutefois, la plupart des mots sont notés au moyen de phonogrammes 
 bilitères ou trilitères. 
 
-Par exemple, \begin{hieroglyph}Dd'\end{hieroglyph} \tlb{ir(i)} 
+Par exemple, \begin{hieroglyph}ir\end{hieroglyph} \tlb{ir(i)} 
 \frquote{faire} (valeur de l'{\oe}il \tlb{ir} -- nous parlerons 
 plus tard des phonèmes de la langue égyptienne -- sans doute parce 
 que l'{\oe}il se disait \tlb{ir.t} \emph{iret}).
@@ -308,7 +312,7 @@ des signes.
 
 Réexaminons le mot :
 
-\framebox{%
+\framebox{\parbox{\textwidth}{%
   \begin{hieroglyph}pr:r-t:D54\end{hieroglyph} = \tlb{pr.t} 
   \frquote{sortir}
 
@@ -324,7 +328,7 @@ Réexaminons le mot :
   est complément phonétique du signe 
   \begin{hieroglyph}D54\end{hieroglyph}. Il ne note pas un deuxième 
   phonème [r], mais renote, de manière redondante le premier.
-}
+}}
 
 Autre exemple, le mot \begin{hieroglyph}nfr-f:r-Y1v\end{hieroglyph} 
 \frquote{parfait, bon, accompli}, \tlb{nfr}. Il est écrit au moyen 
@@ -371,4 +375,3 @@ devez faire l'exercice~2, pour vous assurer que tout est bien compris
 \begin{aparte}
   Exercice~2 à faire
 \end{aparte}
-

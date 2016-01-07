@@ -118,7 +118,7 @@ vizir sous Touthmosis~III, \dyn{xviii}, \fref{fig:TT100}).
 
 \begin{figure}
   \includegraphics[height=8cm]{TT100_6519-20}
-  \caption{Détail de la \TT{100}, d'après 
+  \caption{Détail de la \tt{100}, d'après 
   \href{http://www.osirisnet.net/tombes/nobles/rekhmire100/
         rekhmire100_02.htm}{osiris.net}}
   \label{fig:TT100}
