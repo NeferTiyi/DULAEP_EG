@@ -66,17 +66,17 @@ légendes de scènes}
 Un substantif ou un infinitif peut être utilisé de manière 
 absolue, c'est-à-dire comme un énoncé complet ayant la fonction 
 de titre de section ou de légende\footnote{C'est ce que 
-Grandet/Mathieu appellent les \frquote{énoncés-titres}. 
-Gardiner (\emph{Egyptian Grammar}, §~89.9 et §~306) parle de 
-nom ou d'infinitif avec \frquote{function of a sentence}.}. 
-Par exemple, au début d'une nouvelle recette médicinale, on 
-trouvera le titre :
+\citeauthor{GM} appellent les \frquote{énoncés-titres}. 
+\citeauthor{Gardiner} (\citetitle[][§~89.9 et §~306]{Gardiner}) 
+parle de nom ou d'infinitif avec \frquote{function of a sentence}.}. 
+Par exemple, au début d'une nouvelle recette médicinale, on trouvera 
+le titre :
 \begin{center}
   \begin{hieroglyph}k:t-pXr:r:t-N33:3\end{hieroglyph}\\
   \tlr{k.t pXr.t}\\
   \tdr{Autre remède : \dots}\\
   (les titres sont généralement à l'encre rouge dans les 
-  manuscrits en hiératique ou en hiéroglyphique linéaire)
+  manuscrits en hiératique ou en \hiero linéaire)
 \end{center}
 
 \begin{center}

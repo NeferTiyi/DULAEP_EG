@@ -8,15 +8,15 @@
 %======================================================================
 
 
-\subsection*{Quelles sont les 3 valeurs possibles des signes dans le système 
-d'écriture hiéroglyphique ?}
+\subsection*{Quelles sont les 3 valeurs possibles des signes dans le 
+système d'écriture \hiero ?}
 \begin{itemize}
   \item logogrammes (valeur sémantique et phonétique)
   \item phonogrammes (seulement une valeur phonétique)
   \item déterminatifs (seulement une valeur sémantique)
 \end{itemize}
 
-\subsection*{Comment note-t-on un mot égyptien en hiéroglyphe ?}
+\subsection*{Comment note-t-on un mot égyptien en \hiero[e] ?}
 En résumé, on peut dire qu'il y a normalement deux parties :
 \begin{itemize}
   \item les premiers signes notent les phonèmes du mot
@@ -92,26 +92,24 @@ schéma fonctionne aussi d'une certaine manière :
 
 L'orientation première de l'écriture égyptienne est probablement 
 de droite à gauche. C'est l'orientation exclusive des écritures 
-cursives (hiératique, puis démotique). Le hiéroglyphique lui, on l'a 
-vu, peut-être écrit de droite à gauche ou de gauche à droite, en ligne 
-ou en colonne (lue du haut vers le bas).
+cursives (hiératique, puis démotique). Le \hiero lui, on l'a vu, 
+peut-être écrit de droite à gauche ou de gauche à droite, en ligne ou 
+en colonne (lue du haut vers le bas).
 
-Les signes hiéroglyphiques ne sont en outre pas disposés les uns à la 
+Les signes \hiero[iques] ne sont en outre pas disposés les uns à la 
 suite des autres, mais agencés selon des considérations esthétiques 
 sous forme de \textbf{\frquote{cadrats}}, c'est-à-dire de carrés 
 virtuels permettant une disposition harmonieuse des signes.
 
 \begin{figure}[h!]
   \includegraphics[width=\textwidth]{cadrats}
-  \caption{Texte hiéroglyphique disposé en cadrats (\bsc{Gardiner}, 
-           \emph{Egyptian Grammar}, 3\ieme~éd., Oxford, 1957, p.~310) 
-           \rem{(figure reprise de Grandet, Mathieu, \emph{Cours 
-           d'égyptien hiéroglyphique}, p.~20)}}
+  \caption{Texte \hiero disposé en cadrats (\fullcite[310]{Gardiner}) 
+           \rem{(figure reprise de \citeauthortitle[20]{GM1})}}
   \label{fig:cadrats}
 \end{figure}
 
-En hiéroglyphique, les signes isolés sont normalement placés au centre 
-du cadrat.
+En \hiero, les signes isolés sont normalement placés au centre du 
+cadrat.
 
 \chapter{Retour sur les déterminatifs}
 %======================================================================
@@ -131,14 +129,12 @@ sont très utiles, à plusieurs égards :
 \end{itemize}
 
 À cet égard, ils jouent d'une certaine manière le même rôle 
-que les \emph{kanji} en japonais ou l'orthographe historique
-française\footnote{Voir les remarques éclairantes 
-A.-M.~\bsc{Christin}, \emph{L'image écrite ou la déraison graphique}, 
-Paris, 1995.}. Les graphies \emph{vert} -- \emph{vers} -- \emph{ver} 
--- \emph{verre} donnent des informations visuelles sur le sens des 
-mots. L'orthographe nous sert, en français écrit, d'indicateur 
-sémantique. Les déterminatifs des hiéroglyphes ont une fonction 
-similaire.
+que les \emph{kanji} en japonais ou l'orthographe historique 
+française\footfullcite[Voir les remarques éclairantes de][]{Christin}. 
+Les graphies \emph{vert} -- \emph{vers} -- \emph{ver} -- \emph{verre} 
+donnent des informations visuelles sur le sens des mots. L'orthographe 
+nous sert, en français écrit, d'indicateur sémantique. Les 
+déterminatifs des \hiero[es] ont une fonction similaire.
 
 \begin{hieroglyph}d:p*t-P1\end{hieroglyph} \tl{dp.t} 
 \td{bateau}
@@ -157,7 +153,7 @@ expression utilisée dans les manuels de rites de protection pour
 indiquer que l'on doit ajouter ici le nom du patient)
 
 \begin{exercice}
-  Voir le document \doc{5 Déterminatifs} et Faire l'exercice~5.
+  Voir le document \doc{5 Déterminatifs} et faire l'exercice~5.
   \emph{Voir corrigé en ligne.}
 \end{exercice}
 
@@ -165,14 +161,14 @@ indiquer que l'on doit ajouter ici le nom du patient)
 %======================================================================
 
 Les logogrammes sont perçus comme le c{\oe}ur et l'origine du système 
-d'écriture hiéroglyphique, puisque les signes phonogrammes en sont 
-dérivés selon le principe du \textbf{rébus par transfert} (voir plus 
-haut : le signe \begin{hieroglyph}pr\end{hieroglyph} note le mot 
-\td{maison} qui comporte les consonnes \tl{pr}, le même 
-signe est donc réutilisé pour noter simplement ces phonèmes).
+d'écriture \hiero, puisque les signes phonogrammes en sont dérivés 
+selon le principe du \textbf{rébus par transfert} (voir plus haut : le 
+signe \begin{hieroglyph}pr\end{hieroglyph} note le mot \td{maison} qui 
+comporte les consonnes \tl{pr}, le même signe est donc réutilisé pour 
+noter simplement ces phonèmes).
 
 Il demeure de très nombreux mots notés par un seul signe dans 
-l'écriture hiéroglyphique égyptienne.
+l'écriture \hiero égyptienne.
 
 \textbf{Par exemple :} 
 \begin{hieroglyph}pr-1\end{hieroglyph} \tl{pr} \td{maison} ; 
@@ -186,8 +182,10 @@ vertical, appelé \frquote{trait de lecture directe} (Grandet/Mathieu)
 ou encore \frquote{trait de l'idéogramme} (Obsomer), signalant la 
 valeur logographique à conférer au signe.
 
-NB : une exception courante \begin{hieroglyph}mw\end{hieroglyph} 
-\tl{mw} \td{eau}
+\begin{notabene}
+   une exception courante : \begin{hieroglyph}mw\end{hieroglyph} 
+   \tl{mw} \td{eau}
+\end{notabene}
 
 \begin{aparte}
       [title={Remarque sur la terminologie employée :}, breakable]
@@ -204,13 +202,10 @@ NB : une exception courante \begin{hieroglyph}mw\end{hieroglyph}
   une catégorie plus spécifique de signe-mot, les \frquote{caractères 
   figuratifs} de Champollion \frquote{qui expriment l'objet dont ils 
   présentent à l'{\oe}il l'image plus ou moins fidèle et plus ou moins 
-  détaillée\footnote{J.-Fr.~\bsc{Champollion} , \emph{Grammaire 
-  égyptienne, ou principes généraux de l'écriture sacrée égyptienne 
-  appliquée à la représentation de la langue parlée} (1836), p.~22 
-  (ouvrage disponible sur Gallica.fr). cf. aussi M.~\bsc{Malaise}, 
-  J.~\bsc{Winand}, \emph{Grammaire raisonnée de l'égyptien classique}, 
-  p.~28.}}. Par exemple, une image du visage de face pour noter le mot 
-  \td{image}, \td{face} \begin{hieroglyph}Hr-1\end{hieroglyph} ou 
+  détaillée\footnote{\fullcite[22]{Champo}. cf. aussi 
+  \citeauthortitle[28]{MW}.}}. Par exemple, une image du visage de 
+  face pour noter le mot \td{image}, \td{face} 
+  \begin{hieroglyph}Hr-1\end{hieroglyph} ou 
   \begin{hieroglyph}r-1\end{hieroglyph} \td{bouche} \tl{r(A)}.
 
   Champollion définit une seconde catégorie de \frquote{signes-mots} : 
@@ -229,8 +224,7 @@ NB : une exception courante \begin{hieroglyph}mw\end{hieroglyph}
   On préfère donc fréquemment le terme logogramme, qui renvoie à 
   l'idée de mot noté par un signe quelque soit la méthode de 
   représentation (strictement figurative, ou métaphorique, etc.), 
-  pour sa polysémie\footnote{J.-J.~\bsc{Glassner} , \emph{Essai pour 
-  une définition des écritures}, \emph{L'Homme}~192, 2009/4, p.~16.}.
+  pour sa polysémie\footnote{\citeauthortitle[16]{Glassner}.}.
 \end{aparte}
 
 Les logogrammes sont donc normalement accompagnés d'un trait 
@@ -288,12 +282,12 @@ Voir encore :
   Faire l'exercice~6.\emph{Voir corrigé en ligne.}
 \end{exercice}
 
-\chapter{Les codes des signes hiéroglyphiques}
+\chapter{Les codes des signes \hiero[iques]}
 
-Vous avez pu remarquer dans le document \doc{5-Déterminatifs} et 
-dans le document \doc{6-Logogrammes} que chaque signe hiéroglyphique 
-égyptien est associé à un code. Par exemple, 
-l'homme assis \begin{hieroglyph}A1\end{hieroglyph} 
+Vous avez pu remarquer dans le document \doc{5-Déterminatifs} et dans 
+le document \doc{6-Logogrammes} que chaque signe \hiero égyptien est 
+associé à un code. 
+Par exemple, l'homme assis \begin{hieroglyph}A1\end{hieroglyph}
 porte le code \MdC{A1}, l'homme portant la main à la bouche
 \begin{hieroglyph}A2\end{hieroglyph} \MdC{A2}, la femme assise 
 \begin{hieroglyph}B1\end{hieroglyph} \MdC{B1}, la tête de profil 
@@ -304,8 +298,8 @@ Alan H.~\bsc{Gardiner} dans son \emph{Egyptian Grammar}. On appelle
 cette liste la \emph{Gardiner List}. C'est cette classification qui 
 est communément en usage aujourd'hui. Vous trouverez cette liste 
 des signes égyptiens dans sa version en français publiée par 
-M.~\bsc{Malaise} et J.~\bsc{Winand}, dans la \emph{Grammaire raisonnée 
-de l'égyptien classique}, dans le document \doc{7-Gardiner List}.
+\citeauthor{MW}, dans la \citetitle{MW}, dans le document 
+\doc{7-Gardiner List}.
 
 \begin{exercice}
   Faire l'exercice de synthèse~7, à rendre par email.

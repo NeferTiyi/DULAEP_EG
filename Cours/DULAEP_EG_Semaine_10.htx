@@ -81,14 +81,15 @@ l'infinitif.
 Suivant les manuels ou grammaires, on appelle cette construction :
 
 \begin{itemize}
-  \item \textbf{Proposition à prédicat adverbial à léxème verbal 
-        (Grandet/Mathieu, \emph{Cours d'égyptien hiéroglyphique})}, 
-        cette appellation a pour avantage de souligner la parenté de 
-        structure entre cette construction \frquote{pseudo-verbale} 
-        et la proposition à prédicat adverbial.
-  \item \textbf{Une construction \frquote{pseudo-verbale} (Gardiner, 
-        Obsomer, Malaise/Winand) avec infinitif : notamment dans 
-        l'exemple précédent, la forme \tl{Hr} + infinitif.}
+  \item \textbf{Proposition à prédicat adverbial à lexème verbal 
+        (\citeauthortitle{GM})}, cette appellation a pour avantage de 
+        souligner la parenté de structure entre cette construction 
+        \frquote{pseudo-verbale} et la proposition à prédicat 
+        adverbial.
+  \item \textbf{Une construction \frquote{pseudo-verbale} 
+        (\citeauthor{Gardiner}, \citeauthor{Obsomer}, \citeauthor{MW}) 
+        avec infinitif : notamment dans l'exemple précédent, la forme 
+        \tl{Hr} + infinitif.}
 \end{itemize}
 
 Vous comprenez sans doute que tout ce que vous avez appris du 
@@ -218,8 +219,8 @@ dictionnaire, on le mentionne d'après son infinitif. On parle par
 exemple du verbe \frquote{manger}.
 
 En égyptien ancien, lorsqu'on cite un verbe, ou qu'on le classe dans 
-un dictionnaire d'égyptien hiéroglyphique, on le cite, non par son 
-infinitif, mais par sa \textbf{\textcolor{orange}{racine}}.
+un dictionnaire d'égyptien \hiero, on le cite, non par son infinitif, 
+mais par sa \textbf{\textcolor{orange}{racine}}.
 
 \textbf{La notion de racine} est ici une notion \emph{abstraite} 
 qui détermine une base commune à un certain nombre de mots de 
@@ -227,7 +228,7 @@ signification apparentée. En français par exemple, le radical
 \frquote{chant} est commun aux mots \frquote{chanteur}, \frquote{
 chanter}, \frquote{enchanter}, \frquote{déchanter}\dots Dans les 
 langues sémitiques, la racine est généralement un groupe de consonnes 
-(appelées radicales), souvent au nombre de 3.
+(appelées radicales), souvent au nombre de trois.
 
 \begin{hieroglyph}aHa-a:D54\end{hieroglyph} 
 \tl{aHa} \td{le fait de se lever} -- \textbf{schème simple}
@@ -376,7 +377,7 @@ Ce sont les verbes dont la racine (théorique) se termine par une
 semi-consonne faible, non notée dans l'écriture, mais dont l'existence 
 est supposée par l'observation des variations de formes de ces verbes. 
 Comme cette dernière consonne faible est généralement omise en 
-hiéroglyphes, on ne la note pas dans la translittération, sauf quand 
+\hiero[es], on ne la note pas dans la translittération, sauf quand 
 on indique la racine du verbe (notamment dans les entrées de 
 dictionnaires).
 

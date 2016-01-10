@@ -4,10 +4,10 @@
 \part{Cours~1, suite -- Le système graphique (suite)}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-Comme vous l'avez sans doute compris, quand on travaille sur un 
-texte hiéroglyphique, on doit d'abord \emph{translittérer le texte}, 
-c'est-à-dire transposer la notation hiéroglyphique en une notation 
-phonétique conventionnelle. 
+Comme vous l'avez sans doute compris, quand on travaille sur un texte 
+\hiero, on doit d'abord \emph{translittérer le texte}, c'est-à-dire 
+transposer la notation \hiero en une notation phonétique 
+conventionnelle.
 Le mot \begin{hieroglyph}pr-1\end{hieroglyph} est ainsi translittéré 
 \tl{pr}, puis traduit \td{maison}.
 
@@ -44,8 +44,8 @@ la translittération.
 Il existe plusieurs systèmes de translittération des textes en 
 égyptien ancien. Les variantes sont généralement minimes d'un 
 système à l'autre. Le système adopté ici est celui suivi dans 
-Cl.~\bsc{Obsomer}, \emph{Grammaire pratique de l'égyptien 
-hiéroglyphique} (voir bibliographie).
+Cl.~\bsc{Obsomer}, \emph{Grammaire pratique de l'égyptien \hiero} 
+(voir bibliographie).
 
 \paragraph{Les phonèmes de la langue égyptienne ancienne}
 L'égyptien ancien possède 27~phonèmes consonantiques (voir le 
@@ -55,15 +55,14 @@ noter que le phonème [l] n'a pas de signe propre. Son existence est
 avec le copte où le phonème est bien attesté.
 
 \paragraph{La vocalisation des textes égyptiens}
-L'écriture hiéroglyphique est consonantique ; elle ne note pas les 
-voyelles. Nous ne disposons donc que du squelette consonantique des 
-mots. Les spécialistes peuvent néanmoins avoir une idée de la 
-prononciation grâce aux transcriptions de mots égyptiens en langues 
-étrangères (par exemple en akkadien et plus tard en grec), à la 
-comparaison avec les autres langues de la famille linguistique, 
-et avec le copte dont le système graphique alphabétique note les
-voyelles\footnote{Voir M.~\bsc{Malaise}, J.~\bsc{Winand}, 
-\emph{Grammaire raisonnée}, p. 22.}.
+L'écriture \hiero est consonantique ; elle ne note pas les voyelles. 
+Nous ne disposons donc que du squelette consonantique des mots. Les 
+spécialistes peuvent néanmoins avoir une idée de la prononciation 
+grâce aux transcriptions de mots égyptiens en langues étrangères (par 
+exemple en akkadien et plus tard en grec), à la comparaison avec les 
+autres langues de la famille linguistique, et avec le copte dont le 
+système graphique alphabétique note les voyelles\footnote{Voir 
+\citeauthortitle[22]{MW}}.
 
 Toutefois, pour des raisons pratiques, les égyptologues utilisent 
 souvent (mais pas toujours) une prononciation artificielle. 

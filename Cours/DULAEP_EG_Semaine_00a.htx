@@ -10,7 +10,7 @@
   l'écriture, \textbf{les écritures}, qui ont servi à noter cette 
   langue. Au cours de son histoire plusieurs fois millénaire, la 
   langue des anciens Égyptiens a été écrite au moyen : des 
-  \textbf{\emph{hiéroglyphes}} et de leur variante cursive dite 
+  \textbf{\emph{\hiero[es]}} et de leur variante cursive dite 
   \textbf{\emph{hiératique}}, puis, en parallèle, à partir du 
   \siecle{7} av. n. è., de la cursive \textbf{\emph{démotique}}, 
   et enfin, à partir du \sieclerange{3}{4} de notre ère, avec 
@@ -18,7 +18,7 @@
   quelques signes démotiques). La langue elle-même a évolué au 
   cours des millénaires d'utilisation.
 
-  Dans ce cours, nous apprenons : 1) l'écriture hiéroglyphique et 
+  Dans ce cours, nous apprenons : 1) l'écriture \hiero et 
   2) l'égyptien classique ou moyen égyptien (langue écrite du \MK 
   jusqu'à la \dyn{18})
 \end{aparte}
@@ -26,7 +26,7 @@
 \begin{center}
   \bfseries
   \includegraphics[height=2\baselineskip]{inscription_hieroglyphe}
-  inscription hiéroglyphique (détail). \textcopyright~IES/Colin
+  inscription \hiero (détail). \textcopyright~IES/Colin
 
   \includegraphics[height=2\baselineskip]{inscription_hieratique}
   inscription hiératique (détail). \textcopyright~IES/Colin
@@ -39,7 +39,7 @@
 \end{center}
 
 
-\chapter{L'égyptien ancien, les {\hiero}es, et nous}
+\chapter{L'égyptien ancien, les \hiero[es], et nous}
 %======================================================================
 
 L'égyptien ancien ne fait pas partie de notre famille de langue (les 
@@ -60,42 +60,33 @@ informatisé de la langue française en ligne \uline{ATILF}, s.v.
 Pharaon.}, ou encore le nom même du pays \kmt, dérivé d'un des noms 
 antiques de la ville de Memphis (\emph{Hout-ka-Ptah} \frquote{le 
 domaine du \emph{ka} de Ptah}, ce qui a donné \emph{Aigyptos} en 
-grec\footnote{Voir M.~\bsc{Malaise}, J.~\bsc{Winand}, \emph{Grammaire 
-raisonnée}, p.~11 ; P.~\bsc{Vernus}, \emph{Dictionnaire amoureux de 
-l'\kmt pharaonique}, s.v. \frquote{Survivances de l'égyptien ancien}, 
-p.~932-941, et spécialement p.~940-941}). 
-Notre alphabet pourrait être un descendant indirect des {\hiero}es 
-égyptiens. L'alphabet (d'abord consonantique, c'est-à-dire ne notant 
-pas les voyelles des mots) a été créé au Levant pendant le 
-\siecle[millénaire]{2}, avant de passer des Phéniciens aux Grecs 
-(qui ajoutèrent les voyelles) puis aux Romains. Cet alphabet semble 
-avoir pour origine des inscriptions alphabétiques découvertes dans 
-la péninsule du Sinaï (inscriptions \frquote{protosinaïtiques} du 
-\SeK) et en \kmt même dans le Ouadi el-Hol\footnote{\bsc{Darnell}, 
-John~C. (2013). Wadi el-Hol. \emph{UCLA Encyclopedia of Egyptology}, 
-1(1). UCLA : Department of Near Eastern Languages and Cultures. 
-nelc\_uee\_8547. Retrieved from: 
-\url{https://escholarship.org/uc/item/1sd2j49d} ; P.~\bsc{Vernus}, 
-\emph{Dictionnaire amoureux de l'\kmt pharaonique}, 
-s.v.~\frquote{Survivances de l'égyptien ancien}, 
-s.v.~\frquote{alphabets sémitiques et hiéroglyphes}, p.~86-93 ; 
-J.~\bsc{Winand}, \emph{Les hiéroglyphes égyptiens}, Que sais-je, 
-PUF, 2013, p.~116-123.} (voir carte~1), datées du tout début du
+grec\footnote{Voir \citeauthortitle[11]{MW} ; \citeauthortitle[s.v. 
+\frquote{Survivances de l'égyptien ancien}, \ppno~932--941, et 
+spécialement \ppno~940--941]{Vernus}}).
+Notre alphabet pourrait être un descendant indirect des \hiero[es] 
+égyptiens. L'alphabet (d'abord consonantique, c'est-à-dire ne 
+notant pas les voyelles des mots) a été créé au Levant pendant le 
+\siecle[millénaire]{2}, avant de passer des Phéniciens aux Grecs (qui 
+ajoutèrent les voyelles) puis aux Romains. Cet alphabet semble avoir 
+pour origine des inscriptions alphabétiques découvertes dans la 
+péninsule du Sinaï (inscriptions \frquote{protosinaïtiques} du \SeK) 
+et en \kmt même dans le Ouadi el-Hol\footnote{\fullcite{Darnell}, ;
+\citeauthortitle[s.v. \frquote{Survivances de l'égyptien ancien}, 
+s.v.~\frquote{alphabets sémitiques et \hiero[es]}, 
+\ppno~86--93]{Vernus} ; 
+\fullcite{Winand}} (voir carte~1), datées du tout début du 
 \siecle[millénaire]{2}. Ces inscriptions rupestres sont le résultat 
 des \frquote{interactions} entre des locuteurs sémitiques employés 
 dans des corps expéditionnaires égyptiens et les scribes égyptiens : 
-ces locuteurs sémitiques ont repris des signes du système 
-hiéroglyphique égyptien, mais en leur donnant des valeurs différentes. 
-Par exemple, le signe de la maison 
-\begin{hieroglyph}pr\end{hieroglyph}, \tl{pr} en égyptien ancien, 
-mais \emph{bêt} en sémitique, a été utilisé, sur le principe de 
-l'\textcolor{green}{acrophonie}, pour noter le son [b]. Notre système 
-graphique alphabétique, bien que totalement distinct du système 
-hiéroglyphique égyptien, est donc historiquement lié aux premières 
-écritures égyptiennes\footnote{Sur la question de l'invention des 
-différentes écritures, \bsc{Glassner} J.-J., \frquote{Essai pour une 
-définition des écritures}, \emph{L'Homme} 192/4, 2009, p.~7-22 (en 
-ligne : \url{http://www.cairn.info/revue-l-homme-2009-4-page-7.htm}).}.
+ces locuteurs sémitiques ont repris des signes du système \hiero 
+égyptien, mais en leur donnant des valeurs différentes. Par exemple, 
+le signe de la maison \begin{hieroglyph}pr\end{hieroglyph}, \tl{pr} 
+en égyptien ancien, mais \emph{bêt} en sémitique, a été utilisé, sur 
+le principe de l'\info{acrophonie}, pour noter le son [b]. 
+Notre système graphique alphabétique, bien que totalement distinct 
+du système \hiero égyptien, est donc historiquement lié aux premières 
+écritures égyptiennes\footfullcite[Sur la question de l'invention des 
+différentes écritures, ][]{Glassner_2009}.
 
 \begin{figure}[h!]
   \includegraphics[width=0.75\textwidth]{carte_alphabet}
@@ -148,19 +139,19 @@ linguistiques.\\
 \begin{itemize}
   \item la capacité de former des mots à partir de racines composées 
         de deux ou trois consonnes ;
-  \item un suffixe marquant le féminin en -at. ;
-  \item un préfixe nominal en m-. ;
-  \item un suffixe adjectival en -i (\emph{nisbé}, nom de relation).
+  \item un suffixe marquant le féminin en \emph{-at}. ;
+  \item un préfixe nominal en \emph{m-}. ;
+  \item un suffixe adjectival en \emph{-i} (\emph{nisbé}, nom de 
+        relation).
 \end{itemize}
 
 \bigskip
 
 \begin{aparte}[title={Sources :}]
-  A.~\bsc{Loprieno}, \emph{Ancient Egyptian. A Linguistic 
-  Introduction}, Cambridge University Press, 1995, p.~1-5.
+  \fullcite[1--5]{Loprieno}.
 
-  P.~\bsc{Vernus}, \emph{Dictionnaire amoureux de l'\kmt ancienne}, 
-  Paris, 2009, s.v. Égyptien (apparentement linguistique), p.~269-274.
+  \fullcite[s.v. \frquote{Égyptien (apparentement linguistique)}, 
+  \ppno~269--274]{Vernus}.
 \end{aparte}
 
 \begin{figure}[h!]
@@ -182,9 +173,8 @@ que par sa notation graphique. Il est indispensable de faire
 Au cours de sa longue histoire, la langue pharaonique a évolué. 
 Dans le même temps, plusieurs écritures ont servi à la noter.
 
-\section{L'évolution de la langue\protect\footnote{Voir 
-A.~\bsc{Loprieno}, \emph{Ancient Egyptian. A Linguistic Introduction}, 
-Cambridge University Press, 1995, p.~5-8}}
+\section{L'évolution de la 
+         langue\protect\footfullcite[Voir][p.~5-8]{Loprieno}}
 %----------------------------------------------------------------------
 
 Les linguistes distinguent deux phases majeures : l'égyptien 
@@ -240,16 +230,14 @@ de la 1\iere~phase (\anorange{3000}{1300}) et l'égyptien de la
 \end{aparte}
 
 \begin{aparte}
-  À lire : P.~\bsc{Vernus}, \emph{Dictionnaire amoureux de l'\kmt 
-  ancienne}, Paris, 2009, s.v. \frquote{Égyptien (langue égyptienne)}, 
-  p.~253-264.
+  \fullcite[À lire : ][s.v. \frquote{Égyptien (langue égyptienne)}, 
+  \ppno~253--264]{Vernus}.
+
 \end{aparte}
 
 \begin{figure}[h!]
   \includegraphics[width=\textwidth]{langues_ecritures}
-  \caption{États de langue et écritures. D'après P.~\bsc{Grandet}, 
-           B.~\bsc{Mathieu}, \emph{Cours d'égyptien hiéroglyphique}, 
-           1\iere~édition, Paris, 1990}
+  \caption{États de langue et écritures. \fullcite[D'après][]{GM1}.}
   \label{fig:etats_langue}
 \end{figure}
 
@@ -258,14 +246,14 @@ de la 1\iere~phase (\anorange{3000}{1300}) et l'égyptien de la
 
 Il faut distinguer une langue (et ses phases d'évolution) de son 
 \clef{système de notation graphique}. Le plus connu de l'\kmt ancienne 
-est le \textbf{système hiéroglyphique}, mais il n'est pas le seul. En 
+est le \textbf{système \hiero}, mais il n'est pas le seul. En 
 particulier, à partir du \siecle{4} de notre ère, la langue égyptienne 
 ancienne est notée au moyen de l'alphabet copte (alphabet grec 
 augmenté de plusieurs signes démotiques). Les écritures utilisées pour 
 noter la langue des anciens Égyptiens sont les suivantes :
 
 \begin{itemize}
-  \item \clef{Hiéroglyphes} (\frquote{lettres sacrées gravées}) : 
+  \item \clef{\Hiero[es]} (\frquote{lettres sacrées gravées}) : 
         écriture monumentale faite de signes iconiques gravés ou 
         peints, utilisée pendant toute l'histoire pharaonique.
   \item \clef{Hiératique} (\frquote{caractères sacerdotaux}) : 
@@ -285,14 +273,14 @@ noter la langue des anciens Égyptiens sont les suivantes :
 \end{itemize}
 
 \clef{L'égyptien classique, objet de ce cours, peut être écrit en 
-hiéroglyphes ou en écriture cursive hiératique.} Les mêmes principes 
+\hiero[es] ou en écriture cursive hiératique.} Les mêmes principes 
 graphiques régissent les deux écritures. La différence essentielle 
 réside dans le fait que les signes hiératiques sont d'un tracé 
-simplifié par rapport aux signes hiéroglyphiques. Leur caractère 
+simplifié par rapport aux signes \hiero[iques]. Leur caractère 
 iconique est donc moins identifiable au premier abord. Par ailleurs, 
 les signes hiératiques peuvent être ligaturés, ce qui n'est pas 
-possible pour les signes hiéroglyphiques (voir la différence entre 
-nos lettres \frquote{majuscules} et nos lettres minuscules en écriture 
+possible pour les signes \hiero[iques] (voir la différence entre nos 
+lettres \frquote{majuscules} et nos lettres minuscules en écriture 
 \frquote{attachée}). Les signes cursifs hiératiques sont donc plus 
 difficiles à mémoriser pour un débutant.
 
@@ -302,7 +290,7 @@ difficiles à mémoriser pour un débutant.
   \centerfloat
   \begin{hieroglyph}m\ \end{hieroglyph}
 
-  Hiéroglyphe : chouette valeur phonétique [m]
+  \Hiero[e] : chouette valeur phonétique [m]
 \end{minipage}%
 \hfill%
 \begin{minipage}[b]{0.45\textwidth}
@@ -317,12 +305,11 @@ difficiles à mémoriser pour un débutant.
 
 \begin{aparte}[title={Nota bene}]
   Dans ce cours, nous n'aborderons la langue \frquote{égyptien 
-  classique} que par le système de notation dit 
-  \textbf{hiéroglyphique}. L'objectif du cours est la maîtrise 
-  du système hiéroglyphique et des signes hiéroglyphiques de base. 
-  Toutefois, pour faire prendre conscience tout de suite à l'étudiant 
-  du lien très fort qui unit hiéroglyphique et écriture cursive 
-  hiératique, occasionnellement les équivalents hiératiques de 
-  certains signes hiéroglyphiques seront signalés. Ils ne seront 
-  pas l'objet d'une évaluation.
+  classique} que par le système de notation dit \textbf{\hiero}. 
+  L'objectif du cours est la maîtrise du système \hiero et des 
+  signes \hiero[iques] de base. Toutefois, pour faire prendre 
+  conscience tout de suite à l'étudiant du lien très fort qui unit 
+  \hiero et écriture cursive hiératique, occasionnellement les 
+  équivalents hiératiques de certains signes \hiero[iques] seront 
+  signalés. Ils ne seront pas l'objet d'une évaluation.
 \end{aparte}

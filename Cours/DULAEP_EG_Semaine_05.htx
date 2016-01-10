@@ -356,7 +356,7 @@ Voir \doc{cours~5 -- Grammaire -- génitif direct}
 Il n'y a pas d'orthographe dans le sens d'une seule et unique graphie 
 correcte pour un mot. Une fixation graphique trop rigide serait en 
 effet en quelque sorte antinomique avec les potentialités de jeux 
-visuels offertes par le système hiéroglyphique. Pour autant, il y a 
+visuels offertes par le système \hiero. Pour autant, il y a 
 eu, au cours de la longue histoire de l'écriture égyptienne, processus 
 de normalisation des graphies, (notamment pendant la \dyn{12}) qui 
 ont fixé des usages préférentiels. Ainsi, si le terme \tl{Sps} 
@@ -371,13 +371,12 @@ phonétique et indication visuelle sur le sens général du mot).
 Un même mot peut donc posséder une série de graphies attestées, selon 
 les époques\footnote{Ce dont essaient de rendre compte de la manière 
 la plus exhaustive possible les dictionnaires de références les plus 
-complets comme le \emph{Wörterbuch der ägyptischen Sprache} et la 
-base de données lexicographique en ligne du \emph{Thesaurus Linguae 
-aegyptiae} (voir bibliographie générale).}. Ces graphies sont du reste 
-susceptibles d'évoluer, plus ou moins en liaison avec l'évolution de 
-la prononciation de la langue. Un phénomène bien connu est notamment 
-celui de l'affaiblissement de certains phonèmes 
-(\clef{dépalatalisation}):
+complets comme le \citetitle{EG} et la base de données lexicographique 
+en ligne du \source{Thesaurus Linguae aegyptiae} (voir bibliographie 
+générale).}. Ces graphies sont du reste susceptibles d'évoluer, plus 
+ou moins en liaison avec l'évolution de la prononciation de la langue. 
+Un phénomène bien connu est notamment celui de l'affaiblissement de 
+certains phonèmes (\clef{dépalatalisation}):
 
 \begin{itemize}
   \item le \begin{hieroglyph}D\end{hieroglyph} \tl{D} (\emph{dj}) 
@@ -386,7 +385,7 @@ celui de l'affaiblissement de certains phonèmes
   \item le \begin{hieroglyph}T\end{hieroglyph} \tl{T} (\emph{tj}) 
         tend à être prononcé \tl{t} comme le pain 
         \begin{hieroglyph}t\end{hieroglyph}%
-        \footnote{Voir A.H.~\bsc{Gardiner}, Egyptian Grammar §~19.}
+        \footnote{Voir \citeauthortitle[§~19]{Gardiner}.}
 \end{itemize}
 
 Il s'en suit dans les graphies une substitution potentielle du 
@@ -414,15 +413,15 @@ du cours facultative)}
 
 On a déjà évoqué, notamment lors de la présentation du travail de 
 Jean-François~\bsc{Champollion} (\doc{Cours~2}) l'unité profonde qui 
-existe entre l'écriture dite hiéroglyphique et l'écriture cursive dite 
+existe entre l'écriture dite \hiero et l'écriture cursive dite 
 hiératique. Les signes hiératiques ne sont que des simplifications 
-cursives des signes hiéroglyphiques. Le système d'écriture est donc 
-tout à fait le même et les signes hiératiques et hiéroglyphiques se 
+cursives des signes \hiero[iques]. Le système d'écriture est donc 
+tout à fait le même et les signes hiératiques et \hiero[iques] se 
 correspondent signe à signe, un peu comme se correspondent notre 
-lettres majuscules et nos lettres en écriture \td{attachée}.
+lettres majuscules et nos lettres en écriture \frquote{attachée}.
 
-Pour rappel, les différences essentiels entre le hiéroglyphique et 
-le hiératique sont les suivantes :
+Pour rappel, les différences essentiels entre le \hiero et le 
+hiératique sont les suivantes :
 \begin{itemize}
   \item simplification et schématisation des signes hiératiques 
         (\clef{tachygraphie}) ;
@@ -454,9 +453,9 @@ Nous n'avons pas encore vu d'exemple de ligatures entre deux signes.
 
 \begin{exercice}
   \begin{wrapfigure}[4]{l}{3.5cm}
-    \includegraphics[width=2.5cm]{hieratique_hAb}
+    \includegraphics[width=2cm]{hieratique_hAb}
   \end{wrapfigure}
-  En vous aidant, de la liste des unilitères (formes hiéroglyphiques + 
+  En vous aidant, de la liste des unilitères (formes \hiero[iques] + 
   hiératiques), vous pouvez essayer de transcrire le mot ci-dessous, 
   sachant que le dernier signe est le déterminatif des verbes de 
   mouvements (réponse page suivante)
@@ -470,7 +469,7 @@ Nous n'avons pas encore vu d'exemple de ligatures entre deux signes.
 
   \begin{center}
     \DisplayHieroglyphs
-    \includegraphics[width=2.5cm]{hieratique_hAb}\\
+    \includegraphics[width=2cm]{hieratique_hAb}\\
     \reflectbox{\begin{hieroglyph}h-A-b-D54\end{hieroglyph}}\\
     \tl{hAb}\\
     \frquote{envoyer un message/un messager}

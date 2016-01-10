@@ -5,13 +5,12 @@
 1\iere~partie -- Présentation du Groupe nominal et de ses composants}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-Vous avez été initié au système graphique hiéroglyphique. Nous y 
-reviendrons régulièrement pour apporter des compléments et précisions. 
-Il est important de vous entraîner à lire des mots en hiéroglyphes 
-(à travers les cours et les exercices) pour que le principe devienne 
-pour vous évident. Il convient à présent de s'intéresser à la langue 
-notée par cette écriture. Nous allons le faire progressivement, en 
-abordant :
+Vous avez été initié au système graphique \hiero. Nous y reviendrons 
+régulièrement pour apporter des compléments et précisions. Il est 
+important de vous entraîner à lire des mots en \hiero[es] (à travers 
+les cours et les exercices) pour que le principe devienne pour vous 
+évident. Il convient à présent de s'intéresser à la langue notée par 
+cette écriture. Nous allons le faire progressivement, en abordant :
 
 \begin{itemize}
   \item dans un premier temps au groupe nominal et à ses composantes, 
@@ -27,14 +26,13 @@ préciser le système graphique.
 \chapter{Le substantif}
 %======================================================================
 
-L'égyptien ancien possède des noms communs qui servent à désigner 
-des choses, des actions, des concepts, des êtres, etc\footnote{Voir 
-J.P.~\bsc{Allen}, \emph{Middle Egyptian. An Introduction to the 
-Langage and Culture of Hieroglyphs}, Cambridge, 2000, p.~36.}. 
-La caractéristique de la langue égyptienne (comme d'autres langues 
-afro-asiatiques) est de former des mots à partir de racines 
-consonantiques, souvent de deux ou trois consonnes, sur lequel se 
-greffe le système vocalique non noté.
+L'égyptien ancien possède des noms communs qui servent à 
+désigner des choses, des actions, des concepts, des êtres, 
+etc\footfullcite[Voir][36]{Allen}. 
+La caractéristique de la langue égyptienne (comme d'autres 
+langues afro-asiatiques) est de former des mots à partir de 
+racines consonantiques, souvent de deux ou trois consonnes, 
+sur lequel se greffe le système vocalique non noté.
 
 Le nom \begin{hieroglyph}nTr\end{hieroglyph} \tl{nTr} \td{dieu} 
 a comme racine les trois consonnes \tl{nTr}. À ce squelette peuvent 
@@ -57,15 +55,15 @@ spécifiques que nous allons voir.
 \section{Le genre}
 %----------------------------------------------------------------------
 
-Il y a deux genres : \textbf{le masculin et le féminin}. Le masculin 
-n'a pas de marque spécifique, contrairement au féminin. La marque du 
-féminin est le phonogramme unilitère 
-\begin{hieroglyph}t\end{hieroglyph} \tl{t}. Un féminin en 
-\emph{-a(t)} se retrouve dans les langues sémitiques, comme la 
-langue arabe\footnote{Voir P.~\bsc{Vernus}, \emph{Dictionnaire 
-amoureux de l'\kmt ancienne}, p.~852, s.v. Sémitique et égyptien.}, 
-avec un \emph{t} final qui se réalise ou non dans la prononciation 
-(voir : \DeM -- \MH -- Médinat Nasr).
+Il y a deux genres : \textbf{le masculin et le féminin}. 
+Le masculin n'a pas de marque spécifique, contrairement au féminin. 
+La marque du féminin est le phonogramme unilitère 
+\begin{hieroglyph}t\end{hieroglyph} \tl{t}. 
+Un féminin en \emph{-a(t)} se retrouve dans les langues sémitiques, 
+comme la langue arabe\footnote{Voir \citeauthortitle[s.v. 
+\frquote{Sémitique et égyptien}, \pno852]{Vernus}.}, avec un 
+\emph{t} final qui se réalise ou non dans la prononciation (voir : 
+\DeM -- \MH -- Médinat Nasr).
 
 Ainsi :
 
@@ -86,8 +84,8 @@ précédant le t est une convention pour indiquer que le t est une
 \textbf{désinence}, ici du féminin. De manière générale dans ce 
 cours, toutes les notations de désinences sont précédées d'un point. 
 La translittération étant une première étape dans l'analyse du texte 
-hiéroglyphes, ce point a pour but d'expliciter visuellement votre 
-analyse de la séquence.
+\hiero, ce point a pour but d'expliciter visuellement votre analyse 
+de la séquence.
 
 Comme en français, de nombreux mots ont une forme masculine et 
 féminine. Aux mots mentionnés ci-dessus, on peut ajouter : 
@@ -124,11 +122,15 @@ est féminin (cf. la déesse du ciel Nout
 \td{mère} est féminin.
 
 \begin{hieroglyph}i-t:f-A1\end{hieroglyph} \tl{it} \td{père} 
-est masculin -- NB : dans ce mot, exceptionnellement 
-\begin{hieroglyph}f\end{hieroglyph} n'a pas la valeur \tl{f}, comme 
-l'indique d'autres graphies concurrences du mot 
-\begin{hieroglyph}i-t\end{hieroglyph} et son héritier en copte 
-\textcoptic{eiwt}/\textcoptic{iwt}.
+est masculin.
+
+\begin{notabene}
+  Dans ce mot, exceptionnellement 
+  \begin{hieroglyph}f\end{hieroglyph} n'a pas la valeur \tl{f}, 
+  comme l'indique d'autres graphies concurrences du mot 
+  \begin{hieroglyph}i-t\end{hieroglyph} et son héritier en copte 
+  \textcoptic{eiwt}/\textcoptic{iwt}.
+\end{notabene}
 
 \begin{exercice}[title={Exercice}]
   translittérer les mots suivants (en vous aidant des listes de 
@@ -156,10 +158,9 @@ cas, la désinence du féminin, mais la dernière consonne de la racine.
 
 Ces exceptions sont peu nombreuses et sont à apprendre par c{\oe}ur.
 
-\textbf{\uline{Principaux substantifs masculins se terminant par 
-\tl{t}} :}
-
 \begin{multicols}{2}
+      [\subsection*{Principaux substantifs masculins se terminant 
+       par \tl{t} :}]
   \begin{hieroglyph}xt:t*1\end{hieroglyph}
   \tl{xt} \td{bois}
 
@@ -290,8 +291,8 @@ notation phonétique \tl{.w}, mais une indication d'ordre
 sémantique -- idée de pluralité).
 
 \begin{exercice}[title={Exercice :}]
-  Donnez le pluriel des mots suivants (hiéroglyphes + 
-  translittération) -- \emph{correction page suivante}
+  Donnez le pluriel des mots suivants (\hiero[es] + translittération) 
+  -- \emph{correction page suivante}
 
   \begin{hieroglyph}nTr-T:r-G7\end{hieroglyph} \td{dieu}
 
@@ -343,8 +344,7 @@ précisions :
 \end{enumerate}
 
 \begin{exercice}[title={Correction de l'exercice page~5 :}]
-  Donnez le pluriel des mots suivants (hiéroglyphes + 
-  translittération) -- \emph{correction page suivante}
+  Donnez le pluriel des mots suivants (\hiero[es] + translittération)
 
   \begin{hieroglyph}nTr-T:r-G7\end{hieroglyph} 
   \td{dieu} \donc{}
@@ -421,7 +421,7 @@ synthétisé dans le tableau suivant :
 \bigskip
 
 À travers ces possibilités, vous pouvez juger de la grande richesse 
-du système d'écriture hiéroglyphique.
+du système d'écriture \hiero.
 
 \paragraph{Dernières remarques à propos du pluriel :} les 
 \emph{\textbf{collectifs}} et les \emph{\textbf{pluriels apparents}}. 

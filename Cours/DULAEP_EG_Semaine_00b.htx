@@ -2,13 +2,13 @@
 %##HieroDef.txt
 
 \part{Cours~1 -- Introduction -- Section~2 : Première familiarisation 
-avec les signes hiéroglyphiques}
+avec les signes \hiero[iques]}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-Les hiéroglyphes égyptiens sont des graphèmes, qui ont la 
-particularité d'être \textbf{iconiques} ou \textbf{figuratifs}, 
-c'est-à-dire de représenter des choses qui appartiennent au monde 
-dans lequel évoluaient les anciens Égyptiens. On parle aussi de 
+Les \hiero[es] égyptiens sont des graphèmes, qui ont la particularité 
+d'être \textbf{iconiques} ou \textbf{figuratifs}, c'est-à-dire de 
+représenter des choses qui appartiennent au monde dans lequel 
+évoluaient les anciens Égyptiens. On parle aussi de 
 \textbf{signes-images}.
 
 Attention, ces signes d'écriture se distinguent des simples dessins 
@@ -28,16 +28,16 @@ l'écriture\footnote{Voir P.~\bsc{Vernus}, \emph{Aegyptus} LXXXI/1-2
   \item \textbf{\uline{Ces images sont orientées}}. Dans notre 
         écriture, qui se lit de gauche à droite, le \frquote{E} doit 
         toujours se faire avec les trois barres horizontales à 
-        droite et jamais à gauche. Dans l'écriture hiéroglyphique 
-        qui peut se lire de droite à gauche ou de gauche à droite, 
-        les signes seront orientés différemment selon le sens de 
-        lecture : \begin{hieroglyph}E25\end{hieroglyph} et 
+        droite et jamais à gauche. Dans l'écriture \hiero qui peut 
+        se lire de droite à gauche ou de gauche à droite, les signes 
+        seront orientés différemment selon le sens de lecture : 
+        \begin{hieroglyph}E25\end{hieroglyph} et
         \begin{hieroglyph}G37\end{hieroglyph} pour une lecture de 
         gauche à droite ; \begin{hieroglyph}E25\ \end{hieroglyph} et 
         \begin{hieroglyph}G37\ \end{hieroglyph} pour une lecture de 
         droite à gauche. Nous reviendrons là-dessus dans le détail.
   \item \textbf{\uline{Le nombre de signes est important, mais fini}}. 
-        Le répertoire des signes hiéroglyphiques a été fait en opérant 
+        Le répertoire des signes \hiero[iques] a été fait en opérant 
         une sélection parmi les images possibles des éléments du monde 
         environnant.
 \end{itemize}
@@ -45,14 +45,11 @@ l'écriture\footnote{Voir P.~\bsc{Vernus}, \emph{Aegyptus} LXXXI/1-2
 \bigskip
 
 \textbf{\uline{Quel est le nombre de signes 
-hiéroglyphiques ?}\footnote{Ph.~\bsc{Collombert}, \frquote{Combien y 
-avait-il de hiéroglyphes}, \emph{\kmt. Afrique \& Orient}~46, 2007, 
-p.~15-28. Téléchargeable : \url{http://www.unige.ch/lettres/antic/%
-egyptologie/enseignants/philippecollombert/}.} La réponse n'est pas si 
-aisée qu'on le penserait.}
+\hiero[iques] ?}\footfullcite{Collombert_2007} La réponse n'est pas 
+si aisée qu'on le penserait.}
 
 On estime à environ \numrange{1500}{200} le nombre des signes 
-hiéroglyphiques en usage aux diverses époques, avec une augmentation 
+\hiero[iques] en usage aux diverses époques, avec une augmentation 
 significative pour la période gréco-romaine, où le répertoire des 
 signes est estimé à \num{2000}/\num{2500} signes. Que l'on se rassure 
 toutefois le nombre des \clef{signes usuels} est cependant limité à 
@@ -71,8 +68,8 @@ notations de mesures.
   progressivement les autres signes. Nous verrons cela en temps voulu.
 \end{aparte}
 
-\textbf{\uline{Que représentent les signes hiéroglyphiques ?}}\\
-Les signes hiéroglyphiques sont des images représentant (en respectant 
+\textbf{\uline{Que représentent les signes \hiero[iques] ?}}\\
+Les signes \hiero[iques] sont des images représentant (en respectant 
 les conventions de l'art égyptien) des éléments du monde pharaonique. 
 Les signes représentent :
 
@@ -140,12 +137,11 @@ et \bsc{Winand} (1999). Une version abrégée est disponible dans la
 Cette liste sera aussi progressivement mise en ligne dans la rubrique 
 \frquote{Documents} (dossier \texttt{Gardiner List}).
 
-\textbf{\uline{Quelle est la valeur des signes hiéroglyphiques ?}}\\
-Les signes hiéroglyphiques, nous allons le voir, ont plusieurs 
-valeurs, mais les principales sont : valeur idéographique ou 
-logographique (un signe = un mot), mais aussi et surtout valeur 
-phonétique sur le principe du rébus. Tout ceci est développé dans 
-la prochaine section.
+\textbf{\uline{Quelle est la valeur des signes \hiero[iques] ?}}\\
+Les signes \hiero[iques], nous allons le voir, ont plusieurs valeurs, 
+mais les principales sont : valeur idéographique ou logographique (un 
+signe = un mot), mais aussi et surtout valeur phonétique sur le 
+principe du rébus. Tout ceci est développé dans la prochaine section.
 
 \begin{exercice}
   \donc{} Exercice~1 à faire

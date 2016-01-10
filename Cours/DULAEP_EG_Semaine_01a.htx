@@ -10,28 +10,27 @@ s.v. Schrift.}}
 \begin{aparte}[before upper={\setlength{\parindent}{0pt}}]
   \noindent\textbf{Remarque préalable~1}\\
   Il convient d'emblée de dissiper un malentendu possible : 
-  le système hiéroglyphique, s'il comporte des signes-mots (des
-  logogrammes), comme le signe \begin{hieroglyph}pr\end{hieroglyph} 
-  notant le mot \td{maison}, est avant tout un système de notation 
-  phonétique des mots et morphèmes de la langue. Sur le principe du 
-  \clef{rébus à transfert}, des signes à l'origine logographique sont 
-  utilisés, non pas pour noter un mot, mais les phonèmes de ce mot. 
-  Par exemple, le signe \begin{hieroglyph}pr\end{hieroglyph} peut 
-  noter soit le mot \td{maison}, soit une syllabe contenant les 
-  consonnes \tl{pr} (consonnes du mot \td{maison} en égyptien). 
-  Si vous aimez les rébus, le système hiéroglyphique sera un jeu 
-  d'enfant pour vous\dots
+  le système \hiero, s'il comporte des signes-mots (des logogrammes), 
+  comme le signe \begin{hieroglyph}pr\end{hieroglyph} notant le mot 
+  \td{maison}, est avant tout un système de notation phonétique des 
+  mots et morphèmes de la langue. Sur le principe du \clef{rébus à 
+  transfert}, des signes à l'origine logographique sont utilisés, 
+  non pas pour noter un mot, mais les phonèmes de ce mot. Par exemple, 
+  le signe \begin{hieroglyph}pr\end{hieroglyph} peut noter soit le mot 
+  \td{maison}, soit une syllabe contenant les consonnes \tl{pr} 
+  (consonnes du mot \td{maison} en égyptien). Si vous aimez les rébus, 
+  le système \hiero sera un jeu d'enfant pour vous\dots
 
   \noindent\textbf{Remarque préalable~2}\\
-  Vous l'aurez remarqué dans l'exemple précédent, l'écriture 
-  hiéroglyphique, comme l'écriture arabe actuelle, ne note pas 
-  les voyelles : seulement le squelette consonantique du mot.
+  Vous l'aurez remarqué dans l'exemple précédent, l'écriture \hiero, 
+  comme l'écriture arabe actuelle, ne note pas les voyelles : 
+  seulement le squelette consonantique du mot. 
 \end{aparte}
 
 \chapter{L'aspect des signes}
 %======================================================================
 
-Nous avons déjà vu que les signes hiéroglyphiques sont des signes 
+Nous avons déjà vu que les signes \hiero[iques] sont des signes 
 \textbf{figuratifs}. Ils représentent diverses réalités du monde 
 égyptien, calibrés pour les besoins du système graphique. Voir cours 
 précédent.
@@ -43,14 +42,14 @@ Observez le mot \td{serviteur} écrit selon deux graphies :
 1) \reflectbox{\begin{hieroglyph}bA:k-A1\end{hieroglyph}} et 
 2) \begin{hieroglyph}bA:k-A1\end{hieroglyph}
 
-Le sens normal de lecture est en hiéroglyphe, comme en arabe, de 
+Le sens normal de lecture est en \hiero[e], comme en arabe, de 
 droite à gauche. C'est notamment le sens unique de lecture de 
-l'écriture cursive hiératique. Ce sens correspond au mot 1) ci-dessus. 
-L'écriture hiéroglyphe, étant par essence une écriture monumentale, 
-appelée à orner des objets et des éléments architecturaux, son sens 
-de lecture peut être modifié pour des raisons esthétiques. L'écriture 
-de gauche à droite est donc aussi possible pour le hiéroglyphique. Ce 
-sens correspond au mot 2) ci-dessus.
+l'écriture cursive hiératique. Ce sens correspond au mot~1) ci-dessus. 
+L'écriture \hiero, étant par essence une écriture monumentale, appelée 
+à orner des objets et des éléments architecturaux, son sens de lecture 
+peut être modifié pour des raisons esthétiques. L'écriture de gauche à 
+droite est donc aussi possible pour le \hiero. Ce sens correspond au 
+mot~2) ci-dessus.
 
 Observez encore le mot \td{serviteur} écrit dans une autre 
 disposition : 
@@ -63,9 +62,9 @@ disposition :
 
 Comparer avec les graphies~1) et~2). Que remarquez-vous ?
 
-Un texte hiéroglyphique peut aussi bien être écrit en ligne, qu'en 
-colonne, de gauche à droite, ou de droite à gauche. Le seul sens de 
-lecture impossible est une lecture du bas vers le haut.
+Un texte \hiero peut aussi bien être écrit en ligne, qu'en colonne, 
+de gauche à droite, ou de droite à gauche. Le seul sens de lecture 
+impossible est une lecture du bas vers le haut.
 
 \begin{figure}[h!]
   \includegraphics[width=0.8\textwidth]{sens_lecture}
@@ -75,7 +74,7 @@ lecture impossible est une lecture du bas vers le haut.
 \end{figure}
 
 Comment savoir par où débuter la lecture et dans quel sens la 
-poursuivre ? C'est très simple. Les signes hiéroglyphiques sont 
+poursuivre ? C'est très simple. Les signes \hiero[iques] sont 
 orientés, c'est-à-dire qu'ils ont un sens, comme nos lettres. Pour 
 savoir où commencer la lecture d'un texte, il suffit de connaître 
 l'orientation d'un signe.
@@ -110,24 +109,24 @@ Observer :
 %======================================================================
 
 Nous entrons à présent dans le c{\oe}ur du sujet : la valeur des 
-signes hiéroglyphiques. Les signes de notre alphabet ont tous une 
+signes \hiero[iques]. Les signes de notre alphabet ont tous une 
 valeur phonétique. Plusieurs valeurs sont possibles pour les signes 
 égyptiens. Vous vous rappelez de l'exemple du signe 
 \begin{hieroglyph}pr\end{hieroglyph}, qui peut noter soit le mot 
-\td{maison} \tl{pr}, = valeur de logogramme, ou une syllabe 
-composée de deux consonnes \tl{pr}, = valeur phonétique. Les signes 
-hiéroglyphiques ont en fait trois valeurs possibles listées 
-ci-dessous : \textbf{logogrammes}, \textbf{phonogrammes}, 
-\textbf{déterminatifs}.
+\td{maison} \tl{pr}, = valeur de logogramme, ou une syllabe composée 
+de deux consonnes \tl{pr}, = valeur phonétique. Les signes 
+\hiero[iques] ont en fait trois valeurs possibles listées ci-dessous : 
+\textbf{logogrammes}, \textbf{phonogrammes}, \textbf{déterminatifs}.
 
 \section{Logogrammes}
 %----------------------------------------------------------------------
 
 Certains signes sont des \textbf{logogrammes} (ou 
-\textbf{signes-mots}, aussi \textbf{idéogrammes}). 
-Ils ont à la fois un \frquote{contenu sémantique et un contenu 
-phonologique\footnote{J.~\bsc{Winand}, A.~\bsc{Stella}, 
-\emph{Lexique du Moyen Égyptien}, Liège, 2013, p.~7.}}.
+\textbf{signes-mots}, aussi \textbf{idéogrammes}). Ils ont 
+à la fois un \frquote{contenu sémantique et un contenu 
+phonologique\footfullcite[7]{WinandStella}%
+}.
+
 Par exemple 
 \begin{hieroglyph}ra\end{hieroglyph} = \tl{Ra} \td{soleil}, 
 \begin{hieroglyph}pr\end{hieroglyph} = \tl{pr} \td{maison}, ou 
@@ -154,11 +153,11 @@ dans un autre mot, de \begin{hieroglyph}r\end{hieroglyph} \td{bouche},
 \td{entrée} ou le phonème [r].
 
 Pour distinguer l'utilisation logographique d'un signe de son 
-utilisation phonétique, le système hiéroglyphique recourt à un 
-procédé simple. Si un signe est utilisé comme logogramme (signe-mot), 
-le signe est suivi d'un trait \begin{hieroglyph}Z1\end{hieroglyph} 
-(signe \MdC{Z1} de la \emph{Gardiner List}), appelé parfois 
-\frquote{trait de lecture directe}.
+utilisation phonétique, le système \hiero recourt à un procédé simple. 
+Si un signe est utilisé comme logogramme (signe-mot), le signe est 
+suivi d'un trait \begin{hieroglyph}Z1\end{hieroglyph} (signe \MdC{Z1} 
+de la \emph{Gardiner List}), appelé parfois \frquote{trait de lecture 
+directe}.
 
 \begin{enumerate}
   \item \begin{hieroglyph}pr-1\end{hieroglyph} :
@@ -241,7 +240,7 @@ rapport avec le cycle solaire.
 \end{aparte}
 
 \begin{aparte}[title={Bilan d'étape~2 :}]
-  Il y a donc trois valeurs possibles pour les signes {\hiero}iques 
+  Il y a donc trois valeurs possibles pour les signes \hiero[iques] 
   égyptiens : \clef{logo\-grammes}, \clef{phonogrammes} ou 
   \clef{déterminatifs}. Si vous avez été attentif, vous avez repéré 
   que le signe \begin{hieroglyph}pr\end{hieroglyph} peut avoir 
@@ -266,7 +265,7 @@ phonétiques}
 %======================================================================
 
 Pour compléter le tableau et préciser le système graphique 
-hiéroglyphique, nous devons revenir sur les phonogrammes. 
+\hiero, nous devons revenir sur les phonogrammes. 
 Observez ces trois signes et leur valeur phonétique :
 
 \fbox{\parbox{\textwidth}{%
@@ -343,23 +342,23 @@ de papyrus fermé \begin{hieroglyph}Y1\end{hieroglyph}, déterminatif
 des idées abstraites.
 
 Le système des compléments phonétiques constitue d'une certaine 
-manière le c{\oe}ur du système graphique hiéroglyphique. Pourquoi 
-ce système de notation phonétique redondant ? Sans doute par souci 
-de clarté et de lisibilité. Certains signes peuvent avoir plusieurs 
-valeurs (logogramme, phonogramme et déterminatif), comme le signe 
+manière le c{\oe}ur du système graphique \hiero. Pourquoi ce système 
+de notation phonétique redondant ? Sans doute par souci de clarté et 
+de lisibilité. Certains signes peuvent avoir plusieurs valeurs 
+(logogramme, phonogramme et déterminatif), comme le signe 
 \begin{hieroglyph}pr\end{hieroglyph}. Si le signe est suivi d'un 
 trait \begin{hieroglyph}pr-1\end{hieroglyph}, on sait qu'il a valeur 
 de signe-mot (\tl{pr} = \td{maison}). S'il n'est pas suivi d'un trait 
-et si, en plus, il est suivi de son complément phonétique
-\begin{hieroglyph}r\end{hieroglyph}, on est certain que le signe est 
-seulement utilisé pour sa valeur phonétique \tl{pr}. Ce système a 
-en outre l'avantage de permettre de choisir la valeur phonétique à 
-attribuer à certains signes qui ont plusieurs valeurs phonétiques 
+et si, en plus, il est suivi de son complément phonétique 
+\begin{hieroglyph}r\end{hieroglyph}, on est certain que le signe 
+est seulement utilisé pour sa valeur phonétique \tl{pr}. Ce système 
+a en outre l'avantage de permettre de choisir la valeur phonétique 
+à attribuer à certains signes qui ont plusieurs valeurs phonétiques 
 possibles. Par exemple, l'étoile \begin{hieroglyph}sbA\end{hieroglyph} 
 est un trilitère qui peut avoir la valeur \tl{dwA} ou \tl{sbA}. 
 Entouré des compléments phonétiques \tl{s}, \tl{b}, \tl{A}, 
-\begin{hieroglyph}s-sbA-b-A\end{hieroglyph}, la lecture du signe 
-ne fait pas de doute.
+\begin{hieroglyph}s-sbA-b-A\end{hieroglyph}, la lecture du signe ne 
+fait pas de doute.
 
 Le système a peut-être l'air complexe de prime abord, mais vous 
 verrez qu'à l'usage, il est très simple et efficace.
