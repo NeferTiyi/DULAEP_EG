@@ -1,4 +1,4 @@
 ROOTDOC := "DULAEP_EG"
 
-COMPILDIR := /media/sf_egypto/NeferHiero/compil
+COMPILDIR := /mnt/egypto/NeferHiero/compil/
 include $(COMPILDIR)/common.mk

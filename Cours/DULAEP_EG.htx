@@ -34,98 +34,67 @@
 }
 
 \usepackage{multicol}
+\usepackage{neferkheops}
 
 \graphicspath{%
   {../img/}%
 }
 
+\aliaspagestyle{part}{empty}
+
 
 \newtcolorbox{example}[1][]{%
-  % show bounding box, %
-  % breakable, %
-  colframe  = AntiqueWhite!75!black, %
-  colback   = AntiqueWhite, %
-  parbox    = false, %
+  % show bounding box,
+  % breakable,
+  title     = {Exemple :},
+  colframe  = Ivory!80!black,
+  coltitle  = black,
+  colbacktitle = Ivory!95!black,
+  colback   = Ivory,
+  parbox    = false,
   before    = \vspace{1ex plus 1pt minus .4pt}\noindent,
   after     = \vspace{1ex plus 1pt minus .4pt},
-  % before    = \vspace{\baselineskip}\noindent, %
-  % after     = \vspace{\baselineskip}, %
-  before upper = \indent, %
-  % before    = \vspace{\baselineskip plus 1pt minus .4pt}, %
-  % after     = \vspace{\baselineskip plus 1pt minus .4pt}, %
-  % enlarge top initially by  = \baselineskip, %
-  % enlarge bottom finally by = \baselineskip, %
-  % before upper = {\setlength{\parindent}{0pt}}, %
-  fonttitle    = \large\bfseries, %
-  % fuzzy shadow = {3mm}{-2mm}{0mm}{0.3mm}{black}, %
-  % bottomtitle = 3mm, %
-  % toptitle    = 2mm, %
+  before upper = {\setlength{\parindent}{0pt}},
+  fonttitle    = \bfseries,
   #1, %
 }
 
 \newtcolorbox{exercice}[1][]{%
-  % show bounding box, %
-  % breakable, %
-  colframe  = LightBlue, %
-  colback   = LightBlue!25, %
-  parbox    = false, %
+  % show bounding box,
+  % breakable,
+  colframe  = LightBlue,
+  colback   = LightBlue!25,
+  parbox    = false,
   before    = \vspace{1ex plus 1pt minus .4pt}\noindent,
   after     = \vspace{1ex plus 1pt minus .4pt},
-  % before    = \vspace{\baselineskip}\noindent, %
-  % after     = \vspace{\baselineskip}, %
-  before upper = \indent, %
-  % before    = \vspace{\baselineskip plus 1pt minus .4pt}, %
-  % after     = \vspace{\baselineskip plus 1pt minus .4pt}, %
-  % enlarge top initially by  = \baselineskip, %
-  % enlarge bottom finally by = \baselineskip, %
-  % before upper = {\setlength{\parindent}{0pt}}, %
-  fonttitle    = \large\bfseries, %
-  % fuzzy shadow = {3mm}{-2mm}{0mm}{0.3mm}{black}, %
-  % bottomtitle = 3mm, %
-  % toptitle    = 2mm, %
-  #1, %
+  before upper = \indent,
+  fonttitle    = \large\bfseries,
+  #1,
 }
 
 
+\newenvironment{notabene}[1][NB]{%
+  \bigskip
+  \begin{list}{#1}{%
+    \renewcommand\makelabel[1]{\bfseries\uline{##1} :}%
+    \settowidth\labelwidth{\makelabel{#1}}%
+    \setlength\leftmargin{\labelwidth + \labelsep}%
+  }%
+  \item\ignorespaces%
+}%
+{%
+  \unskip\end{list}%
+  \bigskip%
+}
 
-% ... Redefine headings ...
-% -------------------------
-\makeatletter
-  % \markboth{\@lecturer}{\@short}
-  \makepagestyle{ruled}
-  \makeevenhead{ruled}
-    {\normalfont\itshape\@title}
-    {}
-    {\normalfont\itshape\leftmark}
-  \makeoddhead{ruled}
-    {\normalfont\itshape\rightmark}
-    {}
-    {\normalfont\itshape\@author}
-  \makeevenfoot{ruled}
-    {}
-    {\thepage}
-    {}
-  \makeoddfoot{ruled}
-    {}
-    {\thepage}
-    {}
-  \makeheadrule{ruled}{\textwidth}{\normalrulethickness}
-  % \makefootrule{ruled}{\textwidth}{\normalrulethickness}{1pt}
 
-  \makepsmarks{ruled}{%
-    \nouppercaseheads
-    \createmark{chapter}{left}{shownumber}{}{.\ }
-    \createmark{section}{right}{shownumber}{}{.\ }
-    \createplainmark{toc}{both}{\contentsname}
-    \createplainmark{lof}{both}{\listfigurename}
-    \createplainmark{lot}{both}{\listtablename}
-    \createplainmark{bib}{both}{\bibname}
-    \createplainmark{index}{both}{\indexname}
-    \createplainmark{glossary}{both}{\glossaryname}
-  }
+\renewcommand{\hiero}[1][ique]{%
+  hiéroglyph#1\xspace%
+}
 
-\pagestyle{ruled}
-\makeatother
+\renewcommand{\Hiero}[1][ique]{%
+  Hiéroglyph#1\xspace%
+}
 
 
 \newcommand{\tdr}[1]{%
@@ -141,8 +110,10 @@
   \textcolor{DarkGreen}{#1}%
 }
 
-\renewcommand{\PPA}{%
-  \titre{Proposition à prédicat adverbial}\xspace%
+\renewcommand{\PPA}{Proposition à prédicat adverbial\xspace}
+
+\newcommand{\citeauthortitle}[2][]{%
+  \citeauthor{#2}, \citetitle[#1]{#2}%
 }
 
 \newcolumntype{+}{>{\global\let\currentrowstyle\relax}}
@@ -150,18 +121,20 @@
 \newcommand{\rowstyle}[1]{%
   \gdef\currentrowstyle{#1}#1\ignorespaces%
 }
+\renewcommand\tabularxcolumn[1]{M{#1}}
+
 
 %======================================================================
-\title{DULA -- Égyptien classique}
-% \short{Histoire de l'\kmt}
-% \subtitle{de la Préhistoire au \NK}
-% \lecturer{\PG}
-% \orga{Cours de \textsf{l'\IK} par}
+\title{DULAEP --\\Égyptien classique}
+\short{DULAEP -- Égyptien classique}
+\subtitle{}
+\lecturer{Sylvie~\bsc{Donnat}}
+\orga{Faculté des sciences historiques de Strasbourg}
 \author{\SL}
-\date{\today}
+\date{2015-2016}
 
 \hypersetup{%
-  pdftitle  = {DULA -- Égyptien classique}, 
+  pdftitle  = {DULAEP -- Égyptien classique}, 
   pdfauthor = {Sonia Labetoulle}
 }
 % pdfsubject % pdfcreator % pdfproducer % pdfkeywords
@@ -179,6 +152,10 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{document}
+
+\thispagestyle{empty}
+\maketitle
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \SmallerText
 

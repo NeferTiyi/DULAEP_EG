@@ -10,16 +10,16 @@ grammaire égyptienne}
 %======================================================================
 
 Avec le travail de \bsc{Champollion}, puis les révisions de 
-Richard~\bsc{Lepsius} en \ano[0]{1837}, le système hiéroglyphique 
-était désormais compris. Les chercheurs allaient ensuite se concentrer 
+Richard~\bsc{Lepsius} en \ano[0]{1837}, le système \hiero était 
+désormais compris. Les chercheurs allaient ensuite se concentrer 
 plus spécialement sur l'étude de la \textbf{grammaire} et de la 
 \textbf{lexicographie} égyptienne, afin de comprendre la syntaxe 
-des phrases et le sens des mots. On ne développera pas ici l'histoire 
-riche de ces études, mais il est important de poser quatre grands 
-jalons historiographiques\footnote{D'après A.~\bsc{Loprieno}, 
-\emph{Ancient Egyptian} ; M.~\bsc{Malaise}, J.~\bsc{Winand}, 
-\emph{Grammaire raisonnée}, p.~I-VI}, pour vous donner une idée 
-de la genèse des connaissances qui vont vous être présentées.
+des phrases et le sens des mots. On ne développera pas ici 
+l'histoire riche de ces études, mais il est important de poser 
+quatre grands jalons historiographiques\footnote{D'après 
+\citeauthortitle{Loprieno} ; \citeauthortitle[I-VI]{MW}}, pour 
+vous donner une idée de la genèse des connaissances qui vont vous 
+être présentées.
 
 \begin{enumerate}
   \item \textbf{L'École de Berlin, fin \siecle{19}.} et sa tête de 
@@ -36,7 +36,7 @@ de la genèse des connaissances qui vont vous être présentées.
         \ano[0]{1957}). Son ouvrage continue à être le point de 
         référence de la tradition académique européenne en matière de 
         grammaire égyptienne. La classification alphanumérique des 
-        signes hiéroglyphiques couramment utilisée aujourd'hui est 
+        signes \hiero[iques] couramment utilisée aujourd'hui est 
         tirée de cet ouvrage.
   \item \textbf{Hans~J.~\bsc{Polotsky},} avec la publication en 
         \ano[0]{1976} de l'article \emph{La transposition du verbe 
@@ -79,30 +79,30 @@ peut-être essayer de deviner le sens.
 \end{center}
 
 Vous avez déjà rencontré tous les mots, sauf 
-\begin{hieroglyph}i-w\end{hieroglyph} \tlb{iw} qui est une particule 
+\begin{hieroglyph}i-w\end{hieroglyph} \tl{iw} qui est une particule 
 introductive, dont nous allons reparler, mais qui n'est pas à 
 traduire.
 
 Vous reconnaissez sans doute le signe 
 \begin{hieroglyph}A1\end{hieroglyph}, qui est un déterminatif, sauf 
-dans le cas où il note le pronom suffixe \tlb{=i} \frquote{moi}. 
+dans le cas où il note le pronom suffixe \tl{=i} \frquote{moi}. 
 Nous avons vu son emploi comme possessif (\doc{cours~3}), mais vous 
 savez déjà qu'il peut remplir le rôle de sujet et se traduit alors 
 par \td{je}.
 
 Nous avons aussi déjà rencontré le mot 
-\begin{hieroglyph}m\end{hieroglyph} \tlb{m}, une préposition qui 
+\begin{hieroglyph}m\end{hieroglyph} \tl{m}, une préposition qui 
 signifie \td{dans}.
 
 Et vous connaissez le mot \begin{hieroglyph}pr-1\end{hieroglyph} 
-\tlb{pr} \td{maison}.
+\tl{pr} \td{maison}.
 
 Avec tous ces éléments en tête, comment traduiriez-vous de manière, 
 disons, intuitive ?
 
 \begin{center}
   \begin{hieroglyph}i-w-A1-m-pr-1\end{hieroglyph}\\
-  \tlb{iw=i m pr}\\
+  \tl{iw=i m pr}\\
   \td{Je (suis) dans la maison}
 \end{center}
 
@@ -140,13 +140,12 @@ Il existe deux grands types de relations prédicatives :
 \textbf{relation d'identité} (\td{Pierre est mon frère, un étudiant, 
 grand}) ou \textbf{relation de situation} (\td{Pierre est devant 
 vous}, \td{Pierre est arrivé}, \td{je suis dans la 
-maison})\footnote{Voir P.~\bsc{Grandet}, B.~\bsc{Mathieu}, 
-\emph{Cours d'égyptien hiéroglyphique}, p.~43-44.}.
+maison})\footnote{Voir \citeauthortitle[43-44]{GM}.}.
 
 \bigskip
 
 \noindent%
-\begin{tabular}{*{3}{M{.14\textwidth}}M{.50\textwidth}}
+\begin{tabularx}{\textwidth}{*{3}{M{.14\textwidth}}X}
   \toprule
     \multicolumn{3}{c}{\textbf{Relation d'identité}} &
     \multirow{2}{*}{\textbf{Relation de situation}}
@@ -165,7 +164,7 @@ maison})\footnote{Voir P.~\bsc{Grandet}, B.~\bsc{Mathieu},
     \td{Je suis dans la maison.}
   \tabularnewline
   \bottomrule
-\end{tabular}
+\end{tabularx}
 
 \bigskip
 
@@ -179,7 +178,7 @@ verbe \frquote{être} de son rôle d'auxiliaire.}}
 \bigskip
 
 \noindent%
-\begin{tabular}{*{2}{M{.26\textwidth}}M{.40\textwidth}}
+\begin{tabularx}{\textwidth}{*{2}{M{.26\textwidth}}X}
   \toprule
     \multicolumn{2}{c}{\textbf{Relation prédicative avec copule}} &
     \textbf{Prédicat verbal}
@@ -199,7 +198,7 @@ verbe \frquote{être} de son rôle d'auxiliaire.}}
     \td{Pierre vient.}
   \tabularnewline
   \bottomrule
-\end{tabular}
+\end{tabularx}
 
 \bigskip
 
@@ -248,12 +247,12 @@ Sujet + Prédicat
 
 \begin{center}
   \begin{hieroglyph}i-w-X:r:d-Xrd-A1-i-m\end{hieroglyph}\\
-  \tlb{iw Xrd im}\\
-  \frquote{l'enfant est là}
+  \tl{iw Xrd im}\\
+  \td{l'enfant est là}
 \end{center}
 
 Passons en revu les différents éléments : 1.~Le sujet, 2.~Le prédicat, 
-3.~L'auxiliaire \tlb{iw}.
+3.~L'auxiliaire \tl{iw}.
 
 \section{Le sujet}
 %----------------------------------------------------------------------
@@ -282,9 +281,9 @@ préposition}.
     \texttimes &
     \begin{hieroglyph}i-m\end{hieroglyph}
   \\
-    \tlb{Xrd} &
+    \tl{Xrd} &
     \texttimes &
-    \tlb{im}
+    \tl{im}
   \\
     \td{l'enfant} &
     \td{est} &
@@ -292,28 +291,30 @@ préposition}.
   \\
 \end{tabular}
 
-Voici quelques adverbes à connaître.
+\bigskip
+
+\noindent Voici quelques adverbes à connaître :
 
 \subsubsection*{Adverbes de lieu}
 \begin{multicols}{2}
   \noindent%
   \begin{hieroglyph}aA:a-A-N31\end{hieroglyph}
-  \tlb{aA} \td{ici}\\
+  \tl{aA} \td{ici}\\
   \begin{hieroglyph}i-m\end{hieroglyph}
-  \tlb{im} \td{là}
+  \tl{im} \td{là}
 \end{multicols}
 
 \subsubsection*{Adverbes de temps}
 \begin{multicols}{2}
   \noindent%
   \begin{hieroglyph}mi-n:ra\end{hieroglyph}
-  \tlb{min} \td{aujourd'hui}\\
+  \tl{min} \td{aujourd'hui}\\
   \begin{hieroglyph}s-f:ra\end{hieroglyph}
-  \tlb{sf} \td{hier}\\
+  \tl{sf} \td{hier}\\
   \begin{hieroglyph}dwA-A-w-ra\end{hieroglyph}
-  \tlb{dwAw} \td{matin}\\
+  \tl{dwAw} \td{matin}\\
   \begin{hieroglyph}ra*1:nb\end{hieroglyph}
-  \tlb{ra nb} \td{chaque jour}
+  \tl{ra nb} \td{chaque jour}
 \end{multicols}
 
 \subsection{Groupe prépositionnel}
@@ -333,39 +334,40 @@ Il y a deux types de groupes prépositionnels :
 
 \bigskip
 
-\begin{tabular}{lcl}
-    \begin{hieroglyph}X:r:d-Xrd-A1\end{hieroglyph} &
-    \texttimes &
-    \begin{hieroglyph}H-n:a mwt-\!\!t:.-B1 f\end{hieroglyph}
-  \\
-    \tl{Xrd} &
-    \texttimes &
-    \tl{Hna mw.t=f}
-  \\
-    \td{l'enfant} &
-    \td{est} &
-    \td{avec sa mère}
-  \\
-\end{tabular}
+\begin{minipage}{0.5\textwidth}
+  \begin{tabular}{lcl}
+      \begin{hieroglyph}X:r:d-Xrd-A1\end{hieroglyph} &
+      \texttimes &
+      \begin{hieroglyph}H-n:a mwt-\!\!t:.-B1 f\end{hieroglyph}
+    \\
+      \tl{Xrd} &
+      \texttimes &
+      \tl{Hna mw.t=f}
+    \\
+      \td{l'enfant} &
+      \td{est} &
+      \td{avec sa mère}
+    \\
+  \end{tabular}
+\end{minipage}%
+\begin{minipage}{0.5\textwidth}
+  \begin{tabular}{lcl}
+      \begin{hieroglyph}X:r:d-Xrd-A1\end{hieroglyph} &
+      \texttimes &
+      \begin{hieroglyph}H-n:a s\end{hieroglyph}
+    \\
+      \tl{Xrd} &
+      \texttimes &
+      \tl{Hna=s}
+    \\
+      \td{l'enfant} &
+      \td{est} &
+      \td{avec elle}
+    \\
+  \end{tabular}
+\end{minipage}
 
-\bigskip
-
-\begin{tabular}{lcl}
-    \begin{hieroglyph}X:r:d-Xrd-A1\end{hieroglyph} &
-    \texttimes &
-    \begin{hieroglyph}H-n:a s\end{hieroglyph}
-  \\
-    \tl{Xrd} &
-    \texttimes &
-    \tl{Hna=s}
-  \\
-    \td{l'enfant} &
-    \td{est} &
-    \td{avec elle}
-  \\
-\end{tabular}
-
-\section{Auxiliaire \tlb{iw}}
+\section{Auxiliaire \tl{iw}}
 %----------------------------------------------------------------------
 
 La proposition à prédicat adverbial n'a pas de \clef{valeur 
@@ -385,18 +387,18 @@ introducteur peut être de trois sortes :
 
 L'élément introducteur le plus fréquent, celui qui fait partie de la 
 structure de base de la phrase à prédicat adverbial est l'auxiliaire 
-\tlb{iw} \begin{hieroglyph}i-w\end{hieroglyph}. Il n'est pas traduit. 
+\tl{iw} \begin{hieroglyph}i-w\end{hieroglyph}. Il n'est pas traduit. 
 Il indique simplement que l'énoncé est présenté comme un fait 
 objectif. Il donne donc une \frquote{valeur 
-d'indicatif\footnote{M.~\bsc{Malaise}, J.~\bsc{Winand}, 
-\emph{Grammaire raisonnée}, p.~324.}} (voir notre conjugaison 
-française du mode indicatif). Du point de vue temporel, le moment 
-de référence est celui de l'énonciation. La proposition à prédicat 
-adverbial introduite par iw est donc le plus souvent traduite par un 
-\textbf{présent de l'indicatif}, et ce que nous allons généralement 
-faire ici. Notez déjà toutefois que, dans un récit, en raison du point 
-de référence qui peut être situé dans le passé et en vertu de la 
-concordance des temps, il peut être traduit par l'\textbf{imparfait}.
+d'indicatif\footnote{\citeauthortitle[324]{MW}.}} (voir notre 
+conjugaison française du mode indicatif). Du point de vue temporel, 
+le moment de référence est celui de l'énonciation. La proposition à 
+prédicat adverbial introduite par \tl{iw} est donc le plus souvent 
+traduite par un \textbf{présent de l'indicatif}, et ce que nous allons 
+généralement faire ici. Notez déjà toutefois que, dans un récit, en 
+raison du point de référence qui peut être situé dans le passé et en 
+vertu de la concordance des temps, il peut être traduit par 
+l'\textbf{imparfait}.
 
 \bigskip
 
@@ -431,21 +433,23 @@ suffixe :
   \td{Il est avec sa mère}
 \end{center}
 
-\paragraph{NB.} La proposition à prédicat adverbial avec \tl{iw} a 
-une valeur indicative, c'est-à-dire que l'énoncé est présenté comme 
-un \textbf{constat objectif}. L'auxiliaire n'est donc pas réellement 
-traduit en français. Il constitue simplement une indication pour nous 
-permettre de choisir à quel temps on mettra, dans la traduction, le 
-verbe \frquote{être}, en l'occurrence généralement au présent de 
-l'indicatif (parfois l'imparfait de l'indicatif).
+\begin{notabene}
+  La \PPA avec \tl{iw} a une valeur indicative, c'est-à-dire 
+  que l'énoncé est présenté comme un \textbf{constat objectif}. 
+  L'auxiliaire n'est donc pas réellement traduit en français. Il 
+  constitue simplement une indication pour nous permettre de choisir 
+  à quel temps on mettra, dans la traduction, le verbe \frquote{être}, 
+  en l'occurrence généralement au présent de l'indicatif (parfois 
+  l'imparfait de l'indicatif).
 
-Par conséquent, ce que l'on sera réellement amener à traduire, 
-c'est d'une part le remplacement de \tl{iw} par des auxiliaires et 
-particules ayant des sens précis ou l'absence d'élément introducteur 
-qui peut être la marque que l'énoncé n'est pas un constat objectif. 
-Nous verrons cela au prochain cours. Pour le moment, nous donnerons 
-une valeur exclamative aux propositions à prédicat adverbial sans 
-élément introducteur \tl{iw}.
+  Par conséquent, ce que l'on sera réellement amener à traduire, 
+  c'est d'une part le remplacement de \tl{iw} par des auxiliaires et 
+  particules ayant des sens précis ou l'absence d'élément introducteur 
+  qui peut être la marque que l'énoncé n'est pas un constat objectif. 
+  Nous verrons cela au prochain cours. Pour le moment, nous donnerons 
+  une valeur exclamative aux propositions à prédicat adverbial sans 
+  élément introducteur \tl{iw}.
+\end{notabene}
 
 \begin{center}
   \begin{hieroglyph}
@@ -474,10 +478,11 @@ prépositions les plus fréquentes et leur sens.
         \tl{m rSw(.t)} \td{dans la joie}
 \end{itemize}
 
-\paragraph{NB :} cette préposition prend une forme spéciale 
-lorsqu'elle est suivie d'un pronom suffixe : 
-\begin{hieroglyph}i-m\end{hieroglyph}. 
-\begin{hieroglyph}i-m-f\end{hieroglyph} \tl{im=f} \td{en lui}.
+\begin{notabene}
+  cette préposition prend une forme spéciale lorsqu'elle est suivie 
+  d'un pronom suffixe : \begin{hieroglyph}i-m\end{hieroglyph}.
+  \begin{hieroglyph}i-m-f\end{hieroglyph} \tl{im=f} \td{en lui}.
+\end{notabene}
 
 \subsection[\tl{r}]{\begin{hieroglyph}r\end{hieroglyph} \tl{r}}
 %~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -572,8 +577,7 @@ l'état comme une \textbf{situation} et non une identité.
 \end{center}
 
 \paragraph[Exemples :]{Exemples\protect\footnote{Repris de 
-P.~\bsc{Grandet}, B.~\bsc{Mathieu}, \emph{Cours d'égyptien 
-hiéroglyphique}, p.~61.} :}
+\citeauthortitle[61]{GM}} :}
 
 \begin{quote}
   \begin{hieroglyph}i-w-f-m-n:x:n-w-Xrd\end{hieroglyph}\\
