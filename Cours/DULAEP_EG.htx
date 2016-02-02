@@ -15,22 +15,22 @@
 ]{nefermemoir}
 
 \includeonly{%
-  % DULAEP_EG_Semaine_00a,
-  % DULAEP_EG_Semaine_00b,
-  % DULAEP_EG_Semaine_01a,
-  % DULAEP_EG_Semaine_01b,
-  % DULAEP_EG_Semaine_02a,
-  % DULAEP_EG_Semaine_02b,
-  % DULAEP_EG_Semaine_03,
-  % DULAEP_EG_Semaine_04,
-  % DULAEP_EG_Semaine_05,
-  % DULAEP_EG_Semaine_06,
-  DULAEP_EG_Semaine_07,
-  % DULAEP_EG_Semaine_08,
-  % DULAEP_EG_Semaine_09,
-  % DULAEP_EG_Semaine_10,
-  % DULAEP_EG_Semaine_11,
-  % DULAEP_EG_Semaine_12,
+  DULAEP_EG_S1_W00a,
+  DULAEP_EG_S1_W00b,
+  DULAEP_EG_S1_W01a,
+  DULAEP_EG_S1_W01b,
+  DULAEP_EG_S1_W02a,
+  DULAEP_EG_S1_W02b,
+  DULAEP_EG_S1_W03,
+  DULAEP_EG_S1_W04,
+  DULAEP_EG_S1_W05,
+  DULAEP_EG_S1_W06,
+  DULAEP_EG_S1_W07,
+  DULAEP_EG_S1_W08,
+  DULAEP_EG_S1_W09,
+  DULAEP_EG_S1_W10,
+  DULAEP_EG_S1_W11,
+  DULAEP_EG_S1_W12,
 }
 
 \usepackage{multicol}
@@ -188,22 +188,22 @@
 \mainmatter
 \CaptionNormal
 
-\include{DULAEP_EG_Semaine_00a}
-\include{DULAEP_EG_Semaine_00b}
-\include{DULAEP_EG_Semaine_01a}
-\include{DULAEP_EG_Semaine_01b}
-\include{DULAEP_EG_Semaine_02a}
-\include{DULAEP_EG_Semaine_02b}
-\include{DULAEP_EG_Semaine_03}
-\include{DULAEP_EG_Semaine_04}
-\include{DULAEP_EG_Semaine_05}
-\include{DULAEP_EG_Semaine_06}
-\include{DULAEP_EG_Semaine_07}
-% \include{DULAEP_EG_Semaine_08}
-\include{DULAEP_EG_Semaine_09}
-\include{DULAEP_EG_Semaine_10}
-\include{DULAEP_EG_Semaine_11}
-\include{DULAEP_EG_Semaine_12}
+\include{DULAEP_EG_S1_W00a}
+\include{DULAEP_EG_S1_W00b}
+\include{DULAEP_EG_S1_W01a}
+\include{DULAEP_EG_S1_W01b}
+\include{DULAEP_EG_S1_W02a}
+\include{DULAEP_EG_S1_W02b}
+\include{DULAEP_EG_S1_W03}
+\include{DULAEP_EG_S1_W04}
+\include{DULAEP_EG_S1_W05}
+\include{DULAEP_EG_S1_W06}
+\include{DULAEP_EG_S1_W07}
+\include{DULAEP_EG_S1_W08}
+\include{DULAEP_EG_S1_W09}
+\include{DULAEP_EG_S1_W10}
+\include{DULAEP_EG_S1_W11}
+\include{DULAEP_EG_S1_W12}
 
 
 \backmatter
