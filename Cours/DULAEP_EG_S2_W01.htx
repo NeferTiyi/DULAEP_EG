@@ -1,8 +1,9 @@
 %!TEX root = DULAEP_EG.htx
 %##HieroDef.txt
 
-% \part{Cours 01 -- Grammaire -- Récapitulatif et compléments}
-% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\part{Cours~1 -- Grammaire -- Proposition à prédicat pseudo-verbal 
+(suite) : le parfait ancien}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 % \chapter{Récapitulatif du semestre}
 % % ==============================================================
@@ -10,14 +11,8 @@
 % \section{Le groupe nominal}
 % % --------------------------------------------------------------
 
-
-ÉGYPTIEN CLASSIQUE - SEMESTRE 2
-
-Cours 1 -- Grammaire de l'égyptien classique
-
-Proposition à prédicat pseudo-verbal (suite) : le parfait ancien
-
 \chapter{Introduction : Néfertiti \frquote{la-belle-est-venue}}
+% ==============================================================
 
 La forme que nous allons voir à présent porte différents noms selon 
 les grammaires :
@@ -134,6 +129,7 @@ Une autre phrase au parfait ancien que vous connaissez :
 Nous pouvons à présent poursuivre notre exploration.
 
 \chapter{Morphologie du parfait ancien et valeur}
+% ==============================================================
 
 Nous allons à présent étudier la morphologie et la conjugaison 
 complète du Parfait ancien, pour que vous puissiez le reconnaître. 
@@ -319,16 +315,25 @@ verbes, que vous devez retenir :
         \tl{anx} \td{vivre} : \td{être vivant}
   \item \textbf{Les verbes transitifs} prennent un sens passif :
         \tl{mH} \td{remplir} : \tl{mH.w} \td{il est rempli}
-        \tl{rdi} \td{donner}, \td{placer} : ou ou \tl{dd.w} \td{il a été donné, placé}
+        \tl{rdi} \td{donner}, \td{placer} : ou ou \tl{dd.w} \td{il a 
+        été donné, placé}
   \item \textbf{Exceptions :} des verbes transitifs qui conservent un 
         sens actif :\\
         \tl{rx} \td{apprendre à connaître} :
         \td{je sais, connais}.
-        Cf. \tl{xm} ignorer, \tl{sxA} \td{se souvenir}.
-        C'est le seul cas de parfait ancien à sens actif quand il est employé dans une construction pseudo-verbale. [Quelques autres verbes peuvent avoir un sens actif au parfait, mais c'est un usage limité à la 1\iere~personne du singulier et dans la narration, non le discours. La narration sera vue en L4\footnote{Une narration est un récit détaillé, développé dans une {\oe}uvre littéraire. Le discours est une série de paroles adressées à un auditoire.}.]
+        Cf. \tl{xm} ignorer, \tl{sxA} \td{se souvenir}.\\
+        C'est le seul cas de parfait ancien à sens actif quand il est 
+        employé dans une construction pseudo-verbale. [Quelques autres 
+        verbes peuvent avoir un sens actif au parfait, mais c'est un 
+        usage limité à la 1\iere~personne du singulier et dans la 
+        narration, non le discours. La narration sera vue en 
+        L4\footnote{Une narration est un récit détaillé, développé 
+        dans une {\oe}uvre littéraire. Le discours est une série de 
+        paroles adressées à un auditoire.}.]
 \end{enumerate}
 
 \chapter{Syntaxe du parfait ancien}
+% =====================================================================
 
 Le parfait ancien peut s'employer comme prédicat dans une phrase de 
 type pseudo-verbale (= élément introducteur + sujet + prédicat), mais 
@@ -342,11 +347,20 @@ catégories d'emploi du parfait ancien :
         sémantique d'adjectif épithète).
 \end{itemize}
 
-A. Le parfait ancien peut s'employer dans une construction pseudo-verbale. Il sert alors de prédicat à une proposition non verbale : S + P.
+\section{Prédicat de construction pseudo-verbale S + P}
+% ---------------------------------------------------------------------
 
-- Avec l'indicateur d'énonciation iw :
-iw nTr rx.w rn nb
-« Le dieu connaît chaque nom. (Merikarê, 12, 8).
+\subsection{Avec l'indicateur d'énonciation \tl{iw}}
+% ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+\begin{hieroglyph}
+  i-w-nTr-G7-r:x-w-Y1-r:n-A2-nb
+\end{hieroglyph}
+
+\tl{iw nTr rx.w rn nb}
+
+\td{Le dieu connaît chaque nom.} (\source{Merikarê}, 12, 8)
+
 iw twt sXr(.w) m nwb
 « Ma statue est recouverte d'or ». (Sinouhé B 307)
 iw ø nfr.w
@@ -863,6 +877,7 @@ Is in n=i ifd m pr=i
 « Va et apporte-moi un vêtement provenant de ma maison. »
 
 \chapter{Renforcement de l’impératif}
+% ==============================================================
 
 Diverses constructions permettent de renforcer l'impératif.
 Cf. en français : « mange donc »`
@@ -915,6 +930,7 @@ Détail d'une scène d'abattage de bovidé.
 Chapelle de Ptahhotep à Saqqâra (Ve dynastie).
 
 \chapter{Vétitif -- la négation de l'impératif}
+% ==============================================================
 
 Il s'obtient par l'emploi de l'impératif du verbe négatif imi
 « n'être pas » qui est m

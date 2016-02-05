@@ -1,0 +1,362 @@
+%!TEX root = DULAEP_EG.htx
+%##HieroDef.txt
+
+\part[Cours~1 -- Écriture~3 -- Les numéraux]{Cours~1 -- Écriture~3 -- Les numéraux\footnote{D'après \citeauthortitle{MW}, chap. XV. Voir en outre,
+P. Grandet, B. Mathieu, Cours d'égyptien hiéroglyphique, chap. 21.1-3 ; Cl. Obsomer, Égyptien hiéroglyphique,
+p. 59-60.
+}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% \chapter{Syntaxe du parfait ancien}
+% =====================================================================
+
+% \section{Prédicat de construction pseudo-verbale S + P}
+% ---------------------------------------------------------------------
+
+% \subsection{Avec l'indicateur d'énonciation \tl{iw}}
+% ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+\chapter{Les cardinaux}
+% =====================================================================
+
+\section{Le système numérique}
+% ---------------------------------------------------------------------
+
+Les Égyptiens utilisaient un système de \textbf{numération décimale}. 
+Celui-ci s'appuyait sur six signes hiéroglyphiques marquant les unités 
+de base et ignorait le zéro.
+
+\begin{center}
+  \DisplayHieroglyphs
+  \begin{tabular}{c@{:\ }l}
+    \begin{hieroglyph}1\end{hieroglyph} & 
+    \num{1} (pour les unités) \\
+    \begin{hieroglyph}10\end{hieroglyph} & 
+    \num{10} (pour les dizaines), \tl{mD} \\
+    \begin{hieroglyph}100\end{hieroglyph} & 
+    \num{100} (pour les centaines), \tl{S.t} \\
+    \begin{hieroglyph}xA\end{hieroglyph} & 
+    \num{1000} (pour les milliers), \tl{xA} \\
+    \begin{hieroglyph}Dba\end{hieroglyph} & 
+    \num{10000} (pour les dizaines de mille), \tl{Dba} \\
+    \begin{hieroglyph}Hfn\end{hieroglyph} & 
+    \num{100000} (pour les centaines de mille), \tl{Hfn} \\
+    \begin{hieroglyph}HH\end{hieroglyph} & 
+    \num{1000000} (pour les millions), \tl{HH} \\
+  \end{tabular}
+\end{center}
+
+Pour écrire n'importe quel nombre, il suffit de répéter autant de fois 
+que nécessaire le signe de la décimale correspondante (en prenant soin 
+de les disposer en cadrats) : 
+\begin{hieroglyph}xA-xA-10-3:3\end{hieroglyph} \td{2016}.
+
+Les unités sont parfois écrites de façon phonétique : 
+\begin{hieroglyph}wa:a*1\end{hieroglyph} 
+\tl{wa} (ou \tl{wa.t}) \td{un}, 
+\begin{hieroglyph}sn-nw:1*1\end{hieroglyph} 
+\tl{sn.w(y)} (ou \tl{sn.ty}), \td{deux}, 
+\begin{hieroglyph}x:mt-t:3\end{hieroglyph} 
+\tl{xmtw} (ou \tl{xmt.t}), \td{trois}\dots 
+En translittération, il est recommander d'écrire le chiffre ou le 
+nombre avec des signes numériques si le texte égyptien fait de même, 
+de l'écrire en toutes lettres si le texte égyptien propose une 
+notation phonétique.
+
+\section{Quelques éléments de syntaxe}
+% ---------------------------------------------------------------------
+
+\begin{itemize}
+  \item \uline{Le chiffre~1} : écrit au moyen de 
+        \begin{hieroglyph}1\end{hieroglyph}, il se place toujours 
+        après le mot ; écrit phonétiquement, il se place 
+        indifféremment après le substantif, ou avant. Dans ce dernier 
+        cas, le cardinal et le substantif sont reliés par le morphème 
+        du génitif indirect \tl{n(y)}.
+  \item \uline{Le chiffre 2} : se place toujours derrière le 
+        substantif. S'il est écrit phonétiquement (\tl{sn.ty} ou 
+        \tl{sn.wy}), le substantif se met au duel, sinon il reste 
+        au singulier.
+  \item \uline{À partir de 3} : le cardinal est écrit sous la forme 
+        d'un chiffre, généralement apposé après le substantif qui 
+        reste en principe au singulier.
+  \item \uline{À partir de 100} : le cardinal se place fréquemment 
+        devant le substantif, auquel il est relié par le morphème du 
+        génitif indirect \tl{n(y)} (ou la préposition \tl{m}).
+\end{itemize}
+
+\section[Le nom des chiffres]{Le nom des chiffres\footnote{Voir 
+\citeauthortitle[§~260]{Gardiner} (avec plus de détails).}}
+% ---------------------------------------------------------------------
+
+Peu de chiffres et nombres sont écrits phonétiques en égyptien ancien. 
+Leurs noms peuvent êtres restitués à partir des mentions de certains 
+textes et de mots dérivés, ou encore inférés à partir du copte. Il est 
+utile d'avoir une idée de la prononciation des chiffres, car il semble 
+qu'ils peuvent être parfois l'objet de jeux de mots, notamment dans 
+les textes rituels.
+
+\begin{center}
+  \begin{tabular}{cccc}
+    & 1 & \tl{wa}     & \\
+    & 2 & \tl{snw}    & \\
+    & 3 & \tl{xmt(w)} & \\
+    & 4 & \tl{ifd}    & \\
+    & 5 & \tl{diw}    & \\
+    & 6 & \tl{sisw}   & \\
+    & 7 & \tl{sfx}    & \\
+    & 8 & \tl{xmn}    & \\
+    & 9 & \tl{psD}    & \\
+  \end{tabular}
+\end{center}
+
+\chapter{Les ordinaux}
+% =====================================================================
+
+Ils se placent généralement après le substantif avec lequel ils 
+s'accordent. (Ils peuvent aussi être employés seuls).
+
+\paragraph{Premier :} \tl{tpy} (adjectif nisbé), , , .
+
+\paragraph{Deuxième à neuvième :} cardinal (en chiffre ou écrit 
+phonétiquement) + suffixe \tl{-nw}, \tl{-nw.t}. ou \td{deuxième}.
+
+\paragraph{À partir du dixième :} on utilise le mot \tl{mH} ou 
+\tl{mH.t}, suivi du cardinal correspondant.
+\tl{mH 10}, \td{dixième}.
+
+\chapter{Les nombres en hiératique (facultatif)}
+% =====================================================================
+
+Il existe évidemment des équivalents hiératiques aux signes numériques.
+
+:1
+9 psD
+La forme particulière de certains signes
+s'explique par des ligatures.
+:2
+:3
+=
+avec des formes spécifiques
+quand plusieurs dizaines se suivent
+:4
+=
+avec des formes spécifiques
+quand plusieurs centaines se suivent
+:5
+:6
+7
+:8
+Faire l'exercice 2.
+=
+avec des formes spécifiques
+quand plusieurs dizaines se suivent
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+Sylvie Donnat, égyptien classique 1
+ÉGYPTIEN CLASSIQUE - SEMESTRE 2
+ÉPIGRAPHIE 3
+L'expression de la datation
+De nombreux monuments sont datés, ce qui constitue une donnée évidemment importante
+pour l'historien. L'expression de la date fait donc partie des formulaires de base de
+l'épigraphie à connaître, à côté de la titulature royale et de certaines formules funéraires.
+Comme nous allons le voir, les dates sont données en référence au règne du pharaon régnant.
+Cette section de cours comprend 4 parties : La section I présente des généralités sur la
+perception du temps et le lexique afférent ; la section II expose les divisions égyptiennes du
+temps ; la section III constitue le cœur du cours avec la présentation de l'expression de la
+date dans les documents épigraphiques -- c'est la partie à connaître par cœur -- ; la section
+IV est facultative, elle présente l'expression de la date au moyen des signes hiératiques ; enfin
+la section V donne les noms des mois lunaires égyptiens.
+I.
+GENERALITES : LE TEMPS ET SON DECOUPAGE
+Le temps se définit par la continuité et la succession, par une durée ; il est perçu par les
+changements qui le rythment.
+Quelques éléments du lexique égyptien du temps :
+• Division du temps :
+année rnp.t
+saison tr
+,
+,
+mois Abd
+,
+jour hrw
+,
+heure wnw.t
+moment A.t
+nw
+sp
+,
+moment,
+occurrence
+La plupart de ces termes a pour déterminatif le disque solaire : le signe renvoie à un temps conçu
+comme cyclique, à des changements cycliques.
+•
+Notions générales : temps/époque
+HAw
+,
+Faulkner, Concise Dictionary, p. 157 :
+Sylvie Donnat, égyptien classique 1
+rk
+•
+Faulkner, Concise Dictionary, p. 153
+Les notions de pérennité, d'éternité : deux mots sont associés au temps dans son
+aspect durable : l'éternité nHH
+(abrégé
+) et la perennité-D.t
+. Le
+premier nHH renvoie à une vision cyclique du temps et le second D.t a une perception
+linéaire. Ces deux termes se trouvent notamment à la suite de la titulature royale dans les
+vœux de bénédiction du pharaon : nHH D.t « pour toujours et à jamais ».
+II.
+LE CALENDRIER CIVIL ET LES CYCLES NATURELS ET
+ASTRONOMIQUES
+* Les Égyptiens ne dataient pas les ans en fonction d'une ère unique dont le début aurait été fixé
+conventionnellement (voir l'ère chrétienne, celle de la fondation de Rome pour les Romains, celle de
+l'Hégire pour le monde musulman), mais en fonction du règne de chaque pharaon. Le comput des
+années recommençait donc avec chaque nouveau pharaon. On se référait à une année ainsi : « l'an X
+du règne de tel pharaon ». -- En parallèle, les anciens Égyptiens tenaient des annales des règnes dont il
+nous reste quelques fragments.
+* L'année civile comportait 12 mois de 30 jours chacun, répartis en 3 décades. On obtenait un total
+de 360 jours par année auquel s'ajoutaient, en fin d'année, 5 jours supplémentaires, dits épagomènes,
+les « 5 (jours) supplémentaires de l'année » 5 Hry.w-rnp.t
+(jour épagomène :
+). Chaque jour supplémentaire est associé à la naissance (msw.t) d'un dieu : le 1er à la
+naissance d'Osiris, le 2e à celle d'Horus, le 3e à celle de Seth, le 4e à celle d'Isis et le 5e à celle de
+Nephthys.
+* Les 12 mois étaient répartis en 3 saisons de 4 mois chacune : les saisons
+pr.t (Décrue, saison des semailles),
+Ax.t (Inondation),
+šmw (Chaleur, saison de la récolte).
+Sylvie Donnat, égyptien classique 1
+Personnification des trois saisons égyptiennes (présentant un oval incluant 4 croissants lunaires = 4 mois)
+dans la tombe de Mérérouka à Saqqâra (Ve dynastie). De droite à gauche : Akhet, Peret, Chémou
+* Le calendrier civil était donc construit en référence à l'année agricole, au cycle des saisons et au
+régime du fleuve. En théorie, le 1er de l'an du calendrier civil (le jour
+wp.t-rnp.t « ouverture de
+er
+l'année ») correspondait ainsi au début de la crue (au 1 jour de la saison de la crue Akhet) et à un
+phénomène astronomique appelé lever héliaque de Sirius. Après une période 70 jours d'invisibilité,
+l'étoile Sothis (Sirius, en égyptien
+Spd.t) est de nouveau visible au-dessus de l'horizon, juste
+avant le lever du soleil. Ce phénomène a lieu une fois l'an. En théorie, l'observation de ce lever
+coïncide à la fois avec le 1er de l'an de l'année civile, mais aussi avec le début de la crue (observée
+vers le 17 juillet à Memphis au Moyen Empire).
+* Or, l'année égyptienne ne comptait que 365 jours et l'année solaire compte 365 jours \sfrac{1}{4}. Les
+anciens Égyptiens ne connaissaient pas l'année bissextile, aussi, progressivement, le calendrier civil se
+décalait-il par rapport au cycle solaire. Les anciens Égyptiens pouvaient mesurer ce décalage grâce à
+l'observation de l'étoile Sothis. Théoriquement le premier jour de la crue (phénomène naturel) et le
+lever héliaque (phénomène astronomique) devaient correspondre au premier de l'an de l'année civile.
+Mais en raison de ce décalage progressif du calendrier civil d'un quart de jour par an par rapport au
+cycle solaire, cette concordance complète survenait rarement. La correspondance ne revenait que tous
+les 1453 ans.
+Les anciens Égyptiens étaient conscients du décalage entre le 1er de l'an du calendrier civil et
+l'observation du lever héliaque de Sirius, mais cela ne semble pas avoir posé de problème. Comme ils
+accordaient une grande importance aux étoiles, ils notaient néanmoins parfois à quel jour du calendrier
+civil correspondait réellement le lever héliaque. Par exemple, sur une lettre provenant de la ville de
+Lahoun (ville de pyramide du complexe pyramidal de Sésostris II, XIIe dynastie), il est indiqué que ce
+Sylvie Donnat, égyptien classique 1
+lever héliaque survînt le jour 16, du 4e mois de la saison péret en l'an 7 de Sésostris III (dates
+sothiaques).
+III. FORMULATION DE LA DATE1
+Les documents écrits officiels étaient datés en fonction de l'année civile (365 jours répartis en 12
+mois de 30 jours, correspondant à 3 saisons), numérotée en référence au règne du pharaon2. La
+notation de la date prend donc la forme suivante :
+-- on note en premier lieu l'année, puis le numéro du mois en cours et la saison à laquelle il
+appartenait, en fin le numéro du jour du mois ;
+-- dans les inscriptions vouées à durer, on précise le nom du pharaon régnant (nom de
+couronnement).
+Ex.
+Rnp.t-sp 9, Abd 2 n(y) Ax.t, sw 20 xr Hm n(y)\dots
+L'an 9, le 2e mois de la saison Akhet, le 20e jour sous la Majesté de\dots
+On remarque que, pour noter la date, ce ne sont pas les ordinaux qui sont utilisés, mais les cardinaux.
+Il est à noter la valeur particulière
+dans les dates : il indique le jour, mais il ne faut pas le
+translittérer hrw, mais sw. C'est en effet une graphie du mot
+sw « jour du mois » (hrw renvoie
+à la luminosité du jour par rapport à la nuit grH).
+Le numéro du premier mois est toutefois souvent indiqué à l'aide du nisbé tpy
+T8) ; le dernier jour du mois est lui souvent désigné par le mot
+(Gardiner List
+arqy (< « fermer la boucle,
+terminer »).
+Ex.
+Rnp.t-sp 8 tpy n(y) Smw
+1
+Voir Cl. Obsomer, Égyptien hiéroglyphique, p. 60 et 116-118 ; P. Grandet, B. Mathieu, Cours d'égyptien hiéroglyphique,
+Leçon 21 ; J.P. Allen, Middle Egyptian, chapitre 9.
+2
+Ce système est attesté en place dès la fin de l'Ancien Empire. Avant cette date, les années étaient numérotée en reference à
+un recensemment bisannuel (du bétail) : “l'année du 2e recensement”, etc.
+Sylvie Donnat, égyptien classique 1
+L'an 8, le 8e (mois) de la saison Chémou.
+Ex.
+Rnp.t-sp 10 tpy n(y) Ax.t arqy xr Hm n(y)\dots
+L'an 10, le premier (mois) de la saison Akhet, le dernier (jour) sous la Majesté de\dots
+À noter : le génitif indirect n'est pas toujours employé pour lier le mois à la saison.
+Ex.
+Rnp.t-sp 30 Abd 3 Ax.t sw 7
+An 30, 3e mois de la saison Akhet, jour 7.
+Remarque sur la translitération du groupe
+Plusieurs translittérations du groupe
+-- rnp.t-sp : rnp.t
+année, et sp
+« année de règne »
+ont été proposées par les égyptologues :
+« fois, occurrence »
+-- K. Sethe a proposé de lire le groupe HA.t-sp sur la base de l'examen de variantes d'époque
+ptolémaïques.
+-- Les démotisants enfin translittèrent, pour leur part, le groupe démotique équivalent
+Hsb.t
+(>« compter »), une lecture qui se retrouve en copte et qui est attestée pour la Troisième Période
+intermédiaire3.
+-- rnp.t-Hsb.t, « l'année du comptage »
+Quatre translittérations existent donc à ce jour. Par souci de simplicité, nous optons, dans ce cours,
+pour la première translittération, mais c'est un choix arbitraire. Nombre d'égyptologues privilégient la
+2e translittération (HA.t-sp) ou la 3e (Hsb.t).
+Faire l'exercice 2.
+3
+Voir Chicago Demotic Dictionary, p. 268-273 : https://oi.uchicago.edu/research/publications/demotic-dictionary-oriental-
+institute-university-chicago (consultation novembre 2015)
+Sylvie Donnat, égyptien classique 1
+IV. L'EXPRESSION DE LA DATE EN HIERATIQUE (FACULTATIF)
+Quelques groupes en hiératique utile :
+=
+;
+=
+Il existe aussi quelques formes spécifiques en hiératique des nombres indiquant les jours u
+dans les dates.
+1
+2
+3
+5
+8
+6
+4
+10
+20
+7
+9
+Exemple : cet extrait d'un testament provenant de Lahoun.
+Essayer de transcrire, translittérer et traduire (réponse page suivante)
+NB :
+=
+Sylvie Donnat, égyptien classique 1
+V.
+LE NOM DES MOIS LUNAIRES
+Dans les dates du calendrier civil, les mois sont simplement indiqués par leur rang dans la
+saisons (1er mois de la saison Akhet, 2e mois de la saison Akhet, etc.).
+En parallèle au calendrier civil, il semble avoir existé un calendrier lunaire, attesté dans des
+lettres et des listes de fêtes. Les mois lunaires possédaient des noms faisant référence à des
+fêtes.
+Noms des mois lunaires au Moyen Empire d'après Allen, Middle Egyptian (2000),
+p. 108) :
+Noms des mois lunaires au Nouvel Empire et en copte
+Sylvie Donnat, égyptien classique 1
+Solution de l'exercice de hiératique
+rnp.t-sp 2 Abd 2 Ax.t sw 18
+L'an 2, le 2e mois de la saison Akhet, le jour 18

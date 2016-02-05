@@ -15,24 +15,28 @@
 ]{nefermemoir}
 
 \includeonly{%
-  DULAEP_EG_S1_W00a,
-  DULAEP_EG_S1_W00b,
-  DULAEP_EG_S1_W01a,
-  DULAEP_EG_S1_W01b,
-  DULAEP_EG_S1_W02a,
-  DULAEP_EG_S1_W02b,
-  DULAEP_EG_S1_W03,
-  DULAEP_EG_S1_W04,
-  DULAEP_EG_S1_W05,
-  DULAEP_EG_S1_W06,
-  DULAEP_EG_S1_W07,
-  DULAEP_EG_S1_W08,
-  DULAEP_EG_S1_W09,
-  DULAEP_EG_S1_W10,
-  DULAEP_EG_S1_W11,
-  DULAEP_EG_S1_W12,
+  % DULAEP_EG_S1_W00a,
+  % DULAEP_EG_S1_W00b,
+  % DULAEP_EG_S1_W01a,
+  % DULAEP_EG_S1_W01b,
+  % DULAEP_EG_S1_W02a,
+  % DULAEP_EG_S1_W02b,
+  % DULAEP_EG_S1_W03,
+  % DULAEP_EG_S1_W04,
+  % DULAEP_EG_S1_W05,
+  % DULAEP_EG_S1_W06,
+  % DULAEP_EG_S1_W07,
+  % DULAEP_EG_S1_W08,
+  % DULAEP_EG_S1_W09,
+  % DULAEP_EG_S1_W10,
+  % DULAEP_EG_S1_W11,
+  % DULAEP_EG_S1_W12,
+  DULAEP_EG_S2_W01,
+  DULAEP_EG_S2_W02,
+  % DULAEP_EG_S2_W03,
 }
 
+\usepackage{xfrac}
 \usepackage{multicol}
 \usepackage{neferkheops}
 
@@ -165,6 +169,7 @@
 \mainmatter
 \CaptionNormal
 
+\book{Semestre~1}
 \include{DULAEP_EG_S1_W00a}
 \include{DULAEP_EG_S1_W00b}
 \include{DULAEP_EG_S1_W01a}
@@ -181,6 +186,10 @@
 \include{DULAEP_EG_S1_W10}
 \include{DULAEP_EG_S1_W11}
 \include{DULAEP_EG_S1_W12}
+\book{Semestre~2}
+\include{DULAEP_EG_S2_W01}
+\include{DULAEP_EG_S2_W02}
+\include{DULAEP_EG_S2_W03}
 
 
 \backmatter
