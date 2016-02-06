@@ -1,0 +1,306 @@
+%!TEX root = DULAEP_EG.htx
+%##HieroDef.txt
+
+\part{Cours~2 -- Le système graphique (suite)}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\chapter*{Rappel}
+%======================================================================
+
+
+\subsection*{Quelles sont les 3 valeurs possibles des signes dans le 
+système d'écriture \hiero ?}
+\begin{itemize}
+  \item logogrammes (valeur sémantique et phonétique)
+  \item phonogrammes (seulement une valeur phonétique)
+  \item déterminatifs (seulement une valeur sémantique)
+\end{itemize}
+
+\subsection*{Comment note-t-on un mot égyptien en \hiero[e] ?}
+En résumé, on peut dire qu'il y a normalement deux parties :
+\begin{itemize}
+  \item les premiers signes notent les phonèmes du mot
+  \item le ou les derniers signes sont des déterminatifs qui donnent 
+        une indication sémantique sur le mot.
+\end{itemize}
+
+Par exemple : 1. \begin{hieroglyph}b:n-b:n-t-O24\end{hieroglyph} 
+\td{pyramidion}. En vous aidant du tableau des signes 
+unilitères, translittérez. Quelle est la valeur du dernier signe ? 
+(réponse : ci-dessous)
+
+\section*{Les signes plurilitères}
+
+Continuons notre exploration des phonogrammes. On a étudié jusqu'à 
+présent les signes unilitères. Ils sont à apprendre par c{\oe}ur le 
+plus rapidement possible. D'autres phonogrammes notent un ensemble 
+de deux consonnes (bilitères) et d'autres de trois consonnes 
+(trilitères). Le nombre des bilitères est assez élevé. Vous les 
+apprendrez progressivement.
+
+
+\begin{exercice}
+  \textbf{Réponse}
+
+  1. \begin{hieroglyph}b:n-b:n-t-O24\end{hieroglyph} \tl{bnbn.t} 
+  \td{pyramidion}, le dernier signe est le déterminatif.
+\end{exercice}
+
+\chapter{Retour sur les phonogrammes plurilitères}
+%======================================================================
+
+Comme nous l'avons vu, vous pouvez retenir qu'un \textbf{mot égyptien} 
+est écrit au moyen de deux groupes de signes:
+
+\begin{aparte}
+  \begin{enumerate}
+    \item Les signes notant les phonèmes ;
+    \item Le ou les déterminatifs.
+  \end{enumerate}
+
+  \textbf{Exemple :} \begin{hieroglyph}b:n-b:n-t-O24\end{hieroglyph} 
+  \tl{bnbn.t} pyramidion, ci-dessus : les quatre premiers signes sont 
+  des signes phonétiques (unilitères) et le dernier un déterminatif.
+\end{aparte}
+
+Pour les mots écrits par des \textbf{logogrammes}, on peut dire que ce 
+schéma fonctionne aussi d'une certaine manière :
+
+\begin{aparte}
+  \begin{enumerate}
+    \item Le logogramme ;
+    \item le trait dit de \frquote{lecture directe}, indiquant que le 
+          signe précédent doit être lu comme un \frquote{signe-mot}.
+  \end{enumerate}
+
+  \textbf{Exemple :} 
+  \begin{hieroglyph}pr-1\end{hieroglyph} 
+    \tl{pr} \td{maison}, \td{domaine} ; 
+  \begin{hieroglyph}ra-1\end{hieroglyph} 
+    \tl{ra} \td{Rê}, \td{soleil} ;
+  \begin{hieroglyph}nTr-1\end{hieroglyph} 
+    \tl{nTr} \td{dieu}.
+\end{aparte}
+
+\begin{exercice}
+  Faire l'exercice~4 en vous aidant du tableau des signes unilitères 
+  et de celui des signes plurilitères. \emph{Voir corrigé en ligne.}
+\end{exercice}
+
+\chapter{La disposition des signes}
+%======================================================================
+
+L'orientation première de l'écriture égyptienne est probablement 
+de droite à gauche. C'est l'orientation exclusive des écritures 
+cursives (hiératique, puis démotique). Le \hiero lui, on l'a vu, 
+peut-être écrit de droite à gauche ou de gauche à droite, en ligne ou 
+en colonne (lue du haut vers le bas).
+
+Les signes \hiero[iques] ne sont en outre pas disposés les uns à la 
+suite des autres, mais agencés selon des considérations esthétiques 
+sous forme de \textbf{\frquote{cadrats}}, c'est-à-dire de carrés 
+virtuels permettant une disposition harmonieuse des signes.
+
+\begin{figure}[h!]
+  \includegraphics[width=\textwidth]{cadrats}
+  \caption{Texte \hiero disposé en cadrats (\fullcite[310]{Gardiner}) 
+           \rem{(figure reprise de \citeauthortitle[20]{GM1})}}
+  \label{fig:cadrats}
+\end{figure}
+
+En \hiero, les signes isolés sont normalement placés au centre du 
+cadrat.
+
+\chapter{Retour sur les déterminatifs}
+%======================================================================
+
+Les déterminatifs sont des classificateurs sémantiques. Ils se placent 
+à la fin d'un mot, après les phonèmes, et donnent une information, non 
+pas sur la prononciation, mais sur le sens du mot. Les déterminatifs 
+sont très utiles, à plusieurs égards :
+\begin{itemize}
+  \item ils permettent de repérer la fin d'un mot (l'écriture 
+        égyptienne ancienne ne marque pas de séparation entre 
+        les mots) ;
+  \item ils permettent de distinguer les éventuels homogrammes 
+        -- dans une écriture qui ne note que les consonnes les 
+        chances de rencontrer deux mots distincts écrits avec 
+        les mêmes phonèmes consonantiques sont importantes.
+\end{itemize}
+
+À cet égard, ils jouent d'une certaine manière le même rôle 
+que les \emph{kanji} en japonais ou l'orthographe historique 
+française\footfullcite[Voir les remarques éclairantes de][]{Christin}. 
+Les graphies \emph{vert} -- \emph{vers} -- \emph{ver} -- \emph{verre} 
+donnent des informations visuelles sur le sens des mots. L'orthographe 
+nous sert, en français écrit, d'indicateur sémantique. Les 
+déterminatifs des \hiero[es] ont une fonction similaire.
+
+\begin{hieroglyph}d:p*t-P1\end{hieroglyph} \tl{dp.t} 
+\td{bateau}
+
+\begin{hieroglyph}d:p*t-ns-A2\end{hieroglyph} \tl{dp.t} 
+\td{le goût}, avec \begin{hieroglyph}ns\end{hieroglyph} 
+(langue de b{\oe}uf, par ailleurs aussi bilitère valeur \tl{ns})
+
+\begin{hieroglyph}mn:n-Y1v\end{hieroglyph} \tl{mn} 
+\td{être durable} avec \begin{hieroglyph}nTr-1\end{hieroglyph}, 
+rouleau de papyrus fermé, déterminatif des notions abstraites
+
+\begin{hieroglyph}mn:n-A1\end{hieroglyph} \tl{mn} 
+\td{un tel} (dans \td{un tel qu'a mis au monde une telle}, 
+expression utilisée dans les manuels de rites de protection pour 
+indiquer que l'on doit ajouter ici le nom du patient)
+
+\begin{exercice}
+  Voir le document \doc{5 Déterminatifs} et faire l'exercice~5.
+  \emph{Voir corrigé en ligne.}
+\end{exercice}
+
+\chapter{Les logogrammes ou signes-mots}
+%======================================================================
+
+Les logogrammes sont perçus comme le c{\oe}ur et l'origine du système 
+d'écriture \hiero, puisque les signes phonogrammes en sont dérivés 
+selon le principe du \textbf{rébus par transfert} (voir plus haut : le 
+signe \begin{hieroglyph}pr\end{hieroglyph} note le mot \td{maison} qui 
+comporte les consonnes \tl{pr}, le même signe est donc réutilisé pour 
+noter simplement ces phonèmes).
+
+Il demeure de très nombreux mots notés par un seul signe dans 
+l'écriture \hiero égyptienne.
+
+\textbf{Par exemple :} 
+\begin{hieroglyph}pr-1\end{hieroglyph} \tl{pr} \td{maison} ; 
+\begin{hieroglyph}Hr-1\end{hieroglyph} \tl{Hr} \td{visage} ; 
+\begin{hieroglyph}ib-1\end{hieroglyph} \tl{ib} \td{c{\oe}ur, 
+conscience} 
+
+Un signe utilisé comme notation de mot complet est normalement suivi 
+d'un signe diacritique, \begin{hieroglyph}1\end{hieroglyph} le trait 
+vertical, appelé \frquote{trait de lecture directe} (Grandet/Mathieu) 
+ou encore \frquote{trait de l'idéogramme} (Obsomer), signalant la 
+valeur logographique à conférer au signe.
+
+\begin{notabene}
+   une exception courante : \begin{hieroglyph}mw\end{hieroglyph} 
+   \tl{mw} \td{eau}
+\end{notabene}
+
+\begin{aparte}
+      [title={Remarque sur la terminologie employée :}, breakable]
+  Les deux termes \textbf{\frquote{idéogrammes}} et 
+  \textbf{\frquote{logogrammes}} sont utilisés dans les manuels 
+  pour désigner les signes égyptiens notant un mot complet et 
+  sont, dans l'usage courant, employés comme synonymes.
+
+  Toutefois, des nuances existent entre les deux. Logogramme 
+  (dérivé du grec \emph{logos} \frquote{parole} et \emph{gramma} 
+  \frquote{caractère, lettre}) désigne un signe notant une 
+  \textbf{unité de sens} (= un mot). Le terme idéogramme, de par son 
+  étymologie (du grec \emph{idea} \frquote{forme, aspect}), renvoie à 
+  une catégorie plus spécifique de signe-mot, les \frquote{caractères 
+  figuratifs} de Champollion \frquote{qui expriment l'objet dont ils 
+  présentent à l'{\oe}il l'image plus ou moins fidèle et plus ou moins 
+  détaillée\footnote{\fullcite[22]{Champo}. cf. aussi 
+  \citeauthortitle[28]{MW}.}}. Par exemple, une image du visage de 
+  face pour noter le mot \td{image}, \td{face} 
+  \begin{hieroglyph}Hr-1\end{hieroglyph} ou 
+  \begin{hieroglyph}r-1\end{hieroglyph} \td{bouche} \tl{r(A)}.
+
+  Champollion définit une seconde catégorie de \frquote{signes-mots} : 
+  les caractères \frquote{tropiques ou symboliques}, permettant de 
+  noter des mots renvoyant à des idées plus abstraites. Par exemple, 
+  le vase \begin{hieroglyph}ib-1\end{hieroglyph} pour noter le mot 
+  \tl{ib}, \td{c{\oe}ur} ou \td{conscience}.
+
+  Quant au signe \begin{hieroglyph}zA\end{hieroglyph} dans le mot 
+  \begin{hieroglyph}zA-\!\!\!1:.\end{hieroglyph} ou 
+  \begin{hieroglyph}zA-A1\end{hieroglyph} \tl{sA} \td{fils}, il 
+  est en fait utilisé comme notation phonétique \tl{sA}, sans doute 
+  dérivée du terme \tl{s.t} \begin{hieroglyph}z:t-zA\end{hieroglyph} 
+  \td{canard (pilet)}.
+
+  On préfère donc fréquemment le terme logogramme, qui renvoie à 
+  l'idée de mot noté par un signe quelque soit la méthode de 
+  représentation (strictement figurative, ou métaphorique, etc.), 
+  pour sa polysémie\footnote{\citeauthortitle[16]{Glassner}.}.
+\end{aparte}
+
+Les logogrammes sont donc normalement accompagnés d'un trait 
+vertical signalant leur valeur de signe-mot. Un mot égyptien, même 
+écrit, au moyen d'un logogramme, comprend donc normalement au moins 
+deux signes : le logogramme et le trait.
+
+Il arrive que les logogrammes soient accompagnés d'autres signes 
+encore. Observez les exemples ci-dessous :
+
+\begin{example}[title={Exemples :}]
+  \begin{hieroglyph}d:t*1\end{hieroglyph} 
+    \tl{Dr.t} \td{main} ; 
+  \begin{hieroglyph}ir:t*1\end{hieroglyph} 
+    \tl{ir.t} \td{{\oe}il} ; 
+  \begin{hieroglyph}niwt:t*1\end{hieroglyph} 
+    \tl{niw.t} \td{ville} ; 
+  \begin{hieroglyph}N31:t*1\end{hieroglyph} 
+    \tl{wA.t} \td{chemin} ; 
+  \begin{hieroglyph}Axt:t*1\end{hieroglyph} 
+    \tl{Ax.t} \td{horizon}
+\end{example}
+
+Vous remarquez que tous ces mots sont écrits au moyen d'un 
+logogramme accompagné du trait vertical, mais aussi accompagné du 
+\begin{hieroglyph}t\end{hieroglyph} (voir tableau des unilitères), 
+phonogramme \tl{t}. Nous verrons dans le premier cours consacré à 
+la grammaire égyptienne que le \tl{t} est la désinence du féminin. 
+Lorsqu'un logogramme note un mot féminin, la désinence du féminin 
+est explicitée par sa notation phonétique.
+
+Enfin, dans quelques cas, le logogramme, en plus du trait de lecture 
+directe, peut être accompagné d'un déterminatif indiquant de manière 
+complémentaire un élément de sens. 
+
+\begin{example}[title={Exemples :}]
+  \begin{hieroglyph}tA:N23*1\end{hieroglyph} 
+    \tl{tA} \td{terre} ; 
+  \begin{hieroglyph}zA-\!\!\!1:.-A1\end{hieroglyph} 
+    \tl{sA} \td{fils} ; 
+  comparer 
+  \begin{hieroglyph}z:1-xt\end{hieroglyph} 
+    \tl{s} \td{verrou} et 
+  \begin{hieroglyph}z:A1*1\end{hieroglyph} 
+    \tl{s} \td{homme} 
+\end{example}
+
+Voir encore : 
+\begin{hieroglyph}zS-A1\end{hieroglyph} 
+  \tl{sS} \td{scribe} ; 
+\begin{hieroglyph}zS-Y1v\end{hieroglyph} 
+  \tl{sS} \td{écrire}
+
+\begin{exercice}
+  Faire l'exercice~6.\emph{Voir corrigé en ligne.}
+\end{exercice}
+
+\chapter{Les codes des signes \hiero[iques]}
+
+Vous avez pu remarquer dans le document \doc{5-Déterminatifs} et dans 
+le document \doc{6-Logogrammes} que chaque signe \hiero égyptien est 
+associé à un code. 
+Par exemple, l'homme assis \begin{hieroglyph}A1\end{hieroglyph}
+porte le code \MdC{A1}, l'homme portant la main à la bouche
+\begin{hieroglyph}A2\end{hieroglyph} \MdC{A2}, la femme assise 
+\begin{hieroglyph}B1\end{hieroglyph} \MdC{B1}, la tête de profil 
+\begin{hieroglyph}D1\end{hieroglyph} \MdC{D1}, la tête de face 
+\begin{hieroglyph}D2\end{hieroglyph} \MdC{D2}, etc. 
+Ce code correspond à la classification des signes faite par 
+Alan H.~\bsc{Gardiner} dans son \emph{Egyptian Grammar}. On appelle 
+cette liste la \emph{Gardiner List}. C'est cette classification qui 
+est communément en usage aujourd'hui. Vous trouverez cette liste 
+des signes égyptiens dans sa version en français publiée par 
+\citeauthor{MW}, dans la \citetitle{MW}, dans le document 
+\doc{7-Gardiner List}.
+
+\begin{exercice}
+  Faire l'exercice de synthèse~7, à rendre par email.
+\end{exercice}

@@ -2,6 +2,12 @@
 * text=auto
 * text eol=lf
 
+# Images
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.pdf binary
+
 # Custom for Visual Studio
 *.cs     diff=csharp
 
