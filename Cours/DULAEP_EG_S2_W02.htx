@@ -452,55 +452,144 @@ le mois à la saison.
   \td{L'\ar{30}, 3\ieme~mois de la saison Akhet, jour~7}
 \end{example}
 
-Remarque sur la translitération du groupe
-Plusieurs translittérations du groupe
--- rnp.t-sp : rnp.t
-année, et sp
-« année de règne »
-ont été proposées par les égyptologues :
-« fois, occurrence »
--- K. Sethe a proposé de lire le groupe HA.t-sp sur la base de l'examen de variantes d'époque
-ptolémaïques.
--- Les démotisants enfin translittèrent, pour leur part, le groupe démotique équivalent
-Hsb.t
-(>« compter »), une lecture qui se retrouve en copte et qui est attestée pour la Troisième Période
-intermédiaire3.
--- rnp.t-Hsb.t, « l'année du comptage »
-Quatre translittérations existent donc à ce jour. Par souci de simplicité, nous optons, dans ce cours,
-pour la première translittération, mais c'est un choix arbitraire. Nombre d'égyptologues privilégient la
-2e translittération (HA.t-sp) ou la 3e (Hsb.t).
-Faire l'exercice 2.
-3
-Voir Chicago Demotic Dictionary, p. 268-273 : https://oi.uchicago.edu/research/publications/demotic-dictionary-oriental-
-institute-university-chicago (consultation novembre 2015)
-Sylvie Donnat, égyptien classique 1
+\begin{aparte}[title={Remarque sur la translittération du groupe 
+  \begin{hieroglyph}rnp-t:zp\end{hieroglyph} \frquote{année de règne}}]
+
+  Plusieurs translittérations du groupe ont été proposées par les 
+  égyptologues :
+  \begin{itemize}\setlength{\itemsep}{1em}
+    \item \tl[orange]{rnp.t-sp} : 
+          \begin{hieroglyph}rnp-t:1\end{hieroglyph} 
+          \tl{rnp.t} \td{année}, et 
+          \begin{hieroglyph}z:p*zp\end{hieroglyph} 
+          \tl{sp} \td{fois}, \td{occurrence}
+    \item K.~\bsc{Sethe} a proposé de lire le groupe 
+          \tl[orange]{HA.t-sp} sur la base de l'examen de variantes 
+          d'époque ptolémaïques.
+    \item Les démotisants enfin translittèrent, pour leur part, 
+          le groupe démotique équivalent 
+          \raisebox{-0.25\height}
+                   {\includegraphics[height=2em]{demot_Hsbt}} 
+          \tl[orange]{Hsb.t} (\td{compter}), une lecture qui se 
+          retrouve en copte et qui est attestée pour la 
+          \TPI\footnotemark{}.
+    \item \tl[orange]{rnp.t-Hsb.t}, \td{l'année du comptage}
+  \end{itemize}
+\end{aparte}
+\footnotetext{Voir \emph{Chicago Demotic Dictionary}, p.~268-273 :
+\url{https://oi.uchicago.edu/research/publications/%
+demotic-dictionary-oriental-institute-university-chicago}
+(consultation novembre 2015)}
+
+Quatre translittérations existent donc à ce jour. Par souci 
+de simplicité, nous optons, dans ce cours, pour la première 
+translittération, mais c'est un choix arbitraire. Nombre 
+d'égyptologues privilégient la 2\ieme translittération (\tl{HA.t-sp}) 
+ou la 3\ieme (\tl{Hsb.t}).
+
+\begin{exercice}
+  Faire l'exercice 2.
+\end{exercice}
+
 
 \chapter{L'expression de la date en hiératique (facultatif)}
 \label{cha:date_hiera}
 % =====================================================================
 
-Quelques groupes en hiératique utile :
+Quelques groupes en hiératique utile : 
+\raisebox{-0.25\height}{%
+  \includegraphics[height=2em]{hiera_date_rnpt}%
+} = \begin{hieroglyph}rnp\ \end{hieroglyph} ;
+\raisebox{-0.25\height}{%
+  \includegraphics[height=2em]{hiera_date_Abd}%
+} = \begin{hieroglyph}Abd:1*1\end{hieroglyph}
 
-=
-;
-=
-Il existe aussi quelques formes spécifiques en hiératique des nombres indiquant les jours u
-dans les dates.
-1
-2
-3
-5
-8
-6
-4
-10
-20
-7
-9
-Exemple : cet extrait d'un testament provenant de Lahoun.
-Essayer de transcrire, translittérer et traduire (réponse page suivante)
-NB :
-=
+Il existe aussi quelques formes spécifiques en hiératique des nombres 
+indiquant les jours dans les dates.
+
+\noindent%
+\begin{minipage}{0.33\textwidth}
+  \begin{tabular}{ccc}
+      1 & 
+      \begin{hieroglyph}1\R90\end{hieroglyph} &
+      \includegraphics[scale=0.5]{hiera_date_1} 
+    \\
+      4 & 
+      \begin{hieroglyph}1\R90:1\R90:1\R90:1\R90\end{hieroglyph} &
+      \includegraphics[scale=0.5]{hiera_date_4} 
+    \\
+      7 & 
+      \begin{hieroglyph}
+        1\R90:1\R90:1\R90-1\R90:1\R90:1\R90:1\R90
+      \end{hieroglyph} &
+      \includegraphics[scale=0.5]{hiera_date_7} 
+    \\
+      10 & 
+      \begin{hieroglyph}10\R90\end{hieroglyph} &
+      \includegraphics[scale=0.5]{hiera_date_10} 
+  \end{tabular}
+\end{minipage}%
+\hfill%
+\begin{minipage}{0.33\textwidth}
+  \begin{tabular}{ccc}
+      2 & 
+      \begin{hieroglyph}1\R90:1\R90\end{hieroglyph} &
+      \includegraphics[scale=0.5]{hiera_date_2} 
+    \\
+      5 & 
+      \begin{hieroglyph}1\R90:1\R90-1\R90:1\R90:1\R90\end{hieroglyph} &
+      \includegraphics[scale=0.5]{hiera_date_5} 
+    \\
+      8 & 
+      \begin{hieroglyph}
+        1\R90:1\R90:1\R90:1\R90-1\R90:1\R90:1\R90:1\R90
+      \end{hieroglyph} &
+      \includegraphics[scale=0.5]{hiera_date_8} 
+    \\
+      20 & 
+      \begin{hieroglyph}10\R90-10\R90\end{hieroglyph} &
+      \includegraphics[scale=0.5]{hiera_date_20} 
+    \\
+  \end{tabular}
+\end{minipage}%
+\hfill%
+\begin{minipage}{0.33\textwidth}
+  \begin{tabular}{ccc}
+      3 & 
+      \begin{hieroglyph}1\R90:1\R90:1\R90\end{hieroglyph} &
+      \includegraphics[scale=0.5]{hiera_date_3} 
+    \\
+      6 & 
+      \begin{hieroglyph}
+        1\R90:1\R90:1\R90-1\R90:1\R90:1\R90
+      \end{hieroglyph} &
+      \includegraphics[scale=0.5]{hiera_date_6} 
+    \\
+      9 & 
+      \begin{hieroglyph}
+        1\R90:1\R90:1\R90-1\R90:1\R90:1\R90-1\R90:1\R90:1\R90
+      \end{hieroglyph} &
+      \includegraphics[scale=0.5]{hiera_date_9} 
+    \\
+  \end{tabular}
+\end{minipage}
+
+\bigskip
+
+\begin{exercice}[before upper = \noindent]
+  \textbf{Exemple :} cet extrait d'un testament provenant de Lahoun.
+  \begin{center}
+    \includegraphics[height=3em]{hiera_date_Lahoun}
+  \end{center}
+
+  \noindent Essayer de transcrire, translittérer et traduire (réponse 
+  page suivante)
+  \begin{notabene}
+    \raisebox{-0.25\height}{%
+      \includegraphics[height=2em]{hiera_date_Axt}%
+    } = \reflectbox{\begin{hieroglyph}SA:t*1\end{hieroglyph}} ;
+  \end{notabene}
+\end{exercice}
 
 \chapter{Le nom des mois lunaires}\label{cha:mois}
 % =====================================================================
@@ -524,6 +613,8 @@ lunaires possédaient des noms faisant référence à des fêtes.
 
 \begin{exercice}
   Solution de l'exercice de hiératique :
+
+  \includegraphics[height=2em]{hiera_date_Lahoun}
 
   \reflectbox{%
     \begin{hieroglyph}
