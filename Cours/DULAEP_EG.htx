@@ -32,8 +32,9 @@
   % DULAEP_EG_S1_W11,
   % DULAEP_EG_S1_W12,
   DULAEP_EG_S2_W01,
-  DULAEP_EG_S2_W02,
+  % DULAEP_EG_S2_W02,
   % DULAEP_EG_S2_W03,
+  DULAEP_EG_S2_W05,
 }
 
 \usepackage{xfrac}
@@ -45,6 +46,8 @@
 }
 
 \aliaspagestyle{part}{empty}
+\counterwithin{footnote}{part}
+\renewcommand{\thefootnote}{\arabic{footnote}}
 
 
 \newtcolorbox{example}[1][]{%
@@ -108,13 +111,14 @@
   \textbf{\textcolor{purple}{#1}}%
 }
 \newcommand{\clef}[1]{%
-  \textbf{\textcolor{red}{#1}}%
+  \textbf{\textcolor{orange}{#1}}%
 }
 \newcommand{\info}[1]{%
   \textcolor{DarkGreen}{#1}%
 }
 
 \renewcommand{\PPA}{Proposition à prédicat adverbial\xspace}
+\newcommand{\PPN}{Proposition à prédicat nominal\xspace}
 
 \newcommand{\citeauthortitle}[2][]{%
   \citeauthor{#2}, \citetitle[#1]{#2}%
@@ -190,6 +194,8 @@
 \include{DULAEP_EG_S2_W01}
 \include{DULAEP_EG_S2_W02}
 \include{DULAEP_EG_S2_W03}
+% \include{DULAEP_EG_S2_W04}
+\include{DULAEP_EG_S2_W05}
 
 
 \backmatter

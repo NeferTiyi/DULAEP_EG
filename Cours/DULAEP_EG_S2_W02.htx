@@ -96,19 +96,52 @@ utile d'avoir une idée de la prononciation des chiffres, car il semble
 qu'ils peuvent être parfois l'objet de jeux de mots, notamment dans 
 les textes rituels.
 
-\begin{center}
-  \begin{tabular}{cccc}
-    & 1 & \tl{wa}     & \\
-    & 2 & \tl{snw}    & \\
-    & 3 & \tl{xmt(w)} & \\
-    & 4 & \tl{ifd}    & \\
-    & 5 & \tl{diw}    & \\
-    & 6 & \tl{sisw}   & \\
-    & 7 & \tl{sfx}    & \\
-    & 8 & \tl{xmn}    & \\
-    & 9 & \tl{psD}    & \\
+\noindent%
+\begin{minipage}{0.33\textwidth}
+  \RaggedLeft
+  \begin{tabular}{ccc}
+      1 & \begin{hieroglyph}1\end{hieroglyph} &
+      \tl{wa}
+    \\
+      2 & \begin{hieroglyph}1*1\end{hieroglyph} &
+      \tl{snw}
+    \\
+      3 & \begin{hieroglyph}1*1*1\end{hieroglyph} &
+      \tl{xmt(w)}
+    \\
   \end{tabular}
-\end{center}
+\end{minipage}%
+\hfill%
+\begin{minipage}{0.33\textwidth}
+  \centering
+  \begin{tabular}{ccc}
+      4 & \begin{hieroglyph}1*1*1*1\end{hieroglyph} &
+      \tl{ifd}
+    \\
+      5 & \begin{hieroglyph}1*1*1:1*1\end{hieroglyph} &
+      \tl{diw}
+    \\
+      6 & \begin{hieroglyph}1*1*1:1*1*1\end{hieroglyph} &
+      \tl{sisw}
+    \\
+  \end{tabular}
+\end{minipage}%
+\hfill%
+\begin{minipage}{0.33\textwidth}
+  \RaggedRight
+  \begin{tabular}{ccc}
+      7 & \begin{hieroglyph}1*1*1*1:1*1*1\end{hieroglyph} &
+      \tl{sfx}
+    \\
+      8 & \begin{hieroglyph}1*1*1*1:1*1*1*1\end{hieroglyph} &
+      \tl{xmn}
+    \\
+      9 & \begin{hieroglyph}1*1*1*1*1:1*1*1*1\end{hieroglyph} &
+      \tl{psD}
+    \\
+  \end{tabular}
+\end{minipage}
+
 
 \chapter{Les ordinaux}
 % =====================================================================
@@ -508,7 +541,8 @@ Il existe aussi quelques formes spécifiques en hiératique des nombres
 indiquant les jours dans les dates.
 
 \noindent%
-\begin{minipage}{0.33\textwidth}
+\begin{minipage}[t]{0.33\textwidth}
+  \vspace{0cm}
   \begin{tabular}{ccc}
       1 & 
       \begin{hieroglyph}1\R90\end{hieroglyph} &
@@ -530,7 +564,8 @@ indiquant les jours dans les dates.
   \end{tabular}
 \end{minipage}%
 \hfill%
-\begin{minipage}{0.33\textwidth}
+\begin{minipage}[t]{0.33\textwidth}
+  \vspace{0cm}
   \begin{tabular}{ccc}
       2 & 
       \begin{hieroglyph}1\R90:1\R90\end{hieroglyph} &
@@ -553,7 +588,8 @@ indiquant les jours dans les dates.
   \end{tabular}
 \end{minipage}%
 \hfill%
-\begin{minipage}{0.33\textwidth}
+\begin{minipage}[t]{0.33\textwidth}
+  \vspace{0cm}
   \begin{tabular}{ccc}
       3 & 
       \begin{hieroglyph}1\R90:1\R90:1\R90\end{hieroglyph} &
