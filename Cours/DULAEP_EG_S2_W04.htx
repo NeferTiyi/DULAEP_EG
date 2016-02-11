@@ -116,8 +116,6 @@ le premier élément (sujet) est pronominal.
 On emploie alors le pronom \textbf{indépendant}, seul pronom en 
 capacité de débuter une phrase, sans élément d'appui (cf. tableau).
 
-
-
 \begin{tabular}{>{\bfseries}M{3cm}rM{4cm}M{4cm}}
     \multicolumn{2}{c}{~} &
     \textbf{Masculin} &
@@ -176,64 +174,98 @@ capacité de débuter une phrase, sans élément d'appui (cf. tableau).
   \bottomrule
 \end{tabular}
 
+\bigskip
 
+\tl{ink wr m P}
 
+\td{C'est moi le grand dans Pé.} = \td{Je suis le grand dans Pé.}
 
+\tl{ink sS ior wr.t}
 
-Masculin  féminin
-1 re pers. sing.
-ink ; ; ; 
-2 e pers. sing.
-ntk
-NtT ; 
-Forme archaïque Twt 
-3 e pers. sing.
-ntf 
-nts  ;  
-Forme archaïque swt 
-1 re pers. pluriel
-inn ; 
-2 e pers. pluriel
-ntTn ; 
-3 e pers. pluriel 
-ntsn  ;  ;
-ink wr m P – C'est moi le grand dans Pé = Je suis le grand dans Pé.
-ink sš iqr wr.t
-« Je suis un scribe excellent, vraiment. »
-Ntk it n nmḥ, hi n ḫȝr.t – Je suis un père pour l'orphelin, un époux pour la veuve.
-Sylvie Donnat, égyptien classique 1
-B. Les constructions avec la copule pw
-Cette construction s'emploie quand le sujet correspond à une 3 e personne du singulier.
-1. Construction A pw (P + S)
-La copule pw est à l'origine le démonstratif de la série pw / tw / nw. Dans la proposition à
-prédicat nominal, il prend le sens particulier du français « c'est » et devient invariable. Cette copule
-remplit la fonction de sujet. Elle constitue en fait « l'indice du sujet ».
-Wsir pw « C'est Osiris ».
-Quand le prédicat est un substantif suivi de plusieurs déterminants, la copule pw se place
-généralement en deuxième position : avant l'adjectif ou le génitif indirect, mais après un génitif
-direct, un pronom suffixe ou un démonstratif.
-Tȝ pw nfr
-« C'est une bonne terre. »
-ḥm.t wʿb pw n(y) Rʿ « C'est la femme du prêtre-ouâb de
-Rê. »
-NB1 : On peut trouver parfois à la place de la copule pw des démonstratifs neutres comme nw, nn, nfȝ
-ou nȝ)
-NB2 : La construction A pw peut être précédée d'un auxiliaire d'énonciation, type mk, isT, ḥȝ, smwn 2
-Tm, mk rn=k pw « Atoum, Vois, c'est ton nom ! »
-NB3 : Dans la construction A pw, la copule pw est l'indice du sujet, un rappel, indéfini, du sujet.
-Ce sujet peut être par ailleurs explicitement mentionné avant — par thématisation – introduite
-ou non par ir « quant à ».
-2 Particule proclitique « probablement », « sans doute », suivie du pronom suffixe.
-Sylvie Donnat, égyptien classique 1
-ir sf, Wsir pw
-« Quant à hier, c'est Osiris »
-2. Construction A pw, B
-Il existe une construction tripartite, dans laquelle pw (l'indice du sujet) est suivi d'une explicitation
-du sujet.
-iȝ.t pw nfr.t, nsy.t
-« C'est une belle fonction, la royauté »
-A noter : tout l'enjeu de l'analyse d'une proposition à prédicat nominal avec la copule pw est
-d'analyser les mots qui se trouve après la copule. Avant la copule, on trouve le prédicat ; pw est
-l'indice du sujet ; après la copule pw, on trouve, soit la suite du prédicat (des déterminants, voir plus
-haut), soit l'explicitation du sujet, soit éventuellement les deux.
-Faire l'exercice 4
+\td{Je suis un scribe excellent, vraiment.}
+
+\tl{ntk it n nmH, hi n xAr.t}
+
+\td{Je suis un père pour l'orphelin, un époux pour la veuve.}
+
+\section{Les constructions avec la copule \tl{pw}}
+% ---------------------------------------------------------------------
+
+Cette construction s'emploie quand le sujet correspond à une 
+3\ieme~personne du singulier.
+
+\subsection{Construction A \tl{pw} (P + S)}
+% ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+La copule \tl{pw} est à l'origine le démonstratif de la série 
+\tl{pw} / \tl{tw} / \tl{nw}. Dans la \PPN, il prend le sens 
+particulier du français \frquote{\uline{c'est}} et devient 
+\clef{invariable}. \textbf{Cette copule remplit la fonction de 
+sujet.} Elle constitue en fait \frquote{l'indice du sujet}.
+
+\tl{Wsir pw}
+
+\td{C'est Osiris.}
+
+Quand le prédicat est un substantif suivi de plusieurs déterminants, 
+la copule \tl{pw} se place généralement \clef{en deuxième position} : 
+\emph{avant} l'adjectif ou le génitif indirect, mais \emph{après} un 
+génitif direct, un pronom suffixe ou un démonstratif.
+
+\tl{ta pw nfr}
+
+\td{C'est une bonne terre.}
+
+\tl{Hm.t wab pw n(y) Ra} 
+
+\td{C'est la femme du prêtre-\emph{ouâb} de Rê.}
+
+\begin{notabene}[NB1]
+  On peut trouver parfois à la place de la copule \tl{pw} des 
+  démonstratifs neutres comme \tl{nw}, \tl{nn}, \tl{nfA} ou \tl{nA}
+\end{notabene}
+
+\begin{notabene}[NB2]
+  La construction A \tl{pw} peut être précédée d'un auxiliaire 
+  d'énonciation, type \tl{mk}, \tl{isT}, \tl{HA}, 
+  \tl{smwn}\footnote{Particule proclitique \td{probablement}, 
+  \td{sans doute}, suivie du pronom suffixe.}
+
+  \tl{&m, mk rn=k pw}
+
+  \td{Atoum, Vois, c'est ton nom !}
+\end{notabene}
+
+\begin{notabene}[NB2]
+  Dans la construction A pw, la copule pw est l'indice du sujet, 
+  un rappel, indéfini, du sujet. Ce sujet peut être par ailleurs 
+  explicitement mentionné avant \incise{par \clef{thématisation}} 
+  introduite ou non par \tl{ir} \td{quant à}.
+
+  \tl{ir sf, Wsir pw}
+
+  \td{Quant à hier, c'est Osiris}
+\end{notabene}
+
+\subsection{Construction A \tl{pw}, B}
+% ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Il existe une construction \clef{tripartite}, dans laquelle \tl{pw} 
+(l'indice du sujet) est suivi d'une \textbf{explicitation du sujet}.
+
+\tl{iA.t pw nfr.t, nsy.t}
+
+\td{C'est une belle fonction, la royauté.}
+
+\begin{aparte}
+  A noter : tout l'enjeu de l'analyse d'une \PPN avec la copule 
+  \tl{pw} est d'analyser les mots qui se trouve après la copule. 
+  Avant la copule, on trouve le prédicat ; \tl{pw} est l'indice 
+  du sujet ; après la copule \tl{pw}, on trouve, soit la suite du 
+  prédicat (des déterminants, voir plus haut), soit l'explicitation 
+  du sujet, soit éventuellement les deux.
+\end{aparte}
+
+\begin{exercice}
+  Faire l'exercice~4
+\end{exercice}

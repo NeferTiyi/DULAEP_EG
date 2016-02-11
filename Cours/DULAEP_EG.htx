@@ -34,6 +34,7 @@
   DULAEP_EG_S2_W01,
   % DULAEP_EG_S2_W02,
   % DULAEP_EG_S2_W03,
+  DULAEP_EG_S2_W04,
   DULAEP_EG_S2_W05,
 }
 
@@ -194,7 +195,7 @@
 \include{DULAEP_EG_S2_W01}
 \include{DULAEP_EG_S2_W02}
 \include{DULAEP_EG_S2_W03}
-% \include{DULAEP_EG_S2_W04}
+\include{DULAEP_EG_S2_W04}
 \include{DULAEP_EG_S2_W05}
 
 
