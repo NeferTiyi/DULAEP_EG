@@ -1,0 +1,239 @@
+%!TEX root = DULAEP_EG.htx
+%##HieroDef.txt
+
+\part{Cours~4 -- Grammaire -- Propositions non verbales (suite) : 
+la \PPN (1)}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% \chapter{Syntaxe du parfait ancien}
+% =====================================================================
+
+% \section{Prédicat de construction pseudo-verbale S + P}
+% ---------------------------------------------------------------------
+
+% \subsection{Avec l'indicateur d'énonciation \tl{iw}}
+% ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Les propositions à prédicat adverbial et à construction pseudo-verbale 
+vues jusqu'à présent servent à décrire des situations. Un autre type 
+de proposition sert à exprimer \textbf{une identité stable, non 
+occasionnelle}\footnote{Faire la différence entre : 
+\td{Tu es (dans la position) d'un dieu} : 
+\begin{hieroglyph}i-w-k-m-nTr-1\end{hieroglyph} \tl{iw=k m nTr} (\PPA 
+avec \tl{m} de prédication), et 
+\td{tu es un dieu} : \begin{hieroglyph}n:t:k-nTr-1\end{hieroglyph} 
+\tl{ntk nTr} (\PPN).} : 
+la proposition à prédicat nominal. Elle correspond en français à une 
+phrase liant sujet et prédicat par le verbe (la copule) être, dans le 
+contexte de l'expression d'une identité : \td{le chat \textbf{est} un 
+félin}.
+
+\chapter{Généralités}
+% =====================================================================
+
+Comme vous le savez, l'égyptien ancien n'a pas d'équivalent à la 
+copule \frquote{être} pour lier le sujet et le prédicat nominal. La 
+proposition à prédicat nominal égyptienne est ainsi essentiellement 
+composée d'un sujet et d'un \textbf{prédicat qui est un substantif} 
+--~ou toute catégorie grammaticale qui peut avoir la valeur de 
+substantif (par exemple un adjectif substantivé). Sujet et prédicat 
+peuvent être simplement juxtaposés :
+
+\begin{center}
+  \tl{bw.t=f grg}
+
+  \td{Son abomination est le mensonge.} ou 
+  \td{Le mensonge est son abomination.}
+\end{center}
+
+Ou le sujet et le prédicat peuvent être liés par une copule qui est 
+\begin{hieroglyph}p-W\end{hieroglyph} \tl{pw}, qui vient de la série 
+des démonstratifs \tl{pw}, \tl{tw}, \tl{nw}.
+
+\begin{center}
+  *\tl{bw.t=f pw, grg}
+
+  \td{C'est son abomination, le mensonge.}
+\end{center}
+
+La prédication nominale peut exprimer deux types d'identité :
+\begin{itemize}
+  \item \textbf{la classification} : le sujet appartient à une classe 
+        d'individus (\td{le chat est un félin})
+  \item \textbf{l'identification} : le sujet est identifié à une 
+        entité définie. (\td{Tristan est mon frère})
+\end{itemize}
+
+\textbf{À retenir : \clef{trois caractéristiques importantes} de la 
+proposition à prédicat nominal que nous allons développer :}
+
+\begin{itemize}
+  \item La phrase à prédicat nominal n'est \uline{jamais} introduite 
+        par \tl{iw}. En effet, l'identité qui est exprimée est 
+        considérée comme une vérité atemporelle, valable quel que soit 
+        le point de référence. En conséquence, il faut bien distinguer 
+        la \PPN de la \PPA avec \tl{m} d'état, qui indique une 
+        identité transitoire, circonstancielle.
+  \item Elle est \uline{neutre} du point de vue temporel.
+  \item Si le sujet est pronominal, elle utilise une nouvelle série 
+        de pronoms personnels le \clef{pronom indépendant} (voir 
+        ci-dessous) qui peut être placé en tête de phrase.
+\end{itemize}
+
+\chapter{Syntaxe : les deux constructions}
+% =====================================================================
+Il existe donc deux grands types de constructions : avec ou sans la 
+copule \tl{pw}.
+
+\section{Les constructions du type A B (sans la copule \tl{pw})}
+% ---------------------------------------------------------------------
+
+C'est la construction la plus simple : simple \textbf{juxtaposition} 
+du sujet et du prédicat. Il est à noter que, dans ce type de 
+construction, il est difficile de déterminer lequel de A ou de B 
+est le sujet, c'est-à-dire le thème de la phrase. Les auteurs de 
+grammaires égyptiennes ne s'accordent pas toujours sur ce point. 
+\citeauthor{MW} (\citetitle[§~459]{MW}) indiquent qu'il s'agit en 
+fait \frquote{d'énoncés réversibles}, mais préfèrent considérer le 
+premier élément comme sujet.
+
+Dans cette construction, il existe deux cas de figures : 
+le premier élément (sujet) est nominal ; 
+le premier élément (sujet) est pronominal.
+
+\subsection{Sujet et prédicat sont des substantifs}
+% ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+\tl{_di rn=f} 
+
+\td{Djédi est son nom.} 
+
+(\source{P. Westcar}, 7,1 \texttimes \citeauthor{MW}, exemple~539)
+
+\subsection{Le sujet est pronominal}
+% ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+On emploie alors le pronom \textbf{indépendant}, seul pronom en 
+capacité de débuter une phrase, sans élément d'appui (cf. tableau).
+
+
+
+\begin{tabular}{>{\bfseries}M{3cm}rM{4cm}M{4cm}}
+    \multicolumn{2}{c}{~} &
+    \textbf{Masculin} &
+    \textbf{Féminin} 
+  \tabularnewline
+  \otoprule
+    \multirow{3}{*}{Singulier} &
+    moi \textbf{1.} &
+    \multicolumn{2}{c}{%
+      \tl{ink} 
+      \begin{hieroglyph}
+        w-A1+l, +sW-A1+l, +sw-i+l, +sw
+      \end{hieroglyph}
+    } 
+  \tabularnewline
+     &
+    toi \textbf{2.} &
+    \tl{ntk} \begin{hieroglyph}n:t:k\end{hieroglyph} &
+    \tl{ntT} \begin{hieroglyph}n:t:T+l, +sm:t*t\end{hieroglyph}
+  \tabularnewline
+     &
+    lui/elle \textbf{3.} &
+    \tl{sw} \begin{hieroglyph}sw-w+l, +ssw-W\end{hieroglyph} &
+    \tl{sy} \begin{hieroglyph}
+      s-y+l, +sz:y+l, +ss+l, +sz
+    \end{hieroglyph}\\
+    \tl{st} \begin{hieroglyph}
+      s-t+l, +ss-t:3+l, +sz:t
+    \end{hieroglyph}\\
+    \rem{\tl{s.t} aussi valeur de neutre \td{cela}}
+  \tabularnewline
+  \midrule
+    \multirow{3}{*}{Pluriel} &
+    nous \textbf{1.} &
+    \multicolumn{2}{c}{%
+      \tl{n} \begin{hieroglyph}n:3+l, +sn\end{hieroglyph}
+    } 
+  \tabularnewline
+     &
+    vous \textbf{2.} &
+    \multicolumn{2}{c}{%
+      \tl{Tn} \begin{hieroglyph}T:n:3+l, +sT:n\end{hieroglyph}%
+      \quad%
+      \tl{tn} \begin{hieroglyph}t:n:3+l, +st:n\end{hieroglyph}
+    } 
+  \tabularnewline
+     &
+    ils/elles \textbf{3.} &
+    \multicolumn{2}{c}{%
+      \tl{sn} 
+      \begin{hieroglyph}
+        s-n:3+l, +ss-n+l, +sz:n:3+l, +sz:n
+      \end{hieroglyph}
+    } 
+  \tabularnewline
+  \bottomrule
+\end{tabular}
+
+
+
+
+
+Masculin  féminin
+1 re pers. sing.
+ink ; ; ; 
+2 e pers. sing.
+ntk
+NtT ; 
+Forme archaïque Twt 
+3 e pers. sing.
+ntf 
+nts  ;  
+Forme archaïque swt 
+1 re pers. pluriel
+inn ; 
+2 e pers. pluriel
+ntTn ; 
+3 e pers. pluriel 
+ntsn  ;  ;
+ink wr m P – C'est moi le grand dans Pé = Je suis le grand dans Pé.
+ink sš iqr wr.t
+« Je suis un scribe excellent, vraiment. »
+Ntk it n nmḥ, hi n ḫȝr.t – Je suis un père pour l'orphelin, un époux pour la veuve.
+Sylvie Donnat, égyptien classique 1
+B. Les constructions avec la copule pw
+Cette construction s'emploie quand le sujet correspond à une 3 e personne du singulier.
+1. Construction A pw (P + S)
+La copule pw est à l'origine le démonstratif de la série pw / tw / nw. Dans la proposition à
+prédicat nominal, il prend le sens particulier du français « c'est » et devient invariable. Cette copule
+remplit la fonction de sujet. Elle constitue en fait « l'indice du sujet ».
+Wsir pw « C'est Osiris ».
+Quand le prédicat est un substantif suivi de plusieurs déterminants, la copule pw se place
+généralement en deuxième position : avant l'adjectif ou le génitif indirect, mais après un génitif
+direct, un pronom suffixe ou un démonstratif.
+Tȝ pw nfr
+« C'est une bonne terre. »
+ḥm.t wʿb pw n(y) Rʿ « C'est la femme du prêtre-ouâb de
+Rê. »
+NB1 : On peut trouver parfois à la place de la copule pw des démonstratifs neutres comme nw, nn, nfȝ
+ou nȝ)
+NB2 : La construction A pw peut être précédée d'un auxiliaire d'énonciation, type mk, isT, ḥȝ, smwn 2
+Tm, mk rn=k pw « Atoum, Vois, c'est ton nom ! »
+NB3 : Dans la construction A pw, la copule pw est l'indice du sujet, un rappel, indéfini, du sujet.
+Ce sujet peut être par ailleurs explicitement mentionné avant — par thématisation – introduite
+ou non par ir « quant à ».
+2 Particule proclitique « probablement », « sans doute », suivie du pronom suffixe.
+Sylvie Donnat, égyptien classique 1
+ir sf, Wsir pw
+« Quant à hier, c'est Osiris »
+2. Construction A pw, B
+Il existe une construction tripartite, dans laquelle pw (l'indice du sujet) est suivi d'une explicitation
+du sujet.
+iȝ.t pw nfr.t, nsy.t
+« C'est une belle fonction, la royauté »
+A noter : tout l'enjeu de l'analyse d'une proposition à prédicat nominal avec la copule pw est
+d'analyser les mots qui se trouve après la copule. Avant la copule, on trouve le prédicat ; pw est
+l'indice du sujet ; après la copule pw, on trouve, soit la suite du prédicat (des déterminants, voir plus
+haut), soit l'explicitation du sujet, soit éventuellement les deux.
+Faire l'exercice 4
