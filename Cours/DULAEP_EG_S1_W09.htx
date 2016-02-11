@@ -189,19 +189,28 @@ Voici à titre d'exemple la titulature de Sésostris~III.
 
 \begin{aparte}
   Rappel : \textbf{titulature de Sésostris~III (\dyn{12})}
-  
+
   \RaggedLeft
   \tl{Hr NTr-xpr} L'Horus Netjer-khépérou 
-    \begin{hieroglyph}G7-nTr-xpr-w\end{hieroglyph}\\
+    \reflectbox{\begin{hieroglyph}G7-nTr-xpr-w\end{hieroglyph}}
+
   \tl{Nb.ty NTr-msw.t} Les Deux maîtresses Netjer-mésout 
-    \begin{hieroglyph}nbty-nTr-ms-t-w\end{hieroglyph}\\
+    \reflectbox{\begin{hieroglyph}nbty-nTr-ms-t-w\end{hieroglyph}}
+
   \tl{Nsw-bity} le roi de \HBE Khâ-kaou-Rê 
-    \begin{hieroglyph}sw:t-bit:t<-ra:kA-xA:kA*kA->\end{hieroglyph}\\
+    \reflectbox{%
+      \begin{hieroglyph}sw:t-bit:t<-ra:kA-xA:kA*kA->\end{hieroglyph}%
+    }
+
   \tl{Hr nbw xpr} L'Horus d'or Khéper 
-    \begin{hieroglyph}G8-xpr\end{hieroglyph}\\
+    \reflectbox{\begin{hieroglyph}G8-xpr\end{hieroglyph}}
+
   \tl{sA R a S-n-wsr.t} le fils de Rê Sénousret
-    \begin{hieroglyph}zA-\!\!\!ra:.-wsr-s-r:t:z:n\end{hieroglyph}
+    \reflectbox{%
+      \begin{hieroglyph}zA-\!\!\!ra:.-wsr-s-r:t:z:n\end{hieroglyph}%
+    }
 \end{aparte}
+
 
 \noindent%
 \begin{minipage}[b]{4cm}

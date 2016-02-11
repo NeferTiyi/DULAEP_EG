@@ -1,0 +1,161 @@
+%!TEX root = DULAEP_EG.htx
+%##HieroDef.txt
+
+\part{Cours~5 -- Grammaire -- Propositions non verbales (suite) : 
+la \PPN (2)}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% \chapter{Syntaxe du parfait ancien}
+% =====================================================================
+
+% \section{Prédicat de construction pseudo-verbale S + P}
+% ---------------------------------------------------------------------
+
+% \subsection{Avec l'indicateur d'énonciation \tl{iw}}
+% ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Nous avons vu les éléments fondamentaux de la \PPN. Nous abordons à 
+présent sa négation, ainsi que son insertion dans des énoncés plus 
+complexes.
+
+
+\chapter{La négation de la \PPN}
+% =====================================================================
+
+La \PPN sert à exprimer \textbf{une identité stable, non 
+occasionnelle}. Elle possède un corrélat négatif qui correspond à la 
+négation d'une identité ou d'une classification : \frquote{le chat 
+\textbf{n'est pas} un canidé}.
+
+Trois constructions sont possibles pour nier la \PPN.
+
+\section[La négation \tl{n} en tête de phrase]
+        {La négation \begin{hieroglyph}n'\end{hieroglyph} \tl{n} en 
+        tête de phrase}
+% ---------------------------------------------------------------------
+
+\begin{example}
+  \begin{hieroglyph}n' nw:k-A1 t:r-tr zmA-Y1-A1:f\end{hieroglyph}
+
+  \tl{n ink tr\footnotemark{} smA=f} (\source{Sinouhé} B\,114)
+
+  \td{Je ne suis pourtant pas son allié.}
+\end{example}
+\footnotetext{Particule enclitique renforçant une affirmation 
+\td{certes}}
+
+\begin{example}
+  \begin{hieroglyph}n':n:t:f p-W m U2:mAa-a:t*Z5-Y1\end{hieroglyph}
+
+  \tl{n ntf pw m mAat} (\source{Sinouhé} B\,267)
+
+  \td{Ce n'est pas lui en vérité.}
+\end{example}
+
+\section[La négation bipartite \tl{n \dots is} \dots qui encadre le 
+premier élément (négation la plus fréquente)]
+        {La négation bipartite 
+         \begin{hieroglyph}n'+l \dots +si-s\end{hieroglyph} 
+         \tl{n \dots is} qui encadre le premier élément (négation la 
+         plus fréquente)}
+% ---------------------------------------------------------------------
+
+\tl{n ntk is s}
+
+\td{Tu n'est pas un homme.}
+
+On prendra garde au fait que \tl{n \dots is} n'encadre que le premier 
+terme du prédicat, qui peut se poursuivre après \tl{pw} :
+
+\tl{isT, n tr is pw n iw.t r biA pn}
+
+\td{Or, ce n'était pas le temps de venir dans cette mine.}
+
+La copule peut être omise :
+
+\tl{n sA=i is}
+
+\td{Ce n'est pas mon fils.} (\source{Stèle de Semna})
+
+\section{La négation \tl{nn} pour \tl{n} ou \tl{nn \dots is} pour 
+\tl{n \dots is}}
+% ---------------------------------------------------------------------
+
+\tl{nn sA=k is pw}
+
+\td{Ce n'est pas ton fils.}
+
+\begin{exercice}
+  \donc Faire l'exercice~5 à rendre par email
+\end{exercice}
+
+\chapter{La \PPN en position non autonome}
+% =====================================================================
+
+Nous avons abordé jusqu'à présent la phrase à prédicat nominal, comme si elle constituait toujours
+une phrase autonome, indépendante. Dans les textes suivis, cette proposition peut se trouver dans une
+position de dépendance syntaxique, c'est-à-dire jouer le rôle d'une subordonnée. En français la
+subordination se marque souvent par « que », conjonction de subordination qui sert, en définitive, à
+nominaliser une proposition : « le chat est un félin » = > « je sais que le chat est un félin ». Dans
+cette dernière phrase, « le chat est un félin » joue le rôle d'un substantif COD et cela est possible grâce
+à « que ».
+En égyptien ancien, nous le verrons, surtout l'an prochain, il y a plusieurs façon de rendre une
+proposition syntaxiquement dépendante d'une autre : utilisation de conjonctions diverses, et pour le
+cas des complétives utilisation d'un mot équivalent à « que » (nty.t) pour introduire certaines
+complétives, ou encore simple juxtaposition (seulement dans le cas d'un verbe introducteur objectif) :
+•
+Proposition à prédicat nominal dans une complétive : introduite par nty.t
+un verbe non objectif
+« que » après
+iw=i rx.kw nt(y).t Ax.t pw ip.t-sw.t tp-tA (Urk .IV, 364, 1-2)
+« Je sais que Ipet-sout (Karnak) est l'horizon sur terre. »
+Analyse : Phrase initiale à prédicat pseudo-verbal (parfait ancien), + une phrase complétive introduite
+par nty.t proposition à prédicat nominal.
+•
+Proposition à prédicat nominale dans une complétive : Juxtaposition après un verbe objectif
+(\dots )
+(\dots ) gm.n=i HfAw pw (Naufragé, 61-62)
+« j'ai constaté <forme de la conjugaison suffixale – voir l'an prochain > : c'est un serpent » =
+« (\dots ) j'ai constaté que c'était un serpent (\dots ) »
+Réfléchissez aussi à cette phrase complexe :
+
+\tl{nDs pw, +di rn=f}
+
+Il y a en fait deux propositions dans cette phrase :
+\begin{enumerate}
+  \item une \PPN initiale : \tl{nDs pw}, \td{c'est un homme 
+        (du commun)}
+  \item une seconde \PPN, séquentielle : \tl{+di rn=f}, 
+        \td{son nom est Djédi}.
+\end{enumerate}
+
+C'est une phrase complexe qui peut être traduite ainsi : \td{c'est un 
+homme dont le nom est Djédi}.
+
+\chapter{La \PPN dans les noms de personnes}
+% =====================================================================
+
+On a déjà eu l'occasion de voir que les anthroponymes constituaient des énoncés ayant une
+signification apparemment explicite. Ainsi, on peut retrouver dans la formation des noms de personnes
+les types de propositions que nous étudions.
+Nous avons vu Amenemhat (imn-m-HA.t, Amon-est-en-avant, Proposition à prédicat adverbial), ou
+encore Néfertiti (Nfr.t-ii.ti, la Belle-est-venue, Proposition à prédicat pseudo-verbal, parfait ancien).
+Observez ce nom royal : nom de couronnement d'Amenhotep III – Il comporte une double antéposition
+honorifique
+Nb-mAa.t-Ra
+Nebmaâtrê
+Le seigneur de Maât est Rê
+Proposition à prédicat nominal type AB
+Autre anthroponyme:
+Nb(=i), imn
+Nebamon
+(Mon) seigneur est Amon.
+
+L'étude de la composition des anthroponymes égyptiens est tout à fait intéressante pour comprendre certaines représentations du monde et certains aspects de la vie religieuse. 
+
+Grandet/Mathieu, en annexe de leur Cours d'égyptien hiéroglyphique, présentent un aperçu de la formation des noms égyptiens.
+
+Une présentation très claire et synthétique des noms égyptiens et en particulier des pratiques d'attribution d'un nom à un enfant a été réalisée par Pascal Vernus dans le Lexikon der Ägyptologie IV (1982), col. 320-337. C'est une lecture très éclairante sur un aspect du quotidien des familles.
+
+Pour l'étude des noms propres et leur recensement, le manuel de référence est celui de H. Ranke, Die Ägyptischen Personennamen (3 vol. 1935-1976), disponible en version scannée en ligne. Il existe des
+compléments postérieurs, notamment ceux parus dans divers articles de la Revue d'égyptologie (par Madeleine Thirion), ainsi que des études spécifiques sur les noms propres à certaines périodes.
