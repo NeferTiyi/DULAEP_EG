@@ -1,0 +1,58 @@
+{
+  "folders":
+  [
+    {
+      "file_exclude_patterns":
+      [
+        "*.aux",
+        "*.bak",
+        "*.bbl",
+        "*.bcf",
+        "*.blg",
+        "*.dic",
+        "*.lof",
+        "*.log",
+        "*.lot",
+        // "*.maf",
+        // "*.mtc",
+        // "*.mtc0",
+        "*.out",
+        // "*.pdf",
+        "*.toc",
+        "*.tex",
+        // "*_tmp.tex",
+        // "*_full.htx",
+        "*.run.xml",
+        "*.fdb_latexmk",
+        "*.*~",
+        ".git*"
+      ],
+      "path": "../Cours",
+      "name": "Sources"
+    },
+    {
+      "path": "../img",
+      "name": "Images"
+    },
+    {
+      "path": "../../NeferHiero/utils",
+      "name": "Fichiers communs"
+    },
+    {
+      "path": "../../NeferHiero/neferlatex",
+      "name": "Styles LaTeX"
+    },
+    {
+      "path": "../../NeferHiero/compil",
+      "name": "Compil"
+    },
+    {
+      "path": "../",
+      "name": "Root"
+    },
+  ],
+  "settings":
+  {
+    "dictionary": "Packages/Language - French - Français/fr_FR.dic",
+  }
+}
