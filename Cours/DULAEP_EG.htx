@@ -32,8 +32,8 @@
   % DULAEP_EG_S1_W11,
   % DULAEP_EG_S1_W12,
   DULAEP_EG_S2_W01,
-  % DULAEP_EG_S2_W02,
-  % DULAEP_EG_S2_W03,
+  DULAEP_EG_S2_W02,
+  DULAEP_EG_S2_W03,
   DULAEP_EG_S2_W04,
   DULAEP_EG_S2_W05,
 }
@@ -62,7 +62,7 @@
   parbox    = false,
   before    = \vspace{1ex plus 1pt minus .4pt}\noindent,
   after     = \vspace{1ex plus 1pt minus .4pt},
-  before upper = {\setlength{\parindent}{0pt}},
+  before upper = {\DisplayHieroglyphs\setlength{\parindent}{0pt}},
   fonttitle    = \bfseries,
   #1, %
 }
@@ -120,6 +120,8 @@
 
 \renewcommand{\PPA}{Proposition à prédicat adverbial\xspace}
 \newcommand{\PPN}{Proposition à prédicat nominal\xspace}
+\newcommand{\PPV}{Proposition à prédicat pseudo-verbal\xspace}
+\newcommand{\PPJ}{Proposition à prédicat adjectival\xspace}
 
 \newcommand{\citeauthortitle}[2][]{%
   \citeauthor{#2}, \citetitle[#1]{#2}%

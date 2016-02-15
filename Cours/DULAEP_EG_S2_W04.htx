@@ -40,9 +40,12 @@ substantif (par exemple un adjectif substantivé). Sujet et prédicat
 peuvent être simplement juxtaposés :
 
 \begin{center}
+  \begin{hieroglyph}b-w-\!t:.-in:3 f g:r-grg-G37:3\end{hieroglyph}
+
   \tl{bw.t=f grg}
 
-  \td{Son abomination est le mensonge.} ou 
+  \td{Son abomination est le mensonge.}\\
+  ou\\
   \td{Le mensonge est son abomination.}
 \end{center}
 
@@ -51,6 +54,8 @@ Ou le sujet et le prédicat peuvent être liés par une copule qui est
 des démonstratifs \tl{pw}, \tl{tw}, \tl{nw}.
 
 \begin{center}
+  *\begin{hieroglyph}b-w-\!t:.-in:3 f p-W g:r-grg-G37:3\end{hieroglyph}
+
   *\tl{bw.t=f pw, grg}
 
   \td{C'est son abomination, le mensonge.}
@@ -64,10 +69,12 @@ La prédication nominale peut exprimer deux types d'identité :
         entité définie. (\td{Tristan est mon frère})
 \end{itemize}
 
+\bigskip
+
 \textbf{À retenir : \clef{trois caractéristiques importantes} de la 
 proposition à prédicat nominal que nous allons développer :}
 
-\begin{itemize}
+\begin{itemize}\setlength{\itemsep}{1em}
   \item La phrase à prédicat nominal n'est \uline{jamais} introduite 
         par \tl{iw}. En effet, l'identité qui est exprimée est 
         considérée comme une vérité atemporelle, valable quel que soit 
@@ -104,11 +111,13 @@ le premier élément (sujet) est pronominal.
 \subsection{Sujet et prédicat sont des substantifs}
 % ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-\tl{_di rn=f} 
+\begin{hieroglyph}Dd-Dd-i-Y1:A1 r:n:f\end{hieroglyph}
+
+\tl{+di rn=f} 
 
 \td{Djédi est son nom.} 
 
-(\source{P. Westcar}, 7,1 \texttimes \citeauthor{MW}, exemple~539)
+(\source{P. Westcar}, 7,1 \texttimes{} \citeauthor{MW}, exemple~539)
 
 \subsection{Le sujet est pronominal}
 % ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -122,53 +131,57 @@ capacité de débuter une phrase, sans élément d'appui (cf. tableau).
     \textbf{Féminin} 
   \tabularnewline
   \otoprule
-    \multirow{3}{*}{Singulier} &
+    \multirow{5}{*}{Singulier} &
     moi \textbf{1.} &
     \multicolumn{2}{c}{%
       \tl{ink} 
       \begin{hieroglyph}
-        w-A1+l, +sW-A1+l, +sw-i+l, +sw
+        nw:k+l, +snw:k-A1+l, +si-nw:k+l, +si-nw:k-A1
       \end{hieroglyph}
     } 
   \tabularnewline
      &
-    toi \textbf{2.} &
+    \multirow{2}{*}{toi \textbf{2.}} &
     \tl{ntk} \begin{hieroglyph}n:t:k\end{hieroglyph} &
-    \tl{ntT} \begin{hieroglyph}n:t:T+l, +sm:t*t\end{hieroglyph}
+    \tl{ntT} \begin{hieroglyph}n:t:T+l, +sn:t*t\end{hieroglyph}
+  \tabularnewline
+     & &
+    \multicolumn{2}{c}{%
+      Forme archaïque \tl{swt} 
+      \begin{hieroglyph}T-w-\!t:.\end{hieroglyph}%
+    }
   \tabularnewline
      &
-    lui/elle \textbf{3.} &
-    \tl{sw} \begin{hieroglyph}sw-w+l, +ssw-W\end{hieroglyph} &
-    \tl{sy} \begin{hieroglyph}
-      s-y+l, +sz:y+l, +ss+l, +sz
-    \end{hieroglyph}\\
-    \tl{st} \begin{hieroglyph}
-      s-t+l, +ss-t:3+l, +sz:t
-    \end{hieroglyph}\\
-    \rem{\tl{s.t} aussi valeur de neutre \td{cela}}
+    \multirow{2}{*}{lui/elle \textbf{3.}} &
+    \tl{ntf} \begin{hieroglyph}n:t:f\end{hieroglyph} &
+    \tl{nts} \begin{hieroglyph}n:t-s+l, +sn:t:z\end{hieroglyph}
+  \tabularnewline
+     & &
+    \multicolumn{2}{c}{%
+      Forme archaïque \tl{swt} 
+      \begin{hieroglyph}sw-w-\!t:.\end{hieroglyph}%
+    }
   \tabularnewline
   \midrule
     \multirow{3}{*}{Pluriel} &
     nous \textbf{1.} &
     \multicolumn{2}{c}{%
-      \tl{n} \begin{hieroglyph}n:3+l, +sn\end{hieroglyph}
+      \tl{inn} 
+      \begin{hieroglyph}i-nw:n:3+l, +si-A2-n:n:3\end{hieroglyph}
     } 
   \tabularnewline
      &
     vous \textbf{2.} &
     \multicolumn{2}{c}{%
-      \tl{Tn} \begin{hieroglyph}T:n:3+l, +sT:n\end{hieroglyph}%
-      \quad%
-      \tl{tn} \begin{hieroglyph}t:n:3+l, +st:n\end{hieroglyph}
+      \tl{ntTn} 
+      \begin{hieroglyph}n:t-t:n:3+l, +sn:t-T:n:3\end{hieroglyph}
     } 
   \tabularnewline
      &
     ils/elles \textbf{3.} &
     \multicolumn{2}{c}{%
-      \tl{sn} 
-      \begin{hieroglyph}
-        s-n:3+l, +ss-n+l, +sz:n:3+l, +sz:n
-      \end{hieroglyph}
+      \tl{ntsn} 
+      \begin{hieroglyph}n:t-z:n:3+l, +sn:t-s-n:3\end{hieroglyph}
     } 
   \tabularnewline
   \bottomrule
@@ -176,17 +189,32 @@ capacité de débuter une phrase, sans élément d'appui (cf. tableau).
 
 \bigskip
 
-\tl{ink wr m P}
+\begin{example}
+  \begin{hieroglyph}nw:k wr:r m p-1-niwt\end{hieroglyph}
 
-\td{C'est moi le grand dans Pé.} = \td{Je suis le grand dans Pé.}
+  \tl{ink wr m P}
 
-\tl{ink sS ior wr.t}
+  \td{C'est moi le grand dans Pé.} = \td{Je suis le grand dans Pé.}
+\end{example}
 
-\td{Je suis un scribe excellent, vraiment.}
+\begin{example}
+  \begin{hieroglyph}nw:k zS i-q:r:Y1 wr:r*t\end{hieroglyph}
 
-\tl{ntk it n nmH, hi n xAr.t}
+  \tl{ink sS ior wr.t}
 
-\td{Je suis un père pour l'orphelin, un époux pour la veuve.}
+  \td{Je suis un scribe excellent, vraiment.}
+\end{example}
+
+\begin{example}
+  \begin{hieroglyph}
+    n:t:k i-t:f-A1 n nm-n:m-H-Xrd-G37-A1
+    h-i-mt:1*A1 n xA-A-r:t-G37-B1
+  \end{hieroglyph}
+
+  \tl{ntk it n nmH, hi n xAr.t}
+
+  \td{Je suis un père pour l'orphelin, un époux pour la veuve.}
+\end{example}
 
 \section{Les constructions avec la copule \tl{pw}}
 % ---------------------------------------------------------------------
@@ -203,22 +231,34 @@ particulier du français \frquote{\uline{c'est}} et devient
 \clef{invariable}. \textbf{Cette copule remplit la fonction de 
 sujet.} Elle constitue en fait \frquote{l'indice du sujet}.
 
-\tl{Wsir pw}
+\begin{example}
+  \begin{hieroglyph}ir-st-A40 pw\end{hieroglyph}
 
-\td{C'est Osiris.}
+  \tl{Wsir pw}
+
+  \td{C'est Osiris.}
+\end{example}
 
 Quand le prédicat est un substantif suivi de plusieurs déterminants, 
 la copule \tl{pw} se place généralement \clef{en deuxième position} : 
 \emph{avant} l'adjectif ou le génitif indirect, mais \emph{après} un 
 génitif direct, un pronom suffixe ou un démonstratif.
 
-\tl{ta pw nfr}
+\begin{example}
+  \begin{hieroglyph}tA:N23*1 p-W nfr-f:r\end{hieroglyph}
 
-\td{C'est une bonne terre.}
+  \tl{ta pw nfr}
 
-\tl{Hm.t wab pw n(y) Ra} 
+  \td{C'est une bonne terre.}
+\end{example}
 
-\td{C'est la femme du prêtre-\emph{ouâb} de Rê.}
+\begin{example}
+  \begin{hieroglyph}N41:t-B1 wab-mw-A1 p-W n r:a-N6\end{hieroglyph}
+
+  \tl{Hm.t wab pw n(y) Ra} 
+
+  \td{C'est la femme du prêtre-\emph{ouâb} de Rê.}
+\end{example}
 
 \begin{notabene}[NB1]
   On peut trouver parfois à la place de la copule \tl{pw} des 
@@ -231,20 +271,28 @@ génitif direct, un pronom suffixe ou un démonstratif.
   \tl{smwn}\footnote{Particule proclitique \td{probablement}, 
   \td{sans doute}, suivie du pronom suffixe.}
 
-  \tl{&m, mk rn=k pw}
+  \begin{example}
+    \begin{hieroglyph}t:tm-A40 m-D40:k r:n-k pw\end{hieroglyph}
 
-  \td{Atoum, Vois, c'est ton nom !}
+    \tl{\&m, mk rn=k pw}
+
+    \td{Atoum ! Vois, c'est ton nom !}
+  \end{example}
 \end{notabene}
 
-\begin{notabene}[NB2]
-  Dans la construction A pw, la copule pw est l'indice du sujet, 
-  un rappel, indéfini, du sujet. Ce sujet peut être par ailleurs 
-  explicitement mentionné avant \incise{par \clef{thématisation}} 
-  introduite ou non par \tl{ir} \td{quant à}.
+\begin{notabene}[NB3]
+  Dans la construction A \tl{pw}, la copule \tl{pw} est 
+  l'indice du sujet, un rappel, indéfini, du sujet. Ce sujet 
+  peut être par ailleurs explicitement mentionné avant \incise{par 
+  \clef{thématisation}} introduite ou non par \tl{ir} \td{quant à}.
 
-  \tl{ir sf, Wsir pw}
+  \begin{example}
+    \begin{hieroglyph}i-r s-f:ra ir:st-A40 p-W\end{hieroglyph}
 
-  \td{Quant à hier, c'est Osiris}
+    \tl{ir sf, Wsir pw}
+
+    \td{Quant à hier, c'est Osiris}
+  \end{example}
 \end{notabene}
 
 \subsection{Construction A \tl{pw}, B}
@@ -253,9 +301,15 @@ génitif direct, un pronom suffixe ou un démonstratif.
 Il existe une construction \clef{tripartite}, dans laquelle \tl{pw} 
 (l'indice du sujet) est suivi d'une \textbf{explicitation du sujet}.
 
-\tl{iA.t pw nfr.t, nsy.t}
+\begin{example}
+  \begin{hieroglyph}
+    i-A-t:Z5-Y1:3 p:W nfr-f:r-t:Y1 sw-t:n-i-i-t:Y1
+  \end{hieroglyph}
 
-\td{C'est une belle fonction, la royauté.}
+  \tl{iA.t pw nfr.t, nsy.t}
+
+  \td{C'est une belle fonction, la royauté.}
+\end{example}
 
 \begin{aparte}
   A noter : tout l'enjeu de l'analyse d'une \PPN avec la copule 
@@ -265,6 +319,8 @@ Il existe une construction \clef{tripartite}, dans laquelle \tl{pw}
   prédicat (des déterminants, voir plus haut), soit l'explicitation 
   du sujet, soit éventuellement les deux.
 \end{aparte}
+
+\bigskip
 
 \begin{exercice}
   Faire l'exercice~4

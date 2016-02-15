@@ -2,7 +2,7 @@
 %##HieroDef.txt
 
 \part{Cours~1 -- Grammaire -- Proposition à prédicat pseudo-verbal 
-(suite) : le parfait ancien}
+(suite) : le parfait ancien}\label{prt:parfait}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 % \chapter{Récapitulatif du semestre}
@@ -27,7 +27,7 @@ les grammaires :
         forme se comporte comme un participe ; 
         \citeauthortitle[102-106]{Obsomer}) ;
   \item \clef{Accompli des verbes intransitifs} 
-        (\citeauthortitle[§~35-36]{GM}) ;
+        (\citeauthortitle[chapitres 35-36]{GM}) ;
   \item \clef{qualitatif} (terminologie utilisée dans les grammaires 
         coptes).
 \end{itemize}
@@ -43,13 +43,19 @@ Le parfait ancien d'un verbe peut être, notamment, employée dans une
 construction pseudo-verbale, tout comme l'infinitif. Pour rappel, une 
 phrase pseudo-verbale emprunte le schéma de la proposition à prédicat 
 adverbial, c'est-à-dire le schéma :
+
+\bigskip
+
 \begin{center}
   Élément introducteur + Sujet + Prédicat
 \end{center}
 
 \bigskip
 
-On a vu la phrase pseudo-verbale avec infinitif
+On a vu la phrase pseudo-verbale avec infinitif :
+
+\bigskip
+
 \begin{center}
   Élément introducteur + Sujet + Prédicat (préposition + infinitif)
 \end{center}
@@ -57,6 +63,9 @@ On a vu la phrase pseudo-verbale avec infinitif
 \bigskip
 
 Avec le parfait ancien, On aura donc :
+
+\bigskip
+
 \begin{center}
   Élément introducteur + Sujet + Prédicat (= parfait ancien)
 \end{center}
@@ -91,14 +100,14 @@ la règle pour les anthroponymes).
   \tl{Nfr.t-iii.ti}
 
   \td{La belle est venue} (Néfertiti)\footnote{Voir bague en or au 
-  nom de Néfertiti au Louvre E\,7688 (base atlas :
+  nom de Néfertiti au Louvre E\,7688 (base atlas :\\
   \url{http://cartelfr.louvre.fr/cartelfr/visite?%
   srv=car_not_frame&idNotice=18524&langue=fr})}
 \end{center}
 
 \begin{hieroglyph}ii-ti-i\end{hieroglyph} \tl{ii.ti} est une forme du 
-verbe \begin{hieroglyph}ii\end{hieroglyph} \tl{iii} \td{venir}, avec 
-désinence \begin{hieroglyph}ti-i\end{hieroglyph} \tl{.ti}
+verbe \begin{hieroglyph}ii-i\end{hieroglyph} \tl{iii} \td{venir}, avec 
+désinence \begin{hieroglyph}ti-i\end{hieroglyph} \tl{.ti}.
 
 La forme exprime le fait que la Belle est venue. Elle a accompli un 
 déplacement révolu, mais la forme met l'accent sur la conséquence dans 
@@ -118,7 +127,9 @@ donc :}
         d'autres emplois.
 \end{itemize}
 
-Une autre phrase au parfait ancien que vous connaissez :
+\bigskip
+
+\paragraph{Une autre phrase au parfait ancien que vous connaissez :}
 
 \begin{center}
   \begin{hieroglyph}<-i-mn:n-Htp:t*p->\end{hieroglyph}
@@ -126,11 +137,13 @@ Une autre phrase au parfait ancien que vous connaissez :
   \tl{imn-Htp(.w)}
 
   Amenhotep = Aménophis\\
-  \td{Amon-est-satisfait}, c'est-à-dire \td{Amon a été satisfait 
-  (donc il est satisfait)}
+  \td{Amon-est-satisfait}, c'est-à-dire \td{Amon a été satisfait}
+  (donc il est satisfait)
 
   \rem{\tl{Htp.w} forme du verbe \tl{Htp} \tl{devenir satisfait}}
 \end{center}
+
+\bigskip
 
 Nous pouvons à présent poursuivre notre exploration.
 
@@ -144,14 +157,14 @@ syntaxe.
 
 La morphologie d'un verbe en égyptien ancien se définit par deux 
 caractéristiques : \primo son thème verbal (est-il bref ou long -- 
-voir cours X du semestre passé \ref{???}), \secundo ses désinences 
-éventuelles. 
+voir cours~\ref{prt:ppv} du semestre passé, \Sref{sec:th_verbal}), 
+\secundo ses désinences éventuelles. 
 
 Le parfait ancien a des désinences reconnaissables. C'est une chance. 
 Il faut les apprendre par c{\oe}ur.
 
-Thème verbal + désinences
-
+\section{Thème verbal + désinences}
+% --------------------------------------------------------------
 
 La forme se construit en accolant au thème verbal bref les désinences 
 suivantes\footnote{Tableau d'après, \citeauthortitle[17.2]{Allen} \& 
@@ -159,57 +172,87 @@ suivantes\footnote{Tableau d'après, \citeauthortitle[17.2]{Allen} \&
 
 \bigskip
 
-\begin{tabular}{m{1cm} m{0.5cm} m{3cm} p{010cm}}
-    ~ & ~ & Désinences & Remarques
+\noindent%
+\begin{tabular}{M{1.5cm}M{0.5cm}m{5cm}m{6cm}}
+    ~ & ~ & \textbf{Désinences} & \textbf{Remarques}
   \tabularnewline
-    \multicolumn{2}{c}{1\iere pers. sing.} &
-    \tl{kwi} &
-    ~ 
+  \otoprule
+    \multicolumn{2}{M{2cm}}{\textbf{1\iere pers. sing.}} &
+    \multicolumn{2}{m{10cm}}{%
+      \tl{kwi} 
+      \begin{hieroglyph}
+        k-w-A1+l, +sk-w+l, +sk-A1+l, +sk-i+l, +sk+l, +s
+      \end{hieroglyph}%
+    }
   \tabularnewline
-    \multicolumn{2}{c}{2\ieme pers. sing.} &
-    \tl{.ti} &
+  \midrule
+    \multicolumn{2}{M{2cm}}{\textbf{2\ieme pers. sing.}} &
+    \tl{.ti} 
+    \begin{hieroglyph}ti-i+l, +sti+l, +st\end{hieroglyph} &
     Souvent \begin{hieroglyph}t:W\end{hieroglyph} au \NK
   \tabularnewline
-    \multirow{2}{*}{3\ieme pers. sing.} & m. & 
-    \tl{.w}, \tl{\zero} &
-    Souvent non noté. Verbes [3-inf.] / [4-inf.] : parfois \tl{.y}
+  \midrule
+    \multirow{2}{1.5cm}[-1.2ex]{\textbf{3\ieme pers. sing.}} & 
+    \textbf{m.} &
+    \tl{.w} \begin{hieroglyph}w\end{hieroglyph}, \tl{\zero} &
+    \parbox{6cm}{%
+      Souvent non noté.\\
+      Verbes \vi{3} / \vi{4} : parfois \tl{.y}
+      \begin{hieroglyph}i-i+l, +sy\end{hieroglyph}%
+    }
   \tabularnewline
-    & f. & 
-    \tl{.ti} &
+  \cmidrule{2-4}
+    & \textbf{f.} & 
+    \tl{.ti} 
+    \begin{hieroglyph}ti-i+l, +sti+l, +st\end{hieroglyph} &
     Souvent \begin{hieroglyph}t:W\end{hieroglyph} au \NK
   \tabularnewline
-    \multicolumn{2}{c}{1\iere pers. plur.} &
-    \tl{.wyn} & 
+  \midrule
+    \multicolumn{2}{M{2cm}}{\textbf{1\iere pers. plur.}} &
+    \tl{.wyn} 
+    \begin{hieroglyph}w-\!y:.-n:3+l, +sw-n\end{hieroglyph} &
     Cf. \citeauthortitle[§~17.2]{Allen} : la forme originelle est 
     sans doute \tl{.nw}, écrite \begin{hieroglyph}n:3\end{hieroglyph} 
     quelques rares fois au début du \MK
   \tabularnewline
-    \multicolumn{2}{c}{2\ieme pers. plur.} &
-    \tl{.tiwny} & 
+  \midrule
+    \multicolumn{2}{M{2cm}}{\textbf{2\ieme pers. plur.}} &
+    \tl{.tiwny} 
+    \begin{hieroglyph}tyw-n:y+l, +styw-n\end{hieroglyph} &
     ~
   \tabularnewline
-    \multirow{2}{*}{3\ieme pers. plur.} & m. & 
-    \tl{.w}, \tl{\zero} &
-    Verbes [3-inf.] / [4-inf.] : parfois \tl{.y}
-    (cf. \citeauthortitle[p.~442, §~713]{MW})
+  \midrule
+    \multirow{2}{1.5cm}[-1.5ex]{\textbf{3\ieme pers. plur.}} &
+    \textbf{m.} &
+    \tl{.w} \begin{hieroglyph}w\end{hieroglyph}, \tl{\zero} &
+    \parbox{6cm}{%
+      Verbes \vi{3} / \vi{4} : parfois \tl{.y}
+      \begin{hieroglyph}i-i\end{hieroglyph}\\
+      (cf. \citeauthortitle[p.~442, §~713]{MW})
+    }
   \tabularnewline
-    & f. & 
-    \tl{.ti} &
+  \cmidrule{2-4}
+    & \textbf{f.} & 
+    \tl{.ti} 
+    \begin{hieroglyph}ti-i+l, +sti+l, +st\end{hieroglyph} &
     Généralement remplacé par la désinence masculin pluriel.
   \tabularnewline
-    \multirow{2}{*}{Duel 3\ieme pers.} & m. & 
-    \tl{.wy}, \tl{\zero} &
+  \midrule
+    \multirow{2}{1.5cm}[-1.2ex]{\textbf{3\ieme pers. duel}} &
+    \textbf{m.} &
+    \tl{.wy} \begin{hieroglyph}w-\!y:.\end{hieroglyph} &
     \multirow{2}{*}{Généralement remplacé par le pluriel}
   \tabularnewline
-    & f. & 
-    \tl{.ty} &
+  \cmidrule{2-4}
+    & \textbf{f.} & 
+    \tl{.ty} \begin{hieroglyph}ti-y\end{hieroglyph} &
   \tabularnewline
+  \bottomrule
 \end{tabular}
 
 \bigskip
 
-Remarques sur la notation des désinences :
-
+\paragraph{Remarques sur la notation des désinences :}
 Les désinences se placent à la fin du thème verbal, normalement après 
 le déterminatif du verbe. Une exception toutefois : si la désinence se 
 réduit à \tl{t} ou à \tl{w} (\begin{hieroglyph}t\end{hieroglyph} ou 
@@ -217,7 +260,7 @@ réduit à \tl{t} ou à \tl{w} (\begin{hieroglyph}t\end{hieroglyph} ou
 \begin{hieroglyph}W\end{hieroglyph}), elle se place avant le 
 déterminatif.
 
-Le thème verbal :
+\paragraph{Le thème verbal :}
 \begin{itemize}
   \item les verbes forts présentent un thème verbal inchangé.
   \item les verbes faibles un thème verbal bref (\tl{pri} fait 
@@ -230,13 +273,15 @@ Le thème verbal :
         soit \tl{ii} (1\iere et 2\ieme~pers.).
 \end{itemize}
 
-VALEUR
+% \section{Valeur}
+\section{Valeur aspectuelle du parfait ancien}
+% --------------------------------------------------------------
 
 La valeur principale de cette forme n'est pas temporelle, mais 
 aspectuelle.
 
-
-a) Valeur aspectuelle du parfait ancien :
+% \subsection{Valeur aspectuelle du parfait ancien}
+% ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 On a déjà dit lors de la présentation du système prédicatif égyptien 
 que le système verbal moyen égyptien est fondé sur ce que l'on appelle 
@@ -275,7 +320,7 @@ Le statif est donc un \clef{accompli résultatif}. Il indique un
 
 La valeur de cette forme étant spécifique et particulière, on 
 comprend que la traduction dépend aussi du sens profond de chaque 
-verbe\footnote{Ce que Malaise et Winand appelle \emph{Aktionart}. 
+verbe\footnote{Ce que \citeauthor{MW} appellent \emph{Aktionart}. 
 Voir réf.}. Étant donné la valeur résultative du parfait ancien [le 
 parfait ancien sélectionne la \emph{post-phase} d'un procès], cette 
 forme se rencontre plus particulièrement avec certains types de 
@@ -289,53 +334,80 @@ verbes :
         par opposition à \td{marcher} -- verbes dits \emph{téliques}.
 \end{itemize}
 
+\bigskip
+
 Concrètement, le sens du parfait ancien varie surtout \clef{selon 
 que le verbe est un verbe transitif ou intransitif}. Il prend alors, 
 respectivement, soit un sens passif, soit un sens actif. Concernant 
 la traduction du parfait ancien, il y a 4 catégorie différentes de 
 verbes, que vous devez retenir :
 
-\begin{enumerate}
+\begin{enumerate}\setlength{\itemsep}{1em}
   \item \textbf{Les verbes intransitifs, de mouvement}, conservent un 
         sens actif et insistent sur le résultat de l'action :\\
-        \tl{iy} \td{venir} : \tl{ii.kwi}, \td{je suis venu}.\\
+        \begin{hieroglyph}ii-i-D54\end{hieroglyph}
+        \tl{iy} \td{venir} : 
+        \begin{hieroglyph}ii-D54-k-W-A1\end{hieroglyph}
+        \tl{ii.kwi}, \td{je suis venu}.\\
+        \begin{hieroglyph}aHa-a:D54\end{hieroglyph}
         \tl{aHa} \td{être debout}, \td{se lever}, \td{se trouver} :
+        \begin{hieroglyph}aHa-a:D54-k-w\end{hieroglyph}
         \tl{aHa.kw(i)}, \td{je me suis levé}, \td{je suis debout}.
   \item \textbf{Les verbes de qualité, intransitifs}, conservent aussi 
         un sens actif ; le parfait ancien exprime une qualité possédée 
         par le sujet, mais acquise suite à \emph{un processus 
-        d'acquisition}\footnote{La proposition à prédicat adjectival 
-        \tl{nfr sw} exprime l'idée d'une qualité possédée de façon 
-        permanente et intemporelle. Voir cours ultérieur.} :\\
-        \tl{nfr} \td{devenir parfait} : \td{c'est parfait}\\
-        \tl{aA} \td{devenir grand, important} : \td{je suis grand}.
-        \tl{aA.kwi},
+        d'acquisition}\footnote{La \PPJ \tl{nfr sw} exprime l'idée 
+        d'une qualité possédée de façon permanente et intemporelle. 
+        Voir cours ultérieur.} :\\
+        \begin{hieroglyph}nfr-f:r-Y1v\end{hieroglyph}
+        \tl{nfr} \td{devenir parfait} : 
+        \begin{hieroglyph}nfr-f:r-w-Y1v\end{hieroglyph}
+        \td{c'est parfait}\\
+        \begin{hieroglyph}aA:a-A-Y1\end{hieroglyph}
+        \tl{aA} \td{devenir grand, important} : 
+        \begin{hieroglyph}aA:a-A-Y1-k-w-A1\end{hieroglyph}
+        \tl{aA.kwi} \td{je suis grand}.\\
+        \begin{hieroglyph}n:xt-x:t-D40\end{hieroglyph}
         \tl{nxt} \td{devenir fort}, puissant, victorieux :
+        \begin{hieroglyph}n:xt-x:t-D40-k-w-A1\end{hieroglyph}
         \tl{nxt.kwi} \td{je suis puissant}.
+
+        \medskip
+
         Un sens similaire existe pour d'autres verbes intransitifs 
         qui, au parfait ancien, expriment un état durable, résultant 
-        du procès exprimé par le verbe :
-        \tl{gr} \td{se taire} : \td{être silencieux}
-        \tl{Aq} \td{périr} : \td{être ruiné}
-        \tl{mwt} \td{mourir} : \td{être mort}
+        du procès exprimé par le verbe :\\
+        \begin{hieroglyph}g:r-A2\end{hieroglyph}
+        \tl{gr} \td{se taire} : \td{être silencieux}\\
+        \begin{hieroglyph}A-\!q:.-G37\end{hieroglyph}
+        \tl{Aq} \td{périr} : \td{être ruiné}\\
+        \begin{hieroglyph}m-\!t:.-Z6\end{hieroglyph}
+        \tl{mwt} \td{mourir} : \td{être mort}\\
+        \begin{hieroglyph}anx-n:x-Y1v\end{hieroglyph}
         \tl{anx} \td{vivre} : \td{être vivant}
-  \item \textbf{Les verbes transitifs} prennent un sens passif :
-        \tl{mH} \td{remplir} : \tl{mH.w} \td{il est rempli}
-        \tl{rdi} \td{donner}, \td{placer} : ou ou \tl{dd.w} \td{il a 
-        été donné, placé}
+  \item \textbf{Les verbes transitifs} prennent un sens passif :\\
+        \begin{hieroglyph}mH:Y1\end{hieroglyph}
+        \tl{mH} \td{remplir} : 
+        \tl{mH.w} \td{il est rempli}\\
+        \begin{hieroglyph}r:di'\end{hieroglyph}
+        \tl{rdi} \td{donner}, \td{placer} : 
+        \begin{hieroglyph}r:di'-w+l\ ou\ +sdi'-w\end{hieroglyph}
+        ou \tl{dd.w} \td{il a été donné, placé}
   \item \textbf{Exceptions :} des verbes transitifs qui conservent un 
         sens actif :\\
+        \begin{hieroglyph}r:x-Y1\end{hieroglyph}
         \tl{rx} \td{apprendre à connaître} :
-        \td{je sais, connais}.
+        \begin{hieroglyph}r:x-Y1-k-w\end{hieroglyph}
+        \td{je sais, connais}.\\
         Cf. \tl{xm} ignorer, \tl{sxA} \td{se souvenir}.\\
         C'est le seul cas de parfait ancien à sens actif quand il est 
-        employé dans une construction pseudo-verbale. [Quelques autres 
-        verbes peuvent avoir un sens actif au parfait, mais c'est un 
-        usage limité à la 1\iere~personne du singulier et dans la 
-        narration, non le discours. La narration sera vue en 
-        L4\footnote{Une narration est un récit détaillé, développé 
-        dans une {\oe}uvre littéraire. Le discours est une série de 
-        paroles adressées à un auditoire.}.]
+        employé dans une construction pseudo-verbale.\\
+        (Quelques autres verbes peuvent avoir un sens actif au 
+        parfait, mais c'est un usage limité à la 1\iere~personne du 
+        singulier et dans la narration, non le discours. La narration 
+        sera vue en L4\footnote{Une narration est un récit détaillé, 
+        développé dans une {\oe}uvre littéraire. Le discours est une 
+        série de paroles adressées à un auditoire.}.)
 \end{enumerate}
 
 \chapter{Syntaxe du parfait ancien}
@@ -345,6 +417,7 @@ Le parfait ancien peut s'employer comme prédicat dans une phrase de
 type pseudo-verbale (= élément introducteur + sujet + prédicat), mais 
 aussi dans d'autres contextes. On peut retenir trois grandes 
 catégories d'emploi du parfait ancien :
+
 \begin{itemize}
   \item prédicat d'une proposition à prédicat pseudo-verbal,
   \item forme employée de manière autonome,
@@ -358,97 +431,258 @@ catégories d'emploi du parfait ancien :
 
 \subsection{Avec l'indicateur d'énonciation \tl{iw}}
 % ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+\begin{example}
+  \begin{hieroglyph}
+    jw-nTr-G7-r:x-w-Y1-r:n-A2-nb
+  \end{hieroglyph}
 
-\begin{hieroglyph}
-  i-w-nTr-G7-r:x-w-Y1-r:n-A2-nb
-\end{hieroglyph}
+  \tl{iw nTr rx.w rn nb} (\source{Merikarê}, 12, 8)
 
-\tl{iw nTr rx.w rn nb}
+  \td{Le dieu connaît chaque nom.}
+\end{example}
 
-\td{Le dieu connaît chaque nom.} (\source{Merikarê}, 12, 8)
+\begin{example}
+  \begin{hieroglyph}
+    i-w t:t-W-A53 s-X:r-sXr:D40 m nbw:N33:3
+  \end{hieroglyph}
 
-iw twt sXr(.w) m nwb
-« Ma statue est recouverte d'or ». (Sinouhé B 307)
-iw ø nfr.w
-C'est parfait.
+  \tl{iw twt sXr(.w) m nwb} (\source{Sinouhé} B\,307)
 
-NB. Rappel : quand le sujet est neutre, il peut ne pas être exprimé.
+  \td{Ma statue est recouverte d'or}
+\end{example}
 
-- Avec l'auxiliaire mk :
-MTn, wi snb.kwi, anx.kwi
-Voyez, je suis en bonne santé et vivant ! (Hekan. 5,2).
+\begin{example}
+  \begin{hieroglyph}i-w nfr-f:r-w\end{hieroglyph}
 
-- Avec l'auxiliaire optatif HA :
-@A tA mH(.w) m-mit.t=f
-Ah, si le pays était rempli de gens semblable à lui ! (BM 562, 9)
+  \tl{iw \zero nfr.w}
 
-- Avec la négation nn :
-Nn sw wn(.w)
-Il n'existe plus. (Désespéré, 126-127). Verbe wnn « exister » [2-gem.]
+  \td{C'est parfait.}
+\end{example}
 
-- Sans auxiliaire :
-tni xpr(.w), iAw hA.w
-La vieillesse est advenue ; le grand âge est venu/descendu. (Ptahhotep 8).
+\begin{notabene}
+  Rappel : quand le sujet est neutre, il peut ne pas être exprimé.
+\end{notabene}
 
-- Avec un convertisseur (temporel) (wn/wnn):
+\subsection{Avec l'auxiliaire \tl{mk}}
+% ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Ex.
-Wn=f mr(.w) (Malaise/Winand, Grammaire raisonnée, exemple 1221)
-Il était malade. (Proposition à prédicat pseudo-verbal avec parfait ancien introduite par un
-convertisseur passé).
+\begin{example}
+  \begin{hieroglyph}
+    m:D38-T:n w-A1 s-n:b-k-w-A1 anx-n:x-k-w-A1
+  \end{hieroglyph}
 
-B. En position indépendante -- parfait ancien seul :
+  \tl{mTn, wi snb.kwi, anx.kwi} (\source{Hekan.} 5,2)
 
-En Moyen égyptien, le parfait ancien peut être utilisé seul (sans sujet) comme prédicat
-principal de phrase indépendante. Il peut alors avoir 2 sens distincts :
-1) Souhait
-2) Un temps passé dans le cadre de la narration.
-1) Souhait :
+  \td{Voyez, je suis en bonne santé et vivant !}
+\end{example}
+
+\subsection{Avec l'auxiliaire optatif HA}
+% ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+\begin{example}
+  \begin{hieroglyph}H-A tA:N23 mH:Y1 m mi-t:3 f\end{hieroglyph}
+
+  \tl{@A tA mH(.w) m-mit.t=f} (\source{BM} 562, 9)
+
+  \td{Ah, si le pays était rempli de gens semblable à lui !}
+\end{example}
+
+\subsection{Avec la négation \tl{nn}}
+% ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+\begin{example}
+  \begin{hieroglyph}nn sw-w wn:n\end{hieroglyph}
+
+  \tl{nn sw wn(.w)} (\source{Désespéré}, 126-127)
+
+  \td{Il n'existe plus.}
+
+  \rem{Verbe \tl{wnn} \td{exister} \vg{2}}
+\end{example}
+
+\subsection{Sans auxiliaire}
+% ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+\begin{example}
+  \begin{hieroglyph}
+    t:n-i-A19 xpr-r i-A-w-A19 h-A-W-D54
+  \end{hieroglyph}
+
+  \tl{tni xpr(.w), iAw hA.w} (\source{Ptahhotep} 8)
+
+  \td{La vieillesse est advenue ; le grand âge est venu/descendu.}
+\end{example}
+
+\subsection{Avec un convertisseur (temporel) (\tl{wn}/\tl{wnn})}
+% ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+\begin{example}
+  \begin{hieroglyph}wn:n f Ab--r:G37\end{hieroglyph}
+
+  \tl{wn=f mr(.w)} (\citeauthortitle{MW}, ex.~1221)
+
+  \td{Il était malade.}
+
+  \rem{\PPV avec parfait ancien introduite par un convertisseur passé}
+\end{example}
+
+\section{En position indépendante -- parfait ancien seul}
+% ---------------------------------------------------------------------
+
+En moyen-égyptien, le parfait ancien peut être utilisé seul (sans 
+sujet) comme prédicat principal de phrase indépendante. Il peut alors 
+avoir deux sens distincts : 
+\begin{enumerate}
+  \item souhait
+  \item un temps passé dans le cadre de la narration
+\end{enumerate}
+
+\subsection{Souhait}
+% ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 Lorsque le sujet est pronominal, il n'est alors pas mentionné :
-ii.ti « sois le bienvenu », « bienvenu ».
-NB : Il peut être éventuellement rappelé après, par un pronom dépendant : « sois le bienvenu, toi ! ».
-En ce cas, aux 2e et 3e personnes, du singulier ou du pluriel, le parfait ancien peut avoir, dans
-le cadre du discours, valeur d'un optatif (souhait).
-*Notamment dans les salutations :
-ii.w m Htp « Bienvenu, en paix 6! »
-*Cet emploi se retrouve fréquemment dans les formules d'eulogie royale qui accompagnent,
-entre autres, le protocole pharaonique :
-anx(.w) wDA(.w) snb(.w) « qu'il soit en vie, prospère et en bonne santé. »
-anx(.w) D.t « qu'il vive éternellement ».
-anx.ti « qu'elle vive », après les noms de reines ou de princesses.
-di(.w) « doué de vie (soit-il) »
-di(.ti) « doué de vie (soit-elle) »
-*Aussi :
 
-6 Cette forme est différente de l'impératif : mi « viens ! » .
+\begin{example}
+  \begin{hieroglyph}ii-D54-ti-i\end{hieroglyph}
 
-@r.t(i) r ir.t iii.t
-« Que tu sois éloigné de commettre le mal » = « Garde-toi/abstiens-toi de commettre le mal »
-(Oasien, B1, 337)
-2) Temps passé dans la narration :
-Cet emploi est une survivance de l'usage du parfait ancien en ancien égyptien où il peut
-exprimer des actions accomplies plutôt que des états. En moyen-égyptien, l'écho de cet usage
-se rencontre dans les textes archaïsants et essentiellement à la 1re personne, rarement à la 3e.
-ii.kwi m Htp mša=i aD
-je suis venu en paix, avec mes forces d'expédition intactes.
-La plupart du temps le sens du verbe (passif ou actif) suit les mêmes règles que pour les
-constructions pseudo-verbales :
-rdi.kwi r pr-sA-n(y)-sw.t
-Je fus placé dans la maison d'un fils royal. (Sinouhé, B 286, Malaise, Winand, Grammaire
-raisonnée, ex. 1127)
-Cependant, le parfait ancien des verbes transitifs peut parfois avoir un sens actif plutôt que
-passif :
-wd.k(w)i rn=i r bw Xr nTr
-J'ai placé mon nom dans le lieu où se trouve le dieu (sous le dieu)
-C. Dans une proposition relative non déterminée
-Le parfait ancien peut aussi avoir d'autres usages. Notamment, il peut être employé dans une
-proposition relative et traduit comme un adjectif épithète.
-Il s'agit d'une relative directe (en français pronom relatif « qui »), avec un antécédent non
-déterminé (pour les propositions relatives déterminés, voir la construction avec avec nty l'an
-prochain).
-(\dots)
-(\dots) wrr.t bAk.ti m nbw
-« (\dots) un char ouvragé en or » (Annales TIII, Urk IV, 663, 12)
+  \tl{ii.ti}
+
+  \td{sois le bienvenu}, \td{bienvenu}
+\end{example}
+
+\begin{notabene}
+  Il peut être éventuellement rappelé après, par un pronom dépendant : 
+  \td{Sois le bienvenu, toi !}.
+\end{notabene}
+
+En ce cas, aux 2\ieme et 3\ieme personnes, du singulier ou du pluriel, 
+le parfait ancien peut avoir, dans le cadre du discours, valeur d'un 
+optatif (souhait).
+
+\textbf{Notamment dans les salutations :}
+
+\begin{example}
+  \begin{hieroglyph}ii-w m Htp:t*p\end{hieroglyph}
+
+  \tl{ii.w m Htp}
+
+  \td{Bienvenu, en paix !}\footnotemark{}
+\end{example}
+\footnotetext{Cette forme est différente de l'impératif : 
+\tl{mi} \td{viens !}.}
+
+Cet emploi se retrouve fréquemment dans les formules d'eulogie royale 
+qui accompagnent, entre autres, le protocole pharaonique :
+
+\begin{tabular}{lll}
+  \begin{hieroglyph}anx-DA-s\end{hieroglyph} & 
+  \tl{anx(.w) wDA(.w) snb(.w)} & 
+  \td{qu'il soit en vie, prospère et en bonne santé.} \\
+  \begin{hieroglyph}anx Dt\end{hieroglyph} & 
+  \tl{anx(.w) D.t} & 
+  \td{qu'il vive éternellement} \\
+  \begin{hieroglyph}anx-ti-i Dt\end{hieroglyph} & 
+  \tl{anx.ti D.t} & 
+  \parbox{10cm}{%
+    \td{qu'elle vive éternellement}, \\
+    après les noms de reines ou de princesses.%
+  }\\
+  \begin{hieroglyph}di-anx\end{hieroglyph} & 
+  \tl{di(.w)} & 
+  \td{doué de vie (soit-il)} \\
+  \begin{hieroglyph}di-ti-i-anx\end{hieroglyph} & 
+  \tl{di(.ti)} & 
+  \td{douée de vie (soit-elle)} \\
+\end{tabular}
+
+\bigskip
+
+Aussi :
+
+\begin{example}
+  \begin{hieroglyph}
+    Hr:r-t:Aa19-N31 :r ir:t ii-i-i-t-G37:3
+  \end{hieroglyph}
+
+  \tl{@r.t(i) r ir.t iii.t}
+
+  \td{Que tu sois éloigné de commettre le mal} =
+  \td{Garde-toi/abstiens-toi de commettre le mal}
+  (\source{Oasien}, B1, 337)
+\end{example}
+
+\subsection{Temps passé dans la narration}
+% ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Cet emploi est une survivance de l'usage du parfait ancien en ancien 
+égyptien où il peut exprimer des actions accomplies plutôt que des 
+états. En moyen-égyptien, l'écho de cet usage se rencontre dans les 
+textes archaïsants et essentiellement à la 1\iere~personne, rarement 
+à la~3\ieme.
+
+\begin{example}
+  \begin{hieroglyph}
+    ii-i-D54-k-w-A1 m Htp:t*p mSa-1:3 A1 a-D:\!\!aD\s2-Y1
+  \end{hieroglyph}
+
+  \tl{ii.kwi m Htp mSa=i aD}
+
+  \td{je suis venu en paix, avec mes forces d'expédition intactes.}
+\end{example}
+
+La plupart du temps le sens du verbe (passif ou actif) suit les mêmes 
+règles que pour les constructions pseudo-verbales :
+
+\begin{example}
+  \begin{hieroglyph}
+    r:a-k'-w-A1 r pr sw-t:n zA A1
+  \end{hieroglyph}
+
+  \tl{rdi.kwi r pr-sA-n(y)-sw.t} 
+  (\source{Sinouhé}, B\,286, \citeauthortitle{MW}, ex.~1127)
+
+  \td{Je fus placé dans la maison d'un fils royal.}
+\end{example}
+
+Cependant, le parfait ancien des verbes transitifs peut parfois avoir 
+un sens actif plutôt que passif :
+
+\begin{example}
+  \begin{hieroglyph}
+    w-d:k-A1 r:n-A1 r b-w X:r nTr
+  \end{hieroglyph}
+
+  \tl{wd.k(w)i rn=i r bw Xr nTr}
+
+  \td{J'ai placé mon nom dans le lieu où se trouve le dieu 
+  (sous le dieu).}
+\end{example}
+
+
+
+\section{Dans une proposition relative non déterminée}
+% ---------------------------------------------------------------------
+
+Le parfait ancien peut aussi avoir d'autres usages. Notamment, 
+il peut être employé dans une proposition relative et traduit comme 
+un adjectif épithète. Il s'agit d'une relative directe (en français 
+pronom relatif \frquote{qui}), avec un antécédent non déterminé (pour 
+les propositions relatives déterminés, voir la construction avec avec 
+\tl{nty} l'an prochain).
+
+\begin{example}
+  \begin{hieroglyph}
+    +l\ (\dots)\ +s
+    wr:r-r:t-T17 bA:k-ti m nbw:N33A
+  \end{hieroglyph}
+
+  \tl{(\dots) wrr.t bAk.ti m nbw} 
+  (Annales TIII, \source{Urk}~IV, 663, 12)
+
+  \td{(\dots) un char ouvragé en or}
+\end{example}
+
+\bigskip
 
 \begin{exercice}
   Exercice~1 (à rendre par email)

@@ -1,7 +1,7 @@
 %!TEX root = DULAEP_EG.htx
 %##HieroDef.txt
 
-\part{Cours~10 -- Grammaire -- Les propositions avec constructions pseudo-verbales (1\iere partie)}
+\part{Cours~10 -- Grammaire -- Les propositions avec constructions pseudo-verbales (1\iere partie)}\label{prt:ppv}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 Ce semestre est consacré à l'apprentissage des phrases simples, et 
@@ -189,7 +189,7 @@ l'aspect \textbf{inaccompli} et \textbf{progressif}. Dans les
 exercices, sans le contexte général de la phrase, on traduira 
 néanmoins simplement par un présent de l'indicatif.
 
-\chapter{Racine et infinitif du verbe}
+\chapter{Racine et infinitif du verbe}\label{cha:inf}
 %======================================================================
 
 Avant de voir plus en détail la syntaxe de cette proposition, nous 
@@ -265,7 +265,7 @@ formes verbales).
   (sans désinences) dans les phrases.
 \end{aparte}
 
-\section{Le thème verbal}
+\section{Le thème verbal}\label{sec:th_verbal}
 %----------------------------------------------------------------------
 
 La racine, en tant que squelette consonantique du verbe, est une 

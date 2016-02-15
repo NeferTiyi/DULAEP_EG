@@ -41,7 +41,7 @@ Trois constructions sont possibles pour nier la \PPN.
 
   \td{Je ne suis pourtant pas son allié.}
 \end{example}
-\footnotetext{Particule enclitique renforçant une affirmation 
+\footnotetext{Particule enclitique renforçant une affirmation, 
 \td{certes}}
 
 \begin{example}
@@ -55,107 +55,199 @@ Trois constructions sont possibles pour nier la \PPN.
 \section[La négation bipartite \tl{n \dots is} \dots qui encadre le 
 premier élément (négation la plus fréquente)]
         {La négation bipartite 
-         \begin{hieroglyph}n'+l \dots +si-s\end{hieroglyph} 
+         \begin{hieroglyph}n'+l~\dots~+si-s\end{hieroglyph} 
          \tl{n \dots is} qui encadre le premier élément (négation la 
          plus fréquente)}
 % ---------------------------------------------------------------------
 
-\tl{n ntk is s}
+\begin{example}
+  \begin{hieroglyph}n' n:t:k i-s z:A1*1\end{hieroglyph}
 
-\td{Tu n'est pas un homme.}
+  \tl{n ntk is s}
+
+  \td{Tu n'est pas un homme.}
+\end{example}
 
 On prendra garde au fait que \tl{n \dots is} n'encadre que le premier 
 terme du prédicat, qui peut se poursuivre après \tl{pw} :
 
-\tl{isT, n tr is pw n iw.t r biA pn}
+\begin{example}
+  \begin{hieroglyph}
+    s-ti n':t:r-tr-ra i-s pw n D54-w:t r b-i-N41:xAst p:n
+  \end{hieroglyph}
 
-\td{Or, ce n'était pas le temps de venir dans cette mine.}
+  \tl{isT, n tr is pw n iw.t r biA pn}
+
+  \td{Or, ce n'était pas le temps de venir dans cette mine.}
+\end{example}
 
 La copule peut être omise :
 
-\tl{n sA=i is}
+\begin{example}
+  \begin{hieroglyph}n' zA-A1 i-s\end{hieroglyph}
 
-\td{Ce n'est pas mon fils.} (\source{Stèle de Semna})
+  \tl{n sA=i is}
+
+  \td{Ce n'est pas mon fils.} (\source{Stèle de Semna})
+\end{example}
 
 \section{La négation \tl{nn} pour \tl{n} ou \tl{nn \dots is} pour 
 \tl{n \dots is}}
 % ---------------------------------------------------------------------
 
-\tl{nn sA=k is pw}
+\begin{example}
+  \begin{hieroglyph}nn zA-A1-1 k i-s p-W\end{hieroglyph}
 
-\td{Ce n'est pas ton fils.}
+  \tl{nn sA=k is pw}
+
+  \td{Ce n'est pas ton fils.}
+\end{example}
+
+\bigskip
 
 \begin{exercice}
-  \donc Faire l'exercice~5 à rendre par email
+  \donc{} Faire l'exercice~5 à rendre par email
 \end{exercice}
 
 \chapter{La \PPN en position non autonome}
 % =====================================================================
 
-Nous avons abordé jusqu'à présent la phrase à prédicat nominal, comme si elle constituait toujours
-une phrase autonome, indépendante. Dans les textes suivis, cette proposition peut se trouver dans une
-position de dépendance syntaxique, c'est-à-dire jouer le rôle d'une subordonnée. En français la
-subordination se marque souvent par « que », conjonction de subordination qui sert, en définitive, à
-nominaliser une proposition : « le chat est un félin » = > « je sais que le chat est un félin ». Dans
-cette dernière phrase, « le chat est un félin » joue le rôle d'un substantif COD et cela est possible grâce
-à « que ».
-En égyptien ancien, nous le verrons, surtout l'an prochain, il y a plusieurs façon de rendre une
-proposition syntaxiquement dépendante d'une autre : utilisation de conjonctions diverses, et pour le
-cas des complétives utilisation d'un mot équivalent à « que » (nty.t) pour introduire certaines
-complétives, ou encore simple juxtaposition (seulement dans le cas d'un verbe introducteur objectif) :
-•
-Proposition à prédicat nominal dans une complétive : introduite par nty.t
-un verbe non objectif
-« que » après
-iw=i rx.kw nt(y).t Ax.t pw ip.t-sw.t tp-tA (Urk .IV, 364, 1-2)
-« Je sais que Ipet-sout (Karnak) est l'horizon sur terre. »
-Analyse : Phrase initiale à prédicat pseudo-verbal (parfait ancien), + une phrase complétive introduite
-par nty.t proposition à prédicat nominal.
-•
-Proposition à prédicat nominale dans une complétive : Juxtaposition après un verbe objectif
-(\dots )
-(\dots ) gm.n=i HfAw pw (Naufragé, 61-62)
-« j'ai constaté <forme de la conjugaison suffixale – voir l'an prochain > : c'est un serpent » =
-« (\dots ) j'ai constaté que c'était un serpent (\dots ) »
-Réfléchissez aussi à cette phrase complexe :
+Nous avons abordé jusqu'à présent la \PPN, comme si elle constituait 
+toujours une phrase autonome, indépendante. Dans les textes suivis, 
+cette proposition peut se trouver dans une position de dépendance 
+syntaxique, c'est-à-dire jouer le rôle d'une subordonnée. En français 
+la subordination se marque souvent par \frquote{que}, conjonction de 
+subordination qui sert, en définitive, à \textbf{nominaliser une 
+proposition} : \frquote{le chat est un félin} \donc{} \frquote{je sais 
+\textbf{que} \textcolor{blue}{le chat est un félin}}. Dans cette 
+dernière phrase, \frquote{\textcolor{blue}{le chat est un félin}} joue 
+le rôle d'un substantif COD et cela est possible grâce à \frquote{que}.
 
-\tl{nDs pw, +di rn=f}
+En égyptien ancien, nous le verrons, surtout l'an prochain, il y a 
+plusieurs façon de rendre une proposition syntaxiquement dépendante 
+d'une autre : utilisation de conjonctions diverses, et pour le cas 
+des complétives utilisation d'un mot équivalent à \frquote{que} 
+(\tl{nty.t}) pour introduire certaines complétives, ou encore simple 
+juxtaposition (seulement dans le cas d'un verbe introducteur 
+objectif) :
 
-Il y a en fait deux propositions dans cette phrase :
-\begin{enumerate}
-  \item une \PPN initiale : \tl{nDs pw}, \td{c'est un homme 
-        (du commun)}
-  \item une seconde \PPN, séquentielle : \tl{+di rn=f}, 
-        \td{son nom est Djédi}.
-\end{enumerate}
+\begin{itemize}
+  \item \uline{\PPN dans une complétive} :\\
+        introduite par \tl{nty.t} \td{que} après un verbe non 
+        objectif\\
+        \begin{example}
+          \begin{hieroglyph}
+            iw-A42 r:x:Y1-k-w-A42 n:t*t Axt-t:pr pw 
+            i-p:t-st-t:3-niwt tp:1 tA:1*N21
+          \end{hieroglyph}
 
-C'est une phrase complexe qui peut être traduite ainsi : \td{c'est un 
-homme dont le nom est Djédi}.
+          \tl{iw=i rx.kw nt(y).t Ax.t pw ip.t-sw.t tp-tA}
+          (\source{Urk.}\,IV, 364, 1-2)
+
+          \td{Je sais que Ipet-sout (Karnak) est l'horizon sur terre.}
+
+          Analyse : \PPV initiale (parfait ancien), + \PPN complétive 
+          introduite par \tl{nty.t}.
+        \end{example}
+  \item \uline{\PPN dans une complétive} :\\
+        Juxtaposition après un verbe objectif\\
+        \begin{example}
+          (\dots)
+          \begin{hieroglyph}
+            gm-m-n:\!\!A1\s1 H-f-A-w-I15 pw iw-f:m ii-i-t:D54
+          \end{hieroglyph}
+
+          \tl{(\dots) gm.n=i \textcolor{blue}{HfAw pw}}
+          (\source{Naufragé}, 61-62)
+
+          \td{(\dots) j'ai constaté\footnotemark{} : c'est un serpent 
+          (\dots)}\\
+          = \td{(\dots) j'ai constaté que \textcolor{blue}{c'était un 
+          serpent} (\dots)}
+        \end{example}
+        \footnotetext{Forme de la conjugaison suffixale -- voir l'an 
+        prochain.}
+\end{itemize}
+
+\begin{aparte}
+  Réfléchissez aussi à cette phrase complexe :
+
+  \begin{center}
+    \begin{hieroglyph}
+      n:D-s-G37:A1-p-W-Dd-Dd-i-Y1:A1-r:n-A2-f
+    \end{hieroglyph}
+
+    \tl{nDs pw, +di rn=f}
+  \end{center}
+
+  Il y a en fait deux propositions dans cette phrase :
+  \begin{enumerate}
+    \item une \PPN initiale :\\
+          \tl{nDs pw}, \td{c'est un homme (du commun)}
+    \item une seconde \PPN, séquentielle :\\
+          \tl{+di rn=f}, \td{son nom est Djédi}.
+  \end{enumerate}
+
+  C'est une phrase complexe qui peut être traduite ainsi :\\
+  \td{c'est un homme dont le nom est Djédi}.
+\end{aparte}
 
 \chapter{La \PPN dans les noms de personnes}
 % =====================================================================
 
-On a déjà eu l'occasion de voir que les anthroponymes constituaient des énoncés ayant une
-signification apparemment explicite. Ainsi, on peut retrouver dans la formation des noms de personnes
-les types de propositions que nous étudions.
-Nous avons vu Amenemhat (imn-m-HA.t, Amon-est-en-avant, Proposition à prédicat adverbial), ou
-encore Néfertiti (Nfr.t-ii.ti, la Belle-est-venue, Proposition à prédicat pseudo-verbal, parfait ancien).
-Observez ce nom royal : nom de couronnement d'Amenhotep III – Il comporte une double antéposition
-honorifique
-Nb-mAa.t-Ra
-Nebmaâtrê
-Le seigneur de Maât est Rê
-Proposition à prédicat nominal type AB
+On a déjà eu l'occasion de voir que les anthroponymes constituaient 
+des énoncés ayant une signification apparemment explicite. Ainsi, on 
+peut retrouver dans la formation des noms de personnes les types de 
+propositions que nous étudions.
+
+Nous avons vu Amenemhat (\tl{Imn-m-HA.t}, \td{Amon-est-en-avant}, 
+\PPN), ou encore Néfertiti (\tl{Nfr.t-ii.ti}, \td{la Belle-est-venue}, 
+\PPV, parfait ancien).
+
+Observez ce nom royal : \emph{nom de couronnement} d'Amenhotep~III -- 
+Il comporte une double antéposition honorifique :
+
+\begin{center}
+  \begin{hieroglyph}<-ra-mAat-nb->\end{hieroglyph}
+
+  \tl{Nb-MAa.t-Ra}
+
+  Nebmaâtrê\\
+  \td{Le seigneur de Maât est Rê}
+
+  \PPN type AB
+\end{center}
+
+\bigskip
+
 Autre anthroponyme:
-Nb(=i), imn
-Nebamon
-(Mon) seigneur est Amon.
 
-L'étude de la composition des anthroponymes égyptiens est tout à fait intéressante pour comprendre certaines représentations du monde et certains aspects de la vie religieuse. 
+\begin{center}
+  \begin{hieroglyph}nb-i-mn:n-A1\end{hieroglyph}
 
-Grandet/Mathieu, en annexe de leur Cours d'égyptien hiéroglyphique, présentent un aperçu de la formation des noms égyptiens.
+  \tl{Nb(=i), Imn}
 
-Une présentation très claire et synthétique des noms égyptiens et en particulier des pratiques d'attribution d'un nom à un enfant a été réalisée par Pascal Vernus dans le Lexikon der Ägyptologie IV (1982), col. 320-337. C'est une lecture très éclairante sur un aspect du quotidien des familles.
+  Nebamon\\
+  \td{(Mon) seigneur est Amon.}
+\end{center}
 
-Pour l'étude des noms propres et leur recensement, le manuel de référence est celui de H. Ranke, Die Ägyptischen Personennamen (3 vol. 1935-1976), disponible en version scannée en ligne. Il existe des
-compléments postérieurs, notamment ceux parus dans divers articles de la Revue d'égyptologie (par Madeleine Thirion), ainsi que des études spécifiques sur les noms propres à certaines périodes.
+\bigskip
+
+L'étude de la composition des anthroponymes égyptiens est tout à fait 
+intéressante pour comprendre certaines représentations du monde et 
+certains aspects de la vie religieuse. \citeauthor{GM}, en annexe de 
+leur \citetitle{GM}, présentent un aperçu de la formation des noms 
+égyptiens.
+
+Une présentation très claire et synthétique des noms égyptiens et 
+en particulier des pratiques d'attribution d'un nom à un enfant a 
+été réalisée par Pascal~\bsc{Vernus} dans le \citetitle[IV (1982), 
+col.~320-337]{LdE}. C'est une lecture très éclairante sur un aspect 
+du quotidien des familles.
+
+Pour l'étude des noms propres et leur recensement, le manuel de 
+référence est celui de \citeauthortitle[(3 vol. 1935-1976)]{RK}, 
+disponible en version scannée en ligne. Il existe des compléments 
+postérieurs, notamment ceux parus dans divers articles de la 
+\emph{Revue d'égyptologie} (par Madeleine~\bsc{Thirion}), ainsi 
+que des études spécifiques sur les noms propres à certaines périodes.

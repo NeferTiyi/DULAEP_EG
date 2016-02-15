@@ -26,25 +26,27 @@ Les Égyptiens utilisaient un système de \textbf{numération décimale}.
 Celui-ci s'appuyait sur six signes hiéroglyphiques marquant les unités 
 de base et ignorait le zéro.
 
-\begin{center}
-  \DisplayHieroglyphs
-  \begin{tabular}{c@{:\ }l}
-    \begin{hieroglyph}1\end{hieroglyph} & 
-    \num{1} (pour les unités) \\
-    \begin{hieroglyph}10\end{hieroglyph} & 
-    \num{10} (pour les dizaines), \tl{mD} \\
-    \begin{hieroglyph}100\end{hieroglyph} & 
-    \num{100} (pour les centaines), \tl{S.t} \\
-    \begin{hieroglyph}xA\end{hieroglyph} & 
-    \num{1000} (pour les milliers), \tl{xA} \\
-    \begin{hieroglyph}Dba\end{hieroglyph} & 
-    \num{10000} (pour les dizaines de mille), \tl{Dba} \\
-    \begin{hieroglyph}Hfn\end{hieroglyph} & 
-    \num{100000} (pour les centaines de mille), \tl{Hfn} \\
-    \begin{hieroglyph}HH\end{hieroglyph} & 
-    \num{1000000} (pour les millions), \tl{HH} \\
-  \end{tabular}
-\end{center}
+\begin{aparte}
+  \begin{center}
+    \DisplayHieroglyphs
+    \begin{tabular}{c@{:\ }l}
+      \begin{hieroglyph}1\end{hieroglyph} & 
+      \num{1} (pour les unités) \\
+      \begin{hieroglyph}10\end{hieroglyph} & 
+      \num{10} (pour les dizaines), \tl{mD} \\
+      \begin{hieroglyph}100\end{hieroglyph} & 
+      \num{100} (pour les centaines), \tl{S.t} \\
+      \begin{hieroglyph}xA\end{hieroglyph} & 
+      \num{1000} (pour les milliers), \tl{xA} \\
+      \begin{hieroglyph}Dba\end{hieroglyph} & 
+      \num{10000} (pour les dizaines de mille), \tl{Dba} \\
+      \begin{hieroglyph}Hfn\end{hieroglyph} & 
+      \num{100000} (pour les centaines de mille), \tl{Hfn} \\
+      \begin{hieroglyph}HH\end{hieroglyph} & 
+      \num{1000000} (pour les millions), \tl{HH} \\
+    \end{tabular}
+  \end{center}
+\end{aparte}
 
 Pour écrire n'importe quel nombre, il suffit de répéter autant de fois 
 que nécessaire le signe de la décimale correspondante (en prenant soin 
@@ -99,15 +101,15 @@ les textes rituels.
 \noindent%
 \begin{minipage}{0.33\textwidth}
   \RaggedLeft
-  \begin{tabular}{ccc}
+  \begin{tabular}{cccc}
       1 & \begin{hieroglyph}1\end{hieroglyph} &
-      \tl{wa}
+      \tl{wa} & \begin{hieroglyph}wa:a*1\end{hieroglyph}
     \\
       2 & \begin{hieroglyph}1*1\end{hieroglyph} &
-      \tl{snw}
+      \tl{snw} & \begin{hieroglyph}sn-nw:1*1\end{hieroglyph}
     \\
       3 & \begin{hieroglyph}1*1*1\end{hieroglyph} &
-      \tl{xmt(w)}
+      \tl{xmt(w)} & \begin{hieroglyph}x:mt-t:3\end{hieroglyph}
     \\
   \end{tabular}
 \end{minipage}%
@@ -149,14 +151,19 @@ les textes rituels.
 Ils se placent généralement après le substantif avec lequel ils 
 s'accordent. (Ils peuvent aussi être employés seuls).
 
-\paragraph{Premier :} \tl{tpy} (adjectif nisbé), , , .
+\paragraph{Premier :} \tl{tpy} (adjectif nisbé), 
+\begin{hieroglyph}T8+l, +stp:p*y+l, +stp:p\end{hieroglyph}.
 
 \paragraph{Deuxième à neuvième :} cardinal (en chiffre ou écrit 
-phonétiquement) + suffixe \tl{-nw}, \tl{-nw.t}. ou \td{deuxième}.
+phonétiquement) + suffixe \tl{-nw}, \tl{-nw.t}. 
+\begin{hieroglyph}1*1:nw+l\ ou\ +ssn-nw:1*1\end{hieroglyph} 
+\td{deuxième}.
 
-\paragraph{À partir du dixième :} on utilise le mot \tl{mH} ou 
-\tl{mH.t}, suivi du cardinal correspondant.
-\tl{mH 10}, \td{dixième}.
+\paragraph{À partir du dixième :} on utilise le mot 
+\begin{hieroglyph}mH\end{hieroglyph} \tl{mH} ou
+\begin{hieroglyph}mH:t\end{hieroglyph} \tl{mH.t}, 
+suivi du cardinal correspondant.
+\begin{hieroglyph}mH-10\end{hieroglyph} \tl{mH 10}, \td{dixième}.
 
 \chapter{Les nombres en hiératique (facultatif)}
 % =====================================================================
@@ -228,6 +235,8 @@ Il existe évidemment des équivalents hiératiques aux signes numériques.
   \includegraphics[scale=0.5]{hiera_num_1000} 
   avec des formes spécifiques quand plusieurs milliers se suivent.
 \end{minipage}
+
+\bigskip
 
 \begin{exercice}
   Faire l'exercice~2.
@@ -351,7 +360,8 @@ Les \num{12}~mois étaient répartis en \textbf{\num{3}~saisons} de
 \begin{hieroglyph}pr:r-t:ra\end{hieroglyph} 
 \tl{pr.t} (Décrue, saison des semailles), 
 \begin{hieroglyph}S-mw-ra\end{hieroglyph} 
-\tl{Smw} (Chaleur, saison de la récolte).
+\tl{Smw} (Chaleur, saison de la récolte) 
+(\fref{fig:saisons}).
 
 \begin{figure}
   \includegraphics[width=0.75\textwidth]{saisons_Mererouka}
@@ -359,6 +369,7 @@ Les \num{12}~mois étaient répartis en \textbf{\num{3}~saisons} de
            un ovale incluant quatre croissants lunaires = quatre mois) 
            dans la tombe de Mérérouka à Saqqâra (\dyn{5}). De droite à 
            gauche : Akhet, Peret, Chémou}
+  \label{fig:saisons}
 \end{figure}
 
 Le calendrier civil était donc construit en référence à l'année 
@@ -398,7 +409,7 @@ héliaque. Par exemple, sur une lettre provenant de la ville de Lahoun
 (ville de pyramide du complexe pyramidal de Sésostris~II, \dyn{12}), 
 il est indiqué que ce lever héliaque survînt le jour~16, 
 du 4\ieme~mois de la saison \emph{péret} en l'\ar{7} de Sésostris~III 
-(dates sothiaques).
+(\textbf{dates sothiaques}).
 
 \chapter[Formulation de la date]{Formulation de la 
 date\footnote{Voir \citeauthortitle[\pno~60 et 116-118]{Obsomer} ; 
@@ -421,6 +432,8 @@ suivante :
   \item dans les inscriptions vouées à durer, on précise le 
         \textbf{nom du pharaon régnant} (\textbf{nom de couronnement}).
 \end{itemize}
+
+\bigskip
 
 \begin{example}
   \begin{hieroglyph}
