@@ -84,67 +84,81 @@ De même pour le verbe irrégulier
 À côté des formes attendues, l'égyptien recourt parfois, pour certains 
 verbes, à des impératifs tirés d'un radical différent.
 
-1) Sm « aller » : Sm
-ou is
+1) \tl{Sm} \td{aller} : \tl{Sm} ou \tl{is}
 
-2) iii/iwi « venir » :
-« va ».
-mi « viens » ;
-my « venez »
+2) \tl{iii}/\tl{iwi} \td{venir} :
+\td{va}.
+\tl{mi} \td{viens} ;
+\tl{my} \td{venez}
 
-3) À côté des formes attendues, l'impératif de rdi est le plus souvent exprimé au moyen d'un autre
-radical :
+3) À côté des formes attendues, l'impératif de \tl{rdi} est le plus souvent exprimé au moyen d'un autre radical :
+\tl{im} \td{donne}, \td{place}, \td{fais que}.
 
-4)
-im « donne », « place », « fais que ».
-mi « prends » (impératif d'un verbe non attesté par ailleurs). Il est généralement suivi d'un
-datif suffixal (n + pronom suffixe). En ce cas, cet impératif se note au moyen du bilitère (massue tronconique, \GaL \MdC{T1}, valeur phonétique \tl{mn}) :
+4) \tl{mi} \td{prends} (impératif d'un verbe non attesté par ailleurs). Il est généralement suivi d'un datif suffixal (\tl{n} + pronom suffixe). En ce cas, cet impératif se note au moyen du bilitère (massue tronconique, \GaL \MdC{T1}, valeur phonétique \tl{mn}) :
 
-mi n=k, « prends pour toi ». Cet énoncé est très fréquent dans les légendes de scènes d'offrandes.
+\tl{mi n=k}, \td{prends pour toi}. Cet énoncé est très fréquent dans les légendes de scènes d'offrandes.
 
 Tableau de l'impératif
-2ae gem.
-3ae inf.
-mA
-3-lit
-mr
-«aime»
-sDm
-«entends»
-mAA
-«vois»
-mA
-sDm(w)
-«entendez»
-«voyez»
-rdj
-donner
-jy/jw
-venir
-jnj
-apporter
-mi
-imi
-(
-ir
-«agis»
-in
-«apporte»
-di
-rare)
-« donne »
-imi(w)
-mry
-«aimez»
-ir
-«agissez»
-(
-my
-«venez»
-rdy
+
+\noindent%
+\begin{tabularx}{\textwidth}{*{6}{X}}
+  \toprule
+    \vl{3} &
+    \vg{2} &
+    \vi{3} &
+    \tl{rdj} &
+    \tl{jjj} / \tl{jwj} &
+    \tl{jnj}
+  \tabularnewline
+  \otoprule
+    \tl{sDm} \td{entends} &
+    \tl{mA} \tl{mAA} \td{vois} &
+    \tl{mr} \td{aime} &
+    \tl{imi} &
+    \tl{mi} &
+    \tl{in} \td{apporte}
+  \tabularnewline
+  \otoprule
+    \tl{sDm(w)} \td{entendez} &
+    \tl{mA} \td{voyez} &
+    \tl{mry} \td{aimez} &
+    \tl{imi(w)} &
+    \tl{my} \td{venez} &
+    
+  \tabularnewline
+  \bottomrule
+\end{tabularx}
+
+
+
+
+
+
+\tl{rdj} \td{donner}
+
+\tl{jy}/\tl{jw} \td{venir}
+
+\tl{jnj} \td{apporter}
+
+
+
+(rare)
+
+\tl{ir} \td{agis}
+
+
+\tl{di}  \td{donne} 
+
+
+
+\tl{ir} \td{agissez}
+
+(rares)
+
+
+\tl{rdy}
 ou
-dy
-rares)
+\tl{dy}
 
 L'impératif est un mode qui permet de donner un ordre. Il s'emploie 
 généralement de manière indépendante en tête de phrase.
