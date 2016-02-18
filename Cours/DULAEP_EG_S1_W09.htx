@@ -132,19 +132,23 @@ les épithètes secondaires suivantes :
 \noindent\uline{Les noms du roi sont généralement suivis de 
 bénédictions (formules d'eulogie) :}
 
-\begin{tabular}{ll}
-  \reflectbox{\begin{hieroglyph}anx-DA-s\end{hieroglyph}}, 
-  version abrégée de \tl{anx wDA snb} &
+{\renewcommand\tabularxcolumn[1]{p{#1}}%
+\begin{tabularx}{\textwidth-\parindent}{lX}
+    \reflectbox{\begin{hieroglyph}anx-DA-s\end{hieroglyph}}, 
+    version abrégée de \tl{anx wDA snb} &
     \td{qu'il vive, intact et en bonne santé} (traduit 
-    conventionnellement par \td{vie, santé, force} ou \td{V.S.F.}) \\
-  \reflectbox{\begin{hieroglyph}anx-Dt\end{hieroglyph}} 
-  \tl{anx D.t} &
-    \td{qu'il vive éternellement} \\
-  \reflectbox{\begin{hieroglyph}di-anx-ra-mi\end{hieroglyph}} 
-  \tl{di anx mi Ra}\footnote{Noter l'antéposition honorifique.} &
+    conventionnellement par \td{vie, santé, force} ou \td{V.S.F.})
+  \tabularnewline
+    \reflectbox{\begin{hieroglyph}anx-Dt\end{hieroglyph}} 
+    \tl{anx D.t} &
+    \td{qu'il vive éternellement}
+  \tabularnewline
+    \reflectbox{\begin{hieroglyph}di-anx-ra-mi\end{hieroglyph}} 
+    \tl{di anx mi Ra}\footnote{Noter l'antéposition honorifique.} &
     \td{doué\footnote{L'explication grammaticale de cette 
-    traduction sera donnée au semestre prochain.} de vie comme Rê} \\
-\end{tabular}
+    traduction sera donnée au semestre prochain.} de vie comme Rê}
+  \tabularnewline
+\end{tabularx}}
 
 
 \noindent\uline{La titulature royale comprend aussi fréquemment 
@@ -175,8 +179,10 @@ mention de l'élection du roi par les dieux :}
     \td{souverain} \\
 \end{tabular}
 
-\begin{aparte}
-  Faire l'exercice~18 (à rendre par email)
+\bigskip
+
+\begin{aparte}[before upper={\centering}]
+  \donc{} Faire \textbf{l'exercice~18} (à rendre par email).
 \end{aparte}
 
 
