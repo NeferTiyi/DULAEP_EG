@@ -238,8 +238,8 @@ Il existe évidemment des équivalents hiératiques aux signes numériques.
 
 \bigskip
 
-\begin{exercice}
-  Faire l'exercice~2.
+\begin{exercice}[before upper={\centering}]
+  \donc{} Faire \textbf{l'exercice~2}.
 \end{exercice}
 
 

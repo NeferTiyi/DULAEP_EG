@@ -322,6 +322,6 @@ Il existe une construction \clef{tripartite}, dans laquelle \tl{pw}
 
 \bigskip
 
-\begin{exercice}
-  Faire l'exercice~4
+\begin{exercice}[before upper={\centering\bfseries}]
+  \donc{} Faire \textbf{l'exercice~4} à rendre par email.
 \end{exercice}

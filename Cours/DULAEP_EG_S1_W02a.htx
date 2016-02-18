@@ -83,8 +83,9 @@ schéma fonctionne aussi d'une certaine manière :
 \end{aparte}
 
 \begin{exercice}
-  Faire l'exercice~4 en vous aidant du tableau des signes unilitères 
-  et de celui des signes plurilitères. \emph{Voir corrigé en ligne.}
+  \donc{} Faire \textbf{l'exercice~4} en vous aidant du tableau des 
+  signes unilitères et de celui des signes plurilitères. \emph{Voir 
+  corrigé en ligne.}
 \end{exercice}
 
 \chapter{La disposition des signes}
@@ -153,7 +154,7 @@ expression utilisée dans les manuels de rites de protection pour
 indiquer que l'on doit ajouter ici le nom du patient)
 
 \begin{exercice}
-  Voir le document \doc{5 Déterminatifs} et faire l'exercice~5.
+  \donc{} Voir le document \doc{5 Déterminatifs} et faire l'exercice~5.
   \emph{Voir corrigé en ligne.}
 \end{exercice}
 
@@ -278,8 +279,8 @@ Voir encore :
 \begin{hieroglyph}zS-Y1v\end{hieroglyph} 
   \tl{sS} \td{écrire}
 
-\begin{exercice}
-  Faire l'exercice~6.\emph{Voir corrigé en ligne.}
+\begin{exercice}[before upper={\centering\bfseries}]
+  \donc{} Faire l'exercice~6 \emph{(Voir corrigé en ligne)}.
 \end{exercice}
 
 \chapter{Les codes des signes \hiero[iques]}

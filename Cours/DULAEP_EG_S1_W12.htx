@@ -183,8 +183,8 @@ Ex. \begin{hieroglyph}i-w-k-t:n-nw-w-T14-pA'\end{hieroglyph}\\
 
 \bigskip
 
-\begin{exercice}
-  Faire l'exercice~22 (à rendre par email)
+\begin{exercice}[before upper={\centering}]
+  \donc{} Faire \textbf{l'exercice~22} (à rendre par email).
 \end{exercice}
 
 \begin{center}

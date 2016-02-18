@@ -152,6 +152,8 @@ Ex. \begin{hieroglyph}wn:n-t:Hr-qd nn-imi-m-W-bA:k-A1\end{hieroglyph}
 \emph{Grammaire raisonnée}, exemple~1220)
 On était en train de construire cette enceinte.
 
-\begin{aparte}
-  Faire l'exercice~21 (à rendre par email)
+\bigskip
+
+\begin{aparte}[before upper={\centering}]
+  \donc{} Faire \textbf{l'exercice~21} (à rendre par email).
 \end{aparte}

@@ -686,6 +686,6 @@ propositions :}
 
 \bigskip
 
-\begin{exercice}
-  Faire l'exercice~15 (à rendre par email)
+\begin{exercice}[before upper={\centering}]
+  \donc{} Faire \textbf{l'exercice~15} (à rendre par email).
 \end{exercice}

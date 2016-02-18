@@ -684,6 +684,6 @@ les propositions relatives déterminés, voir la construction avec avec
 
 \bigskip
 
-\begin{exercice}
-  Exercice~1 (à rendre par email)
+\begin{exercice}[before upper={\centering}]
+  \donc{} \textbf{Exercice~1} (à rendre par email).
 \end{exercice}

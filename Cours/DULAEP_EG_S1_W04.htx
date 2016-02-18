@@ -592,8 +592,8 @@ construit de manière indirecte au moyen du nisbé (voir \doc{cours~3})
 
 \bigskip
 
-\begin{exercice}
-  Faire l'exercice~11 \emph{(à rendre par email)}
+\begin{exercice}[before upper={\centering}]
+  \donc{} Faire \textbf{l'exercice~11} \emph{(à rendre par email)}.
 \end{exercice}
 
 \begin{comment}

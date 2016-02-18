@@ -376,6 +376,6 @@ compris à ce point du cours.
 
 \bigskip
 
-\begin{exercice}
-  Exercice~2 à faire
+\begin{exercice}[before upper={\centering}]
+  \donc{} \textbf{Exercice~2} à faire.
 \end{exercice}

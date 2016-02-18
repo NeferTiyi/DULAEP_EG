@@ -143,6 +143,8 @@ mais les principales sont : valeur idéographique ou logographique (un
 signe = un mot), mais aussi et surtout valeur phonétique sur le 
 principe du rébus. Tout ceci est développé dans la prochaine section.
 
-\begin{exercice}
-  \donc{} Exercice~1 à faire
+\bigskip
+
+\begin{exercice}[before upper={\centering}]
+  \donc{} \textbf{Exercice~1} à faire.
 \end{exercice}

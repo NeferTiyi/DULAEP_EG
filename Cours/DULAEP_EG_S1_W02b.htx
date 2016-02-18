@@ -269,9 +269,9 @@ travaux : \fullcite[§~10-11]{Gardiner} ; voir aussi
 \fullcite[p.~II-III]{MW}. Sur les études récentes des signes 
 d'écritures \hiero[iques], voir par exemple, \fullcite{Meeks_2007}.}.
 
-\begin{exercice}
-  Faire l'exercice~8 sur les noms de rois\\
-  Voir corrigé en ligne
+\begin{exercice}[before upper={\centering}]
+  \donc{} Faire \textbf{l'exercice~8} sur les noms de rois.\\
+  Voir corrigé en ligne.
 \end{exercice}
 
 \subsection[Champollion et l'écriture hiératique]

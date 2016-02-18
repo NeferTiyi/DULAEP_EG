@@ -105,8 +105,8 @@ La copule peut être omise :
 
 \bigskip
 
-\begin{exercice}
-  \donc{} Faire l'exercice~5 à rendre par email
+\begin{exercice}[before upper={\centering}]
+  \donc{} Faire \textbf{l'exercice~5} à rendre par email.
 \end{exercice}
 
 \chapter{La \PPN en position non autonome}

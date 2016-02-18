@@ -133,7 +133,7 @@ est masculin.
 \end{notabene}
 
 \begin{exercice}[title={Exercice}]
-  translittérer les mots suivants (en vous aidant des listes de 
+  Translittérer les mots suivants (en vous aidant des listes de 
   signes) et indiquer s'ils sont féminins ou masculins. 
   \emph{Solution page suivante}
 
@@ -205,7 +205,7 @@ Comparer \begin{hieroglyph}km-m-t:niwt\end{hieroglyph} \tl{Km.t}
 sont traités comme des féminins.
 
 \begin{exercice}[title={Solution de l'exercice page 3}]
-  translittérer les mots suivants (en vous aidant des listes de 
+  Translittérer les mots suivants (en vous aidant des listes de 
   signes) et indiquer s'ils sont féminins ou masculins. 
   \emph{Solution page suivante}
 
@@ -542,8 +542,8 @@ a aussi une graphie \begin{hieroglyph}mzH:mzH-A41\end{hieroglyph}.
 
 Nous en verrons d'autres exemples plus tard.
 
-\begin{exercice}
-  Faire l'exercice~9
+\begin{exercice}[before upper={\centering}]
+  \donc{} Faire \textbf{l'exercice~9}.
 \end{exercice}
 
 \section{Le pronom suffixe}
@@ -695,6 +695,6 @@ féminin est \begin{hieroglyph}T\end{hieroglyph} \tl{=T}, observez :
 
 \bigskip
 
-\begin{exercice}
-  Faire l'exercice~10 \emph{(à rendre par email)}
+\begin{exercice}[before upper={\centering\bfseries}]
+  \donc{} Faire l'exercice~10 \emph{(à rendre par email)}.
 \end{exercice}

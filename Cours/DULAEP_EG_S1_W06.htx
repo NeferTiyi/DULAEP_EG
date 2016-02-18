@@ -593,7 +593,7 @@ l'état comme une \textbf{situation} et non une identité.
 
 \bigskip
 
-\begin{exercice}
-  Faire l'exercice~13 (à rendre par email) et l'exercice~14 
-  (épigraphie)
+\begin{exercice}[before upper={\centering}]
+  \donc{} Faire \textbf{l'exercice~13} (à rendre par email) et 
+  \textbf{l'exercice~14} (épigraphie).
 \end{exercice}
