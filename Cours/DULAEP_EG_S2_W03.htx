@@ -84,213 +84,373 @@ De même pour le verbe irrégulier
 À côté des formes attendues, l'égyptien recourt parfois, pour certains 
 verbes, à des impératifs tirés d'un radical différent.
 
-1) \tl{Sm} \td{aller} : \tl{Sm} ou \tl{is}
+\begin{enumerate}
+  \item \tl{Sm} \td{aller} :
+        \begin{hieroglyph}Sm-m-D54\end{hieroglyph} \tl{Sm} ou 
+        \begin{hieroglyph}i-zb\end{hieroglyph} \tl{is} \td{va}.
+  \item \tl{iii}/\tl{iwi} \td{venir} : 
+        \begin{hieroglyph}m:a-i-D54\end{hieroglyph} 
+        \tl{mi} \td{viens} ;
+        \begin{hieroglyph}m:a-i-i-D54\end{hieroglyph} 
+        \tl{my} \td{venez}
 
-2) \tl{iii}/\tl{iwi} \td{venir} :
-\td{va}.
-\tl{mi} \td{viens} ;
-\tl{my} \td{venez}
+  \item À côté des formes attendues, l'impératif de \tl{rdi} 
+        est le plus souvent exprimé au moyen d'un autre radical :
+        \begin{hieroglyph}i-m-M:di'\end{hieroglyph}
+        \tl{im} \td{donne}, \td{place}, \td{fais que}.
+  \item \begin{hieroglyph}m:a\end{hieroglyph} \tl{mi} \td{prends} 
+        (impératif d'un verbe non attesté par ailleurs). Il est 
+        généralement suivi d'un datif suffixal (\tl{n} + pronom 
+        suffixe). En ce cas, cet impératif se note au moyen du 
+        bilitère \begin{hieroglyph}T1\end{hieroglyph} (massue 
+        tronconique, \GaL{} \MdC{T1}, valeur phonétique \tl{mn}) :
+        \begin{hieroglyph}T1:n:k\end{hieroglyph} \tl{mi n=k}, 
+        \td{prends pour toi}. Cet énoncé est très fréquent dans 
+        les légendes de scènes d'offrandes.
+\end{enumerate}
 
-3) À côté des formes attendues, l'impératif de \tl{rdi} est le plus souvent exprimé au moyen d'un autre radical :
-\tl{im} \td{donne}, \td{place}, \td{fais que}.
-
-4) \tl{mi} \td{prends} (impératif d'un verbe non attesté par ailleurs). Il est généralement suivi d'un datif suffixal (\tl{n} + pronom suffixe). En ce cas, cet impératif se note au moyen du bilitère (massue tronconique, \GaL \MdC{T1}, valeur phonétique \tl{mn}) :
-
-\tl{mi n=k}, \td{prends pour toi}. Cet énoncé est très fréquent dans les légendes de scènes d'offrandes.
-
-Tableau de l'impératif
+\subsection*{Tableau de l'impératif}
+% ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 \noindent%
 \begin{tabularx}{\textwidth}{*{6}{X}}
   \toprule
-    \vl{3} &
-    \vg{2} &
-    \vi{3} &
+    \multirow{2}{*}{\vl{3}} &
+    \multirow{2}{*}{\vg{2}} &
+    \multirow{2}{*}{\vi{3}} &
     \tl{rdj} &
     \tl{jjj} / \tl{jwj} &
-    \tl{jnj}
+    \tl{jnj} 
+  \tabularnewline
+     &
+     &
+     &
+    \td{donner} &
+    \td{venir} &
+    \td{apporter}
   \tabularnewline
   \otoprule
-    \tl{sDm} \td{entends} &
-    \tl{mA} \tl{mAA} \td{vois} &
-    \tl{mr} \td{aime} &
-    \tl{imi} &
-    \tl{mi} &
-    \tl{in} \td{apporte}
+    \begin{hieroglyph}sDm-m\end{hieroglyph}
+    \tl{sDm}\\
+    \td{entends} &
+    \begin{hieroglyph}U2:ir-A\end{hieroglyph}
+    \tl{mA}\\
+    \begin{hieroglyph}U2:ir-A-A\end{hieroglyph}
+    \tl{mAA}\\
+    \td{vois} &
+    \begin{hieroglyph}U7:r-A2\end{hieroglyph}
+    \tl{mr}\\
+    \td{aime}\\[\baselineskip]
+    \begin{hieroglyph}ir\end{hieroglyph}
+    \tl{ir}
+    \td{agis} &
+    \begin{hieroglyph}i-m-M:di'\end{hieroglyph}
+    \tl{imi}\\[0.5\baselineskip]
+    \begin{hieroglyph}di'\end{hieroglyph}
+    \tl{di} \rem{(rare)}\\[0.5\baselineskip]
+    \td{donne} &
+    \begin{hieroglyph}m:a-i-D54\end{hieroglyph}
+    \tl{mi}\\
+    \td{viens} &
+    \begin{hieroglyph}ini:\!n\end{hieroglyph}
+    \tl{in}\\
+    \td{apporte}
   \tabularnewline
   \otoprule
-    \tl{sDm(w)} \td{entendez} &
-    \tl{mA} \td{voyez} &
-    \tl{mry} \td{aimez} &
-    \tl{imi(w)} &
-    \tl{my} \td{venez} &
-    
+    \begin{hieroglyph}sDm-m-\!3\s1:.\end{hieroglyph}
+    \tl{sDm(w)}\\
+    \td{entendez} &
+    \begin{hieroglyph}U2:ir-A\end{hieroglyph}
+    \tl{mA}\\
+    \td{voyez} &
+    \begin{hieroglyph}U6:r-i-i-A2\end{hieroglyph}
+    \tl{mry}\\
+    \td{aimez}\\[0.5\baselineskip]
+    \begin{hieroglyph}ir\end{hieroglyph}
+    \tl{ir}
+    \td{agissez} &
+    \begin{hieroglyph}i-m-m-a:3\end{hieroglyph}
+    \tl{imi(w)}\\[\baselineskip]
+    \begin{hieroglyph}r:di':3\end{hieroglyph}
+    \tl{rdy}
+    \begin{hieroglyph}di'-i-i-W\end{hieroglyph}
+    \tl{dy}
+    \rem{(rares)}\\[0.5\baselineskip]
+    \td{donnez} &
+    \begin{hieroglyph}m:a-i-i-D54\end{hieroglyph}
+    \tl{my}\\
+    \td{venez} &
   \tabularnewline
   \bottomrule
 \end{tabularx}
 
-
-
-
-
-
-\tl{rdj} \td{donner}
-
-\tl{jy}/\tl{jw} \td{venir}
-
-\tl{jnj} \td{apporter}
-
-
-
-(rare)
-
-\tl{ir} \td{agis}
-
-
-\tl{di}  \td{donne} 
-
-
-
-\tl{ir} \td{agissez}
-
-(rares)
-
-
-\tl{rdy}
-ou
-\tl{dy}
-
 L'impératif est un mode qui permet de donner un ordre. Il s'emploie 
 généralement de manière indépendante en tête de phrase.
 
-1.
-dwA(w) nsw N(y)-mAat-Ra
-« Adorez le roi Ny-maât-Rê. »
+
+\begin{example}
+  \begin{hieroglyph}
+    dwA-A30-Z3 sw-t:n <-ra:n-U1-mAa:t->
+  \end{hieroglyph}
+
+  \tl{dwA(w) nsw N(y)-mAat-Ra}
+
+  \td{Adorez le roi Ny-maât-Rê.}
+\end{example}
 
 Deux impératifs peuvent se trouver enchaînés.
 
-2.
-Is in n=i ifd m pr=i
-« Va et apporte-moi un vêtement provenant de ma maison. »
+
+\begin{example}
+  \begin{hieroglyph}
+    i--zb-\!D54 ini:\!n n:\!A1 i-f:d-inr-S28-m pr A1
+  \end{hieroglyph}
+
+  \tl{is in n=i ifd m pr=i}
+
+  \td{Va et apporte-moi un vêtement provenant de ma maison.}
+\end{example}
 
 \chapter{Renforcement de l’impératif}
 % ==============================================================
 
 Diverses constructions permettent de renforcer l'impératif.
-Cf. en français : « mange donc »
+
+Cf. en français : « mange donc ».
+
 \begin{itemize}
   \item pronom dépendant de la deuxième personne après l'impératif ;
   \item \tl{n} + pronom suffixe ;
   \item \tl{r} + pronom suffixe ;
-  \item Renforcement par les particules \tl{(i)rf}, \tl{Hm}, \tl{mi} 
+  \item renforcement par les particules \tl{(i)rf}, \tl{Hm}, \tl{mi} 
         = \td{donc}.
 \end{itemize}
 
-* Usage du pronom dépendant de la deuxième personne.
-3.
-wDA(w) tn r a-Xnwtj
-« Avancez, vous, vers le hall d'audience » =
-« Avancez donc vers le hall d'audience ».
+\section{Usage du pronom dépendant de la deuxième personne}
+% ---------------------------------------------------------------------
 
-* Usage du datif suffixal. n + pronom suffixe
-4.
-SxA n=k hrw n qrs
-« Songe donc au jour de l'enterrement. »
+\begin{example}
+  \begin{hieroglyph}
+    w-DA-A-D54:3 t:n:3 r a:Xn-n:nw*t-ti-pr
+  \end{hieroglyph}
 
-* Usage de r + pronom suffixe
-5.
-SA r=k
-« Reste donc là. »
-Sylvie Donnat, égyptien classique 1
-6.
-mA ir=Tn @r nTr.w
-« Voyez donc Horus, dieux ! »
-7.
-Ts Tw r=k it=i Wsir
-« Dresse-toi, toi, mon père Osiris ! »
+  \tl{wDA(w) tn r a-Xnwtj}
 
-* Renforcement par les particules irf (rf)
-,
-Hm,
-mi « donc »
-8.
+  \td{Avancez, vous, vers le hall d'audience} =
+  \td{Avancez donc vers le hall d'audience.}
+\end{example}
 
-sDm irf Tn
-« Écoutez donc. »
+\section{Usage du datif suffixal. \tl{n} + pronom suffixe}
+% ---------------------------------------------------------------------
 
-(colonne sous la flèche)
-mAA snf pn 
-« regarde ce sang »
-=> Réponse :
+\begin{example}
+  \begin{hieroglyph}
+    s-xA-A-A2 n:k h-r-W-ra-1 n :q-r:z-A53-A24
+  \end{hieroglyph}
 
-iw ø wab(.w)
-« c'est purifié », « c'est pur » 
-Proposition à Prédicat Pseudo-verbal avec Parfait ancien.
-Détail d'une scène d'abattage de bovidé.
-Chapelle de Ptahhotep à Saqqâra (Ve dynastie).
+  \tl{sxA n=k hrw n(y) ors}
+
+  \td{Songe donc au jour de l'enterrement.}
+\end{example}
+
+\section{Usage de \tl{r} + pronom suffixe}
+% ---------------------------------------------------------------------
+
+\begin{example}
+  \begin{hieroglyph}z:\!zA-A-iry-D54 r:k\end{hieroglyph}
+
+  \tl{sA r=k}
+
+  \td{Reste donc là.}
+\end{example}
+
+\begin{example}
+  \begin{hieroglyph}U2:ir-A i-r T:n G5 nTr-1:3\end{hieroglyph}
+
+  \tl{mA ir=Tn @r nTr.w}
+
+  \td{Voyez donc Horus, dieux !}
+\end{example}
+
+\begin{example}
+  \begin{hieroglyph}
+    T:z-U39 T-w r:k t:f-A40-A1 ir:st-A40
+  \end{hieroglyph}
+
+  \tl{Ts Tw r=k it=i Wsir}
+
+  \td{Dresse-toi, toi, mon père Osiris !}
+\end{example}
+
+\section{Renforcement par les particules \tl{irf} (\tl{rf}), \tl{Hm}, 
+\tl{mi}, \td{donc}}
+% ---------------------------------------------------------------------
+
+\begin{example}
+  \begin{hieroglyph}sDm-m-\!3\s1:. i-r:f t:n:3\end{hieroglyph}
+
+  \tl{sDm irf Tn}
+
+  \td{Écoutez donc.}
+\end{example}
+
+\begin{example}
+  \begin{minipage}{5cm}
+    \begin{tikzpicture}
+      \node [anchor=south west, inner sep=0] (image) at (0,0) 
+            {\includegraphics[width=5cm]{Ptahhotep}} ;
+      \begin{scope}[
+        x={(image.south east)},
+        y={(image.north west)},
+        red,
+        thick,
+        rounded corners,
+      ]
+        \draw (0.43, 0.99) node {\lgn{1}}
+           -- (0.06, 0.98) -- (0.07, 0.61) -- (0.25, 0.61)
+           -- (0.25, 0.74) -- (0.33, 0.74) -- (0.33, 0.82)
+           -- (0.44, 0.83) -- cycle ;
+
+        \draw (0.64, 0.64) node {\lgn{2}}
+           -- (0.65, 0.50) -- (0.73, 0.30) -- (0.87, 0.30)
+           -- (0.87, 0.54) -- (0.77, 0.64) -- cycle ;
+      \end{scope}
+    \end{tikzpicture}
+    \rem{Détail d'une scène d'abattage de bovidé (Chapelle de 
+    Ptahhotep, Saqqâra, \dyn{5})}
+  \end{minipage}%
+  \hfill%
+  \begin{minipage}{\textwidth-6cm}
+    \lgn{2}\begin{hieroglyph}U2:ir-A-A z:n-f:N33A p:n\end{hieroglyph}
+
+    \tl{mAA snf pn}
+
+    \td{regarde ce sang}
+
+    \bigskip
+
+    \donc{} Réponse :
+
+    \lgn{2}\begin{hieroglyph}jw A6\end{hieroglyph}
+
+    \tl{iw \zero wab(.w)}
+
+    \td{c'est purifié}, \td{c'est pur} 
+
+    \rem{\PPV avec parfait ancien.}
+  \end{minipage}%
+\end{example}
 
 \chapter{Vétitif -- la négation de l'impératif}
 % ==============================================================
 
-Il s'obtient par l'emploi de l'impératif du verbe négatif \tl{imi} 
-\td{n'être pas} qui est \tl{m}. Cet impératif négatif est suivi du 
-verbe à la forme \clef{complément verbal négatif}.
+Il s'obtient par l'emploi de l'impératif du verbe négatif 
+\begin{hieroglyph}imi-m-\!\!n':.\end{hieroglyph} \tl{imi} \td{n'être 
+pas} qui est \begin{hieroglyph}m\end{hieroglyph} \tl{m}. Cet impératif 
+négatif est suivi du verbe à la forme \clef{complément verbal négatif}.
 
-Le complément verbal négatif (appelé infinitif ancien dans le cours de Grandet/Mathieu) est une forme que revêt le verbe derrière certaines négations (derrière le verbe négatif \tl{imi}, ainsi que derrière la négation \tl{tm} -- négation des formes de la conjugaison suffixale en position de verbe subordonné, voir l'an prochain). Elle se caractérise essentiellement par une désinence -w, qui n'apparaît pourtant pas toujours dans la graphie : forme sDmw. Les thèmes verbaux sont brefs pour les verbes faibles et les [2--gem] font la gémination.
+Le complément verbal négatif (appelé infinitif ancien dans le cours de 
+\citeauthor{GM}) est une forme que revêt le verbe derrière certaines 
+négations (derrière le verbe négatif \tl{imi}, ainsi que derrière la 
+négation \begin{hieroglyph}t:tm-m\end{hieroglyph} \tl{tm} -- négation 
+des formes de la conjugaison suffixale en position de verbe 
+subordonné, voir l'an prochain). Elle se caractérise essentiellement 
+par une désinence \tl{-w}, qui n'apparaît pourtant pas toujours dans 
+la graphie : forme \tl{sDmw}. Les thèmes verbaux sont brefs pour les 
+verbes faibles et les \vg{2} font la gémination 
+\begin{hieroglyph}U2:ir-A-A\end{hieroglyph}.
 
-9.
-M Dd(w) grg
-« Ne dis pas de mensonge »
-10.
-M rdi k.t m s.t k.t
-« Ne mets pas une chose à la place d'une autre. »
-A noter : on trouve également pour l'expression du vétitif :
-— la forme périphrasée
-m-ir « ne fais pas l'acte de » + complément négatif
-[— le verbe négatif imi employé au subjonctif (im=f = puisse-t-il ne pas) et suivi du complément
-négatif
-im=k tnmw « Puisses-tu ne pas t'égarer1 ! », mais comme nous verrons
-Ex.
-le subjonctif l'an prochain, cette construction n'est pas à retenir cette année]
+
+\begin{example}
+  \begin{hieroglyph}m Dd' g:r-grg-A2\end{hieroglyph}
+
+  \tl{m Dd(w) grg}
+
+  \td{Ne dis pas de mensonge.}
+\end{example}
+
+\begin{example}
+  \begin{hieroglyph}m r:di' k:t m st-t:pr k:t\end{hieroglyph}
+
+  \tl{m rdi k.t m s.t k.t}
+
+  \td{Ne mets pas une chose à la place d'une autre.}
+\end{example}
+
+\begin{notabene}[À noter]
+  on trouve également pour l'expression du vétitif :
+  \begin{itemize}
+    \item la forme périphrasée \begin{hieroglyph}m-ir\end{hieroglyph} 
+          \tl{m-ir} \td{ne fais pas l'acte de} + complément négatif ;
+    \item le verbe négatif \tl{imi} employé au subjonctif (\tl{im=f} = 
+          \td{puisse-t-il ne pas}) et suivi du complément négatif 
+          (mais comme nous verrons le subjonctif l'an prochain, cette 
+          construction n'est pas à retenir cette année).
+
+          \begin{example}
+            \begin{hieroglyph}imi-m-n':k t:n-nm-m-W-D54\end{hieroglyph}
+
+            \tl{im=k tnmw}
+
+            \td{Puisses-tu ne pas t'égarer !}\footnotemark{}
+          \end{example}
+          \footnotetext{Cf.~\citeauthor{Obsomer}, 
+          \citetitle[{[293]}]{Obsomer}.}
+
+  \end{itemize}
+\end{notabene}
 
 \chapter{L’impératif causatif (présentation préliminaire)}
 % ==============================================================
 
+Une tournure supplémentaire permet d'étendre l'impératif à la 1\iere 
+et à la 3\ieme personne.
 
-Une tournure supplémentaire permet d'étendre l'impératif à la 1re et à la 3e personne.
-On utilise alors l'impératif du verbe rdi
-imi [à ne pas confondre avec le verbe négatif
-imi, voir ci-dessus]. Le verbe rdi signifie « donner, placer », mais suivi d'un infinitif il prend le sens
-de « faire en sorte de (faire quelque chose) ».
-subjonctif :
-imi sDm=f  
-  «  
-  fais  
-  qu'il  
-  entende  
-  »  
-  
-1
-Cf. Obsomer, Grammaire raisonnée, [293].
-signifie « fais que », suivi généralement du
+On utilise alors l'impératif du verbe \tl{rdi}, 
+\begin{hieroglyph}i-m-M:di'\end{hieroglyph} \tl{imi} \emph{(à ne pas 
+confondre avec le verbe négatif \tl{imi}, voir ci-dessus)}. Le verbe 
+\tl{rdi} signifie \td{donner}, \td{placer}, mais suivi d'un infinitif 
+il prend le sens de \td{faire en sorte de (faire quelque chose)}.
+\begin{hieroglyph}i-m-M:di'\end{hieroglyph} signifie \td{fais que}, 
+suivi généralement du subjonctif :
 
-Exemple :
+\begin{example}
+  \begin{hieroglyph}i-m-M:di' sDm-m f\end{hieroglyph}
 
-imi rx=f rn=k
-« Fais en sorte qu'il connaisse ton nom »
-(Conte de Sinouhé)
+  \tl{imi sDm=f}
 
-La négation de cette tournure s'obtient au moyen du vétitif du verbe rdi :
+  \td{Fais qu'il entende !}
+\end{example}
 
-m rd(w)
-« ne fais pas en sorte que »
+\begin{example}
+  \begin{hieroglyph}i-m-M:a r:x-Y1 :f r:n k\end{hieroglyph}
 
-m rd(w) sDm=tw n=sn = « Ne fais pas en sorte qu'on les écoute » = « Qu'on ne les écoutent pas ! »
+  \tl{imi rx=f rn=k} (\source{Conte de Sinouhé})
+
+  \td{Fais en sorte qu'il connaisse ton nom !}
+\end{example}
+
+La négation de cette tournure s'obtient au moyen du vétitif du verbe 
+\tl{rdi} : \begin{hieroglyph}m r:a\end{hieroglyph} \tl{m rd(w)}, 
+\td{ne fais pas en sorte que}.
+
+\begin{example}
+  \begin{hieroglyph}i-m-M:di' sDm-m f\end{hieroglyph}
+
+  \tl{m rd(w) sDm=tw n=sn}
+
+  \td{Ne fais pas en sorte qu'on les écoute !}
+  = \td{Qu'on ne les écoutent pas !}
+\end{example}
 
 Nous reviendrons sur l'impératif causatif l'an prochain quand nous 
 étudierons le subjonctif. Il n'est pas à retenir pour cette année.
 
-Faire l'exercice 3 à rendre par email 
+\bigskip
+
+\begin{exercice}[before upper={\centering}]
+  \donc{} Faire \textbf{l'exercice~3} à rendre par email.
+\end{exercice}
 
 
 
