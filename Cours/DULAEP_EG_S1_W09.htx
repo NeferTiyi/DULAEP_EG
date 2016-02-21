@@ -1,6 +1,7 @@
 %!TEX root = DULAEP_EG.htx
 %##HieroDef.txt
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \part{Cours~9 -- Épigraphie -- Titulature royale}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -105,29 +106,35 @@ les épithètes secondaires suivantes :
 
 \noindent\uline{Accompagnant le nom de roi de \HBE :}
 
-\begin{tabular}{ll}
-  \reflectbox{\begin{hieroglyph}nb:tA:tA\end{hieroglyph}} 
-  \tl{Nb tA.wy} & 
-    \td{Seigneur du Double Pays} \\
-  \reflectbox{\begin{hieroglyph}nTr nfr\end{hieroglyph}} 
-  \tl{NTr nfr} &
-    \td{Dieu parfait} \\
-  \reflectbox{\begin{hieroglyph}nb:ir:x*t\end{hieroglyph}} 
-  \tl{Nb ir(.t) x.t} &
-    \td{Seigneur de l'accomplissement des rites} 
-    (\litt des choses) \\
-\end{tabular}
+{\renewcommand\tabularxcolumn[1]{p{#1}}%
+\begin{tabularx}{\textwidth-\parindent}{lX}
+    \reflectbox{\begin{hieroglyph}nb:tA:tA\end{hieroglyph}} 
+    \tl{Nb tA.wy} & 
+    \td{Seigneur du Double-Pays}
+  \tabularnewline
+    \reflectbox{\begin{hieroglyph}nTr nfr\end{hieroglyph}} 
+    \tl{NTr nfr} &
+    \td{Dieu parfait}
+  \tabularnewline
+    \reflectbox{\begin{hieroglyph}nb:ir:x*t\end{hieroglyph}} 
+    \tl{Nb ir(.t) x.t} &
+    \td{Seigneur de l'accomplissement des rites (\litt des choses)}
+  \tabularnewline
+\end{tabularx}}
 
 \noindent\uline{Accompagnant le nom de fils de Rê :}
 
-\begin{tabular}{ll}
-  \reflectbox{\begin{hieroglyph}nb:xA*3\end{hieroglyph}} 
-  \tl{Nb xa.w} &
-    \td{Seigneur des couronnes} ou \td{Seigneur des apparitions} \\
-  \reflectbox{\begin{hieroglyph}sAra-n-X:t*1-f\end{hieroglyph}} 
-  \tl{\%A Ra n(y) X.t=f} &
-    \td{Fils charnel de Rê} (\litt \td{fils de Rê de son corps}) \\
-\end{tabular}
+{\renewcommand\tabularxcolumn[1]{p{#1}}%
+\begin{tabularx}{\textwidth-\parindent}{lX}
+    \reflectbox{\begin{hieroglyph}nb:xA*3\end{hieroglyph}} 
+    \tl{Nb xa.w} &
+    \td{Seigneur des couronnes} ou \td{Seigneur des apparitions}
+  \tabularnewline
+    \reflectbox{\begin{hieroglyph}sAra-n-X:t*1-f\end{hieroglyph}} 
+    \tl{\%A Ra n(y) X.t=f} &
+    \td{Fils charnel de Rê} (\litt \td{fils de Rê de son corps})
+  \tabularnewline
+\end{tabularx}}
 
 \noindent\uline{Les noms du roi sont généralement suivis de 
 bénédictions (formules d'eulogie) :}
@@ -186,6 +193,7 @@ mention de l'élection du roi par les dieux :}
 \end{aparte}
 
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \part{Cours~9 -- Épigraphie -- Titulature royale en hiératique (partie 
 facultative)}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

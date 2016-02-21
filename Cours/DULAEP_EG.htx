@@ -36,10 +36,14 @@
   DULAEP_EG_S2_W03,
   DULAEP_EG_S2_W04,
   DULAEP_EG_S2_W05,
+  DULAEP_EG_Anx_Prepositions,
+  DULAEP_EG_Anx_Phonologie,
 }
 
 \usepackage{xfrac}
 \usepackage{multicol}
+\usepackage{rotating}
+\usepackage{tipa}
 \usepackage{neferkheops}
 
 \graphicspath{%
@@ -200,6 +204,19 @@
 \include{DULAEP_EG_S2_W04}
 \include{DULAEP_EG_S2_W05}
 
+\appendix
+% \appendixpage
+
+\phantomsection
+\addcontentsline{toc}{book}{\appendixpagename}
+\book*{\appendixpagename}
+
+\include{DULAEP_EG_Anx_Prepositions}
+\include{DULAEP_EG_Anx_Phonologie}
+
+% \part{Principales prépositions simples}
+% \part{Classification des verbes en égyptien classique}
+% \part{Infinitif (forme verbale)}
 
 \backmatter
 \newpage
@@ -212,3 +229,12 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \end{document}
+
+% \chapter{Syntaxe du parfait ancien}
+% =====================================================================
+
+% \section{Prédicat de construction pseudo-verbale S + P}
+% ---------------------------------------------------------------------
+
+% \subsection{Avec l'indicateur d'énonciation \tl{iw}}
+% ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

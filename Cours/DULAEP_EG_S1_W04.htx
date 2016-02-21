@@ -1,6 +1,7 @@
 %!TEX root = DULAEP_EG.htx
 %##HieroDef.txt
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \part{Cours~4 -- Grammaire -- Le groupe nominal et ses composants 
 (suite)}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -197,9 +198,9 @@ Au masculin pluriel, cette catégorie de nisbé se terminera par
 distinguer du \emph{aleph}, \begin{hieroglyph}A\end{hieroglyph} 
 \MdC{G1}.}, phonogramme de valeur \tl{tyw}.
 
-\noindent%
+% \noindent%
+Ex. 
 \begin{minipage}[t]{0.3\textwidth}
-  Ex. :
   \begin{hieroglyph}imnt-t:xAst\end{hieroglyph} \tl{imn.t}, 
   \td{l'Occident}, \td{l'Ouest}
 \end{minipage}%
@@ -218,32 +219,37 @@ distinguer du \emph{aleph}, \begin{hieroglyph}A\end{hieroglyph}
 \paragraph{Les nisbés formés sur des substantifs} ne sont pas très 
 nombreux. Voici quelques exemples en plus de l'exemple précédent :
 
-\begin{tabular}{l@{\qquad\donc\qquad}l}
-  \begin{hieroglyph}rsw-w-niwt\end{hieroglyph} 
+{\renewcommand\tabularxcolumn[1]{m{#1}}%
+\begin{tabularx}{\textwidth-\parindent}{l@{\qquad\donc\qquad}X}
+    \begin{hieroglyph}rsw-w-niwt\end{hieroglyph} 
     \tl{rsw}, \td{le Sud} & 
     \begin{hieroglyph}rsw-y:N23\end{hieroglyph} 
-    \tl{rsy}, \td{méridional} \\
-  \begin{hieroglyph}iAb-t:xAst\end{hieroglyph} 
+    \tl{rsy}, \td{méridional}
+  \tabularnewline
+    \begin{hieroglyph}iAb-t:xAst\end{hieroglyph} 
     \tl{iAb.t}, \td{l'Est}, \td{l'Orient} &
     \begin{hieroglyph}iAb-b-t:y\end{hieroglyph} 
-    \tl{iAbty}, \td{oriental} \\
-  \begin{hieroglyph}mH:t*N23\end{hieroglyph} 
+    \tl{iAbty}, \td{oriental}
+  \tabularnewline
+    \begin{hieroglyph}mH:t*N23\end{hieroglyph} 
     \tl{mH.t}, \td{le Nord} & 
     \begin{hieroglyph}mH:t*y\end{hieroglyph} 
-    \tl{mHty}, \td{septentrional} \\
-  \begin{hieroglyph}niwt:t*1\end{hieroglyph} 
+    \tl{mHty}, \td{septentrional}
+  \tabularnewline
+    \begin{hieroglyph}niwt:t*1\end{hieroglyph} 
     \tl{niw.t}, \td{ville} & 
     \begin{hieroglyph}niwt:t*y\end{hieroglyph} 
-    \tl{niwty}, \td{de la ville}, \td{local}\\
-  \begin{hieroglyph}Axt:t*1\end{hieroglyph} 
+    \tl{niwty}, \td{de la ville}, \td{local}
+  \tabularnewline
+    \begin{hieroglyph}Axt:t*1\end{hieroglyph} 
     \tl{Ax.t} \td{l'horizon} & 
     \begin{hieroglyph}Axt:t*y\end{hieroglyph} 
-    \tl{Axty} \td{horizontain}, \td{de l'horizon}\\
-\end{tabular}
+    \tl{Axty} \td{horizontain}, \td{de l'horizon}
+  \tabularnewline
+\end{tabularx}}
 
 \bigskip
 
-% \noindent Exemple :\\
 \begin{example}
   \begin{hieroglyph}N17:N17:N17-rsw-N23:3\end{hieroglyph} 
   \tl{tA.w rsy.w}, \td{les terres méridionales}.
@@ -282,31 +288,40 @@ Un exemple fréquent : \begin{hieroglyph}G5-Axt:Axt\end{hieroglyph}
 plus important. Il est très utilisé. Voici une liste indicative des 
 principales prépositions et de leurs dérivés.
 
-\begin{tabular}{l@{\qquad\donc\qquad}l}
-  \begin{hieroglyph}m\end{hieroglyph} 
+% \begin{tabular}{l@{\qquad\donc\qquad}l}
+{\renewcommand\tabularxcolumn[1]{m{#1}}%
+\begin{tabularx}{\textwidth-\parindent}{l@{\qquad\donc\qquad}X}
+    \begin{hieroglyph}m\end{hieroglyph} 
     \tl{m}, \td{dans} & 
     \begin{hieroglyph}i-imi-m-y\end{hieroglyph} 
-    \tl{imy}, \td{qui est dans}\\
-  \begin{hieroglyph}n\end{hieroglyph} 
+    \tl{imy}, \td{qui est dans}
+  \tabularnewline
+    \begin{hieroglyph}n\end{hieroglyph} 
     \tl{n}, \td{à, pour} & 
     \begin{hieroglyph}n:y\end{hieroglyph} \tl{ny}, 
     plus souvent \begin{hieroglyph}n\end{hieroglyph} \tl{n(y)}, 
     féminin \begin{hieroglyph}n:t\end{hieroglyph} \tl{n(y).t}, 
-    \td{provenant de, destiné à}\\
-  \begin{hieroglyph}r\end{hieroglyph} \tl{r}, \td{vers, à} & 
+    \mbox{\td{provenant de, destiné à}}
+  \tabularnewline
+    \begin{hieroglyph}r\end{hieroglyph} \tl{r}, \td{vers, à} & 
     \begin{hieroglyph}i-r:y-iry\end{hieroglyph} 
-    \tl{iry}, \td{qui est en relation avec}\\
-  \begin{hieroglyph}Hr*1\end{hieroglyph} \tl{Hr}, \td{sur} & 
+    \tl{iry}, \td{qui est en relation avec}
+  \tabularnewline
+    \begin{hieroglyph}Hr*1\end{hieroglyph} \tl{Hr}, \td{sur} & 
     \begin{hieroglyph}Hr_r:y-pt\end{hieroglyph} 
-    \tl{Hry}, \td{qui est sur, supérieur}\\
-  \begin{hieroglyph}Hr:r\end{hieroglyph} \tl{Xr}, \td{sous} & 
+    \tl{Hry}, \td{qui est sur, supérieur}
+  \tabularnewline
+    \begin{hieroglyph}Hr:r\end{hieroglyph} \tl{Xr}, \td{sous} & 
     \begin{hieroglyph}Hr:r-y:Y1\end{hieroglyph} 
-    \tl{Xry}, \td{qui est sous}\\
-  \begin{hieroglyph}tp*1\end{hieroglyph} \tl{tp}, \td{sur} & 
+    \tl{Xry}, \td{qui est sous}
+  \tabularnewline
+    \begin{hieroglyph}tp*1\end{hieroglyph} \tl{tp}, \td{sur} & 
     \begin{hieroglyph}tp:p*y\end{hieroglyph} \tl{tpy}, 
     \td{qui est sur}, aussi 
-    \begin{hieroglyph}T8\end{hieroglyph} \tl{tpy}, \td{premier}\\
-\end{tabular}
+    \begin{hieroglyph}T8\end{hieroglyph} \tl{tpy}, \td{premier}
+  \tabularnewline
+\end{tabularx}}
+% \end{tabular}
 
 \bigskip
 
@@ -509,14 +524,18 @@ construit de manière indirecte au moyen du nisbé (voir \doc{cours~3})
   \centering
   \begin{hieroglyph}pr-1-f-p:n\end{hieroglyph}
 
-  \tl{pr pn} \td{cette maison}
+  \tl{pr pn}
+
+  \td{cette maison}
 \end{minipage}%
 \quad mais \quad%
 \begin{minipage}[t]{0.4\textwidth}
   \centering
   \begin{hieroglyph}M22-M22-n-pr-1\end{hieroglyph}
 
-  \tl{nn n(y) pr} \td{ces maisons}\\
+  \tl{nn n(y) pr}
+
+  \td{ces maisons}\\
   (\litt \td{cela des maisons})
 \end{minipage}
 

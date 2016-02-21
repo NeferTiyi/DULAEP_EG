@@ -82,9 +82,9 @@ employés dans des corps expéditionnaires égyptiens et les scribes
 Par exemple, le signe de la maison 
 \begin{hieroglyph}pr\end{hieroglyph}, \tl{pr} en égyptien ancien, 
 mais \emph{bêt} en sémitique, a été utilisé, sur le principe de 
-l'\info{acrophonie}, pour noter le son [b]. Notre système graphique 
-alphabétique, bien que totalement distinct du système \hiero égyptien, 
-est donc historiquement lié aux premières écritures 
+l'\info{acrophonie}, pour noter le son \textipa{[b]}. Notre système 
+graphique alphabétique, bien que totalement distinct du système 
+\hiero égyptien, est donc historiquement lié aux premières écritures 
 égyptiennes\footfullcite[Sur la question de l'invention des 
 différentes écritures, ][]{Glassner_2009}.
 
@@ -290,7 +290,7 @@ difficiles à mémoriser pour un débutant.
   \centerfloat
   \begin{hieroglyph}m\ \end{hieroglyph}
 
-  \Hiero[e] : chouette valeur phonétique [m]
+  \Hiero[e] : chouette valeur phonétique \textipa{[m]}
 \end{minipage}%
 \hfill%
 \begin{minipage}[b]{0.45\textwidth}

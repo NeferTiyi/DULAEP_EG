@@ -1,0 +1,149 @@
+%!TEX root = DULAEP_EG.htx
+%##HieroDef.txt
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\chapter{Principales prépositions simples}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+{
+\DisplayHieroglyphs
+\renewcommand{\labelitemi}{\donc{}}
+
+\noindent%
+                % {|X|X|}
+\begin{tabularx}{\textwidth}
+                {|>{\larger}M{5cm}|X|} 
+  \hline
+    \begin{hieroglyph}m\end{hieroglyph}\quad\tl{m}\\[1em]
+    (\begin{hieroglyph}i-m\end{hieroglyph}\quad\tl{jm}, 
+    devant \mbox{un pronom suffixe}) &
+    \vspace*{1em}
+
+    \textbf{\larger\td{dans}}
+
+    \vspace*{1em}
+
+    \begin{itemize}
+      \item \textbf{Localisation spatiale :}
+            \begin{itemize}
+              \item \td{dans}
+              \item aussi origine \td{(venant) de}
+            \end{itemize}
+      \item \textbf{Localisation temporelle :}
+            \begin{itemize}
+              \item \td{pendant}, \td{lors de}
+            \end{itemize}
+      \item \textbf{Disposition mentale ou physique :}
+            \begin{itemize}
+              \item \td{dans} (la joie\dots)
+            \end{itemize}
+      \item \textbf{Manière :}
+            \begin{itemize}
+              \item \td{conformément à}, \td{suivant}
+            \end{itemize}
+      \item \textbf{Moyen :}
+            \begin{itemize}
+              \item \td{au moyen de}
+            \end{itemize}
+      \item \textbf{Équivalence (ou \tl{m} d'état) :}
+            \begin{itemize}
+              \item \td{en tant que}, \td{comme}
+            \end{itemize}
+    \end{itemize}
+  \tabularnewline
+  \hline
+    \begin{hieroglyph}n\end{hieroglyph}\quad\tl{n} &
+    \vspace*{1em}
+
+    \textbf{\larger\td{à}, \td{pour}, \td{destiné à}}
+
+    \vspace*{1em}
+  \tabularnewline
+  \hline
+    \begin{hieroglyph}r\end{hieroglyph}\quad\tl{r}\\[1em]
+    (\begin{hieroglyph}i-r\end{hieroglyph}\quad\tl{jr}, 
+    parfois devant \mbox{un pronom suffixe}) &
+    \vspace*{1em}
+
+    \textbf{\larger\td{vers}, \td{jusqu'à}, \td{contre}}
+
+    \vspace*{1em}
+
+    \begin{itemize}
+      \item \textbf{Localisation spatiale}
+      \item \textbf{But}
+      \item \textbf{Équivalence dans le futur (ou \tl{r} d'état) :}
+            \begin{itemize}
+              \item \td{en tant que}
+            \end{itemize}
+    \end{itemize}
+  \tabularnewline
+  \hline
+    \begin{hieroglyph}Hr-1\end{hieroglyph}\quad\tl{Hr}\\[1em]
+    (\begin{hieroglyph}Hr:r\end{hieroglyph} 
+    devant \mbox{un pronom suffixe}) &
+    \vspace*{1em}
+
+    \textbf{\larger\td{sur}}
+
+    \vspace*{1em}
+
+    \begin{itemize}
+      \item \textbf{Localisation spatiale}
+      \item \textbf{\td{au sujet de}}
+    \end{itemize}
+  \tabularnewline
+  \hline
+    \begin{hieroglyph}Xr:r\end{hieroglyph}\quad\tl{Xr} &
+    \vspace*{1em}
+
+    \textbf{\larger\td{sous}}
+
+    \vspace*{1em}
+
+    \begin{itemize}
+      \item \textbf{Localisation spatiale}
+      \item \textbf{Sens particuliers :}
+            \begin{itemize}
+              \item \td{chargé de}, \td{apportant}
+              \item \td{sous l'effet de}
+            \end{itemize}
+    \end{itemize}
+  \tabularnewline
+  \hline
+    \begin{hieroglyph}mi-i\end{hieroglyph}\quad\tl{mj} &
+    \vspace*{1em}
+
+    \textbf{\larger\td{comme}, \td{selon}, \td{conformément à}}
+
+    \vspace*{1em}
+  \tabularnewline
+  \hline
+    \begin{hieroglyph}H-n:a\end{hieroglyph}\quad\tl{Hna} &
+    \vspace*{1em}
+
+    \textbf{\larger\td{avec}}
+
+    \vspace*{1em}
+  \tabularnewline
+  \hline
+    \begin{hieroglyph}x:r\end{hieroglyph}\quad\tl{xr} &
+    \vspace*{1em}
+
+    \textbf{\larger\td{auprès de}}
+
+    \vspace*{1em}
+  \tabularnewline
+  \hline
+    \begin{hieroglyph}tp:1\end{hieroglyph}\quad\tl{tp} &
+    \vspace*{1em}
+
+    \textbf{\larger\td{sur}}
+
+    \vspace*{1em}
+  \tabularnewline
+  \hline
+
+\end{tabularx}
+
+}

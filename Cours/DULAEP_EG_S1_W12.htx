@@ -1,7 +1,8 @@
 %!TEX root = DULAEP_EG.htx
 %##HieroDef.txt
 
-\part{Cours 12 -- Grammaire -- Récapitulatif et compléments}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\part{Cours~12 -- Grammaire -- Récapitulatif et compléments}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \chapter{Récapitulatif du semestre}
@@ -18,11 +19,10 @@ les équivalents du démonstratif pluriel : \tl{nn n(y)}, etc.
 \section{Structure de la phrase non verbale, type à prédicat 
 adverbial ou à construction pseudo-verbale}
 % --------------------------------------------------------------
-La proposition à prédicat adverbial (description de situation) 
-et la phrase avec construction pseudo-verbal \tl{Hr}/\tl{m}
-ou \tl{r} + infinitif ont le schéma suivant : 
-\primo élément introducteur (par défaut \tl{iw}), le sujet et 
-le prédicat.
+La \PPA (description de situation) et la phrase avec construction 
+pseudo-verbal \tl{Hr}/\tl{m} ou \tl{r} + infinitif ont le schéma 
+suivant : \primo élément introducteur (par défaut \tl{iw}), le 
+sujet et le prédicat.
 
 \section{L'égyptien classique a plusieurs séries de pronoms 
 personnels}
@@ -63,58 +63,75 @@ cet aspect au semestre~2, et plus encore en 2\ieme~année.
 légendes de scènes}
 % ==============================================================
 
-Un substantif ou un infinitif peut être utilisé de manière 
-absolue, c'est-à-dire comme un énoncé complet ayant la fonction 
-de titre de section ou de légende\footnote{C'est ce que 
-\citeauthor{GM} appellent les \frquote{énoncés-titres}. 
-\citeauthor{Gardiner} (\citetitle[][§~89.9 et §~306]{Gardiner}) 
-parle de nom ou d'infinitif avec \frquote{function of a sentence}.}. 
-Par exemple, au début d'une nouvelle recette médicinale, on trouvera 
-le titre :
+Un substantif ou un infinitif peut être utilisé de manière absolue, 
+c'est-à-dire comme un énoncé complet ayant la fonction de titre de 
+section ou de légende\footnote{C'est ce que \citeauthor{GM} appellent 
+les \frquote{énoncés-titres}. \citeauthor{Gardiner} 
+(\citetitle[§~89.9 et §~306]{Gardiner}) parle de nom ou d'infinitif 
+avec \emph{\frquote{function of a sentence}}.}. Par exemple, au début 
+d'une nouvelle recette médicinale, on trouvera le titre :
+
 \begin{center}
-  \begin{hieroglyph}k:t-pXr:r:t-N33:3\end{hieroglyph}\\
-  \tlr{k.t pXr.t}\\
-  \tdr{Autre remède : \dots}\\
-  (les titres sont généralement à l'encre rouge dans les 
-  manuscrits en hiératique ou en \hiero linéaire)
+  \begin{hieroglyph}k:t-pXr:r:t-N33:3\end{hieroglyph}
+
+  \tlr{k.t pXr.t}
+
+  \tdr{Autre remède : \dots}
+
+  \rem{(les titres sont généralement à l'encre rouge dans les 
+  manuscrits en hiératique ou en \hiero linéaire)}
 \end{center}
 
 \begin{center}
-  \begin{hieroglyph}k-i-i-r-1\end{hieroglyph}\\
-  \tlr{ky r(A)}\\
+  \begin{hieroglyph}k-i-i-r-1\end{hieroglyph}
+
+  \tlr{ky r(A)}
+
   \tdr{Autre formule : \dots}
 \end{center}
 
+\bigskip
+
 Les titres ou légendes de scène peuvent parfois présenter un 
-infinitif.
+infinitif :
 
 \begin{center}
   \begin{hieroglyph}
     Y1:t*1-V12:1-n-t-d:r-A24-M:t-Z6-M:t-t-Z6
-  \end{hieroglyph}\\
-  \tlr{mDA.t n(y).t dr mwt mwt(.t)\dots}\\
-  Livre de chasser un mort, une morte\dots\\
-  Livre pour chasser un mort, une morte\dots\\
-  Amulette écrite, Papyrus \DeM~40 (époque ramesside)
-  Titre avec Nom (mDA.t) et complément de nom au génitif 
-  direct comportant un infinitif
+  \end{hieroglyph}
+
+  \tl{mDA.t n(y).t dr mwt mwt(.t)\dots}\\
+  Amulette écrite, Papyrus \source{\DeM}~40 (époque ramesside)
+
+  \td{Livre de chasser un mort, une morte\dots}\\
+  = \td{Livre pour chasser un mort, une morte\dots}
+
+  \rem{Titre avec Nom (\tl{mDA.t}) et complément de nom au génitif 
+  direct comportant un infinitif}
 \end{center}
 
-\textbf{L'agent de l'infinitif peut être introduit par la 
-préposition \tl{in} \frquote{par} :}
+\bigskip
 
-\begin{hieroglyph}
-  N41:z:t-A1-r-sDm-m-spr:r-w-A2-+l (\dots) +s-i-n-irypat-HAtya-
-  +l (\dots) +s-r:x:Y1-mi:1-mi
-\end{hieroglyph}\\
-\tl{Hms.t r sDm sprw (\dots) in r-pa(.t) HAty-a (\dots) 
-Rx-mi-Ra}\\
-S'asseoir pour écouter le plaignant (\dots) par le noble, 
-le prince local (\dots) Rekhmirê (ex. Gardiner, 
-\emph{Egyptian Grammar}, §~305)\\
-Infinitif de  \tl{Hmsi} \vi{4}.\\
-(Légende d'une scène dans la Tombe Thébaine~100, de Rekhmirê, 
-vizir sous Touthmosis~III, \dyn{xviii}, \fref{fig:TT100}).
+\textbf{L'agent de l'infinitif peut être introduit par la 
+préposition \tl{in}, \td{par} :}
+
+\begin{example}
+  \begin{hieroglyph}
+    N41:z:t-A1 r sDm-m spr:r-w-A2 
+    +l (\dots) +s-i-n irypat HAtya 
+    +l (\dots) +s-r:x:Y1-ra:1-mi
+  \end{hieroglyph}
+
+  \tl{Hms.t r sDm sprw (\dots) in r-pa(.t) HAty-a (\dots) Rx-mi-Ra}\\
+  (ex. \citeauthortitle[§~305]{Gardiner})\\
+  \rem{(Légende d'une scène dans la Tombe Thébaine~100, de Rekhmirê, 
+  vizir sous Touthmosis~III, \dyn{xviii}, \fref{fig:TT100})}
+
+  \td{S'asseoir pour écouter le plaignant (\dots) par le noble, le 
+  prince local (\dots) Rekhmirê.}
+
+  Infinitif de \tl{Hmsi} \vi{4}.
+\end{example}
 
 \begin{figure}
   \includegraphics[height=8cm]{TT100_6519-20}
@@ -140,18 +157,20 @@ partielles sont des questions plus précises, portant sur un
 élément de réponse.
 
 \paragraph{\emph{L'interrogation globale}} se forme avec un 
-auxiliaire d'énonciation spécifique : \tl{in} ou \tl{in-iw} 
+auxiliaire d'énonciation spécifique :\\ \tl{in} ou \tl{in-iw} 
 \begin{hieroglyph}i-n-i-w\end{hieroglyph} \td{est-ce que ?}.
 
-\begin{center}
-  \begin{hieroglyph}i-n-i-w-k-r-z:A1*1-n:n-nH-h-h-ra\end{hieroglyph}\\
-  (Oasien B\,126)\\
-  \tl{in-iw=k r s n(y) nHH ?}\\
-  Est-ce que tu seras un homme d'éternité ?\\
-  Seras-tu un homme d'éternité ?\\
-  Proposition à prédicat adverbial avec \tl{r} d'état, 
-  proposition interrogative
-\end{center}
+\begin{example}
+  \begin{hieroglyph}i-n-i-w k r z:A1*1 n :n-nH-h-h-ra\end{hieroglyph}
+
+  \tl{in-iw=k r s n(y) nHH ?}
+  (\source{Oasien} B\,126)
+
+  \td{Est-ce que tu seras un homme d'éternité ?}\\
+  = \td{Seras-tu un homme d'éternité ?}
+
+  \rem{\PPA avec \tl{r} d'état, proposition interrogative}
+\end{example}
 
 \paragraph{\emph{L'interrogation partielle}} se forme avec 
 un pronom interrogatif.
@@ -171,15 +190,23 @@ un pronom interrogatif.
 L'adverbe interrogatif se place à la place qu'occuperait 
 la réponse dans la phrase affirmative :
 
-Ex. \begin{hieroglyph}i-w-T:n-mi-i-i-x:Y1\end{hieroglyph}\\
-    \tl{iw=Tn mi ix ?}\\
-    \emph{Vous êtes comme quoi ?}\\
-    Comment allez-vous ?
+\begin{example}[title={Exemples :}]
+  \begin{hieroglyph}jw T:n mi-i i-x:Y1\end{hieroglyph}
 
-Ex. \begin{hieroglyph}i-w-k-t:n-nw-w-T14-pA'\end{hieroglyph}\\
-    \tl{iw=k tnw ?}\\
-    \emph{Tu es où ?}\\
-    où es-tu ?
+  \tl{iw=Tn mi ix ?}
+
+  \td{Vous êtes comme quoi ?}\\
+  = \td{Comment allez-vous ?}
+
+  \bigskip
+
+  \begin{hieroglyph}jw k t:n-nw-w-T14-pA'\end{hieroglyph}
+
+  \tl{iw=k tnw ?}
+
+  \td{Tu es où ?}\\
+  = \td{Où es-tu ?}
+\end{example}
 
 \bigskip
 

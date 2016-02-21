@@ -1,6 +1,7 @@
 %!TEX root = DULAEP_EG.htx
 %##HieroDef.txt
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \part{Cours~5 -- Grammaire -- Le groupe nominal et ses composants 
 (suite)}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -18,8 +19,8 @@ nominal.
 
   \td{*chaque sienne servante parfaite que voici}
 
-  \rem(ordre des mots: 1.~Substantif 2.~Pronom suffixe 
-  3.~Démonstratif singulier 4.~Adjectif indéfini 5.~Autre adjectif
+  \rem{ordre des mots: 1.~Substantif 2.~Pronom suffixe 
+  3.~Démonstratif singulier\\4.~Adjectif indéfini 5.~Autre adjectif}
 \end{center}
 
 Nous continuons notre exploration avec des éléments de syntaxe plus 
@@ -309,7 +310,7 @@ utile pour procéder aux analyses grammaticales et traduire.
   \tl{pr.w=i nb.w ipn nfr.w n(y) inr}
 
   \td{Toutes ces miennes belles maisons en pierre}\\
-  (Malaise/Winand, \emph{Grammaire raisonnée}, ex.~76)
+  (\citeauthortitle[ex.~76]{MW})
 \end{center}
 
 \begin{enumerate}
@@ -321,6 +322,8 @@ utile pour procéder aux analyses grammaticales et traduire.
   \item Génitif indirect
 \end{enumerate}
 
+\bigskip
+
 \begin{exercice}
   \donc{} Retenez tout ceci et relisez-le au besoin.
 
@@ -331,6 +334,7 @@ utile pour procéder aux analyses grammaticales et traduire.
 \end{exercice}
 
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \part{Cours~5 -- Écriture, 2\ieme partie}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -461,8 +465,8 @@ Nous n'avons pas encore vu d'exemple de ligatures entre deux signes.
   sachant que le dernier signe est le déterminatif des verbes de 
   mouvements (réponse page suivante)
 
-  \noindent Source du fac-similé : G.~\bsc{MÖLLER}, \emph{Hieratische 
-  Lesestücke~I}, Leipzig, 1909, pl.~6 (P.~Berlin~10499 Rs-Sinouhé)
+  \noindent Source du fac-similé : \fullcite[pl.~6]{HL} 
+  (\source{P.~Berlin~10499 Rs-Sinouhé})
 \end{exercice}
 
 \begin{exercice}

@@ -1,17 +1,9 @@
 %!TEX root = DULAEP_EG.htx
 %##HieroDef.txt
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \part{Cours~3 -- Grammaire -- L'impératif}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-% \chapter{Syntaxe du parfait ancien}
-% =====================================================================
-
-% \section{Prédicat de construction pseudo-verbale S + P}
-% ---------------------------------------------------------------------
-
-% \subsection{Avec l'indicateur d'énonciation \tl{iw}}
-% ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Nous avons abordé quelques formes verbales : l'infinitif 
 (Cours~\ref{prt:ppv} (\Cref{cha:inf}) du semestre~1) et le parfait 
@@ -394,8 +386,7 @@ verbes faibles et les \vg{2} font la gémination
 
             \td{Puisses-tu ne pas t'égarer !}\footnotemark{}
           \end{example}
-          \footnotetext{Cf.~\citeauthor{Obsomer}, 
-          \citetitle[{[293]}]{Obsomer}.}
+          \footnotetext{Cf.~\citeauthortitle[§~293]{Obsomer}.}
 
   \end{itemize}
 \end{notabene}

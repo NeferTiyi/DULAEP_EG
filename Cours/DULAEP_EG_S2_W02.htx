@@ -1,20 +1,12 @@
 %!TEX root = DULAEP_EG.htx
 %##HieroDef.txt
 
-\part[Cours~2 -- Écriture~3 -- Les numéraux]{Cours~2 -- Écriture~3 -- Les numéraux\footnote{D'après \citeauthortitle{MW}, chap. XV. Voir en outre,
-P. Grandet, B. Mathieu, Cours d'égyptien hiéroglyphique, chap. 21.1-3 ; Cl. Obsomer, Égyptien hiéroglyphique,
-p. 59-60.
-}}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-% \chapter{Syntaxe du parfait ancien}
-% =====================================================================
-
-% \section{Prédicat de construction pseudo-verbale S + P}
-% ---------------------------------------------------------------------
-
-% \subsection{Avec l'indicateur d'énonciation \tl{iw}}
-% ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+\part[Cours~2 -- Écriture~3 -- Les numéraux]{Cours~2 -- Écriture~3 -- 
+Les numéraux\footnote{D'après \citeauthortitle[chap.~XV]{MW}. 
+Voir en outre, \citeauthortitle[chap.~21.1-3]{GM} ; 
+\citeauthortitle[59-60]{Obsomer}.}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \chapter{Les cardinaux}
 % =====================================================================
@@ -244,19 +236,8 @@ Il existe évidemment des équivalents hiératiques aux signes numériques.
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-
 \part{Cours~2 -- Épigraphie~3 -- L'expression de la datation}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-% \chapter{Syntaxe du parfait ancien}
-% =====================================================================
-
-% \section{Prédicat de construction pseudo-verbale S + P}
-% ---------------------------------------------------------------------
-
-% \subsection{Avec l'indicateur d'énonciation \tl{iw}}
-% ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De nombreux monuments sont datés, ce qui constitue une donnée 
 évidemment importante pour l'historien. L'expression de la date fait 
@@ -284,7 +265,7 @@ une durée ; il est perçu par les changements qui le rythment.
 \paragraph{Quelques éléments du lexique égyptien du temps :}
 
 \begin{itemize}\setlength{\itemsep}{1em}
-  \item Division du temps :\\
+  \item Divisions du temps :\\
         \begin{tabular}{lll}
           \td{année}      & \tl{rnp.t} & 
           \begin{hieroglyph}rnp-t:1\end{hieroglyph}\\
@@ -311,10 +292,10 @@ une durée ; il est perçu par les changements qui le rythment.
         \begin{hieroglyph}
           h-A-w-Y1:3 +l\,,\quad+s h-A-w-ra:3
         \end{hieroglyph}\quad
-        \citeauthortitle[157]{Faulkner}\\
+        (\citeauthortitle[157]{Faulkner})\\
         \tl{rk}\quad
         \begin{hieroglyph}r:k-ra\end{hieroglyph}\quad
-        \citeauthortitle[153]{Faulkner}
+        (\citeauthortitle[153]{Faulkner})
   \item Les \textbf{notions de pérennité, d'éternité} : deux mots 
         sont associés au temps dans son aspect durable : l'éternité 
         \tl{nHH} \begin{hieroglyph}nH-H-H-ra\end{hieroglyph} (abrégé 

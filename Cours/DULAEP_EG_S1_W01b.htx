@@ -1,6 +1,7 @@
 %!TEX root = DULAEP_EG.htx
 %##HieroDef.txt
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \part{Cours~1, suite -- Le système graphique (suite)}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -50,11 +51,11 @@ Cl.~\bsc{Obsomer}, \emph{Grammaire pratique de l'égyptien \hiero}
 (voir bibliographie).
 
 \paragraph{Les phonèmes de la langue égyptienne ancienne}
-L'égyptien ancien possède 27~phonèmes consonantiques (voir le 
-document \doc{Tableau phonologique de l'égyptien ancien}). Il est à 
-noter que le phonème [l] n'a pas de signe propre. Son existence est 
-établie par comparatisme avec d'autres langues afro-asiatiques et 
-avec le copte où le phonème est bien attesté.
+L'égyptien ancien possède 27~phonèmes consonantiques (voir 
+le document \doc{Tableau phonologique de l'égyptien ancien}).
+Il est à noter que le phonème \textipa{[l]} n'a pas de signe propre. 
+Son existence est établie par comparatisme avec d'autres langues 
+afro-asiatiques et avec le copte où le phonème est bien attesté.
 
 \paragraph{La vocalisation des textes égyptiens}
 L'écriture \hiero est consonantique ; elle ne note pas les voyelles. 
