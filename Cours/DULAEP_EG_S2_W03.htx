@@ -288,9 +288,13 @@ Cf. en français : « mange donc ».
 
 \begin{example}
   \begin{minipage}{5cm}
+    \addtolof{%
+      Détail d'une scène d'abattage de bovidé 
+      (Chapelle de Ptahhotep, Saqqâra, \dyn{5})%
+    }
     \begin{tikzpicture}
       \node [anchor=south west, inner sep=0] (image) at (0,0) 
-            {\includegraphics[width=5cm]{Ptahhotep}} ;
+            {\includegraphics[width=5cm]{Ptahhotep_1}} ;
       \begin{scope}[
         x={(image.south east)},
         y={(image.north west)},

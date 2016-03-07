@@ -2,7 +2,7 @@
 %##HieroDef.txt
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\part{Cours~9 -- Épigraphie -- Titulature royale}
+\part{Cours~9 -- Épigraphie -- Titulature royale}\label{prt:titulature}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 La titulature royale est un élément important de l'idéologie 
@@ -226,6 +226,10 @@ Voici à titre d'exemple la titulature de Sésostris~III.
 \end{aparte}
 
 
+\addtolof{%
+  Titulature de Sésostris~III en hiératique 
+  (Papyrus de Lahoun \inv{UC\,32157})%
+}
 \noindent%
 \begin{minipage}[b]{4cm}
   \includegraphics[height=13cm]{SesostrisIII_hieratique}
@@ -234,7 +238,7 @@ Voici à titre d'exemple la titulature de Sésostris~III.
 \begin{minipage}[b]{\textwidth-4cm}
   D'après G.~\bsc{Möller}, \emph{Hieratische Lesestücke}~1, Leipzig,
   1927, p.~4 (extrait d'un papyrus de Lahoun/Kahoun, portant des 
-  hymnes à Sésostris~III). Papyrus UC\,32157.
+  hymnes à Sésostris~III). Papyrus \inv{UC\,32157}.
   
   Cf. M.~\bsc{Collier}, S.~\bsc{Quirke}, \emph{The UCL Lahun Papyri. 
   Religious, Literary, Legal, Mathematical and Medical}, 

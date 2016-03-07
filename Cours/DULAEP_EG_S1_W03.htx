@@ -712,6 +712,6 @@ féminin est \begin{hieroglyph}T\end{hieroglyph} \tl{=T}, observez :
 
 \bigskip
 
-\begin{exercice}[before upper={\centering\bfseries}]
-  \donc{} Faire l'exercice~10 \emph{(à rendre par email)}.
+\begin{exercice}[before upper={\centering}]
+  \donc{} Faire \textbf{l'exercice~10} \emph{(à rendre par email)}.
 \end{exercice}

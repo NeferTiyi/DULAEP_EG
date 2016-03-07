@@ -1,6 +1,6 @@
 \documentclass[%
   % draft, %
-  french, %
+  ngerman, english, french, %
   hiero, %
   coptic, %
   % background, %
@@ -36,6 +36,8 @@
   DULAEP_EG_S2_W03,
   DULAEP_EG_S2_W04,
   DULAEP_EG_S2_W05,
+  DULAEP_EG_S2_W06,
+  DULAEP_EG_S2_W07,
   DULAEP_EG_Anx_Prepositions,
   DULAEP_EG_Anx_Phonologie,
 }
@@ -100,6 +102,16 @@
 }
 
 
+\newcommand{\insertimg}{}
+
+\newcommand{\addtolof}[1]{%
+  \addcontentsline{lof}{figure}{%
+    \hspace*{\cftfigurenumwidth}%
+    #1%
+  }
+}
+
+
 \renewcommand{\hiero}[1][ique]{%
   hiéroglyph#1\xspace%
 }
@@ -108,6 +120,9 @@
   Hiéroglyph#1\xspace%
 }
 
+\newcommand{\tll}[2][TlColor]{{%
+  \textcolor{#1}{\emph{#2}}%
+}}%
 
 \newcommand{\tdr}[1]{%
   \textcolor{red}{\td{#1}}%
@@ -122,10 +137,10 @@
   \textcolor{DarkGreen}{#1}%
 }
 
-\renewcommand{\PPA}{Proposition à prédicat adverbial\xspace}
-\newcommand{\PPN}{Proposition à prédicat nominal\xspace}
-\newcommand{\PPV}{Proposition à prédicat pseudo-verbal\xspace}
-\newcommand{\PPJ}{Proposition à prédicat adjectival\xspace}
+\renewcommand{\PPA}[1][]{Proposition#1 à prédicat adverbial\xspace}
+\newcommand{\PPN}[1][]{Proposition#1 à prédicat nominal\xspace}
+\newcommand{\PPV}[1][]{Proposition#1 à prédicat pseudo-verbal\xspace}
+\newcommand{\PPJ}[1][]{Proposition#1 à prédicat adjectival\xspace}
 
 \newcommand{\citeauthortitle}[2][]{%
   \citeauthor{#2}, \citetitle[#1]{#2}%
@@ -138,6 +153,7 @@
 }
 \renewcommand\tabularxcolumn[1]{M{#1}}
 
+\newlength{\graphicwidth}
 
 %======================================================================
 \title{DULAEP --\\Égyptien classique}
@@ -203,6 +219,8 @@
 \include{DULAEP_EG_S2_W03}
 \include{DULAEP_EG_S2_W04}
 \include{DULAEP_EG_S2_W05}
+\include{DULAEP_EG_S2_W06}
+\include{DULAEP_EG_S2_W07}
 
 \appendix
 % \appendixpage

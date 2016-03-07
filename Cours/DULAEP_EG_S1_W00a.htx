@@ -25,15 +25,19 @@
 
 \begin{center}
   \bfseries
+  \addtolof{Inscription \hiero (détail)}
   \includegraphics[height=2\baselineskip]{inscription_hieroglyphe}
   inscription \hiero (détail). \textcopyright~IES/Colin
 
+  \addtolof{Inscription hiératique (détail)}
   \includegraphics[height=2\baselineskip]{inscription_hieratique}
   inscription hiératique (détail). \textcopyright~IES/Colin
 
+  \addtolof{Inscription en démotique \inv{E\,7833}}
   \includegraphics[height=2\baselineskip]{inscription_demotique}
-  inscription en démotique E\,7833. \textcopyright~Louvre
+  inscription en démotique \inv{E\,7833}. \textcopyright~Louvre
 
+  \addtolof{Inscription en copte (détail)}
   \includegraphics[height=2\baselineskip]{inscription_copte}
   inscription en copte (détail). \textcopyright~IES/Colin
 \end{center}
