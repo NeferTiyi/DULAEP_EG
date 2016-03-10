@@ -1,8 +1,9 @@
 %!TEX root = DULAEP_EG.htx
 %##HieroDef.txt
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \part{Cours~6 -- Grammaire -- Les phrases non verbales -- 
-Présentation du système prédicatif égyptien}
+Présentation du système prédicatif égyptien}\label{prt:pnv1}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \chapter{Préalables historiographiques : les recherches sur la 
@@ -150,6 +151,7 @@ maison})\footnote{Voir \citeauthortitle[43-44]{GM}.}.
     \multicolumn{3}{c}{\textbf{Relation d'identité}} &
     \multirow{2}{*}{\textbf{Relation de situation}}
   \tabularnewline
+  \cmidrule{1-3}
     \textbf{Stricte} & \textbf{Classe} & \textbf{Qualité} & ~
   \tabularnewline
   \otoprule
@@ -183,6 +185,7 @@ verbe \frquote{être} de son rôle d'auxiliaire.}}
     \multicolumn{2}{c}{\textbf{Relation prédicative avec copule}} &
     \textbf{Prédicat verbal}
   \tabularnewline
+  \midrule
     \textbf{Identité} & \textbf{Situation} & \textbf{Situation}
   \tabularnewline
   \otoprule
@@ -402,23 +405,25 @@ l'\textbf{imparfait}.
 
 \bigskip
 
-\begin{tabular}{clcl}
-    \begin{hieroglyph}i-w\end{hieroglyph} &
-    \begin{hieroglyph}X:r:d-Xrd-A1\end{hieroglyph} &
-    \texttimes &
-    \begin{hieroglyph}H-n:a mwt-\!\!t:.-B1 f\end{hieroglyph}
-  \\
-    \tl{iw} &
-    \tl{Xrd} &
-    \texttimes &
-    \tl{Hna mw.t=f}
-  \\
-    \texttimes &
-    \td{l'enfant} &
-    \td{est} &
-    \td{avec sa mère}
-  \\
-\end{tabular}
+\begin{center}
+  \begin{tabular}{clcl}
+      \begin{hieroglyph}i-w\end{hieroglyph} &
+      \begin{hieroglyph}X:r:d-Xrd-A1\end{hieroglyph} &
+      \texttimes &
+      \begin{hieroglyph}H-n:a mwt-\!\!t:.-B1 f\end{hieroglyph}
+    \\
+      \tl{iw} &
+      \tl{Xrd} &
+      \texttimes &
+      \tl{Hna mw.t=f}
+    \\
+      \texttimes &
+      \td{l'enfant} &
+      \td{est} &
+      \td{avec sa mère}
+    \\
+  \end{tabular}
+\end{center}
 
 \bigskip
 
@@ -470,7 +475,7 @@ prépositions les plus fréquentes et leur sens.
 %~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 \begin{itemize}
-  \item localisation spatiale, \tl{dans} : 
+  \item localisation spatiale, \td{dans} : 
         \begin{hieroglyph}m-pr-1\end{hieroglyph} 
         \tl{m pr} \td{dans la maison}
   \item état mental ou physique : 
@@ -502,7 +507,7 @@ prépositions les plus fréquentes et leur sens.
 %~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 \begin{itemize}
-  \item localisation spatiale \td{sur}
+  \item localisation spatiale, \td{sur}
 \end{itemize}
 
 \subsection[\tl{Xr}]{\begin{hieroglyph}Xr:r\end{hieroglyph} \tl{Xr}}
@@ -523,8 +528,8 @@ prépositions les plus fréquentes et leur sens.
 %~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 \begin{itemize}
-  \item comparaison : \td{comme}
-  \item conformité : \td{comme}
+  \item comparaison, \td{comme}
+  \item conformité, \td{comme}
 \end{itemize}
 
 \subsection[\tl{Hna}]{\begin{hieroglyph}H-n:a\end{hieroglyph} \tl{Hna}}
@@ -542,6 +547,7 @@ prépositions les plus fréquentes et leur sens.
 \end{itemize}
 
 \section{Les prépositions (2) : \tl{m} et \tl{r} \frquote{d'état}}
+\label{sec:mretat}
 %----------------------------------------------------------------------
 
 Les prépositions \tl{m} \td{dans} et \tl{r} \td{vers} peuvent avoir 
@@ -551,10 +557,12 @@ un sens particulier dans le cadre du groupe prépositionnel.
 \td{en tant que}.
 
 \begin{center}
-  \begin{hieroglyph}i-w-f-m-bA:k-A1\end{hieroglyph}\\
-  \tl{iw=f m bAk}\\
-  \td{Il est en tant que serviteur} 
-  (= il est dans la situation d'être un serviteur).
+  \begin{hieroglyph}i-w-f-m-bA:k-A1\end{hieroglyph}
+
+  \tl{iw=f m bAk}
+
+  \td{Il est en tant que serviteur.}\\
+  \rem{(= il est dans la situation d'être un serviteur)}
 \end{center}
 
 On traduira cette phrase par un simple \td{il est un serviteur}, 
@@ -570,26 +578,32 @@ l'état comme une \textbf{situation} et non une identité.
 \tl{r} d'état : cette préposition exprime l'idée d'un état à venir.
 
 \begin{center}
-  \begin{hieroglyph}i-w-f:r-bA:k-A1\end{hieroglyph}\\
-  \tl{iw=f r bAk}\\
+  \begin{hieroglyph}i-w-f:r-bA:k-A1\end{hieroglyph}
+
+  \tl{iw=f r bAk}
+
   \td{Il est en direction d'être un serviteur.}\\
   \td{Il sera un serviteur.}
 \end{center}
 
-\paragraph[Exemples :]{Exemples\protect\footnote{Repris de 
-\citeauthortitle[61]{GM}} :}
+\bigskip
 
-\begin{quote}
-  \begin{hieroglyph}i-w-f-m-n:x:n-w-Xrd\end{hieroglyph}\\
-  \tl{iw=f m nxnw} (\emph{Urk.}~VII, 49,14)\\
+\begin{example}[title={Exemples\footnotemark{} :}]
+  \begin{hieroglyph}i-w-f-m-n:x:n-w-Xrd\end{hieroglyph}
+
+  \tl{iw=f m nxnw} (\source{Urk.}~VII, 49,14)
+
   \td{Il est un bébé.}
-\end{quote}
 
-\begin{quote}
-  \begin{hieroglyph}i-w-f:r-bA:k-A1\end{hieroglyph}\\
-  \tl{iw=f r iAw} (\emph{Urk.}~VII, 54, 4)\\
+  \bigskip
+
+  \begin{hieroglyph}i-w-f:r-bA:k-A1\end{hieroglyph}
+
+  \tl{iw=f r iAw} (\source{Urk.}~VII, 54, 4)
+
   \td{Il va être un vieillard.}
-\end{quote}
+\end{example}
+\footnotetext{Repris de \citeauthortitle[61]{GM}}
 
 \bigskip
 

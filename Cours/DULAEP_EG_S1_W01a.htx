@@ -1,6 +1,7 @@
 %!TEX root = DULAEP_EG.htx
 %##HieroDef.txt
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \part[Cours~1, suite -- Le système graphique]
      {Cours~1, suite -- Le système graphique\protect\footnote{Cf. 
 W.~\bsc{Schenkel}, \emph{Lexikon der Ägyptologie}~V, col.~713-735, 
@@ -79,9 +80,9 @@ orientés, c'est-à-dire qu'ils ont un sens, comme nos lettres. Pour
 savoir où commencer la lecture d'un texte, il suffit de connaître 
 l'orientation d'un signe.
 
-\noindent\begin{hieroglyph}b\end{hieroglyph} le signe de la 
-jambe notant le phonème [b] est ici orienté pour une lecture de gauche 
-à droite.\\
+\noindent\begin{hieroglyph}b\end{hieroglyph} le signe de la jambe 
+notant le phonème \textipa{[b]} est ici orienté pour une lecture de 
+gauche à droite.\\
 \begin{hieroglyph}b\ \end{hieroglyph} ici il est orienté pour une 
 lecture de droite à gauche.
 
@@ -138,10 +139,13 @@ Par exemple
 
 Les signes peuvent avoir seulement une valeur phonétique.
 
-Par exemple, la vipère à cornes \begin{hieroglyph}f\end{hieroglyph} 
-note le phonème [f], la jambe \begin{hieroglyph}b\end{hieroglyph} le 
-phonème [b], \begin{hieroglyph}n\end{hieroglyph} le filet d'eau note 
-le phonème [n].
+Par exemple, 
+la vipère à cornes \begin{hieroglyph}f\end{hieroglyph} note le phonème 
+\textipa{[f]},
+la jambe \begin{hieroglyph}b\end{hieroglyph} le phonème 
+\textipa{[b]}, 
+\begin{hieroglyph}n\end{hieroglyph} le filet d'eau note le phonème 
+\textipa{[n]}.
 
 Certains signes peuvent avoir soit valeur de logogramme, soit valeur 
 de phonogramme.
@@ -150,7 +154,7 @@ C'est le cas par exemple de \begin{hieroglyph}pr\end{hieroglyph}
 valeur mot \tl{pr} =\td{maison}, ou notation de la syllabe \tl{pr} 
 dans un autre mot, de \begin{hieroglyph}r\end{hieroglyph} \td{bouche}, 
 \emph{ro} en ancien égyptien, qui peut noter le mot \td{bouche}, 
-\td{entrée} ou le phonème [r].
+\td{entrée} ou le phonème \textipa{[r]}.
 
 Pour distinguer l'utilisation logographique d'un signe de son 
 utilisation phonétique, le système \hiero recourt à un procédé simple. 
@@ -171,7 +175,7 @@ directe}.
         entrée} \tl{r(A)}. Noter la présence du signe 
         \begin{hieroglyph}r\end{hieroglyph} dans le mot précédent 
         (\no2), utilisé aussi, en ce cas, pour sa valeur phonétique 
-        [r] pourtant déjà comprise dans le signe 
+        \textipa{[r]} pourtant déjà comprise dans le signe 
         \begin{hieroglyph}pr\end{hieroglyph} \tl{pr}. 
         Nous en reparlerons dans un instant.
 \end{enumerate}
@@ -250,7 +254,7 @@ rapport avec le cycle solaire.
   du signe \begin{hieroglyph}ra\end{hieroglyph} qui peut être 
   déterminatif ou logogramme), ou spécialisé dans une seule valeur 
   (c'est le cas du signe \begin{hieroglyph}f\end{hieroglyph} qui n'est 
-  qu'un phonogramme notant le son [f].
+  qu'un phonogramme notant le son \textipa{[f]}.
 \end{aparte}
 
 \bigskip
@@ -329,7 +333,8 @@ Réexaminons le mot :
   Dans cette graphie, le signe \begin{hieroglyph}r\end{hieroglyph} 
   est complément phonétique du signe 
   \begin{hieroglyph}D54\end{hieroglyph}. Il ne note pas un deuxième 
-  phonème [r], mais renote, de manière redondante le premier.
+  phonème \textipa{[r]}, mais renote, de manière redondante le 
+  premier.
 }}
 
 Autre exemple, le mot \begin{hieroglyph}nfr-f:r-Y1v\end{hieroglyph} 

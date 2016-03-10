@@ -1,17 +1,9 @@
 %!TEX root = DULAEP_EG.htx
 %##HieroDef.txt
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \part{Cours~3 -- Grammaire -- L'impératif}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-% \chapter{Syntaxe du parfait ancien}
-% =====================================================================
-
-% \section{Prédicat de construction pseudo-verbale S + P}
-% ---------------------------------------------------------------------
-
-% \subsection{Avec l'indicateur d'énonciation \tl{iw}}
-% ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Nous avons abordé quelques formes verbales : l'infinitif 
 (Cours~\ref{prt:ppv} (\Cref{cha:inf}) du semestre~1) et le parfait 
@@ -296,9 +288,13 @@ Cf. en français : « mange donc ».
 
 \begin{example}
   \begin{minipage}{5cm}
+    \addtolof{%
+      Détail d'une scène d'abattage de bovidé 
+      (Chapelle de Ptahhotep, Saqqâra, \dyn{5})%
+    }
     \begin{tikzpicture}
       \node [anchor=south west, inner sep=0] (image) at (0,0) 
-            {\includegraphics[width=5cm]{Ptahhotep}} ;
+            {\includegraphics[width=5cm]{Ptahhotep_1}} ;
       \begin{scope}[
         x={(image.south east)},
         y={(image.north west)},
@@ -394,8 +390,7 @@ verbes faibles et les \vg{2} font la gémination
 
             \td{Puisses-tu ne pas t'égarer !}\footnotemark{}
           \end{example}
-          \footnotetext{Cf.~\citeauthor{Obsomer}, 
-          \citetitle[{[293]}]{Obsomer}.}
+          \footnotetext{Cf.~\citeauthortitle[§~293]{Obsomer}.}
 
   \end{itemize}
 \end{notabene}
@@ -451,7 +446,3 @@ Nous reviendrons sur l'impératif causatif l'an prochain quand nous
 \begin{exercice}[before upper={\centering}]
   \donc{} Faire \textbf{l'exercice~3} à rendre par email.
 \end{exercice}
-
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

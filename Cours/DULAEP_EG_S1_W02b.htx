@@ -1,9 +1,9 @@
 %!TEX root = DULAEP_EG.htx
 %##HieroDef.txt
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \part{Cours~2 -- Le système graphique (suite)}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
 
 \chapter{L'histoire du déchiffrement}
 %======================================================================
@@ -340,9 +340,15 @@ visible.
 
 \begin{center}
   \includegraphics[scale=0.45]{hieratique}\\
+
   \reflectbox{\begin{hieroglyph}nfr-f:r-r-i-q:r-Y1\end{hieroglyph}}\\
-  \tl{nfr r-ior} \td{extrêmement bon}
+
+  \tl{nfr r-ior}
+
+  \td{extrêmement bon}
 \end{center}
+
+\bigskip
 
 Les principales différences entre l'écriture \hiero et l'écriture 
 hiératique sont : \primo l'écriture hiératique se lit toujours de la 

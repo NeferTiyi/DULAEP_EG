@@ -1,8 +1,9 @@
 %!TEX root = DULAEP_EG.htx
 %##HieroDef.txt
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \part{Cours~7 -- Grammaire -- Les phrases non verbales (2) -- 
-Présentation du système prédicatif égyptien}
+Présentation du système prédicatif égyptien}\label{prt:pnv2}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \chapter{Syntaxe de la proposition à prédicat adverbial (suite)}
@@ -18,23 +19,27 @@ La préposition \tl{n} \begin{hieroglyph}n\end{hieroglyph} \td{à},
 fonctionne comme un équivalent à nos phrases exprimant la possession 
 utilisant le verbe \frquote{avoir}.
 
-\begin{center}
+\begin{example}[title={Exemples :}]
   *\begin{hieroglyph}i-w-pr-1-n-z:1*A1\end{hieroglyph}
 
   *\tl{iw pr n s}
 
   \td{Une maison est à l'homme.}\\
-  = Une maison appartient à l'homme.\\
-  (= l'homme a une maison.)
-\end{center}
+  = \td{Une maison appartient à l'homme.}\\
+  = \td{l'homme a une maison.}
+% \end{center}
 
-\begin{center}
+  \bigskip
+
+% \begin{center}
   \begin{hieroglyph}i-w-O3-X4-n:f\end{hieroglyph}
 
   \tl{iw pr.t-xrw n=f} (\CTx{VII}, 238n)
 
   \td{Une offrande invocatoire lui appartient.} 
-\end{center}
+\end{example}
+
+\bigskip
 
 \begin{aparte}
   \textbf{Remarque sur le terme \tl{pr.t-xrw}} 
@@ -52,22 +57,24 @@ utilisant le verbe \frquote{avoir}.
 \begin{aparte}
   \textbf{Remarques sur la mention \CTx{VII} :}
 
-  la mention \CTx{} renvoie à l'édition des \emph{Coffin Texts} 
+  la mention \CTx{} renvoie à l'édition des \source{Coffin Texts} 
   de \bsc{De Buck}, l'édition des textes funéraires appelés \TS.
 \end{aparte}
 
 \bigskip
 
-\begin{center}
+\begin{example}
   \begin{hieroglyph}i-w-O3-X4-n:f\end{hieroglyph}
 
   \tl{iw anx n {\normalfont N.} pn} 
   (\CTx{VII}, 467b, sarcophage~B6C)
 
-  \td{La vie appartient à N.\footnote{La mention \emph{N.} indique 
-  que, dans le texte originel, était indiqué le nom du défunt.} que 
-  voici.}
-\end{center}
+  \td{La vie appartient à N.\footnotemark{} que voici.}
+\end{example}
+\footnotetext{La mention \emph{N.} indique que, dans le texte 
+originel, était indiqué le nom du défunt.}
+
+\bigskip
 
 Un fait important est à noter ici et surtout à retenir. La structure 
 de la \PPA est, vous le savez à présent : \tl{iw} + Sujet + Prédicat 
@@ -77,11 +84,14 @@ prédicat adverbial est \tl{n} + pronom suffixe. En ce cas, le prédicat
 peut, soit être à sa place normale (après le sujet), soit placé avant 
 le sujet :
 
-\begin{center}
+\begin{example}
   \begin{hieroglyph}i-w-O3-X4-n:f\end{hieroglyph}\\
+
   \tl{iw n=i anx} (\CTx{VII}, 467b, sarcophage~B9C)\\
-  \td{À moi est la vie.} = \td{la vie m'appartient.}
-\end{center}
+
+  \td{À moi est la vie.}\\
+  = \td{la vie m'appartient.}
+\end{example}
 
 \section{Prépositions (4): sens particulier de \tl{Xr} \td{sous}}
 %----------------------------------------------------------------------
@@ -94,19 +104,20 @@ préposition dans certains contextes : \td{être sous des objets} peut
 signifier les porter (voir le déterminatif du verbe \tl{fAi} 
 \td{porter} \begin{hieroglyph}A9\end{hieroglyph}).
 
-\begin{center}
+\begin{example}
   \begin{hieroglyph}
     i-w-A1-Xr:r-Htp:t*p-t:X4:3-r-iwn-nw-niwt:t*1
   \end{hieroglyph}
 
-  \tl{iw=i Xr Htp.wt r iwnw\footnote{Noter la graphie du déterminatif 
-  de la ville. Au lieu d'être noté simplement 
-  \begin{hieroglyph}niwt\end{hieroglyph}, il est écrit comme le groupe 
-  \tl{niw.t} \td{ville}}} (\CTx{VI}, 67k, sarcophage~B9C)
+  \tl{iw=i Xr Htp.wt r iwnw\footnotemark{}} (\CTx{VI}, 67k, 
+  sarcophage~B9C)
 
   \td{\litt Je suis sous les offrandes en direction d'Héliopolis.}\\
   = \td{j'apporte des offrandes à Héliopolis.}
-\end{center}
+\end{example}
+\footnotetext{Noter la graphie du déterminatif de la ville. Au lieu 
+d'être noté simplement \begin{hieroglyph}niwt\end{hieroglyph}, il est 
+écrit comme le groupe \tl{niw.t} \td{ville}.}
 
 \section{Les auxiliaires, éléments introducteurs}
 %----------------------------------------------------------------------
@@ -154,14 +165,13 @@ conférer à la phrase, dans la traduction, on se contentera de noter la
 suppression de \tl{iw} par un point d'exclamation. Selon le contexte 
 de la phrase, cette proposition à valeur exclamative peut avoir 
 plusieurs nuances modales :
-
 \begin{itemize}
   \item exclamation (joie, peine\dots)
   \item affirmation péremptoire
   \item souhait ou ordre
 \end{itemize}
 
-\bigskip
+% \bigskip
 
 \begin{center}
   \begin{hieroglyph}n-kA*1:T\end{hieroglyph}
@@ -260,14 +270,16 @@ qui on s'adresse.
     m:a-t:n:3-A51-s-t:Y1-B1-Z3-Hr-1-Sd:d-W:P1-Z3
   \end{hieroglyph}
 
-  \tl{mtn, Sps.wt Hr Sd.w}
-
-  \td{Voyez, les nobles dames sont sur des radeaux.} 
+  \tl{mtn, Sps.wt Hr Sd.w}\\
   (\source{Admonitions of an Egyptian Sage} 7,10)
+
+  \td{Voyez, les nobles dames sont sur des radeaux.}
 
   \textsmaller{Auxiliaire présentatif, sujet + prédicat adverbial 
   (groupe prépositionnel)}
 \end{center}
+
+\bigskip
 
 Un élément de syntaxe important : lorsque le sujet d'une proposition 
 à prédicat adverbial introduit par \tl{mk} est pronominal, ce n'est 
@@ -284,7 +296,9 @@ tard.}, pour les cas où le pronom suffixe ne peut être utilisé.
 
 \subsubsection*{Tableau des pronoms personnels -- Pronoms dépendants}
 
-\begin{tabular}{>{\bfseries}M{3cm}rM{4cm}M{4cm}}
+\noindent%
+\begin{tabularx}{\textwidth}{>{\bfseries}M{2.5cm}r*{2}{X}}
+  \toprule
     \multicolumn{2}{c}{~} &
     \textbf{Masculin} &
     \textbf{Féminin} 
@@ -299,6 +313,7 @@ tard.}, pour les cas où le pronom suffixe ne peut être utilisé.
       \end{hieroglyph}
     } 
   \tabularnewline
+  \cmidrule{2-4}
      &
     toi \textbf{2.} &
     \tl{Tw} \begin{hieroglyph}T-w\end{hieroglyph} 
@@ -306,6 +321,7 @@ tard.}, pour les cas où le pronom suffixe ne peut être utilisé.
     \tl{Tn} \begin{hieroglyph}T:n\end{hieroglyph} 
     \tl{tn} \begin{hieroglyph}t:n\end{hieroglyph} 
   \tabularnewline
+  \cmidrule{2-4}
      &
     lui/elle \textbf{3.} &
     \tl{sw} \begin{hieroglyph}sw-w+l, +ssw-W\end{hieroglyph} &
@@ -324,6 +340,7 @@ tard.}, pour les cas où le pronom suffixe ne peut être utilisé.
       \tl{n} \begin{hieroglyph}n:3+l, +sn\end{hieroglyph}
     } 
   \tabularnewline
+  \cmidrule{2-4}
      &
     vous \textbf{2.} &
     \multicolumn{2}{c}{%
@@ -332,6 +349,7 @@ tard.}, pour les cas où le pronom suffixe ne peut être utilisé.
       \tl{tn} \begin{hieroglyph}t:n:3+l, +st:n\end{hieroglyph}
     } 
   \tabularnewline
+  \cmidrule{2-4}
      &
     ils/elles \textbf{3.} &
     \multicolumn{2}{c}{%
@@ -342,7 +360,7 @@ tard.}, pour les cas où le pronom suffixe ne peut être utilisé.
     } 
   \tabularnewline
   \bottomrule
-\end{tabular}
+\end{tabularx}
 
 \bigskip
 
@@ -353,12 +371,10 @@ tard.}, pour les cas où le pronom suffixe ne peut être utilisé.
 
   \td{Vois, je suis à côté de toi.}
 
-  \textsmaller{auxiliaire présentatif, sujet pronom dépendant + 
-  groupe prépositionnel prédicat (adverbial)}
+  \rem{auxiliaire présentatif, sujet pronom dépendant + groupe 
+  prépositionnel prédicat (adverbial)}
 
-  \bigskip
-
-  vocabulaire : \begin{hieroglyph}r:gs*1\end{hieroglyph} \tl{r-gs} 
+  vocabulaire : \begin{hieroglyph}r:gs*1\end{hieroglyph} \tl{r-gs}, 
   préposition composée \td{à côté de}
 \end{center}
 
@@ -372,6 +388,8 @@ $\Bigg)$
 
 Cette particule peut remplacer \tl{iw} ; elle exprime un souhait 
 teinté de regret : \td{Ah si\dots}.
+
+\bigskip
 
 \begin{center}
   \begin{hieroglyph}
@@ -415,6 +433,7 @@ sert à renforcer l'affirmation de l'énoncé. Elle est traduite par
 \td{certes}, \td{assurément}.
 
 \section{La négation de la proposition à prédicat adverbial \tl{nn}}
+\label{sec:neg_ppa}
 %----------------------------------------------------------------------
 
 La négation de la \PPA se fait à l'aide de la particule \tl{nn} 
@@ -428,18 +447,18 @@ La négation de la \PPA se fait à l'aide de la particule \tl{nn}
   \emph{Réponse : page suivante}
 \end{exercice}
 
-\begin{center}
+\begin{example}
   \begin{hieroglyph}nn-mwt-\!t:.-B1-k-H-n:a-k\end{hieroglyph}
 
   \tl{nn mw.t=k Hna=k}
+  (\source{Papyrus magique Berlin~3027})
 
   \td{Ta mère n'est pas avec toi}
-  (Papyrus magique Berlin~3027)
-\end{center}
+\end{example}
 
 C'est le pronom dépendant qui est employé en cas de sujet pronominal.
 
-\begin{center}
+\begin{example}
   \begin{hieroglyph}nn-s-t-m-Xn:n-nw-\!w-pr:f\end{hieroglyph}
 
   \tl{nn s.t m-Xnw=f}
@@ -447,14 +466,14 @@ C'est le pronom dépendant qui est employé en cas de sujet pronominal.
   \td{Ce n'est pas à l'intérieur} 
   (ou \td{elle n'est pas à l'intérieur})\\
   \litt : cela n'est pas à l'intérieur de lui.
-\end{center}
+\end{example}
 
 \begin{remarque}
   si la négation \tl{nn} se substitue à \tl{iw}, en revanche la 
   négation peut être précédée de l'auxiliaire présentatif \tl{mk}.
 \end{remarque}
 
-\bigskip
+% \bigskip
 
 \begin{exercice}
   \textbf{Exercice :} donnez l'équivalent négatif de 
@@ -466,7 +485,7 @@ C'est le pronom dépendant qui est employé en cas de sujet pronominal.
   \tl{nn bAk m pr} \td{le serviteur n'est pas dans la maison.}
 \end{exercice}
 
-\section{Les convertisseurs temporels}
+\section{Les convertisseurs temporels}\label{sec:wnwnn}
 %----------------------------------------------------------------------
 
 D'autres éléments introducteurs peuvent encore fonctionner avec la 
@@ -524,37 +543,35 @@ simple. On peut décrire des situations plus compliquées en utilisant
 une succession de propositions à prédicat adverbial, ou une succession 
 de syntagmes adverbiaux se rapportant au même sujet.
 
-Ex. 1 : 
-\begin{quote}
+\begin{example}
   \begin{hieroglyph}i-w A1 m pr-1 H-n:a zA-A1 k\end{hieroglyph}
 
-  \tl{*iw=i m pr Hna sA=k}
+  *\tl{iw=i m pr Hna sA=k}
 
   \td{Je suis dans la maison et avec ton fils.}\\
   \td{Je suis dans la maison, avec ton fils.}
-\end{quote}
+\end{example}
 
 L'analyse est la suivante :\\
 \PPA : l'auxiliaire \tl{iw} + sujet + deux groupes prépositionnels 
 (que l'on peut considérer soit comme deux prédicats coordonnés, soit 
 comme prédicat, et complément circonstanciel).
 
-Ex. 2 : 
-\begin{quote}
+\begin{example}
   \begin{hieroglyph}i-w A1 m pr-1 zA-A1 k H-n:a A1\end{hieroglyph}
 
-  \tl{*iw=i m pr, sA=k Hna=i}
+  *\tl{iw=i m pr, sA=k Hna=i}
 
   \td{Je suis dans la maison, ton fils avec moi.}\\
   = \td{je suis dans la maison, ton fils étant avec moi.}\\
   = \td{Je suis dans la maison, alors que ton fils est avec moi.}
-\end{quote}
+\end{example}
 
-On peut analyser ainsi : Deux propositions à prédicat adverbial : 
-proposition~1 (\tl{iw} + sujet + prédicat), proposition~2 (sujet + 
-prédicat).
+On peut analyser ainsi : Deux Propositions à prédicat adverbial : 
+proposition~1 (\tl{iw} + sujet + prédicat), 
+proposition~2 (sujet + prédicat).
 
-Dans ce cas de figure, deux propositions à prédicat adverbial sont 
+Dans ce cas de figure, deux Propositions à prédicat adverbial sont 
 juxtaposées, \tl{iw} \textbf{n'introduisant que la première}. On 
 appelle la première proposition \textbf{proposition initiale} (celle 
 qui est en tête) et la seconde \textbf{proposition séquentielle}. 
@@ -574,19 +591,22 @@ Retenez bien cette terminologie d'analyse (proposition initiale,
 proposition séquentielle). Nous nous en servirons beaucoup, notamment 
 en 2\ieme~année.
 
+\bigskip
+
 \begin{center}
   \begin{hieroglyph}
     i-w-Xn-n:nw*W-niwt-m-s-g:r-A2-ib:3-m-gm-m-W-G37:3
   \end{hieroglyph}
 
-  \tl{iw Xnw m sgr, ib.w m gmw}
+  \tl{iw Xnw m sgr, ib.w m gmw}\\
+  \rem{(\source{Conte de Sinouhé}, R, 8-9 : description de l'état du 
+  palais royal à l'annonce de la mort du roi.)}
 
   \td{La Résidence (royale) était dans le silence, les c{\oe}urs 
       dans l'affliction.}
-
-  (\source{Conte de Sinouhé}, R, 8-9 : description de l'état du 
-  palais royal à l'annonce de la mort du roi.)
 \end{center}
+
+\bigskip
 
 Analyse : Deux propositions à prédicat adverbial,
 
@@ -619,12 +639,6 @@ question ? Observez la phrase suivante :
   \end{hieroglyph}
 
   *\tl{iw sA=k Xr rSw.t \textcolor{orange}{iw}=k Hna=f}
-
-  \td{La Résidence (royale) était dans le silence, les c{\oe}urs 
-      dans l'affliction.}
-
-  (\source{Conte de Sinouhé}, R, 8-9 : description de l'état du 
-  palais royal à l'annonce de la mort du roi.)
 \end{center}
 
 Pouvez-vous choisir à coup sûr entre les deux traductions suivantes :
@@ -659,6 +673,8 @@ propositions :}
         (c'est-à-dire comme une principale ou une subordonnée).
 \end{itemize}
 
+\bigskip
+
 \begin{center}
   \begin{hieroglyph}
     wn:n:n-f-i-imi-m-y:t-nTr-1:y-A40-aA:a-w-y-i-w-s-n:y-m-p*t:pt
@@ -666,10 +682,7 @@ propositions :}
 
   \tl{wnn=f imty nTr.wi aA.wi, iw=sn.y m p.t} (\CTx{V}, 387\,c-d)
 
-  \td{La Résidence (royale) était dans le silence, les c{\oe}urs 
-      dans l'affliction.}
-
-  \rem{Proposition initiale (convertisseur temporel+ sujet pronominal 
+  \rem{proposition initiale (convertisseur temporel+ sujet pronominal 
   + groupe prépositionnel),\\proposition séquentielle (\tl{iw} + 
   pronom suffixe sujet + groupe prépositionnel prédicat)}
 

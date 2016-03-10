@@ -5,8 +5,10 @@ Exos/*.jpg
 Exos/*.dop
 Docs/*.pdf
 img/tmp/
+*.sublime-workspace
 
 ## Core latex/pdflatex auxiliary files:
+*.tex
 *.aux
 *.lof
 *.log
@@ -135,12 +137,3 @@ sympy-plots-for-*.tex/
 # WinEdt
 *.bak
 *.sav
-Docs/DULA_EG_Doc_Bibliographie.pdf
-*.tex
-Docs/DULA_EG_Doc_Biliteres.pdf
-Docs/DULA_EG_Doc_Determinatifs.pdf
-Docs/DULA_EG_Doc_GardinerList_B.pdf
-Docs/DULA_EG_Doc_GardinerList_A.pdf
-Docs/DULA_EG_Doc_GardinerList_C.pdf
-Docs/DULA_EG_Doc_Presentation.pdf
-Exos/DULA_EG_Exo_c02.pdf

@@ -1,6 +1,7 @@
 %!TEX root = DULAEP_EG.htx
 %##HieroDef.txt
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \part{Cours~10 -- Grammaire -- Les propositions avec constructions pseudo-verbales (1\iere~partie)}\label{prt:ppv}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -41,7 +42,6 @@ a plusieurs types de relation prédicative :
                 adverbial)
           \item le chat mange
         \end{itemize}
-        
 \end{itemize}
 
 Nous avons vu qu'en égyptien ancien, il n'existe pas d'équivalent à 
@@ -50,16 +50,15 @@ entre le sujet et le prédicat. Ainsi, suivant la nature du prédicat,
 on distingue différents types de propositions en égyptien ancien :
 
 \begin{itemize}
-  \item \textbf{Proposition à prédicat adverbial} (prédicat = adverbe 
-        ou groupe prépositionnel, voir cours 6 à 8) ;
-  \item \textbf{Proposition à prédicat nominal} ;
-  \item \textbf{Proposition à prédicat adjectival} (correspond à 
-        l'attribut du sujet) ;
+  \item \textbf{\PPA} (prédicat = adverbe ou groupe prépositionnel, 
+        voir cours~\ref{prt:pnv1} à~\ref{prt:pnv3}) ;
+  \item \textbf{\PPN} ;
+  \item \textbf{\PPJ} (correspond à l'attribut du sujet) ;
   \item \textbf{Proposition à prédicat verbal}.
 \end{itemize}
 
-Nous nous sommes intéressés en premier lieu à la Proposition à 
-prédicat adverbial qui suit l'ordre : \tl{iw} + Sujet + Prédicat.
+Nous nous sommes intéressés en premier lieu à la \PPA qui suit 
+l'ordre : \tl{iw} + Sujet + Prédicat.
 
 Un autre type de phrase reprend cette structure générale : les 
 propositions à construction pseudo-verbale, en particulier les phrases 
@@ -71,8 +70,8 @@ l'infinitif.
 
   \tl{iw bAk Hr wnm}
 
-  \textbf{\litt \og le serviteur est sur (le) manger \fg = 
-  Le serviteur mange.}
+  \litt \frquote{\td{le serviteur est sur (le) manger}} = 
+  \td{Le serviteur mange.}
 
   Analyse : auxiliaire indicatif + sujet + prédicat (\tl{Hr} + 
   infinitif)
@@ -81,11 +80,10 @@ l'infinitif.
 Suivant les manuels ou grammaires, on appelle cette construction :
 
 \begin{itemize}
-  \item \textbf{Proposition à prédicat adverbial à lexème verbal 
-        (\citeauthortitle{GM})}, cette appellation a pour avantage de 
-        souligner la parenté de structure entre cette construction 
-        \frquote{pseudo-verbale} et la proposition à prédicat 
-        adverbial.
+  \item \textbf{\PPA à lexème verbal (\citeauthortitle{GM})}, cette 
+        appellation a pour avantage de souligner la parenté de 
+        structure entre cette construction \frquote{pseudo-verbale} 
+        et la \PPA.
   \item \textbf{Une construction \frquote{pseudo-verbale} 
         (\citeauthor{Gardiner}, \citeauthor{Obsomer}, \citeauthor{MW}) 
         avec infinitif : notamment dans l'exemple précédent, la forme 
@@ -93,9 +91,8 @@ Suivant les manuels ou grammaires, on appelle cette construction :
 \end{itemize}
 
 Vous comprenez sans doute que tout ce que vous avez appris du 
-fonctionnement de la Proposition à prédicat adverbial est valable 
-pour les propositions dont le prédicat est une construction 
-pseudo-verbale \tl{Hr} + infinitif.
+fonctionnement de la \PPA est valable pour les propositions dont le 
+prédicat est une construction pseudo-verbale \tl{Hr} + infinitif.
 
 \chapter{Aspect et temps}
 %======================================================================
@@ -126,12 +123,27 @@ Ce tableau vous donne une petite idée, en référence au français, de
 ce que sont aspect et temps d'un verbe. Notez que l'on peut très bien 
 avoir un aspect accompli envisagé dans le futur.
 
-\begin{tabular}{ccc}
-                   & \textbf{Accompli}        & \textbf{Non accompli} \\
-  \textbf{Présent} & Le serviteur a mangé     & Le serviteur mange \\
-  \textbf{Passé}   & Le serviteur avait mangé & Le serviteur mangeait \\
-  \textbf{Futur}   & Le serviteur aura mangé  & Le serviteur mangera \\
-\end{tabular}
+\bigskip
+
+\begin{center}
+  \begin{tabular}{>{\bfseries}ccc}
+    \toprule
+              & \textbf{Accompli}        & \textbf{Non accompli}
+    \tabularnewline
+    \otoprule
+      Présent & Le serviteur a mangé     & Le serviteur mange
+    \tabularnewline
+    \midrule
+      Passé   & Le serviteur avait mangé & Le serviteur mangeait
+    \tabularnewline
+    \midrule
+      Futur   & Le serviteur aura mangé  & Le serviteur mangera
+    \tabularnewline
+    \bottomrule
+  \end{tabular}
+\end{center}
+
+\bigskip
 
 \begin{center}
   \begin{hieroglyph}i-w-bA:k-A1-Hr-1-imi-m-A2\end{hieroglyph}
@@ -139,23 +151,25 @@ avoir un aspect accompli envisagé dans le futur.
   \tl{iw bAk Hr wnm}
 \end{center}
 
-\donc Du point de vue de l'aspect, la construction \tl{Hr} + 
+\bigskip
+
+\donc{} Du point de vue de l'aspect, la construction \tl{Hr} + 
 infinitif exprime ainsi le \textbf{\textcolor{orange}{non-accompli}}, 
 une action envisagée dans le cours de sa réalisation.
 
-\donc Du point de vue du temps : on remarque que la construction 
+\donc{} Du point de vue du temps : on remarque que la construction 
 \tl{Hr} + infinitif ne peut avoir de marque temporelle (préposition 
 + verbe à l'infinitif). Le temps de référence est donc celui de 
 l'énoncé. Avec l'auxiliaire indicatif \tl{jw} (ou d'autres 
 auxiliaires d'énonciation comme \tl{mk}), on considérera que ce 
 temps de référence est celui du locuteur, donc \uline{le présent}.
 
-\donc La construction \tl{Hr} + infinitif correspond donc à notre 
+\donc{} La construction \tl{Hr} + infinitif correspond donc à notre 
 \textbf{présent de l'indicatif}, avec une restriction cependant. 
 Contrairement à ce dernier, la construction \tl{Hr} + infinitif 
 n'exprime pas le présent d'habitude\footnote{Le présent d'habitude 
 est exprimé par une forme de la conjugaison suffixale étudiée en 
-2\ieme~année appelé aoriste \tl{sDm=f}}, mais seulement, le 
+2\ieme~année appelé aoriste \tl{sDm=f}.}, mais seulement, le 
 \textbf{\textcolor{orange}{présent immédiat}} : \frquote{être en 
 train de faire quelque chose}. On appelle donc le prédicat \tl{Hr} + 
 l'infinitif l'\textbf{\textcolor{red}{inaccompli progressif}} (ou 
@@ -163,8 +177,8 @@ encore extensif). La construction \tl{Hr} + infinitif est donc
 l'équivalent de seulement \emph{un des aspects} de notre présent de 
 l'indicatif.
 
-La construction de la proposition est la même que celle de la 
-Proposition à prédicat adverbial (sans léxème verbal) :
+La construction de la proposition est la même que celle de la \PPA 
+(sans lexème verbal) :
 
 \begin{center}
   \begin{hieroglyph}i-w-bA:k-A1-Hr-1-imi-m-A2\end{hieroglyph}
@@ -180,14 +194,16 @@ Proposition à prédicat adverbial (sans léxème verbal) :
   langue).})}
 \end{center}
 
-Il est à noter que, comme la Proposition à prédicat adverbial, une 
-proposition à l'inaccompli progressif pourra être traduite par un 
-\textbf{imparfait}, si le point de référence dans un récit est le 
-passé et si la concordance des temps en français le commande. Le 
-trait important de la valeur de cette forme n'est pas le temps, mais 
-l'aspect \textbf{inaccompli} et \textbf{progressif}. Dans les 
-exercices, sans le contexte général de la phrase, on traduira 
-néanmoins simplement par un présent de l'indicatif.
+\bigskip
+
+Il est à noter que, comme la \PPA, une proposition à l'inaccompli 
+progressif pourra être traduite par un \textbf{imparfait}, si le 
+point de référence dans un récit est le passé et si la concordance 
+des temps en français le commande. Le trait important de la valeur 
+de cette forme n'est pas le temps, mais l'aspect \textbf{inaccompli} 
+et \textbf{progressif}. Dans les exercices, sans le contexte général 
+de la phrase, on traduira néanmoins simplement par un présent de 
+l'indicatif.
 
 \chapter{Racine et infinitif du verbe}\label{cha:inf}
 %======================================================================
@@ -302,11 +318,11 @@ désinences :
 \begin{enumerate}
   \item \begin{hieroglyph}mA:ir-A-A\end{hieroglyph} \tl{mAA} : 
         thème verbal dit \frquote{long}
-  \item \begin{hieroglyph}mA:ir-A-A\end{hieroglyph} \tl{mA} : 
+  \item \begin{hieroglyph}mA:ir-A\end{hieroglyph} \tl{mA} : 
         thème verbal dit \frquote{bref}.
 \end{enumerate}
 
-Autre exemple, le verbe \tl{pri} \td{sortir} a deux thèmes 
+Autre exemple, le verbe \tl{pri}, \td{sortir} a deux thèmes 
 verbaux : 
 \begin{hieroglyph}pr:r-D54\end{hieroglyph} \tl{pr}, thème bref, et 
 \begin{hieroglyph}pr:r:r-D54\end{hieroglyph} \tl{prr}, thème long, 
@@ -329,11 +345,12 @@ Selon ces observations, les verbes égyptiens ont été classés en
 3~classes :
 
 \begin{itemize}
-  \item les verbes forts,
-  \item les verbes faibles (les verbes dont la racine se termine par 
-        une semi-consonne \tl{i} ou \tl{w}, comme \tl{pri}),
-  \item et les verbes géminés (les verbes dont les deux dernières 
-        consonnes sont identiques, comme \tl{mAA}).
+  \item les verbes \textbf{forts},
+  \item les verbes \textbf{faibles} (les verbes dont la racine 
+        se termine par une semi-consonne \tl{i} ou \tl{w}, comme 
+        \tl{pri}),
+  \item et les verbes \textbf{géminés} (les verbes dont les deux 
+        dernières consonnes sont identiques, comme \tl{mAA}).
 \end{itemize}
 
 À ces trois groupes, s'ajoute la catégorie des verbes irréguliers, qui 
@@ -346,28 +363,32 @@ Cette catégorie comprend tous les verbes, dont la racine ne se termine
 pas par une semi-consonne faible, ou deux consonnes identiques.
 
 \subsubsection{Verbes simples}
-\noindent
-Verbes bilitères \vl{2} = radical à deux consonnes, comme \tl{Dd} 
-\td{dire} \begin{hieroglyph}D:\!\!\!d\s2\end{hieroglyph}\\
-Verbes trilitères \vl{3} = radical à trois consonnes, comme \tl{sDm} 
-\td{entendre} \begin{hieroglyph}sDm-m\end{hieroglyph}\\
-Verbes quadrilitères \vl{4} = radical à quatre consonnes\\
-Verbes quinquilitères \vl{5} = radical à cinq consonnes\\
+
+Verbes bilitères \vl{2} = radical à deux consonnes, comme 
+\begin{hieroglyph}D:\!\!\!d\s2\end{hieroglyph} \tl{Dd}, \td{dire}.
+
+Verbes trilitères \vl{3} = radical à trois consonnes, comme 
+\begin{hieroglyph}sDm-m\end{hieroglyph} \tl{sDm}, \td{entendre}.
+
+Verbes quadrilitères \vl{4} = radical à quatre consonnes.
+
+Verbes quinquilitères \vl{5} = radical à cinq consonnes.
 
 À côté de ces verbes dits \frquote{simples}, on distingue les verbes 
 causatifs, dérivés des précédents par l'ajout du préfixe \tl{s-}, 
 signifiant \frquote{faire faire quelque chose}.
 
 \subsubsection{Verbes causatifs}
-\noindent
+
 Exemple : \begin{hieroglyph}mn:n:Y1\end{hieroglyph} \td{être 
 stable} (\tl{mn}), \begin{hieroglyph}s-mn:n:Y1\end{hieroglyph} 
 \td{rendre stable} (\tl{smn}).
 
 Verbes causatifs formés sur des verbes forts bilitères \vcl{2}, 
-comme \tl{smn}\\
+comme \tl{smn}.
+
 Verbes causatifs formés sur des verbes forts trilitères \vcl{3}, 
-comme \tl{sanx} \td{faire vivre}
+comme \tl{sanx} \td{faire vivre}.
 
 \subsection{Les verbes faibles (voir Document Classification des 
 verbes)}
@@ -382,17 +403,20 @@ on indique la racine du verbe (notamment dans les entrées de
 dictionnaires).
 
 \subsubsection{Verbes simples}
-\noindent
-Troisième radicale faible \vi{3}, comme \tl{mri} \td{aimer} 
-\begin{hieroglyph}U6:r-A2\end{hieroglyph}, \tl{msi} \td{mettre 
-au monde} \begin{hieroglyph}ms-s-B3\end{hieroglyph}.\\
-Quatrième radicale faible \vi{4}, comme \tl{msDi} \td{détester}.
+
+Troisième radicale faible \vi{3}, comme 
+\begin{hieroglyph}U6:r-A2\end{hieroglyph} \tl{mri}, \td{aimer}, 
+\begin{hieroglyph}ms-s-B3\end{hieroglyph} \tl{msi}, \td{mettre au 
+monde}.
+
+Quatrième radicale faible \vi{4}, comme \tl{msDi}, \td{détester}.
 
 \subsubsection{Verbes causatifs}
-\noindent
+
 Verbes causatifs formés sur des verbes faibles \vi{3} : \vci{3}, comme 
-\tl{smsi} \td{faire accoucher}\\
-Verbes causatifs formés sur des verbes faibles \vi{4}
+\tl{smsi}, \td{faire accoucher}.
+
+Verbes causatifs formés sur des verbes faibles \vi{4}.
 
 \subsection{Les verbes géminés (voir Document Classification des 
 verbes)}
@@ -401,9 +425,9 @@ verbes)}
 Ce sont les verbes dont la racine présente deux consonnes finales 
 identiques.
 
-Verbes à 2\ieme consonne redoublée : \vg{2}, comme \tl{mAA} 
-\begin{hieroglyph}mA:ir-A-A\end{hieroglyph} \td{voir}, 
-\tl{wnn} \begin{hieroglyph}wn:n:n\end{hieroglyph} \td{exister}
+Verbes à 2\ieme consonne redoublée : \vg{2}, comme 
+\begin{hieroglyph}mA:ir-A-A\end{hieroglyph} \tl{mAA}, \td{voir}, 
+\begin{hieroglyph}wn:n:n\end{hieroglyph} \tl{wnn}, \td{exister}.
 
 \subsection{Les verbes irréguliers (voir Document Classification des 
 verbes)}
@@ -462,7 +486,7 @@ infinitif qui note une action en train de se faire.
 \textbf{Le groupe prédicat est constitué de la préposition + de 
 l'infinitif ; il peut encore être suivi de compléments.}
 
-\paragraph{un complément d'objet :}
+\paragraph{Un complément d'objet :}
 En égyptien, comme en français, les verbes peuvent en effet être 
 transitifs (signification complétée par un complément d'objet -- CO) 
 ou intransitifs (sans CO). 
@@ -501,7 +525,7 @@ est employé.
   \td{Le maître regarde cela.}
 \end{center}
 
-\paragraph{un complément circonstanciel :}
+\paragraph{Un complément circonstanciel :}
 En outre, il peut être ajouté à la phrase un ou plusieurs compléments 
 circonstanciels (abrégé CC dans la suite), notamment sous la forme 
 d'adverbes ou de syntagmes adverbiaux :
@@ -529,7 +553,7 @@ d'adverbes ou de syntagmes adverbiaux :
 En cas de présence à la fois de CO et de CC, l'ordre des mots est CO 
 puis CC.
 
-\paragraph{un complément d'attribution :}
+\paragraph{Un complément d'attribution :}
 Le prédicat et le CO peuvent être suivis d'un complément d'attribution.
 
 \begin{center}
@@ -537,16 +561,15 @@ Le prédicat et le CO peuvent être suivis d'un complément d'attribution.
     i-w-A1-Hr-1-ir:t-imi-m:t-Y1:3-pr-1-n-N42:t-B1-A1
   \end{hieroglyph}
 
-  \tl{iw=i Hr ir.t imy.t-pr n Hm.t=i}
+  \tl{iw=i Hr ir.t imy.t-pr n Hm.t=i}\\
+  \rem{(ex. \citeauthor[Leçon~14]{GM} = \source{P.~Kahun} 12,7)}
 
-  \td{Je fais une donation à ma femme} (ex. Grandet/Mathieu, 
-  Leçon 14 = p. Kahun 12,7)
+  \td{Je fais une donation à ma femme}
 \end{center}
 
 L'ordre des mots est alors CO puis complément d'attribution, sauf 
 si ce complément d'attribution est pronominal (forme : \tl{n} + 
 pronom suffixe) :
-
 
 \begin{center}
   *\begin{hieroglyph}
@@ -558,26 +581,27 @@ pronom suffixe) :
   \td{Je lui fais une donation}
 \end{center}
 
-\textbf{La syntaxe de la Proposition à Prédicat adverbial ayant pour 
-prédicat la forme \tl{Hr} + infinitif est la même que la celle de 
-Proposition à prédicat adverbial.}
+\textbf{La syntaxe de la \PPA ayant pour prédicat la forme \tl{Hr} + 
+infinitif est la même que la celle de \PPA.}
 
 \noindent
-\tl{iw bAk Hr wnm} -- Le serviteur mange (indicateur d'énonciation).
+\tl{iw bAk Hr wnm} -- \td{Le serviteur mange.} 
+(indicateur d'énonciation).
 
 \noindent
-\tl{iw=f Hr wnm} -- Il mange (indicateur d'énonciation et sujet 
-pronominal : pronom suffixe).
+\tl{iw=f Hr wnm} -- \td{Il mange.} 
+(indicateur d'énonciation et sujet pronominal : pronom suffixe).
 
 \noindent
 \begin{hieroglyph}m-D38:k-sw-Hr-1-imi-m-A2\end{hieroglyph}\\
-\tl{mk sw Hr wnm} -- Vois, il mange ! (auxiliaire d'énonciation 
-présentatif et sujet pronominal : pronom dépendant).
+\tl{mk sw Hr wnm} -- \td{Vois, il mange !} 
+(auxiliaire d'énonciation présentatif et sujet pronominal : pronom 
+dépendant).
 
 \noindent
 \begin{hieroglyph}nn-sw-Hr-1-imi-m-A2\end{hieroglyph}\\
-\tl{nn sw Hr wnm} -- Il ne mange pas (avec auxiliaire négatif et 
-pronom dépendant pour sujet).
+\tl{nn sw Hr wnm} -- \td{Il ne mange pas.} 
+(auxiliaire négatif et pronom dépendant pour sujet).
 
 Etc.
 
@@ -592,13 +616,19 @@ verbes comme \begin{hieroglyph}H-H-D54\end{hieroglyph} \tl{HHi}
 \td{aller chercher}.
 
 Exemples de verbes de mouvement :\\
-\begin{hieroglyph}ii-i\end{hieroglyph} \tl{iy} \td{venir}\\
-\begin{hieroglyph}Sm-m-D54\end{hieroglyph} \tl{Sm} \td{aller}\\
-\begin{hieroglyph}aHa-a:D54\end{hieroglyph} \tl{aha} \td{se lever}\\
-\begin{hieroglyph}N42:z-A3\end{hieroglyph} \tl{Hmsi} \td{s'asseoir}\\
-\begin{hieroglyph}pr:r-D54\end{hieroglyph} \tl{pri} \td{sortir}
+\begin{tabular}{ll}
+    \begin{hieroglyph}ii-i\end{hieroglyph} \tl{iy} \td{venir} &
+    \begin{hieroglyph}N42:z-A3\end{hieroglyph} \tl{Hmsi} \td{s'asseoir}
+  \\
+    \begin{hieroglyph}Sm-m-D54\end{hieroglyph} \tl{Sm} \td{aller} &
+    \begin{hieroglyph}pr:r-D54\end{hieroglyph} \tl{pri} \td{sortir}
+  \\
+    \begin{hieroglyph}aHa-a:D54\end{hieroglyph} 
+    \tl{aha} \td{se lever} &
+  \\
+\end{tabular}
 
-\begin{center}
+\begin{example}
   *\begin{hieroglyph}
     i-w-bA:k-A1-m-pr:r-t:D54-m-pr-1
   \end{hieroglyph}
@@ -606,17 +636,17 @@ Exemples de verbes de mouvement :\\
   *\tl{iw bAk m pr.t m pr}
 
   \td{Le serviteur sort de la maison.}
-\end{center}
+\end{example}
 
-\begin{center}
+\begin{example}
   \begin{hieroglyph}i-w-f-m-ii-i-t:D54\end{hieroglyph}
 
-  \tl{iw=f m ii.t} (Conte du Naufragé)
+  \tl{iw=f m ii.t} (\source{Conte du Naufragé})
 
   \td{Il vient}\\
   (ou \td{il venait} car cette phrase s'inscrit dans un récit 
   relaté au passé)
-\end{center}
+\end{example}
 
 \bigskip
 

@@ -1,15 +1,10 @@
 %!TEX root = DULAEP_EG.htx
 %##HieroDef.txt
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \part{Cours~1 -- Grammaire -- Proposition à prédicat pseudo-verbal 
 (suite) : le parfait ancien}\label{prt:parfait}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-% \chapter{Récapitulatif du semestre}
-% % ==============================================================
-
-% \section{Le groupe nominal}
-% % --------------------------------------------------------------
 
 \chapter{Introduction : Néfertiti \frquote{la-belle-est-venue}}
 % ==============================================================
@@ -172,28 +167,30 @@ suivantes\footnote{Tableau d'après, \citeauthortitle[17.2]{Allen} \&
 
 \bigskip
 
-\noindent%
-\begin{tabular}{M{1.5cm}M{0.5cm}m{5cm}m{6cm}}
-    ~ & ~ & \textbf{Désinences} & \textbf{Remarques}
+{\noindent\renewcommand\tabularxcolumn[1]{m{#1}}%
+\begin{tabularx}{\textwidth}
+                {+>{\bfseries}M{1.5cm}^>{\bfseries}M{0.5cm}^m{5cm}^X}
+  \toprule
+  \rowstyle{\bfseries}
+    ~ & ~ & Désinences & Remarques
   \tabularnewline
   \otoprule
-    \multicolumn{2}{M{2cm}}{\textbf{1\iere pers. sing.}} &
+    1\iere pers. sing. & &
     \multicolumn{2}{m{10cm}}{%
       \tl{kwi} 
       \begin{hieroglyph}
-        k-w-A1+l, +sk-w+l, +sk-A1+l, +sk-i+l, +sk+l, +s
+        k-w-A1+l, +sk-w+l, +sk-A1+l, +sk-i+l, +sk
       \end{hieroglyph}%
     }
   \tabularnewline
   \midrule
-    \multicolumn{2}{M{2cm}}{\textbf{2\ieme pers. sing.}} &
+    2\ieme pers. sing. & &
     \tl{.ti} 
     \begin{hieroglyph}ti-i+l, +sti+l, +st\end{hieroglyph} &
-    Souvent \begin{hieroglyph}t:W\end{hieroglyph} au \NK
+    souvent \begin{hieroglyph}t:W\end{hieroglyph} au \NK
   \tabularnewline
   \midrule
-    \multirow{2}{1.5cm}[-1.2ex]{\textbf{3\ieme pers. sing.}} & 
-    \textbf{m.} &
+    \multirow{2}{1.5cm}[-1.2ex]{3\ieme pers. sing.} & m. &
     \tl{.w} \begin{hieroglyph}w\end{hieroglyph}, \tl{\zero} &
     \parbox{6cm}{%
       Souvent non noté.\\
@@ -202,53 +199,46 @@ suivantes\footnote{Tableau d'après, \citeauthortitle[17.2]{Allen} \&
     }
   \tabularnewline
   \cmidrule{2-4}
-    & \textbf{f.} & 
-    \tl{.ti} 
-    \begin{hieroglyph}ti-i+l, +sti+l, +st\end{hieroglyph} &
-    Souvent \begin{hieroglyph}t:W\end{hieroglyph} au \NK
+     & f. &
+     \tl{.ti} \begin{hieroglyph}ti-i+l, +sti+l, +st\end{hieroglyph} &
+    souvent \begin{hieroglyph}t:W\end{hieroglyph} au \NK
   \tabularnewline
   \midrule
-    \multicolumn{2}{M{2cm}}{\textbf{1\iere pers. plur.}} &
-    \tl{.wyn} 
-    \begin{hieroglyph}w-\!y:.-n:3+l, +sw-n\end{hieroglyph} &
-    Cf. \citeauthortitle[§~17.2]{Allen} : la forme originelle est 
+    1\iere pers. plur. & &
+    \tl{.wyn} \begin{hieroglyph}w-\!y:.-n:3+l, +sw-n\end{hieroglyph} &
+    cf.~\citeauthortitle[§~17.2]{Allen} : la forme originelle est 
     sans doute \tl{.nw}, écrite \begin{hieroglyph}n:3\end{hieroglyph} 
     quelques rares fois au début du \MK
   \tabularnewline
   \midrule
-    \multicolumn{2}{M{2cm}}{\textbf{2\ieme pers. plur.}} &
-    \tl{.tiwny} 
-    \begin{hieroglyph}tyw-n:y+l, +styw-n\end{hieroglyph} &
-    ~
+    2\ieme pers. plur. & &
+    \tl{.tiwny} \begin{hieroglyph}tyw-n:y+l, +styw-n\end{hieroglyph} &
   \tabularnewline
   \midrule
-    \multirow{2}{1.5cm}[-1.5ex]{\textbf{3\ieme pers. plur.}} &
-    \textbf{m.} &
+    \multirow{2}{1.5cm}[-1.5ex]{3\ieme pers. plur.} & m. &
     \tl{.w} \begin{hieroglyph}w\end{hieroglyph}, \tl{\zero} &
     \parbox{6cm}{%
-      Verbes \vi{3} / \vi{4} : parfois \tl{.y}
+      verbes \vi{3} / \vi{4} : parfois \tl{.y}
       \begin{hieroglyph}i-i\end{hieroglyph}\\
       (cf. \citeauthortitle[p.~442, §~713]{MW})
     }
   \tabularnewline
   \cmidrule{2-4}
-    & \textbf{f.} & 
-    \tl{.ti} 
-    \begin{hieroglyph}ti-i+l, +sti+l, +st\end{hieroglyph} &
-    Généralement remplacé par la désinence masculin pluriel.
+     & f. &
+     \tl{.ti} \begin{hieroglyph}ti-i+l, +sti+l, +st\end{hieroglyph} &
+    généralement remplacé par la désinence masculin pluriel.
   \tabularnewline
   \midrule
-    \multirow{2}{1.5cm}[-1.2ex]{\textbf{3\ieme pers. duel}} &
-    \textbf{m.} &
+    \multirow{2}{1.5cm}[-1ex]{3\ieme pers. duel} & m. &
     \tl{.wy} \begin{hieroglyph}w-\!y:.\end{hieroglyph} &
-    \multirow{2}{*}{Généralement remplacé par le pluriel}
+    \multirow{2}{*}[-1ex]{généralement remplacé par le pluriel}
   \tabularnewline
-  \cmidrule{2-4}
-    & \textbf{f.} & 
+  \cmidrule{2-3}
+     & f. &
     \tl{.ty} \begin{hieroglyph}ti-y\end{hieroglyph} &
   \tabularnewline
   \bottomrule
-\end{tabular}
+\end{tabularx}}
 
 \bigskip
 
@@ -321,8 +311,8 @@ Le statif est donc un \clef{accompli résultatif}. Il indique un
 La valeur de cette forme étant spécifique et particulière, on 
 comprend que la traduction dépend aussi du sens profond de chaque 
 verbe\footnote{Ce que \citeauthor{MW} appellent \emph{Aktionart}. 
-Voir réf.}. Étant donné la valeur résultative du parfait ancien [le 
-parfait ancien sélectionne la \emph{post-phase} d'un procès], cette 
+Voir réf.}. Étant donné la valeur résultative du parfait ancien (le 
+parfait ancien sélectionne la \emph{post-phase} d'un procès), cette 
 forme se rencontre plus particulièrement avec certains types de 
 verbes :
 \begin{itemize}

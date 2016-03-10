@@ -1,6 +1,7 @@
 %!TEX root = DULAEP_EG.htx
 %##HieroDef.txt
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \part{Cours~3 -- Grammaire de l'égyptien classique -- 
 1\iere~partie -- Présentation du Groupe nominal et de ses composants}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -110,18 +111,18 @@ comme le cobra dressé pour les déesses.
 D'autres mots sont soit masculins, soit féminins. Normalement, les 
 mots se terminant par \tl{.t} sont des féminins.
 
-\begin{hieroglyph}tA:N23*1\end{hieroglyph} \tl{tA} \td{la terre} 
+\begin{hieroglyph}tA:N23*1\end{hieroglyph} \tl{tA}, \td{la terre} 
 est masculin en égyptien ancien (cf. le dieu de la terre Geb 
 \begin{hieroglyph}gb-b-G7\end{hieroglyph}).
 
-\begin{hieroglyph}p*t:pt\end{hieroglyph} \tl{p.t} \td{le ciel} 
+\begin{hieroglyph}p*t:pt\end{hieroglyph} \tl{p.t}, \td{le ciel} 
 est féminin (cf. la déesse du ciel Nout 
 \begin{hieroglyph}nw*t:pt-B1\end{hieroglyph}).
 
-\begin{hieroglyph}mwt-\!\!t:.-B1\end{hieroglyph} \tl{mw.t} 
+\begin{hieroglyph}mwt-\!\!t:.-B1\end{hieroglyph} \tl{mw.t}, 
 \td{mère} est féminin.
 
-\begin{hieroglyph}i-t:f-A1\end{hieroglyph} \tl{it} \td{père} 
+\begin{hieroglyph}i-t:f-A1\end{hieroglyph} \tl{it}, \td{père} 
 est masculin.
 
 \begin{notabene}
@@ -151,6 +152,8 @@ est masculin.
   \td{la couronne rouge} (de \BE)
 \end{exercice}
 
+\bigskip
+
 Si les mots se terminant par la consonne \tl{t} sont normalement des 
 féminins, il existe des exceptions. Certains substantifs finissent par 
 un \tl{t}, mais sont des masculins, le \tl{t} n'étant pas, en ce 
@@ -158,7 +161,7 @@ cas, la désinence du féminin, mais la dernière consonne de la racine.
 
 Ces exceptions sont peu nombreuses et sont à apprendre par c{\oe}ur.
 
-\begin{multicols}{2}
+\begin{multicols}{3}
       [\subsection*{Principaux substantifs masculins se terminant 
        par \tl{t} :}]
   \begin{hieroglyph}xt:t*1\end{hieroglyph}
@@ -204,6 +207,8 @@ Comparer \begin{hieroglyph}km-m-t:niwt\end{hieroglyph} \tl{Km.t}
 \tl{kAS} \td{pays de Kouch} (royaume de Nubie). Ces deux mots 
 sont traités comme des féminins.
 
+\bigskip
+
 \begin{exercice}[title={Solution de l'exercice page 3}]
   Translittérer les mots suivants (en vous aidant des listes de 
   signes) et indiquer s'ils sont féminins ou masculins. 
@@ -246,8 +251,9 @@ Marqué par la désinence \tl{.w}.
 \begin{hieroglyph}A-p:d-w-zA-Z3A\end{hieroglyph} \tl{Apd.w} 
 \td{oiseaux}
 
-La notation du pluriel comprend deux éléments :
+\bigskip
 
+La notation du pluriel comprend deux éléments :
 \begin{itemize}
   \item \clef{une notation phonétique}, celle du phonème \tl{w} 
         (unilitère \begin{hieroglyph}w\end{hieroglyph} ou 
@@ -264,6 +270,8 @@ La notation du pluriel comprend deux éléments :
         signe d'un mot (sa présence indique donc de façon certaine 
         qu'on est à la fin d'un mot).
 \end{itemize}
+
+\bigskip
 
 Le pluriel du mot \begin{hieroglyph}X:r:d-Xrd-A1\end{hieroglyph} 
 \tl{Xrd} \td{enfant} peut ainsi s'écrire 
@@ -462,7 +470,6 @@ manière, l'usage du duel renvoie à celle de notre expression
 
 La notation du duel comprend deux éléments (ou un des deux éléments 
 suivants) :
-
 \begin{itemize}
   \item une \clef{notation phonétique}, celle des phonèmes \tl{.wy} 
         ou \tl{.ty}, qui se place toujours avant le ou les 
@@ -542,6 +549,8 @@ a aussi une graphie \begin{hieroglyph}mzH:mzH-A41\end{hieroglyph}.
 
 Nous en verrons d'autres exemples plus tard.
 
+\bigskip
+
 \begin{exercice}[before upper={\centering}]
   \donc{} Faire \textbf{l'exercice~9}.
 \end{exercice}
@@ -607,7 +616,9 @@ féminin est \begin{hieroglyph}T\end{hieroglyph} \tl{=T}, observez :
 \subsection*{Tableau des pronoms personnels -- Pronoms suffixes}
 %~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-\begin{tabular}{>{\bfseries}M{3cm}rM{4cm}M{4cm}}
+\noindent%
+\begin{tabularx}{\textwidth}{>{\bfseries}M{3.5cm}r*{2}{X}}
+  \toprule
     \multicolumn{2}{c}{~} &
     \textbf{Masculin} &
     \textbf{Féminin} 
@@ -622,12 +633,14 @@ féminin est \begin{hieroglyph}T\end{hieroglyph} \tl{=T}, observez :
       \end{hieroglyph}
     } 
   \tabularnewline
+  \cmidrule{2-4}
      &
     toi \textbf{2.} &
     \tl{=k} \begin{hieroglyph}k\end{hieroglyph} &
     \tl{=T} \begin{hieroglyph}T\end{hieroglyph}\quad%
     \tl{=t} \begin{hieroglyph}t\end{hieroglyph} 
   \tabularnewline
+  \cmidrule{2-4}
      &
     lui/elle \textbf{3.} &
     \tl{=f} \begin{hieroglyph}f\end{hieroglyph} &
@@ -640,6 +653,7 @@ féminin est \begin{hieroglyph}T\end{hieroglyph} \tl{=T}, observez :
       \tl{=n} \begin{hieroglyph}n:3+l, +sn\end{hieroglyph}
     } 
   \tabularnewline
+  \cmidrule{2-4}
      &
     vous \textbf{2.} &
     \multicolumn{2}{c}{%
@@ -648,6 +662,7 @@ féminin est \begin{hieroglyph}T\end{hieroglyph} \tl{=T}, observez :
       \tl{=tn} \begin{hieroglyph}t:n:3+l, +st:n\end{hieroglyph}
     } 
   \tabularnewline
+  \cmidrule{2-4}
      &
     ils/elles \textbf{3.} &
     \multicolumn{2}{c}{%
@@ -667,12 +682,14 @@ féminin est \begin{hieroglyph}T\end{hieroglyph} \tl{=T}, observez :
       \tl{=ny} \begin{hieroglyph}n:y\end{hieroglyph}
     } 
   \tabularnewline
+  \cmidrule{2-4}
      &
     \textbf{2.} &
     \multicolumn{2}{c}{%
       \tl{=Tny} \begin{hieroglyph}T:n:y\end{hieroglyph}
     } 
   \tabularnewline
+  \cmidrule{2-4}
      &
     \textbf{3.} &
     \multicolumn{2}{c}{%
@@ -691,10 +708,10 @@ féminin est \begin{hieroglyph}T\end{hieroglyph} \tl{=T}, observez :
     } 
   \tabularnewline
   \bottomrule
-\end{tabular}
+\end{tabularx}
 
 \bigskip
 
-\begin{exercice}[before upper={\centering\bfseries}]
-  \donc{} Faire l'exercice~10 \emph{(à rendre par email)}.
+\begin{exercice}[before upper={\centering}]
+  \donc{} Faire \textbf{l'exercice~10} \emph{(à rendre par email)}.
 \end{exercice}

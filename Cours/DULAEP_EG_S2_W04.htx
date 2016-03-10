@@ -1,18 +1,10 @@
 %!TEX root = DULAEP_EG.htx
 %##HieroDef.txt
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \part{Cours~4 -- Grammaire -- Propositions non verbales (suite) : 
 la \PPN (1)}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-% \chapter{Syntaxe du parfait ancien}
-% =====================================================================
-
-% \section{Prédicat de construction pseudo-verbale S + P}
-% ---------------------------------------------------------------------
-
-% \subsection{Avec l'indicateur d'énonciation \tl{iw}}
-% ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Les propositions à prédicat adverbial et à construction pseudo-verbale 
 vues jusqu'à présent servent à décrire des situations. Un autre type 
@@ -39,27 +31,27 @@ composée d'un sujet et d'un \textbf{prédicat qui est un substantif}
 substantif (par exemple un adjectif substantivé). Sujet et prédicat 
 peuvent être simplement juxtaposés :
 
-\begin{center}
+\begin{example}
   \begin{hieroglyph}b-w-\!t:.-in:3 f g:r-grg-G37:3\end{hieroglyph}
 
   \tl{bw.t=f grg}
 
-  \td{Son abomination est le mensonge.}\\
-  ou\\
+  \td{Son abomination est le mensonge.}\quad%
+  ou\quad%
   \td{Le mensonge est son abomination.}
-\end{center}
+\end{example}
 
 Ou le sujet et le prédicat peuvent être liés par une copule qui est 
 \begin{hieroglyph}p-W\end{hieroglyph} \tl{pw}, qui vient de la série 
 des démonstratifs \tl{pw}, \tl{tw}, \tl{nw}.
 
-\begin{center}
+\begin{example}
   *\begin{hieroglyph}b-w-\!t:.-in:3 f p-W g:r-grg-G37:3\end{hieroglyph}
 
   *\tl{bw.t=f pw, grg}
 
   \td{C'est son abomination, le mensonge.}
-\end{center}
+\end{example}
 
 La prédication nominale peut exprimer deux types d'identité :
 \begin{itemize}
@@ -111,13 +103,15 @@ le premier élément (sujet) est pronominal.
 \subsection{Sujet et prédicat sont des substantifs}
 % ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-\begin{hieroglyph}Dd-Dd-i-Y1:A1 r:n:f\end{hieroglyph}
+\begin{example}
+  \begin{hieroglyph}Dd-Dd-i-Y1:A1 r:n:f\end{hieroglyph}
 
-\tl{+di rn=f} 
+  \tl{+di rn=f}
+  (\source{P.~Westcar}, 7,1 \texttimes{} \citeauthor[ex.~539]{MW})
 
-\td{Djédi est son nom.} 
+  \td{Djédi est son nom.}
+\end{example}
 
-(\source{P. Westcar}, 7,1 \texttimes{} \citeauthor{MW}, exemple~539)
 
 \subsection{Le sujet est pronominal}
 % ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -125,13 +119,16 @@ le premier élément (sujet) est pronominal.
 On emploie alors le pronom \textbf{indépendant}, seul pronom en 
 capacité de débuter une phrase, sans élément d'appui (cf. tableau).
 
-\begin{tabular}{>{\bfseries}M{3cm}rM{4cm}M{4cm}}
-    \multicolumn{2}{c}{~} &
-    \textbf{Masculin} &
-    \textbf{Féminin} 
+\noindent%
+\begin{tabularx}{\textwidth}{>{\bfseries}+M{2.5cm}^r*{2}{^X}}
+  \toprule
+  \rowstyle{\bfseries}
+    ~ & ~ &
+    Masculin &
+    Féminin 
   \tabularnewline
   \otoprule
-    \multirow{5}{*}{Singulier} &
+    \multirow{5}{*}[-4ex]{Singulier} &
     moi \textbf{1.} &
     \multicolumn{2}{c}{%
       \tl{ink} 
@@ -140,22 +137,26 @@ capacité de débuter une phrase, sans élément d'appui (cf. tableau).
       \end{hieroglyph}
     } 
   \tabularnewline
+  \cmidrule{2-4}
      &
-    \multirow{2}{*}{toi \textbf{2.}} &
+    \multirow{2}{*}[-1.5ex]{toi \textbf{2.}} &
     \tl{ntk} \begin{hieroglyph}n:t:k\end{hieroglyph} &
     \tl{ntT} \begin{hieroglyph}n:t:T+l, +sn:t*t\end{hieroglyph}
   \tabularnewline
+  \cmidrule{3-4}
      & &
     \multicolumn{2}{c}{%
       Forme archaïque \tl{swt} 
       \begin{hieroglyph}T-w-\!t:.\end{hieroglyph}%
     }
   \tabularnewline
+  \cmidrule{2-4}
      &
-    \multirow{2}{*}{lui/elle \textbf{3.}} &
+    \multirow{2}{*}[-1.5ex]{lui/elle \textbf{3.}} &
     \tl{ntf} \begin{hieroglyph}n:t:f\end{hieroglyph} &
     \tl{nts} \begin{hieroglyph}n:t-s+l, +sn:t:z\end{hieroglyph}
   \tabularnewline
+  \cmidrule{3-4}
      & &
     \multicolumn{2}{c}{%
       Forme archaïque \tl{swt} 
@@ -163,13 +164,14 @@ capacité de débuter une phrase, sans élément d'appui (cf. tableau).
     }
   \tabularnewline
   \midrule
-    \multirow{3}{*}{Pluriel} &
+    \multirow{3}{*}[-2.5ex]{Pluriel} &
     nous \textbf{1.} &
     \multicolumn{2}{c}{%
       \tl{inn} 
       \begin{hieroglyph}i-nw:n:3+l, +si-A2-n:n:3\end{hieroglyph}
     } 
   \tabularnewline
+  \cmidrule{2-4}
      &
     vous \textbf{2.} &
     \multicolumn{2}{c}{%
@@ -177,6 +179,7 @@ capacité de débuter une phrase, sans élément d'appui (cf. tableau).
       \begin{hieroglyph}n:t-t:n:3+l, +sn:t-T:n:3\end{hieroglyph}
     } 
   \tabularnewline
+  \cmidrule{2-4}
      &
     ils/elles \textbf{3.} &
     \multicolumn{2}{c}{%
@@ -185,7 +188,7 @@ capacité de débuter une phrase, sans élément d'appui (cf. tableau).
     } 
   \tabularnewline
   \bottomrule
-\end{tabular}
+\end{tabularx}
 
 \bigskip
 
