@@ -2,8 +2,8 @@
 %##HieroDef.txt
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\part{Cours~5 -- Grammaire -- Le groupe nominal et ses composants 
-(suite)}
+\part{[Grammaire] Le groupe nominal et ses composants~(3)}
+\label{prt:grp_nom_3}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 Nous avons vu plusieurs éléments constitutifs du groupe nominal et 
@@ -36,7 +36,7 @@ sont possibles en égyptien ancien : une construction directe appelée
 \clef{génitif direct}, une construction indirecte appelée 
 \clef{génitif indirect}.
 
-\section{Génitif direct}
+\section{Génitif direct}\label{sec:gen_direct}
 %----------------------------------------------------------------------
 
 % \paragraph{Génitif direct :} 
@@ -138,17 +138,15 @@ nisbé \tl{n(y)} (\td{qui appartient à}, \td{qui est en relation avec},
   Dans le cas du génitif indirect, le substantif et son complément 
   peuvent être séparés par un pronom suffixe, un adjectif épithète, 
   un démonstratif.
-
-  \begin{example}
-    \begin{hieroglyph}wD-W:Y1 p:n n-sw-t:n-A41\end{hieroglyph}
-
-    \tl{wD pn n(y) nsw}
-
-    \td{Cet ordre du roi.}
-  \end{example}
 \end{notabene}
 
+\begin{example}
+  \begin{hieroglyph}wD-W:Y1 p:n n-sw-t:n-A41\end{hieroglyph}
+  \tl{wD pn n(y) nsw}, \td{Cet ordre du roi.}
+\end{example}
+
 \chapter{Éléments de syntaxe : l'apposition}
+\label{cha:appo}
 %======================================================================
 
 On appelle \frquote{apposition} une juxtaposition de deux mots qui 
@@ -166,6 +164,7 @@ premier. Cet usage est fréquent dans les épithètes divines.
 \end{example}
 
 \chapter{Éléments de syntaxe : la coordination \frquote{et}}
+\label{cha:coord}
 %======================================================================
 
 Deux substantifs peuvent être coordonné (\td{mon frère \uline{et} ma 
@@ -191,12 +190,13 @@ Plus rarement, l'égyptien ancien peut recourir à des prépositions.
 \end{example}
 
 \begin{notabene}
-  en relisant les sections du cours portant sur le génitif direct, 
-  l'apposition et la coordination, portez votre attention sur le 
-  fait que la \textbf{juxtaposition de deux substantifs} en égyptien 
-  ancien est donc susceptible, à priori, de trois analyses possibles : 
-  apposition, génitif direct ou coordination. C'est le contexte et 
-  le sens qui permet de faire le choix de l'une ou l'autre analyse.
+  en relisant les sections du cours portant sur le génitif direct 
+  (\Cref{sec:gen_direct}), l'apposition (\Cref{cha:coord}) et la 
+  coordination (\Cref{cha:appo}), portez votre attention sur le fait 
+  que la \textbf{juxtaposition de deux substantifs} en égyptien ancien 
+  est donc susceptible, à priori, de trois analyses possibles : 
+  apposition, génitif direct ou coordination. C'est le contexte et le 
+  sens qui permet de faire le choix de l'une ou l'autre analyse.
 \end{notabene}
 
 \begin{hieroglyph}t:X2-X4:3 H-q:t-Hnqt\end{hieroglyph} 
@@ -220,7 +220,7 @@ fin d'énumération.
 
 \begin{example}
   \begin{hieroglyph}z:A1 z:t-B1 r:1 p-w\end{hieroglyph} 
-    \tl{s s.t r-pw} \td{un homme ou une femme}
+    \tl{s s.t r-pw}, \td{un homme ou une femme}
 \end{example}
 
 \chapter{Éléments de syntaxe : l’ipséité \td{lui-même}, 
@@ -295,7 +295,7 @@ précédé d'interjections :
 \end{example}
 
 \chapter{Synthèse -- L'ordre des mots dans le syntagme nominal -- 
-Récapitulatif}
+Récapitulatif}\label{cha:odre_mots}
 %======================================================================
 
 Nous avons vu à présent les éléments essentiels du groupe nominal. 
@@ -337,25 +337,26 @@ utile pour procéder aux analyses grammaticales et traduire.
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\part{Cours~5 -- Écriture, 2\ieme~partie}
+\part{[Écriture] Particularités graphiques}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 Dans ce volet, nous allons revenir sur certains détails du système 
 graphique égyptiens.
 
-\noindent\textbf{PLAN :}
-\begin{enumerate}
-  \item Antéposition honorifique (voir \doc{cours~5 -- Grammaire} 
-        sur le génitif direct)
-  \item \frquote{Orthographe} et évolution des graphies
-  \item Principes généraux des signes en écriture hiératique avec 
-        un exercice de lecture (partie du cours facultative)
-\end{enumerate}
+% \noindent\textbf{PLAN :}
+% \begin{enumerate}
+%   \item Antéposition honorifique (voir cours~\ref{prt:grp_nom_3}, 
+%         \Sref{sec:gen_direct} sur le génitif direct)
+%   \item \frquote{Orthographe} et évolution des graphies
+%   \item Principes généraux des signes en écriture hiératique avec 
+%         un exercice de lecture (partie du cours facultative)
+% \end{enumerate}
 
 \chapter{L'antéposition honorifique}
 %======================================================================
 
-Voir \doc{cours~5 -- Grammaire -- génitif direct}
+Voir le cours~\ref{prt:grp_nom_3}, \Sref{sec:gen_direct} sur le 
+génitif direct.
 
 \chapter{\frquote{Orthographe} et évolution des graphies}
 %======================================================================
@@ -405,7 +406,8 @@ D'où les variantes :
 
 Ou encore les différentes formes du pronom suffixe 2\ieme personne 
 singulier féminin \begin{hieroglyph}T\end{hieroglyph} \tl{=T} ou 
-\begin{hieroglyph}t\end{hieroglyph} \tl{=t} (voir \doc{cours~3}).
+\begin{hieroglyph}t\end{hieroglyph} \tl{=t} 
+(voir cours~\ref{prt:grp_nom_1}, \Sref{sec:PS}).
 
 À l'inverse, certains mots conservent traces d'une prononciation 
 ancienne désormais obsolète. Par exemple, la graphie 
@@ -414,12 +416,13 @@ ancienne désormais obsolète. Par exemple, la graphie
 phonème \tl{r}, alors même que le mot est prononcé \tl{swi} depuis 
 le \MK.
 
-\chapter{Principes généraux des signes en écriture hiératique (partie 
-du cours facultative)}
+\chapter{Principes généraux des signes en écriture hiératique 
+(facultatif)}
 %======================================================================
 
 On a déjà évoqué, notamment lors de la présentation du travail de 
-Jean-François~\bsc{Champollion} (\doc{Cours~2}) l'unité profonde qui 
+Jean-François~\bsc{Champollion} (cours~\ref{prt:syst_graph_2}, 
+\Sref{sec:dechiffr}\,\ref{sub:champo_hiera}) l'unité profonde qui 
 existe entre l'écriture dite \hiero et l'écriture cursive dite 
 hiératique. Les signes hiératiques ne sont que des simplifications 
 cursives des signes \hiero[iques]. Le système d'écriture est donc 

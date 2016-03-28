@@ -2,8 +2,8 @@
 %##HieroDef.txt
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\part{Cours~4 -- Grammaire -- Le groupe nominal et ses composants 
-(suite)}\label{prt:grp_nom_2}
+\part{[Grammaire] Le groupe nominal et ses composants~(2)}
+\label{prt:grp_nom_2}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 Nous poursuivons notre exploration du groupe nominal et des mots qui 
@@ -107,7 +107,7 @@ manière substantivée : \begin{hieroglyph}nfr-f:r:t-B1\end{hieroglyph}
 \tl{nfr.t}, \td{la belle} (voir le nom de Néfertiti \tl{Nfr.t-ii.ti} 
 = \td{la Belle-est-venue})
 
-\section{Les adjectifs \frquote{nisbés}}
+\section{Les adjectifs \frquote{nisbés}}\label{sec:nisbe}
 %----------------------------------------------------------------------
 
 L'égyptien ancien possède une série d'adjectifs dérivés de substantifs 
@@ -262,11 +262,12 @@ nombreux. Voici quelques exemples en plus de l'exemple précédent :
 \end{example}
 
 Attention à certaines graphies particulières des nisbés. On a déjà 
-parlé des \emph{duels apparents} (cours 3). On en rencontre dans les 
-graphies de certains adjectifs \emph{nisbés} dérivés de mots féminins 
-et donc se terminant par \tl{ty}. Ces phonèmes rappellent en effet 
-le duel féminin \tl{.ti} et peuvent être notés graphiquement sous 
-la forme de duels \emph{apparents}. Ainsi :
+parlé des \emph{duels apparents} (cours~\ref{prt:grp_nom_1}, 
+\Sref{sec:nombre}\,\ref{sub:duel}). On en rencontre dans les graphies 
+de certains adjectifs \emph{nisbés} dérivés de mots féminins et donc 
+se terminant par \tl{ty}. Ces phonèmes rappellent en effet le duel 
+féminin \tl{.ty} et peuvent être notés graphiquement sous la forme 
+de duels \emph{apparents}. Ainsi :
 
 \begin{example}
   \begin{hieroglyph}niwt:t*1\end{hieroglyph} \tl{niw.t} \td{ville} 
@@ -512,7 +513,7 @@ plus vivante au \MK (\emph{\frquote{démonstratifs pluriels
 archaïques}}, voir tableau ci-dessous). Au \MK, l'égyptien recourt 
 plutôt, à des périphrases utilisant le démonstratif neutre des séries. 
 placé devant le substantif et construit de manière indirecte au moyen 
-du nisbé (voir \doc{cours~3}) \begin{hieroglyph}n\end{hieroglyph} 
+du nisbé (voir \Sref{sec:nisbe}) \begin{hieroglyph}n\end{hieroglyph} 
 \tl{n(y)}, \td{de}.
 
 \noindent%

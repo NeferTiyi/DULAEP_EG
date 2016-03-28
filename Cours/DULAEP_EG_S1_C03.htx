@@ -2,8 +2,8 @@
 %##HieroDef.txt
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\part{Cours~3 -- Grammaire de l'égyptien classique -- 
-1\iere~partie -- Présentation du Groupe nominal et de ses composants}
+\part{[Grammaire] Le groupe nominal et ses composants~(1)}
+\label{prt:grp_nom_1}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 Vous avez été initié au système graphique \hiero. Nous y reviendrons 
@@ -53,7 +53,7 @@ ou féminin) et \textbf{un nombre} (singulier, pluriel, ou duel). Ces
 caractéristiques sont, pour certaines marquées par des désinences 
 spécifiques que nous allons voir.
 
-\section{Le genre}
+\section{Le genre}\label{sec:genre}
 %----------------------------------------------------------------------
 
 Il y a deux genres : \textbf{le masculin et le féminin}. 
@@ -231,7 +231,7 @@ sont traités comme des féminins.
   \td{la couronne rouge} (de \BE) \tl{dSr.t} (mot féminin)
 \end{exercice}
 
-\section{Le nombre}
+\section{Le nombre}\label{sec:nombre}
 %----------------------------------------------------------------------
 
 La langue égyptienne ancienne connaît trois nombres : le singulier, le 
@@ -279,19 +279,19 @@ La notation du pluriel comprend deux éléments :
 \bigskip
 
 Le pluriel du mot \begin{hieroglyph}X:r:d-Xrd-A1\end{hieroglyph} 
-\tl{Xrd} \td{enfant} peut ainsi s'écrire 
+\tl{Xrd}, \td{enfant} peut ainsi s'écrire 
 \begin{hieroglyph}X:r:d-w-Xrd-A1:3\end{hieroglyph} ou 
 \begin{hieroglyph}X:r:d-Xrd-A1:3\end{hieroglyph} \tl{Xrd.w}. 
 Plus rarement, le pluriel peut s'écrire seulement de manière 
-phonétique : \begin{hieroglyph}h:p-Y1v\end{hieroglyph} \tl{hp} 
+phonétique : \begin{hieroglyph}h:p-Y1v\end{hieroglyph} \tl{hp}, 
 \td{loi} -- \begin{hieroglyph}h:p-W:Y1\end{hieroglyph} 
-\tl{hp.w} \td{lois}
+\tl{hp.w}, \td{lois}
 
 Il est à noter que la désinence d'un mot féminin pluriel est 
-\tl{.wt} \begin{hieroglyph}W:t\end{hieroglyph}.
+\begin{hieroglyph}W:t\end{hieroglyph} \tl{.wt}.
 
-\begin{hieroglyph}W:t\end{hieroglyph} \tl{bAk.t} \td{servante} 
-\donc{} \begin{hieroglyph}W:t\end{hieroglyph} \tl{bAk.wt} 
+\begin{hieroglyph}W:t\end{hieroglyph} \tl{bAk.t}, \td{servante} 
+\donc{} \begin{hieroglyph}W:t\end{hieroglyph} \tl{bAk.wt}, 
 \td{servantes} : \textbf{retenez bien la position de la notation 
 phonétique du pluriel \tl{.w} (toujours juste avant la désinence du 
 féminin)}. Si le pluriel n'est pas noté par la désinence \tl{.w}, 
@@ -322,13 +322,13 @@ précisions :
   \item En plus du déterminatif du pluriel (les trois traits), 
         il existe des déterminatifs particuliers : le 
         \textbf{déterminatif de la collectivité} 
-        \begin{hieroglyph}A1*B1:3\end{hieroglyph} (homme assis + 
+        \begin{hieroglyph}rmT\end{hieroglyph} (homme assis + 
         femme assise + trois traits du pluriel. Ainsi : 
-        \begin{hieroglyph}X:r:d-Xrd-A1\end{hieroglyph} \tl{Xrd} 
+        \begin{hieroglyph}X:r:d-Xrd-A1\end{hieroglyph} \tl{Xrd}, 
         \td{enfant} \donc{} 
         \begin{hieroglyph}X:r:d-w-Xrd-A1:3\end{hieroglyph} 
-        \tl{Xrd.w} \td{enfants} ou 
-        \begin{hieroglyph}X:r:d-w-Xrd-A1*B1:3\end{hieroglyph} 
+        \tl{Xrd.w}, \td{enfants} ou 
+        \begin{hieroglyph}X:r:d-w-Xrd-rmT\end{hieroglyph} 
         \tl{Xrd.w}.
   \item La notation phonétique du pluriel se fait au moyen des 
         unilitères \tl{w} \begin{hieroglyph}w\end{hieroglyph} ou 
@@ -339,8 +339,8 @@ précisions :
         on rencontre notamment \textbf{le bilitère \tl{nw}}
         \begin{hieroglyph}nw\end{hieroglyph} :
         \begin{itemize}
-          \item \begin{hieroglyph}sn:n-A1\end{hieroglyph} \tl{sn} 
-                \td{frère} \donc{} \tl{sn.w} \td{frères} 
+          \item \begin{hieroglyph}sn:n-A1\end{hieroglyph} \tl{sn}, 
+                \td{frère} \donc{} \tl{sn.w}, \td{frères} 
                 \begin{hieroglyph}sn-n:nw-w-A1:3\end{hieroglyph} 
                 (bilitère \tl{sn} + complément phonétique \tl{n} + 
                 bilitère \tl{nw} + complément phonétique \tl{w} + 
@@ -350,8 +350,8 @@ précisions :
                 par le bilitère \begin{hieroglyph}sn\end{hieroglyph}, 
                 l'unilitère \begin{hieroglyph}n\end{hieroglyph} et 
                 le bilitère \begin{hieroglyph}nw\end{hieroglyph}.}
-          \item \begin{hieroglyph}r:n-A2\end{hieroglyph} \tl{rn} 
-                \td{nom} \donc{} \tl{rn.w} \td{noms} 
+          \item \begin{hieroglyph}r:n-A2\end{hieroglyph} \tl{rn}, 
+                \td{nom} \donc{} \tl{rn.w}, \td{noms} 
                 \begin{hieroglyph}r:n-nw-W-A2\end{hieroglyph}
         \end{itemize}
 \end{enumerate}
@@ -363,19 +363,19 @@ précisions :
   \td{dieu} \donc{}
   \begin{hieroglyph}nTr-T:r-G7-Z3A\end{hieroglyph} ou 
   \begin{hieroglyph}nTr-T:r-W-G7-Z3A\end{hieroglyph} 
-  \tl{nTr.w} \td{dieux}
+  \tl{nTr.w}, \td{dieux}
 
   \begin{hieroglyph}nTr-T:r-t-I12\end{hieroglyph} 
   \td{déesse} \donc{}
   \begin{hieroglyph}nTr-T:r-t-I12-Z3A\end{hieroglyph} ou 
   \begin{hieroglyph}nTr-T:r-W:t-I12-Z3A\end{hieroglyph} 
-  \tl{nTr.wt} \td{déesses}
+  \tl{nTr.wt}, \td{déesses}
 
   \begin{hieroglyph}nTr-1\end{hieroglyph} 
   \td{dieu} \donc{}
   \begin{hieroglyph}nTr-1:3\end{hieroglyph} ou 
   \begin{hieroglyph}nTr-Z3\end{hieroglyph} 
-  \tl{nTr.w} \td{dieux}
+  \tl{nTr.w}, \td{dieux}
 \end{exercice}
 
 \begin{aparte}
@@ -390,19 +390,19 @@ pleinement. Le pluriel est noté par :
 \begin{itemize}
   \item \clef{triplication du déterminatif} \\
         \begin{hieroglyph}n:h*t-M1\end{hieroglyph} 
-        \tl{nh.t} \td{sycomore} \donc{} 
+        \tl{nh.t}, \td{sycomore} \donc{} 
         \begin{hieroglyph}n:h*t-M1-M1-M1\end{hieroglyph} 
-         \tl{nh.wt} \td{sycomores}
+        \tl{nh.wt}, \td{sycomores}
   \item \clef{triplication de l'idéogramme} \\
         \begin{hieroglyph}nTr-1\end{hieroglyph} 
-        \tl{nTr} \td{dieu} \donc{}
+        \tl{nTr}, \td{dieu} \donc{}
         \begin{hieroglyph}nTr-nTr-nTr\end{hieroglyph}
-        \tl{nTr.w} \td{dieux}
+        \tl{nTr.w}, \td{dieux}
   \item \clef{triplication des phonogrammes} (rare) \\
         \begin{hieroglyph}r:n\end{hieroglyph} 
-        \tl{rn} \td{nom} \donc{} 
+        \tl{rn}, \td{nom} \donc{} 
         \begin{hieroglyph}r:n-r:n-r:n\end{hieroglyph} 
-        \tl{rn.w} \td{noms}
+        \tl{rn.w}, \td{noms}
 \end{itemize}
 
 \bigskip
@@ -442,10 +442,11 @@ Attention, certains mots écrits avec les trois traits du pluriel ne
 sont pas des mots au pluriel. Dans certains cas, les trois traits du 
 pluriel jouent simplement le rôle de déterminatif de la collectivité~/ 
 pluralité. Or, un mot désignant une collectivité peut être au 
-singulier. On parle de \clef{collectifs}. Par exemple, le 
-\td{troupeau} \begin{hieroglyph}mn:n_mn:n-t-E1:3\end{hieroglyph} 
-\tl{mnmn.t} (de gros bétail). C'est le cas aussi des désignations 
-de matières ou biens non dénombrable : 
+singulier. On parle de \clef{collectifs}. Par exemple, 
+\begin{hieroglyph}mn:n_mn:n-t-E1:3\end{hieroglyph} \tl{mnmn.t}, 
+le \td{troupeau} (de gros bétail). 
+C'est le cas aussi des désignations de matières ou biens non 
+dénombrables : 
 \begin{hieroglyph}t:X2-X4:3\end{hieroglyph} \tl{t} \td{pain}, 
 \begin{hieroglyph}i-r:p-nw:3\end{hieroglyph} \tl{irp} \td{vin}, 
 \begin{hieroglyph}x:z-b-D-N33:3\end{hieroglyph} \tl{xsbD} 
@@ -455,14 +456,14 @@ des matières premières (minerai, métal\dots).
 
 Par ailleurs, tous les mots se terminant par le phonème .w ne sont 
 pas nécessairement des pluriels. Par exemple : 
-\begin{hieroglyph}i-A-w-A30\end{hieroglyph} \tl{iAw} \td{adoration}. 
+\begin{hieroglyph}i-A-w-A30\end{hieroglyph} \tl{iAw}, \td{adoration}. 
 Ainsi, les termes désignant des sentiments présentent aussi souvent 
 un aspect pluriel car ils sont dérivés de verbe par adjonction d'un 
 suffixe \tl{.w} : \begin{hieroglyph}r:S-W:t-D19-Y1:3\end{hieroglyph} 
 \tl{rSw.t} \td{la joie}. On parle de \clef{pluriel apparent} en ce 
 cas.
 
-\subsection{Le duel}
+\subsection{Le duel}\label{sub:duel}
 %~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Le duel est un nombre qui n'existe pas en français. Il est utilisé 
@@ -483,24 +484,24 @@ suivants) :
         déterminatif ou du logogramme dans le cas des signes-mots.
 \end{itemize}
 
-\begin{hieroglyph}sn-n:t-B1\end{hieroglyph} \tl{sn.t} \td{s{\oe}ur} 
-\donc{} \begin{hieroglyph}sn-n:t*y-B1-B1\end{hieroglyph} \tl{sn.ty} 
+\begin{hieroglyph}sn-n:t-B1\end{hieroglyph} \tl{sn.t}, \td{s{\oe}ur} 
+\donc{} \begin{hieroglyph}sn-n:t*y-B1-B1\end{hieroglyph} \tl{sn.ty}, 
 \td{les deux s{\oe}urs}
 
-\begin{hieroglyph}sn:n-A1\end{hieroglyph} \tl{sn} \td{frère} \donc{} 
-\begin{hieroglyph}sn-n:nw-\!y:.-A1-A1\end{hieroglyph} \tl{sn.wy} 
+\begin{hieroglyph}sn:n-A1\end{hieroglyph} \tl{sn}, \td{frère} \donc{} 
+\begin{hieroglyph}sn-n:nw-\!y:.-A1-A1\end{hieroglyph} \tl{sn.wy}, 
 \td{les deux frères} (notez encore ici l'utilisation du bilitère 
 \begin{hieroglyph}nw\end{hieroglyph} \tl{nw})
 
-\begin{hieroglyph}r:d-rd\end{hieroglyph} \tl{rd} \td{jambe} \donc{} 
+\begin{hieroglyph}r:d-rd\end{hieroglyph} \tl{rd}, \td{jambe} \donc{} 
 \begin{hieroglyph}r:d-rd-rd\end{hieroglyph} \tl{rd.wy} (duplication 
 du déterminatif) ou \begin{hieroglyph}r:d-W:y-rd-rd\end{hieroglyph} 
-\tl{rd.wy} \td{les deux jambes} (duplication + notation phonétique 
+\tl{rd.wy}, \td{les deux jambes} (duplication + notation phonétique 
 de la désinence) ou \begin{hieroglyph}r:d-w-\!y:.-rd\end{hieroglyph} 
 \tl{rd.wy} (notation phonétique de la désinence)
 
-\begin{hieroglyph}a-1\end{hieroglyph} \tl{a} \td{bras} \donc{} 
-\begin{hieroglyph}a:a\end{hieroglyph} \tl{a.wy} \td{les deux bras} 
+\begin{hieroglyph}a-1\end{hieroglyph} \tl{a}, \td{bras} \donc{} 
+\begin{hieroglyph}a:a\end{hieroglyph} \tl{a.wy}, \td{les deux bras} 
 (duplication du logogramme) ou 
 \begin{hieroglyph}a:a-W:y\end{hieroglyph} (duplication + notation 
 phonétique de la désinence)
@@ -560,7 +561,7 @@ Nous en verrons d'autres exemples plus tard.
   \donc{} Faire \textbf{l'exercice~9}.
 \end{exercice}
 
-\section{Le pronom suffixe}
+\section{Le pronom suffixe}\label{sec:PS}
 %----------------------------------------------------------------------
 
 L'égyptien classique possède plusieurs séries de pronoms personnels :

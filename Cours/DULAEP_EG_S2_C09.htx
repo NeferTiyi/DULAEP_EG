@@ -1,0 +1,246 @@
+%!TEX root = DULAEP_EG.htx
+%##HieroDef.txt
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\part{[Grammaire] Propositions exprimant la possession}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+L'égyptien ancien n'a pas d'auxiliaire \frquote{être}, ni d'auxiliaire 
+\frquote{avoir}. Les tournures pour exprimer la possession sont 
+variées. Vous en connaissez une recourant à la proposition à prédicat 
+adverbial ayant pour prédicat \tl{n} + groupe nominal, mais d'autres 
+seront présentées ici pour la première fois.
+
+\chapter{\PPA avec \tl{n} + groupe nominal}
+% =====================================================================
+
+L'égyptien ancien peut recourir à une \PPA ayant pour prédicat 
+le \tl{n} d'attribution (voir le cours~\ref{prt:pnv2}, 
+\Sref{sec:n_attrib}, du \titleref{bk:semestre1})
+
+\begin{example}
+  \begin{hieroglyph}jw anx-n:x n +l\emph{N.}+s p:n\end{hieroglyph}
+
+  \tl{iw anx n {\normalfont\emph{N.}} pn} 
+  \infos{(\CTx{VII}, 467b, sarcophage~B6C)}
+
+  \td{La vie est pour \emph{N.} que voici.}\quad =\quad 
+  \td{La vie appartient à \emph{N.}\footnotemark{} que voici.}
+\end{example}
+\footnotetext{La mention \emph{N.} indique que, dans le texte 
+originel, était indiqué le nom du défunt.}
+
+Sans oublier la possibilité d'inversion de l'ordre Sujet-Prédicat, si 
+le prédicat est composé de \tl{n} + pronom suffixe :
+
+\begin{example}
+  \begin{hieroglyph}jw n-A50 anx-n:x\end{hieroglyph}
+
+  \tl{iw n=i anx}
+  \infos{(\CTx{VII}, 467b, sarcophage~B9C)}
+
+  \td{À moi est la vie.}\quad=\quad\td{la vie m'appartient.}
+\end{example}
+
+Ce type d'énoncé peut être présenté sans \tl{iw} (notamment dans les 
+légendes de scènes) :
+
+\begin{example}
+  \begin{minipage}{1.5cm}
+    \EnColonne[1.4\Htm]{
+      \begin{hieroglyph}
+        n-k-anx*\!Dd*\!wAs-nb
+      \end{hieroglyph}
+    }
+  \end{minipage}%
+  \hfill%
+  \begin{minipage}{\textwidth-2cm}
+    \tl{n=k anx Dd wAs}
+    \infos{(Chapelle blanche, Sésostris~I)}
+
+    \td{À toi toute vie, toute stabilité et tout pouvoir !}
+  \end{minipage}%
+\end{example}
+
+Un élément \begin{hieroglyph}i-m-i-i\end{hieroglyph} \tl{imy} 
+peut-être placé après le \tl{n} d'attribution suivi du pronom 
+suffixe pour renforcer l'expression de l'appartenance :
+
+\begin{example}
+  \begin{hieroglyph}
+    n:f i-m p*t:pt tA:N23
+    n:f i-imi-w-A40:3 s-n
+    n:f i-m nTr-tA:N23-xAst
+  \end{hieroglyph}
+
+  \tl{n=f-im(y) p.t, n=f imy.w=sn, n=f-im \&tA-nTr}
+  \infos{(\CTx{VI}, 155~c-e, B1B0)}
+
+  \td{À lui la terre et le ciel, à lui ceux qui sont en eux, 
+      à lui le Pays du dieu !}
+\end{example}
+
+\chapter{\PPJ}
+% =====================================================================
+
+La possession peut aussi être exprimée en recourant à la \PPJ. 
+Le prédicat est alors assumé par \textbf{l'adjectif nisbé} \tl{n(y)} 
+qui signifie \td{appartenant à}. Utilisé comme n'importe quel adjectif 
+dans une \PPJ, il se place en tête, est invariable, et est normalement 
+suivi du complément indiquant le possesseur, puis du sujet de la 
+proposition (l'élément possédé), selon le schéma Prédicat-Sujet des 
+\PPJ[s] (voir cours~\ref{prt:PPJ} du \titleref{bk:semestre2}).
+
+\begin{center}
+\tl{n(y) \tll{A} \tll{B}}
+
+\litt \td{\emph{B} est appartenant à \emph{A}.}
+\end{center}
+
+\begin{example}
+  \begin{hieroglyph}
+    +l*+s n:f bA:k-A1 pr-1
+  \end{hieroglyph}
+
+  *\tl{n(y) bAk pr}
+
+  *\td{Appartenant au serviteur est la maisonnée.}\quad=\quad
+  *\td{La maison appartient au serviteur.}
+\end{example}
+
+En cas de besoin, le pronom utilisé dans cette construction est 
+le \textbf{pronom dépendant}. En raison du comportement du pronom 
+dépendant dans une phrase (qui est souvent placé plus tôt dans la 
+phrase que son équivalent nominal -- comparer d'une certaine manière 
+avec la place du COD nominal dans une phrase en français \incise{après 
+le verbe} et la place du COD pronominal \oincise{avant le verbe}), 
+l'analyse devient plus complexe. En effet, le sujet pronominal se 
+trouvera placé avant la partie nominale du prédicat.
+
+Si le possédé (le sujet \emph{B}) est exprimé par un pronom, c'est le 
+pronom dépendant qui est utilisé, et celui-ci est placé immédiatement 
+après \tl{n(y)} \textbf{pour respecter la priorité} normalement 
+accordée aux pronoms. On aura :
+
+\begin{example}
+  \begin{hieroglyph}
+    +l*+s n sw-W bA:k-A1
+  \end{hieroglyph}
+
+  *\tl{n(y) sw bAk}
+
+  *\td{Elle \rem{(la maison)} est appartenant au serviteur.}
+\end{example}
+
+Soit le schéma :
+
+\begin{center}
+  \tl{n(y) sw {\normalfont\emph{A}}}
+
+  \td{Il est appartenant à \emph{A}.}\\
+  \td{Il appartient à \emph{A}.}
+\end{center}
+
+\begin{example}
+  \begin{hieroglyph}
+    n w-A1 ra-A40
+  \end{hieroglyph}
+
+  \tl{n(y) wi Ra}
+
+  \td{Je suis appartenant à Rê.}\quad=\quad\td{J'appartiens à Rê.}
+\end{example}
+
+Mais si le complément du nisbé \tl{n(y)} est pronominal (donc 
+le possesseur), il sera aussi exprimé par un pronom dépendant. 
+Théoriquement on peut donc se trouver devant ces quatre cas de 
+figures (voir \citeauthortitle[309]{MW}) :
+
+\begin{tabular}{@{}r@{\ }c@{\ }l @{\quad=\quad} l@{\quad=\quad}l}
+  \tl{n(y)} & \tll{A} & \tll{B} &
+  \emph{B} est appartenant à \emph{A} &
+  \emph{B} appartient à \emph{A}.\\
+
+  \tl{n(y)} & \tl{sw} & \tll{B} &
+  \emph{B} est appartenant à lui (\emph{A}) &
+  \emph{B} lui appartient.\\
+
+  \tl{n(y)} & \tl{sw} & \tll{A} &
+  Il (\emph{B}) est appartenant à \emph{A} &
+  Il appartient à \emph{A}.\\
+
+  \tl{n(y)} & \tl{sw} & \tl{wi} &
+  Je (\emph{B}) suis appartenant à lui (\emph{A}) &
+  Je lui appartiens.\\
+\end{tabular}
+
+\begin{aparte}[title={Un phénomène graphique important est à noter :}]
+  Pour noter la combinaison fréquente nisbé \tl{n(y)} suivi du pronom 
+  dépendant \tl{sw}, l'égyptien recourt très souvent au bilitère 
+  \begin{hieroglyph}ns\end{hieroglyph} \tl{ns} (langue de b{\oe}uf).
+
+  \begin{example}[title={}]
+    \begin{hieroglyph}n:ns sw bA-k:A1\end{hieroglyph}
+
+    \tl{n(y) sw bAk}
+
+    \td{Il est appartenant au serviteur.}\quad=\quad
+    \td{Il appartient au serviteur.}
+  \end{example}
+\end{aparte}
+
+\chapter{Tournure inhabituelle}
+% =====================================================================
+
+Une troisième structure se rencontre pour les 2\ieme~et 
+3\ieme~personnes. Son apparence est curieuse car elle utilise 
+un pronom dépendant (\tl{ntk} ou \tl{ntf}) -- le possesseur -- 
+suivi de l'élément possédé.
+
+\begin{example}
+  \begin{hieroglyph}n:t:k anx-n:x\end{hieroglyph}
+
+  \tl{ntk anx(=i)}
+
+  \td{À toi (ma) vie.}\quad=\quad\td{(Ma) vie t'appartient.}
+\end{example}
+
+Cette tournure ressemble à une PPN, mais on suppose qu'elle tire en 
+fait son origine d'une construction adverbiale \tl{n=f} ou \tl{n=k}, 
+suivie du sujet avec par la suite une confusion avec les pronoms 
+indépendants \tl{ntf} ou \tl{ntk} (\citeauthortitle[69]{Obsomer}) ou 
+d'une construction de type \PPJ, dans laquelle le prédicat serait 
+\tl{n(y)} + pronom indépendant indiquant le possesseur : 
+*\tl{n ntk anx=i} (\citeauthortitle[310]{MW}).
+
+Avec le temps, le \tl{n} du nisbé et celui du pronom indépendant 
+auraient fini par fusionner, comme pourrait le suggérer cette tournure 
+à la première personne, qui utilise \tl{nnk} pour \tl{n} + \tl{ink} :
+
+\begin{example}
+  \begin{hieroglyph}n:n:k-A1 T:n:3\end{hieroglyph}
+
+  \tl{nnk Tn}
+
+  \td{À moi, vous !}\quad=\quad\td{Vous m'appartenez !}
+\end{example}
+
+\filet
+
+Avec ces derniers éléments, nous avons vu l'essentiel des phrases 
+non-verbales et des phrases à constructions pseudo-verbales. 
+Le nouveau type de phrase qui nous restera à étudier est la phrase 
+verbale, c'est-à-dire une phrase dont le prédicat est un verbe décliné 
+dans une forme de la conjugaison dite \frquote{suffixale}. 
+Nous consacrerons le semestre~1 de la deuxième année aux phrases 
+verbales et à la conjugaison suffixale. Nous introduirons néanmoins 
+les phrases verbales, en guise de première approche, dans les derniers 
+cours de ce semestre, à partir de deux formulaires épigraphiques 
+récurrents, qui sont présents dans de nombreuses inscriptions 
+monumentales.
+
+\bigskip
+
+\begin{exercice}[before upper={\centering}]
+  \donc{} Faire \textbf{l'exercice~9} à rendre par email.
+\end{exercice}

@@ -2,8 +2,7 @@
 %##HieroDef.txt
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\part{Cours~6 -- Grammaire -- Les phrases non verbales -- 
-Présentation du système prédicatif égyptien}\label{prt:pnv1}
+\part{[Grammaire] Phrases non verbales (1)}\label{prt:pnv1}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \chapter{Préalables historiographiques : les recherches sur la 
@@ -85,18 +84,18 @@ introductive, dont nous allons reparler, mais qui n'est pas à
 traduire.
 
 Vous reconnaissez sans doute le signe 
-\begin{hieroglyph}A1\end{hieroglyph}, qui est un déterminatif, sauf 
-dans le cas où il note le pronom suffixe \tl{=i} \frquote{moi}. 
-Nous avons vu son emploi comme possessif (\doc{cours~3}), mais vous 
-savez déjà qu'il peut remplir le rôle de sujet et se traduit alors 
-par \td{je}.
+\begin{hieroglyph}A1\end{hieroglyph}, qui est un déterminatif, 
+sauf dans le cas où il note le pronom suffixe \tl{=i} \td{moi}. 
+Nous avons vu son emploi comme possessif (cours~\ref{prt:grp_nom_1},
+\Sref{sec:PS}), mais vous savez déjà qu'il peut remplir le rôle de 
+sujet et se traduit alors par \td{je}.
 
 Nous avons aussi déjà rencontré le mot 
 \begin{hieroglyph}m\end{hieroglyph} \tl{m}, une préposition qui 
 signifie \td{dans}.
 
 Et vous connaissez le mot \begin{hieroglyph}pr-1\end{hieroglyph} 
-\tl{pr} \td{maison}.
+\tl{pr}, \td{maison}.
 
 Avec tous ces éléments en tête, comment traduiriez-vous de manière, 
 disons, intuitive ?
@@ -122,18 +121,17 @@ groupe des phrases non verbales (c'est-à-dire sans verbe), objet du
 cours de cette année. Cette catégorie englobe notamment toutes les 
 phrases françaises ayant pour verbe principal, le verbe \frquote{être} 
 ou \frquote{avoir}. Il y a en égyptien ancien plusieurs catégories de 
-phrases non verbales. Celle-ci est appelée \textbf{proposition à 
-prédicat adverbial}. Pour comprendre ce que signifie cette 
-désignation, il faut poser un certain nombre de généralités relatives 
-à la langue et à sa structure.
+phrases non verbales. Celle-ci est appelée \textbf{\PPA}. Pour 
+comprendre ce que signifie cette désignation, il faut poser un certain 
+nombre de généralités relatives à la langue et à sa structure.
 
 Le langage humain est un \textbf{outil de communication}.
 Il transmet des informations aux moyens d'\textbf{énoncés}.
 Du point de vue de la syntaxe, un énoncé comprend deux parties :
 \begin{itemize}
-  \item Le sujet (= le thème de l'énoncé) \emph{\td{je}}
-  \item Le prédicat (= ce qui est dit du sujet). 
-        \emph{\td{suis dans la maison}}
+  \item Le sujet (= le thème de l'énoncé), \td{je}
+  \item Le prédicat (= ce qui est dit du sujet), 
+        \td{suis dans la maison}
 \end{itemize}
 
 Un énoncé complet met en avant une \textbf{relation prédicative} : 
@@ -209,7 +207,7 @@ verbe \og être \fg de son rôle d'auxiliaire.}}
 
 En égyptien ancien, on retrouve cette même distinction :
 \begin{itemize}
-  \item Phrases à prédicat verbal,
+  \item Phrases à prédicat verbal ;
   \item Phrases à prédicat non verbal.
 \end{itemize}
 
@@ -219,22 +217,23 @@ toutes les langues sémitiques, l'emploi de la copule \frquote{être}
 est superflu. On dira :
 
 \begin{quote}
-  Pierre : mon frère = Pierre (est) mon frère\\
-  Pierre : un étudiant\\
-  Pierre : grand\\
-  Pierre : là
+  \td{Pierre : mon frère} = \td{Pierre (est) mon frère}\\
+  \td{Pierre : un étudiant}\\
+  \td{Pierre : grand}\\
+  \td{Pierre : là}
 \end{quote}
 
-Dans tous ces exemples, \frquote{Pierre} est le sujet de la phrase et 
-le groupe qui suit le prédicat.
+Dans tous ces exemples, \frquote{\td{Pierre}} est le sujet de la 
+phrase et le groupe qui suit le prédicat.
 Ainsi, selon la nature du prédicat, on parle de :
 \begin{itemize}
   \item phrase ou proposition à prédicat \textbf{substantival} 
-        (nominal) -- Pierre est mon frère ; Pierre est un étudiant
-  \item proposition à prédicat \textbf{adjectival} -- Pierre (est) 
-        grand
-  \item proposition à prédicat \textbf{adverbial} -- Pierre (est) là ; 
-        Pierre (est) dans la maison
+        (nominal) -- \td{Pierre est mon frère} ; \td{Pierre est un 
+        étudiant}
+  \item proposition à prédicat \textbf{adjectival} -- \td{Pierre 
+        (est) grand}
+  \item proposition à prédicat \textbf{adverbial} -- \td{Pierre 
+        (est) là} ; \td{Pierre (est) dans la maison}
 \end{itemize}
 
 Nous allons commencer par la proposition à prédicat adverbial, qui est 
@@ -456,9 +455,10 @@ suffixe :
   c'est d'une part le remplacement de \tl{iw} par des auxiliaires et 
   particules ayant des sens précis ou l'absence d'élément introducteur 
   qui peut être la marque que l'énoncé n'est pas un constat objectif. 
-  Nous verrons cela au prochain cours. Pour le moment, nous donnerons 
-  une valeur exclamative aux propositions à prédicat adverbial sans 
-  élément introducteur \tl{iw}.
+  Nous verrons cela au prochain cours (cours~\ref{prt:pnv2}, 
+  \Sref{sec:aux}). Pour le moment, nous donnerons une valeur 
+  exclamative aux propositions à prédicat adverbial sans élément 
+  introducteur \tl{iw}.
 \end{notabene}
 
 \begin{example}
@@ -471,7 +471,7 @@ suffixe :
   \td{L'enfant est avec sa mère !}
 \end{example}
 
-\section{Les prépositions (1)}
+\section{Prépositions (1)}\label{sec:prepos_1}
 %----------------------------------------------------------------------
 
 Étant donné l'importance des prépositions dans la structure de 
@@ -484,16 +484,16 @@ prépositions les plus fréquentes et leur sens.
 \begin{itemize}
   \item localisation spatiale, \td{dans} : 
         \begin{hieroglyph}m-pr-1\end{hieroglyph} 
-        \tl{m pr} \td{dans la maison}
+        \tl{m pr}, \td{dans la maison}
   \item état mental ou physique : 
         \begin{hieroglyph}m-r:S-w-D19-Y1:3\end{hieroglyph} 
-        \tl{m rSw(.t)} \td{dans la joie}
+        \tl{m rSw(.t)}, \td{dans la joie}
 \end{itemize}
 
 \begin{notabene}
   cette préposition prend une forme spéciale lorsqu'elle est suivie 
   d'un pronom suffixe : \begin{hieroglyph}i-m\end{hieroglyph}.
-  \begin{hieroglyph}i-m-f\end{hieroglyph} \tl{im=f} \td{en lui}.
+  \begin{hieroglyph}i-m-f\end{hieroglyph} \tl{im=f}, \td{en lui}.
 \end{notabene}
 
 \subsection[\tl{r}]{\begin{hieroglyph}r\end{hieroglyph} \tl{r}}
@@ -518,17 +518,18 @@ prépositions les plus fréquentes et leur sens.
 \end{itemize}
 
 \subsection[\tl{Xr}]{\begin{hieroglyph}Xr:r\end{hieroglyph} \tl{Xr}}
+\label{sub:Xr_1}
 %~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 \begin{itemize}
   \item localisation spatiale, \td{sous} :
         \begin{hieroglyph}Xr:r n:h*t-M1\end{hieroglyph} 
-        \tl{Xr nh.t} \td{sous le sycomore}
+        \tl{Xr nh.t}, \td{sous le sycomore}
   \item sous l'effet de d'une émotion :
         \begin{hieroglyph}Xr:r r:S-w-D19-Y1:3\end{hieroglyph} 
-        \tl{Xr rSw(.t)} \td{sous la joie}
+        \tl{Xr rSw(.t)}, \td{sous la joie}
   \item \td{être sous quelque chose} signifie aussi \td{apporter} 
-        (voir prochain cours)
+        (voir cours~\ref{prt:pnv2}, \Sref{sec:Xr_2})
 \end{itemize}
 
 \subsection[\tl{mi}]{\begin{hieroglyph}mi-i\end{hieroglyph} \tl{mi}}
@@ -553,14 +554,17 @@ prépositions les plus fréquentes et leur sens.
   \item \td{parmi}
 \end{itemize}
 
-\section{Les prépositions (2) : \tl{m} et \tl{r} \frquote{d'état}}
+\section{Prépositions (2) : \tl{m} et \tl{r} \frquote{d'état}}
 \label{sec:mretat}
 %----------------------------------------------------------------------
 
 Les prépositions \tl{m} \td{dans} et \tl{r} \td{vers} peuvent avoir 
 un sens particulier dans le cadre du groupe prépositionnel.
 
-\begin{hieroglyph}m\end{hieroglyph} peut avoir le sens de 
+\subsection{\tl{m} d'état}
+%~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+\begin{hieroglyph}m\end{hieroglyph} \tl{m} peut avoir le sens de 
 \td{en tant que}.
 
 \begin{example}
@@ -582,7 +586,10 @@ Il y a une nuance sémantique entre les deux constructions que nous
 n'avons pas en français. La proposition à prédicat adverbial présente 
 l'état comme une \textbf{situation} et non une identité.
 
-\tl{r} d'état : cette préposition exprime l'idée d'un état à venir.
+\subsection{\tl{r} d'état}
+%~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Cette préposition exprime l'idée d'un état à venir.
 
 \begin{example}
   \begin{hieroglyph}jw f :r bA:k-A1\end{hieroglyph}

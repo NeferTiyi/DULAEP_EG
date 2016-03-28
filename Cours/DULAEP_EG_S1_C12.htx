@@ -2,7 +2,7 @@
 %##HieroDef.txt
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\part{Cours~12 -- Grammaire -- Récapitulatif et compléments}
+\part{[Grammaire] Récapitulatif et compléments}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \chapter{Récapitulatif du semestre}
@@ -59,8 +59,7 @@ verbes en égyptien classique (le procès est-il envisagé comme
 accompli ou inaccompli ?). Nous développerons progressivement 
 cet aspect au semestre~2, et plus encore en 2\ieme~année.
 
-\chapter{Complément~1. Les titres de sections d'ouvrages et les 
-légendes de scènes}
+\chapter{Titres de sections d'ouvrages et légendes de scènes}
 % ==============================================================
 
 Un substantif ou un infinitif peut être utilisé de manière absolue, 
@@ -141,7 +140,7 @@ préposition \tl{in}, \td{par} :}
   \label{fig:TT100}
 \end{figure}
 
-\chapter{La phrase interrogative, première approche}
+\chapter{Phrases interrogatives, première approche}
 % ==============================================================
 
 Une phrase peut être affirmative, négative, exclamative ou 
@@ -213,6 +212,8 @@ la réponse dans la phrase affirmative :
 \begin{exercice}[before upper={\centering}]
   \donc{} Faire \textbf{l'exercice~22} (à rendre par email).
 \end{exercice}
+
+\filet
 
 \begin{center}
   \em

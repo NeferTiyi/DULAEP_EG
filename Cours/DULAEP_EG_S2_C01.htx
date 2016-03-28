@@ -2,8 +2,7 @@
 %##HieroDef.txt
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\part{Cours~1 -- Grammaire -- Proposition à prédicat pseudo-verbal 
-(suite) : le parfait ancien}\label{prt:parfait}
+\part{[Grammaire] \PPV (3) : le parfait ancien}\label{prt:parfait}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \chapter{Introduction : Néfertiti \frquote{la-belle-est-venue}}
@@ -152,8 +151,8 @@ syntaxe.
 
 La morphologie d'un verbe en égyptien ancien se définit par deux 
 caractéristiques : \primo son thème verbal (est-il bref ou long -- 
-voir cours~\ref{prt:ppv} du semestre passé, \Sref{sec:th_verbal}), 
-\secundo ses désinences éventuelles. 
+voir cours~\ref{prt:ppv} du \titleref{bk:semestre1}, 
+\Sref{sec:th_verbal}), \secundo ses désinences éventuelles.
 
 Le parfait ancien a des désinences reconnaissables. C'est une chance. 
 Il faut les apprendre par c{\oe}ur.
@@ -347,8 +346,8 @@ verbes, que vous devez retenir :
         un sens actif ; le parfait ancien exprime une qualité possédée 
         par le sujet, mais acquise suite à \emph{un processus 
         d'acquisition}\footnote{La \PPJ \tl{nfr sw} exprime l'idée 
-        d'une qualité possédée de façon permanente et intemporelle. 
-        Voir cours ultérieur.} :\\
+        d'une qualité possédée de façon permanente et intemporelle 
+        (voir cours~\ref{prt:PPJ}).} :\\
         \begin{hieroglyph}nfr-f:r-Y1v\end{hieroglyph}
         \tl{nfr} \td{devenir parfait} : 
         \begin{hieroglyph}nfr-f:r-w-Y1v\end{hieroglyph}

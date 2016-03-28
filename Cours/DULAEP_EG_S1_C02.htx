@@ -1,0 +1,687 @@
+%!TEX root = DULAEP_EG.htx
+%##HieroDef.txt
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\part{Le système graphique (2)}\label{prt:syst_graph_2}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\chapter{Rappel}
+%======================================================================
+
+\section*{Quelles sont les 3 valeurs possibles des signes dans le 
+système d'écriture \hiero ?}
+%----------------------------------------------------------------------
+
+\begin{itemize}
+  \item logogrammes (valeur sémantique et phonétique)
+  \item phonogrammes (seulement une valeur phonétique)
+  \item déterminatifs (seulement une valeur sémantique)
+\end{itemize}
+
+\section*{Comment note-t-on un mot égyptien en \hiero[e] ?}
+%----------------------------------------------------------------------
+
+En résumé, on peut dire qu'il y a normalement deux parties :
+\begin{itemize}
+  \item les premiers signes notent les phonèmes du mot
+  \item le ou les derniers signes sont des déterminatifs qui donnent 
+        une indication sémantique sur le mot.
+\end{itemize}
+
+Par exemple : 1.~\begin{hieroglyph}b:n-b:n-t-O24\end{hieroglyph} 
+\td{pyramidion}. En vous aidant du tableau des signes 
+unilitères, translittérez. Quelle est la valeur du dernier signe ? 
+(réponse : ci-dessous)
+
+\section*{Les signes plurilitères}
+%----------------------------------------------------------------------
+
+Continuons notre exploration des phonogrammes. On a étudié jusqu'à 
+présent les signes unilitères. Ils sont à apprendre par c{\oe}ur le 
+plus rapidement possible. D'autres phonogrammes notent un ensemble 
+de deux consonnes (bilitères) et d'autres de trois consonnes 
+(trilitères). Le nombre des bilitères est assez élevé. Vous les 
+apprendrez progressivement.
+
+\begin{exercice}
+  \textbf{Réponse}
+
+  1.~\begin{hieroglyph}b:n-b:n-t-O24\end{hieroglyph} \tl{bnbn.t} 
+  \td{pyramidion}, le dernier signe est le déterminatif.
+\end{exercice}
+
+
+\chapter{Retour sur les phonogrammes plurilitères}
+%======================================================================
+
+Comme nous l'avons vu, vous pouvez retenir qu'un \textbf{mot égyptien} 
+est écrit au moyen de deux groupes de signes:
+
+\begin{aparte}
+  \begin{enumerate}
+    \item Les signes notant les phonèmes ;
+    \item Le ou les déterminatifs.
+  \end{enumerate}
+
+  \textbf{Exemple :} \begin{hieroglyph}b:n-b:n-t-O24\end{hieroglyph} 
+  \tl{bnbn.t} pyramidion, ci-dessus : les quatre premiers signes sont 
+  des signes phonétiques (unilitères) et le dernier un déterminatif.
+\end{aparte}
+
+Pour les mots écrits par des \textbf{logogrammes}, on peut dire que ce 
+schéma fonctionne aussi d'une certaine manière :
+
+\begin{aparte}
+  \begin{enumerate}
+    \item Le logogramme ;
+    \item le trait dit de \frquote{lecture directe}, indiquant que le 
+          signe précédent doit être lu comme un \frquote{signe-mot}.
+  \end{enumerate}
+
+  \textbf{Exemple :} 
+  \begin{hieroglyph}pr-1\end{hieroglyph} 
+    \tl{pr}, \td{maison}, \td{domaine} ; 
+  \begin{hieroglyph}ra-1\end{hieroglyph} 
+    \tl{ra}, \td{Rê}, \td{soleil} ;
+  \begin{hieroglyph}nTr-1\end{hieroglyph} 
+    \tl{nTr}, \td{dieu}.
+\end{aparte}
+
+\bigskip
+
+\begin{exercice}
+  \donc{} Faire \textbf{l'exercice~4} en vous aidant du tableau des 
+  signes unilitères et de celui des signes plurilitères. \emph{Voir 
+  corrigé en ligne.}
+\end{exercice}
+
+\chapter{La disposition des signes}
+%======================================================================
+
+L'orientation première de l'écriture égyptienne est probablement 
+de droite à gauche. C'est l'orientation exclusive des écritures 
+cursives (hiératique, puis démotique). Le \hiero lui, on l'a vu, 
+peut-être écrit de droite à gauche ou de gauche à droite, en ligne ou 
+en colonne (lue du haut vers le bas).
+
+Les signes \hiero[iques] ne sont en outre pas disposés les uns à la 
+suite des autres, mais agencés selon des considérations esthétiques 
+sous forme de \textbf{\frquote{cadrats}}, c'est-à-dire de carrés 
+virtuels permettant une disposition harmonieuse des signes.
+
+\begin{figure}[h!]
+  \includegraphics[width=\textwidth]{cadrats}
+  \caption{Texte \hiero disposé en cadrats (\fullcite[310]{Gardiner}) 
+           \rem{(figure reprise de \citeauthortitle[20]{GM1})}}
+  \label{fig:cadrats}
+\end{figure}
+
+En \hiero, les signes isolés sont normalement placés au centre du 
+cadrat.
+
+\chapter{Retour sur les déterminatifs}
+%======================================================================
+
+Les déterminatifs sont des classificateurs sémantiques. Ils se placent 
+à la fin d'un mot, après les phonèmes, et donnent une information, non 
+pas sur la prononciation, mais sur le sens du mot. Les déterminatifs 
+sont très utiles, à plusieurs égards :
+\begin{itemize}
+  \item ils permettent de repérer la fin d'un mot (l'écriture 
+        égyptienne ancienne ne marque pas de séparation entre 
+        les mots) ;
+  \item ils permettent de distinguer les éventuels homogrammes 
+        -- dans une écriture qui ne note que les consonnes les 
+        chances de rencontrer deux mots distincts écrits avec 
+        les mêmes phonèmes consonantiques sont importantes.
+\end{itemize}
+
+À cet égard, ils jouent d'une certaine manière le même rôle 
+que les \emph{kanji} en japonais ou l'orthographe historique 
+française\footfullcite[Voir les remarques éclairantes de][]{Christin}. 
+Les graphies \emph{vert} -- \emph{vers} -- \emph{ver} -- \emph{verre} 
+donnent des informations visuelles sur le sens des mots. L'orthographe 
+nous sert, en français écrit, d'indicateur sémantique. Les 
+déterminatifs des \hiero[es] ont une fonction similaire.
+
+\begin{hieroglyph}d:p*t-P1\end{hieroglyph} \tl{dp.t} 
+\td{bateau}
+
+\begin{hieroglyph}d:p*t-ns-A2\end{hieroglyph} \tl{dp.t} 
+\td{le goût}, avec \begin{hieroglyph}ns\end{hieroglyph} 
+(langue de b{\oe}uf, par ailleurs aussi bilitère valeur \tl{ns})
+
+\begin{hieroglyph}mn:n-Y1v\end{hieroglyph} \tl{mn} 
+\td{être durable} avec \begin{hieroglyph}nTr-1\end{hieroglyph}, 
+rouleau de papyrus fermé, déterminatif des notions abstraites
+
+\begin{hieroglyph}mn:n-A1\end{hieroglyph} \tl{mn} 
+\td{un tel} (dans \td{un tel qu'a mis au monde une telle}, 
+expression utilisée dans les manuels de rites de protection pour 
+indiquer que l'on doit ajouter ici le nom du patient)
+
+\bigskip
+
+\begin{exercice}
+  \donc{} Voir l'\Aref{anx:determ} et faire \textbf{l'exercice~5}.
+  \emph{Voir corrigé en ligne.}
+\end{exercice}
+
+\chapter{Les logogrammes ou signes-mots}
+%======================================================================
+
+Les logogrammes sont perçus comme le c{\oe}ur et l'origine du système 
+d'écriture \hiero, puisque les signes phonogrammes en sont dérivés 
+selon le principe du \textbf{rébus par transfert} (voir plus haut : le 
+signe \begin{hieroglyph}pr\end{hieroglyph} note le mot \td{maison} qui 
+comporte les consonnes \tl{pr}, le même signe est donc réutilisé pour 
+noter simplement ces phonèmes).
+
+Il demeure de très nombreux mots notés par un seul signe dans 
+l'écriture \hiero égyptienne.
+
+\textbf{Par exemple :} 
+\begin{hieroglyph}pr-1\end{hieroglyph} \tl{pr} \td{maison} ; 
+\begin{hieroglyph}Hr-1\end{hieroglyph} \tl{Hr} \td{visage} ; 
+\begin{hieroglyph}ib-1\end{hieroglyph} \tl{ib} \td{c{\oe}ur, 
+conscience} 
+
+Un signe utilisé comme notation de mot complet est normalement suivi 
+d'un signe diacritique, \begin{hieroglyph}1\end{hieroglyph} le trait 
+vertical, appelé \frquote{trait de lecture directe} (Grandet/Mathieu) 
+ou encore \frquote{trait de l'idéogramme} (Obsomer), signalant la 
+valeur logographique à conférer au signe.
+
+\begin{notabene}
+   une exception courante : \begin{hieroglyph}mw\end{hieroglyph} 
+   \tl{mw} \td{eau}
+\end{notabene}
+
+\begin{aparte}
+      [title={Remarque sur la terminologie employée :}, breakable]
+  Les deux termes \textbf{\frquote{idéogrammes}} et 
+  \textbf{\frquote{logogrammes}} sont utilisés dans les manuels 
+  pour désigner les signes égyptiens notant un mot complet et 
+  sont, dans l'usage courant, employés comme synonymes.
+
+  Toutefois, des nuances existent entre les deux. Logogramme 
+  (dérivé du grec \emph{logos} \frquote{parole} et \emph{gramma} 
+  \frquote{caractère, lettre}) désigne un signe notant une 
+  \textbf{unité de sens} (= un mot). Le terme idéogramme, de par son 
+  étymologie (du grec \emph{idea} \frquote{forme, aspect}), renvoie à 
+  une catégorie plus spécifique de signe-mot, les \frquote{caractères 
+  figuratifs} de Champollion \frquote{qui expriment l'objet dont ils 
+  présentent à l'{\oe}il l'image plus ou moins fidèle et plus ou moins 
+  détaillée\footnotemark{}}. Par exemple, une image du visage de 
+  face pour noter le mot \td{image}, \td{face} 
+  \begin{hieroglyph}Hr-1\end{hieroglyph} ou 
+  \begin{hieroglyph}r-1\end{hieroglyph} \td{bouche} \tl{r(A)}.
+
+  Champollion définit une seconde catégorie de \frquote{signes-mots} : 
+  les caractères \frquote{tropiques ou symboliques}, permettant de 
+  noter des mots renvoyant à des idées plus abstraites. Par exemple, 
+  le vase \begin{hieroglyph}ib-1\end{hieroglyph} pour noter le mot 
+  \tl{ib}, \td{c{\oe}ur} ou \td{conscience}.
+
+  Quant au signe \begin{hieroglyph}zA\end{hieroglyph} dans 
+  le mot \begin{hieroglyph}zA-\!\!\!1:.\end{hieroglyph} ou 
+  \begin{hieroglyph}zA-A1\end{hieroglyph} \tl{sA} \td{fils}, il 
+  est en fait utilisé comme notation phonétique \tl{sA}, sans doute 
+  dérivée du terme \tl{s.t} \begin{hieroglyph}z:t-zA\end{hieroglyph} 
+  \td{canard (pilet)}.
+
+  On préfère donc fréquemment le terme logogramme, qui renvoie 
+  à l'idée de mot noté par un signe quelque soit la méthode de 
+  représentation (strictement figurative, ou métaphorique, etc.), 
+  pour sa polysémie\footnotemark{}.
+\end{aparte}
+\addtocounter{footnote}{-1}
+\footnotetext{\fullcite[22]{Champo}. cf. aussi 
+\citeauthortitle[28]{MW}.}
+\addtocounter{footnote}{1}
+\footnotetext{\citeauthortitle[16]{Glassner_2009}.}
+
+Les logogrammes sont donc normalement accompagnés d'un trait 
+vertical signalant leur valeur de signe-mot. Un mot égyptien, même 
+écrit, au moyen d'un logogramme, comprend donc normalement au moins 
+deux signes : le logogramme et le trait.
+
+Il arrive que les logogrammes soient accompagnés d'autres signes 
+encore. Observez les exemples ci-dessous :
+
+\begin{example}[title={Exemples :}]
+  \begin{hieroglyph}d:t*1\end{hieroglyph} 
+    \tl{Dr.t} \td{main} ; 
+  \begin{hieroglyph}ir:t*1\end{hieroglyph} 
+    \tl{ir.t} \td{{\oe}il} ; 
+  \begin{hieroglyph}niwt:t*1\end{hieroglyph} 
+    \tl{niw.t} \td{ville} ; 
+  \begin{hieroglyph}N31:t*1\end{hieroglyph} 
+    \tl{wA.t} \td{chemin} ; 
+  \begin{hieroglyph}Axt:t*1\end{hieroglyph} 
+    \tl{Ax.t} \td{horizon}
+\end{example}
+
+Vous remarquez que tous ces mots sont écrits au moyen d'un 
+logogramme accompagné du trait vertical, mais aussi accompagné du 
+\begin{hieroglyph}t\end{hieroglyph} (voir tableau des unilitères), 
+phonogramme \tl{t}. Nous verrons dans le premier cours consacré à 
+la grammaire égyptienne que le \tl{t} est la désinence du féminin 
+(cours~\ref{prt:grp_nom_1}, \Sref{sec:genre}). 
+Lorsqu'un logogramme note un mot féminin, la désinence du féminin 
+est explicitée par sa notation phonétique.
+
+Enfin, dans quelques cas, le logogramme, en plus du trait de lecture 
+directe, peut être accompagné d'un déterminatif indiquant de manière 
+complémentaire un élément de sens. 
+
+\begin{example}[title={Exemples :}]
+  \begin{hieroglyph}tA:N23*1\end{hieroglyph} 
+    \tl{tA} \td{terre} ; 
+  \begin{hieroglyph}zA-\!\!\!1:.-A1\end{hieroglyph} 
+    \tl{sA} \td{fils} ; 
+  comparer 
+  \begin{hieroglyph}z:1-xt\end{hieroglyph} 
+    \tl{s} \td{verrou} et 
+  \begin{hieroglyph}z:A1*1\end{hieroglyph} 
+    \tl{s} \td{homme} 
+\end{example}
+
+Voir encore : 
+\begin{hieroglyph}zS-A1\end{hieroglyph} 
+  \tl{sS} \td{scribe} ; 
+\begin{hieroglyph}zS-Y1v\end{hieroglyph} 
+  \tl{sS} \td{écrire}
+
+\bigskip
+
+\begin{exercice}[before upper={\centering}]
+  \donc{} Faire \textbf{l'exercice~6} \emph{(Voir corrigé en ligne)}.
+\end{exercice}
+
+\chapter{Les codes des signes \hiero[iques]}
+
+Vous avez pu remarquer dans l'\Aref{anx:determ} et dans 
+l'\Aref{anx:logog} que chaque signe \hiero égyptien est associé 
+à un code.
+Par exemple, l'homme assis \begin{hieroglyph}A1\end{hieroglyph}
+porte le code \MdC{A1}, l'homme portant la main à la bouche
+\begin{hieroglyph}A2\end{hieroglyph} \MdC{A2}, la femme assise 
+\begin{hieroglyph}B1\end{hieroglyph} \MdC{B1}, la tête de profil 
+\begin{hieroglyph}D1\end{hieroglyph} \MdC{D1}, la tête de face 
+\begin{hieroglyph}D2\end{hieroglyph} \MdC{D2}, etc. 
+Ce code correspond à la classification des signes faite par 
+Alan H.~\bsc{Gardiner} dans son \emph{Egyptian Grammar}. On appelle 
+cette liste la \emph{Gardiner List}. C'est cette classification qui 
+est communément en usage aujourd'hui. Vous trouverez cette liste 
+des signes égyptiens dans sa version en français publiée par 
+\citeauthor{MW}, dans la \citetitle{MW}, dans l'\Aref{anx:GL}.
+
+\bigskip
+
+\begin{exercice}[before upper={\centering}]
+  \donc{} Faire \textbf{l'exercice de synthèse~7}, à rendre par email.
+\end{exercice}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\chapter{L'histoire du déchiffrement}
+%======================================================================
+
+Le système \hiero, vous avez pu le constater, est très différent 
+du système alphabétique. Avant de poursuivre plus avant son 
+apprentissage, il est important de rappeler quelques éléments 
+historiographiques sur la perte de connaissance de cette écriture 
+\incise{la rupture dans la transmission} et l'histoire du 
+déchiffrement. Celle-ci est évidemment marquée par
+Jean-François~\bsc{Champollion} (\anorange{1790}{1832}).
+
+\section{La perte de la tradition}
+%----------------------------------------------------------------------
+
+La fin de la langue et des écritures pharaoniques s'inscrit dans 
+l'histoire politique et religieuse tardive :
+\begin{itemize}
+  \item Pendant la période lagide (celle des souverains d'origine 
+        macédonienne, les Ptolémée, entre le \siecle{3}~BC et le 
+        \siecle{1}~BC), le grec devient, à côté de l'égyptien 
+        écrit en démotique, une des langues officielles de 
+        l'administration ; l'écriture \hiero et la cursive hiératique 
+        continuent d'être utilisées en milieu sacerdotal.
+  \item En \ano[-1]{30}, l'\kmt lagide est soumise à la puissance 
+        de Rome.
+  \item Un tournant dans l'histoire de la langue et des écritures a 
+        lieu pendant le \siecle{3} de notre ère : le démotique est de 
+        moins en moins utilisé au profit du grec, et de l'écriture 
+        copte au siècle suivant.
+\end{itemize}
+
+À la fin de l'Antiquité, en \ano[0]{391}, l'empereur romain d'Orient, 
+Théodose, décrète la fermeture de tous les temples païens. Or, c'était 
+dans les scriptoria des temples que le \hiero continuait à être appris 
+et utilisé, notamment, pour les inscriptions monumentales.
+La dernière inscription \hiero connue est ainsi datée de 
+\textbf{\ano[0]{394}} : \textbf{l'inscription de la porte d'Hadrien 
+à Phil\ae}\footfullcite{Devauchelle_1994}. 
+La dernière inscription en démotique a, pour sa part, été gravée 
+en \textbf{\ano[0]{452} à Phil\ae}\footfullcite[11]{Griffith}. 
+Par édit de l'empereur Justinien, le temple de Phil\ae, dernier temple 
+païen en activité, est fermé en \ano[0]{551} (date contemporaine des 
+Mérovingiens en France).
+
+En conséquence, au \siecle{5}, l'élite égyptienne semble avoir 
+totalement perdu la connaissance de la nature et de la valeur 
+phonétique des \hiero[es], alors même que la langue des anciens 
+Égyptiens survit dans la langue copte écrite au moyen d'un alphabet 
+grec augmenté de sept signes issus du démotique.
+
+Au \siecle{5}, un Égyptien, \textbf{Horapollon} (d'\textbf{Akhmîm}), 
+compile les \source{Hieroglyphica}, \frquote{un traité sur l'écriture 
+\hiero}, dans lequel est exposée une interprétation allégorique des 
+\hiero[es]\footnote{Voir \citeauthortitle[s.v. \frquote{\Hiero[es] 
+et l'Antiquité}, \pno~435--441]{Vernus}.}.
+Une copie grecque du texte est trouvée en \ano[0]{1419} sur l'île 
+d'Andros, et une première édition de ce texte paraît à Venise en 
+\ano[0]{1505}\footnote{Document sur Gallica : 
+\url{http://gallica.bnf.fr/ark:/12148/bpt6k71415s}}. Ce document 
+pousse les chercheurs désireux de percer le mystère des \hiero[es] 
+à explorer la piste de l'interprétation cachée, allégorique des 
+\hiero[es].
+
+\section[Les étapes du déchiffrement : quelques jalons]
+        {Les étapes du déchiffrement : quelques 
+         jalons\protect\footfullcite[Voir]{Leclant_1972}}
+\label{sec:dechiffr}
+%----------------------------------------------------------------------
+
+\subsection{Le \texorpdfstring{\sieclenum{17}}{XVIIe} : 
+l'apport du copte}
+%~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+\textbf{Athanasius Kircher} (1601/1602-1680), important scientifique, 
+jésuite, orientaliste. Au \siecle{17}, le voyageur italien Pietro 
+della Valle rapporte d'\kmt des grammaires et dictionnaires de la 
+langue copte, rédigés en arabe. Kircher s'intéresse à cette langue et 
+reconnaît le copte, langue liturgique des chrétiens d'\kmt, comme une 
+dérivation de la langue ancienne notée par les \hiero[es]. Ouvrage : 
+\source{Lingua aegyptiaca restituta}, Rome, 1643. Kircher, trop 
+influencé par la lecture d'Horapollon et d'autres auteurs classiques, 
+comprend les \hiero[es] comme des symboles et non comme une véritable 
+écriture.
+
+\subsection{Le \texorpdfstring{\sieclenum{18}}{XVIIIe} : plusieurs 
+tentatives}
+%~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+\textbf{Révérend William Warburton}, anglican publie un \source{Essai 
+sur les \Hiero[es] des Égyptiens} (trad. 1744) dans lequel émerge 
+la notion d'alphabet. 
+
+\textbf{L'abbé Barthélémy} fait l'hypothèse que les cartouches 
+enferment des noms royaux.
+
+\subsection{\ano[0]{1799} et le 
+\texorpdfstring{\sieclenum{19}}{XIXe} : la trouvaille archéologique 
+et la clef du déchiffrement}
+%~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+\textbf{Découverte de la Pierre de Rosette en juillet \ano[0]{1799}} 
+(par l'officier Bouchard) près de la ville de Rachid : 
+Inscription datée de l'an~9 du règne de Ptolémée~V Épiphane 
+(= 27~mars~\ano[0]{196}) en trois écritures et deux langues du 
+\frquote{décret de Memphis} (égyptien \hiero, égyptien démotique, 
+grec). Des copies sont faites avant la confiscation par les Anglais 
+de la célèbre pierre en \ano[0]{1801}. L'original est aujourd'hui 
+au \BM\footnote{\musee{\BM}, \inv{EA\,24} :\\
+\url{https://www.google.com/culturalinstitute/asset-viewer/%
+the-rosetta-stone/DgH6pMM1guUUPA}}.
+
+La traduction de la version grecque est rapidement faite. Plusieurs 
+tentatives de traduction du texte \hiero et du texte démotique sont 
+alors entreprises, notamment par :
+\begin{itemize}
+  \item Le médecin et scientifique anglais \textbf{Thomas Young 
+        (\anorange[0]{1773}{1829})}, qui publie le résultat de ses 
+        recherches, qui portent principalement sur le texte démotique 
+        (complet contrairement au texte \hiero), dans un supplément 
+        de l'\source{Encyclopaedia Britannica} en 1819.
+        Sa méthode : trouver les groupes démotiques équivalents aux 
+        mots grecs par la méthode comparative\footfullcite{Ray_1990}.
+  \item Le français \textbf{Jean-François Champollion 
+        (\anorange[0]{1790}{1832})}, qui fonde son travail sur sa 
+        connaissance du copte, vient à bout du système \hiero et 
+        expose pour la première fois sa découverte dans la
+        \source{Lettre à M.~Dacier relative à l'alphabet des 
+        \hiero[es] phonétiques}, 1822\footnote{Consultable sur 
+        Gallica.fr : 
+        \url{http://gallica.bnf.fr/ark:/12148/bpt6k396352}}, 
+        puis la développe dans son \source{Précis du système 
+        \hiero}\footnote{Document sur Gallica :\\ 
+        \url{http://gallica.bnf.fr/ark:/12148/%
+        bpt6k117252f.r="précis+du+système+hiéroglyphique".langFR}}, 
+        1824. Sa \emph{Grammaire égyptienne, ou principes généraux de 
+        l'écriture sacrée égyptienne appliquée à la représentation de 
+        la langue parlé}e, Paris, 1836\footnote{Document sur
+        Gallica :\\ 
+        \url{http://gallica.bnf.fr/ark:/12148/%
+        bpt6k117252f.r="précis+du+système+hiéroglyphique".langFR}} est 
+        un ouvrage posthume.
+\end{itemize}
+
+
+Champollion parvient à lire le nom de Ptolémée dans un des cartouches. 
+Comme les Ptolémée étaient des souverains d'origine étrangère, il 
+était logique que leur nom fût écrit phonétiquement en \hiero[es]. 
+Il arriva ainsi à une première équivalence de signes.
+
+\bigskip
+
+\noindent\begin{hieroglyph}<-p:t-wA-rw:m-i-i-s->\end{hieroglyph} 
+cartouche avec le nom Ptolémée. \\
+\begin{multicols}{2}
+  \noindent%
+  \begin{hieroglyph}p\end{hieroglyph} = P \\
+  \begin{hieroglyph}t\end{hieroglyph} = T \\
+  \begin{hieroglyph}wA\end{hieroglyph} = O 
+  (valeur véritable bilitère \tl{wA}) \\
+  \begin{hieroglyph}rw\end{hieroglyph} = L (bilitère \tl{rw}) \\
+  \begin{hieroglyph}i\end{hieroglyph} = Y \\
+  \begin{hieroglyph}s\end{hieroglyph} = S
+\end{multicols}
+
+Contrairement à d'autres, Champollion ne considère pas que la valeur 
+phonétique des \hiero[es] n'est valable que dans la notation de noms 
+étrangers, et il poursuit sa recherche en ce sens. Il compare ensuite 
+les lettres communes aux noms de Ptolémée et de Cléopâtre, dont le 
+cartouche se trouve sur un obélisque de Phil{\ae}, récemment transféré 
+à Londres (avec inscription grecque identifiant les personnages). Avec 
+les premières équivalences de signes établies grâce à la pierre de 
+Rosette et \textbf{grâce à sa connaissance du copte}, il peut examiner 
+les noms de souverains égyptiens, tels Ramsès et Thoutmosis.
+
+\begin{hieroglyph}<-ra-ms-s-s->\end{hieroglyph} Ramsès
+
+Pour Râmsès, Champollion connaît déjà la valeur des deux 
+derniers signes, présents dans le nom Ptolémée 
+\begin{hieroglyph}s\end{hieroglyph} : = \frquote{s}. Il reconnaît 
+ensuite dans le premier signe circulaire la représentation d'un disque 
+solaire, dont il connaît le nom en copte : \textcoptic{rh}. Il a enfin 
+rencontré le signe \begin{hieroglyph}ms\end{hieroglyph} (bilitère 
+\tl{ms}) en relation avec une expression grecque relative à un 
+anniversaire et le rapproche du mot \textcoptic{mice} en copte 
+\td{mettre au monde}. Il peut ainsi reconnaître dans le cartouche 
+le nom du roi Ramsès de la liste de Manéthon et traduit ce nom 
+\td{Rê l'a mis au monde}. La clef de la compréhension du système 
+\hiero était découverte.
+
+\begin{exercice}
+  \textbf{Exercice :}
+
+  À ce stade, Champollion donnait au signe 
+  \begin{hieroglyph}ms\end{hieroglyph} la valeur \tl{m}, n'ayant 
+  pas encore identifié la présence de signes phonétiques unilitères 
+  et bilitères. Avec vos connaissances actuelles, translittérer le 
+  cartouche suivant de Ramsès (réponses ci-dessous) :
+
+  \begin{hieroglyph}<-ra-ms-s-s->\end{hieroglyph}
+
+  Translittérer aussi sa variante : 
+  \begin{hieroglyph}<-ra-ms-s-sw->\end{hieroglyph}
+\end{exercice}
+
+\begin{exercice}
+  \textbf{Réponses :}
+
+  \begin{hieroglyph}<-ra-ms-s-s->\end{hieroglyph} 
+  \tl{Ra-ms-s(w)} 
+  \begin{hieroglyph}<-ra-ms-s-sw->\end{hieroglyph} 
+  \tl{Ra-ms-sw}, avec \begin{hieroglyph}ra\end{hieroglyph} avec 
+  valeur de logogramme \tl{Ra}, \begin{hieroglyph}ms\end{hieroglyph} 
+  bilitère \tl{ms}, \begin{hieroglyph}s\end{hieroglyph} complément 
+  phonétique, \begin{hieroglyph}sw\end{hieroglyph} autre bilitère 
+  (\tl{sw} = \td{lui})
+\end{exercice}
+
+\subsection{L'après Champollion}
+%~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+J.-Fr.~\bsc{Champollion} a ouvert la voie à la compréhension du 
+système \hiero égyptien. Sur le plan théorique une de ses avancées 
+majeures a été de \uline{démontrer} le caractère \textbf{à la fois 
+idéographique et phonétique du système}.
+
+\begin{displayquote}
+  \frquote{Les écritures égyptiennes procédaient-elles 
+  \emph{idéographiquement}, ou bien exprimaient-elles les idées en 
+  notant le \emph{son même des mots} ? Mes travaux ont démontré que 
+  la vérité se trouvait précisément entre les deux hypothèses 
+  extrêmes, c'est-à-dire que le système graphique égyptien tout entier 
+  employa simultanément des \emph{signes d'idées} et des \emph{signes 
+  de sons}.}
+
+  \hfill Champollion le-Jeune, \emph{Grammaire}, p.~xviii
+\end{displayquote}
+
+Si Champollion tenait la clef, un élément important manquait à son 
+édifice : la distinction entre différents types de signes phonétiques. 
+Pour Champollion, tous les signes phonétiques notaient un son, une 
+\frquote{articulation}, donc tous les signes phonétiques étaient 
+alphabétiques. Ainsi, le signe \begin{hieroglyph}ms\end{hieroglyph}, 
+que nous savons noter le groupe \tl{ms}, notait simplement pour lui 
+le son \textipa{[m]}. Il en résultait que son alphabet \hiero 
+comportait un nombre importants de signes (trop important pour un 
+système proprement alphabétique), et que pour noter un même phonème 
+(par exemple \textipa{[m]}), les scribes auraient eu le choix entre 
+des possibilités assez nombreuses.
+
+En fait, Champollion n'avait pas perçu qu'il existait, parmi 
+les signes phonétiques, une nette distinction à faire entre les 
+unilitères, bilitères et trilitères, et que le système de notation 
+phonétique recourait à l'usage de compléments phonétiques.
+
+La précision du système phonétique et la compréhension du système 
+des compléments phonétiques a eu lieu après lui. Richard~\bsc{Lepsius} 
+en fait un premier exposé éclairant dans sa \emph{Lettre à M.~le 
+professeur H.~Rosellini. L'alphabet \hiero}, Rome, 
+1837\footnote{Consultable sur Gallica.fr : 
+\url{http://gallica.bnf.fr/ark:/12148/bpt6k64343980.r=.langFR}}.
+
+Les recherches sur l'écriture et, encore d'avantage, sur la langue 
+se poursuivent bien évidemment depuis\footnote{Pour un panorama des 
+travaux : \fullcite[§~10-11]{Gardiner} ; voir aussi 
+\fullcite[p.~II-III]{MW}. Sur les études récentes des signes 
+d'écritures \hiero[iques], voir par exemple, \fullcite{Meeks_2007}.}.
+
+\begin{exercice}[before upper={\centering}]
+  \donc{} Faire \textbf{l'exercice~8} sur les noms de rois.\\
+  Voir corrigé en ligne.
+\end{exercice}
+
+\subsection[Champollion et l'écriture hiératique]
+           {Champollion et l'écriture 
+            hiératique\protect\footfullcite[Voir]{Posener_1972}}
+\label{sub:champo_hiera}
+%~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Il convient d'aborder ici un point historiographique important, 
+et parfois moins connu. Champollion est connu pour être le 
+\frquote{déchiffreur des \hiero[es]}. Or, son apport ne concerna 
+pas seulement les signes \hiero[iques] proprement dits, mais aussi 
+les signes cursifs dits hiératique (voir Introduction, section~1), 
+qui fonctionnent exactement selon le même système et ne sont que des 
+tracés simplifiés et rapides des signes \hiero[iques].
+
+Champollion, parallèlement à son travail sur la Pierre de Rosette 
+(texte \hiero), s'intéressait aussi à l'écriture cursive des papyrus 
+funéraires (Livres des morts) d'époque ptolémaïques reproduits, 
+notamment, dans le Tome~II de la \source{Description de l'\kmt} 
+(1812). Certains manuscrits sont rédigés en \textbf{\hiero[es] 
+linéaires} (c'est-à-dire des \hiero[es] simplement tracés à l'encre), 
+d'autres dans une cursive que Champollion identifie comme l'écriture 
+\textbf{hiératique} (ou cursive sacerdotale) de \info{Clément 
+d'Alexandrie}. En opérant des comparaisons minutieuses, il arrive à 
+réaliser des tableaux d'équivalence entre les signes \hiero[iques] 
+et les signes hiératiques, que Champollion définit comme une 
+\textbf{\frquote{tachygraphie \hiero}}. En 1821, il présente un 
+mémoire : \emph{De l'écriture hiératique des anciens Égyptiens}.
+
+Dans son \source{Précis du système \hiero des anciens égyptiens} 
+(1824), Champollion consacre plusieurs paragraphes (§~111-116) à 
+l'écriture hiératique. Sa \source{Grammaire égyptienne} posthume 
+(1836) associe systématiquement à chaque signe son équivalent en 
+hiératique. Son travail inaugure donc officiellement la naissance de 
+la philologie égyptienne, en solidarisant l'étude du \hiero et de sa 
+cursive dite \frquote{hiératique}, dont on sait qu'elle fût utilisée 
+pour la documentation courante (lettres, comptabilités, etc.) et pour 
+l'archivage des textes littéraires, sapientiaux et religieux, jusqu'à 
+l'adoption de la cursive démotique dans le courant du \siecle{7}~BC, 
+après quoi le hiératique fut cantonné à un usage sacerdotal.
+
+Aux origines de l'égyptologie, études du \hiero et du hiératique ont 
+donc été présentés ensemble, du fait de cette unité entre les deux 
+types de caractères. Aujourd'hui, pour des questions de progression 
+pédagogique, l'étudiant se forme à l'égyptien ancien classique, à 
+travers l'apprentissage des signes \hiero[iques] uniquement (plus 
+faciles à mémoriser). Ce n'est que plus tard, une fois cet 
+apprentissage linguistique fait, une fois que les signes \hiero[iques] 
+dans leur forme pleine sont connus, que certains étudiants avancés se 
+forment à la paléographie hiératique.
+
+Ce cours ne déroge pas à la règle, puisque l'enseignement du système 
+d'écriture et de la langue égyptien classique se fait sur la base des 
+signes \hiero[iques]. Toutefois, pour vous permettre de prendre 
+conscience très tôt de l'unité fondamentale entre le \hiero et le 
+hiératique, quelques notions sur le hiératique seront données 
+occasionnellement. Les parties du cours qui concernent le hiératique 
+ne feront pas l'objet d'une évaluation dans ce cours. Ils sont donc 
+donnés à titre indicatif et \textbf{pour votre culture générale} sur 
+l'écriture dans l'\kmt ancienne.
+
+\begin{figure}
+  \includegraphics[scale=0.45]{hieratique}
+
+  \reflectbox{\begin{hieroglyph}nfr-f:r-r-i-q:r-Y1\end{hieroglyph}}
+
+  \tl{nfr r-ior}
+
+  \td{extrêmement bon}
+  \caption{Hiératique et \hiero[es]}
+  \label{fig:hiera_hiero}
+\end{figure}
+
+La \fref{fig:hiera_hiero} montre un exemple de texte en hiératique 
+transposé (transcrit) en \hiero[es]. Vous notez que chaque signe 
+hiératique correspond à un signe en \hiero. Le plus souvent la parenté 
+formelle est nettement visible.
+
+Les principales différences entre l'écriture \hiero et l'écriture 
+hiératique sont : \primo l'écriture hiératique se lit toujours de la 
+droite vers la gauche ; \secundo les signes peuvent être ligaturés 
+(c'est-à-dire \frquote{attachés} les uns aux autres). Dans cet 
+exemple, il n'y a pas de ligatures.
+
+Vous trouverez dans la rubrique document une version du tableau des 
+unilitères avec leur correspondant en hiératique. Il vous est donné 
+pour votre information personnelle. Il n'est d'aucune utilité pour la 
+validation du module, mais il vous permettra de mieux percevoir la 
+nature de l'écriture égyptienne dans son ensemble.

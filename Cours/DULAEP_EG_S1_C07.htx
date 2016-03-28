@@ -2,15 +2,14 @@
 %##HieroDef.txt
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\part{Cours~7 -- Grammaire -- Les phrases non verbales (2) -- 
-Présentation du système prédicatif égyptien}\label{prt:pnv2}
+\part{[Grammaire] Phrases non verbales (2)}\label{prt:pnv2}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \chapter{Syntaxe de la proposition à prédicat adverbial (suite)}
 %======================================================================
 
 \section{Prépositions (3): \tl{n} \frquote{d'appartenance} ou 
-\frquote{d'attribution}}
+\frquote{d'attribution}}\label{sec:n_attrib}
 %----------------------------------------------------------------------
 
 La préposition \tl{n} \begin{hieroglyph}n\end{hieroglyph} \td{à}, 
@@ -63,12 +62,12 @@ utilisant le verbe \frquote{avoir}.
 \bigskip
 
 \begin{example}
-  \begin{hieroglyph}i-w-O3-X4-n:f\end{hieroglyph}
+  \begin{hieroglyph}jw anx-n:x n +lN.+s p:n\end{hieroglyph}
 
-  \tl{iw anx n {\normalfont N.} pn} 
+  \tl{iw anx n \tll{N.} pn} 
   \infos{(\CTx{VII}, 467b, sarcophage~B6C)}
 
-  \td{La vie appartient à N.\footnotemark{} que voici.}
+  \td{La vie appartient à \emph{N.}\footnotemark{} que voici.}
 \end{example}
 \footnotetext{La mention \emph{N.} indique que, dans le texte 
 originel, était indiqué le nom du défunt.}
@@ -93,15 +92,17 @@ le sujet :
 \end{example}
 
 \section{Prépositions (4): sens particulier de \tl{Xr} \td{sous}}
+\label{sec:Xr_2}
 %----------------------------------------------------------------------
 
-On a vu, dans le cours précédent (\doc{cours~6}), le sens premier, 
-spatial, de la préposition \begin{hieroglyph}Xr:r\end{hieroglyph} 
-\tl{Xr} \td{sous}. On a vu aussi son sens plus métaphorique \td{sous 
-l'effet} d'une émotion. Il existe un autre sens particulier de cette 
-préposition dans certains contextes : \td{être sous des objets} peut 
-signifier les porter (voir le déterminatif du verbe \tl{fAi} 
-\td{porter} \begin{hieroglyph}A9\end{hieroglyph}).
+On a vu, dans le cours précédent (cours~\ref{prt:pnv1}, 
+\Sref{sec:prepos_1}\,\ref{sub:Xr_1}), le sens premier, spatial, de la 
+préposition \begin{hieroglyph}Xr:r\end{hieroglyph} \tl{Xr} \td{sous}. 
+On a vu aussi son sens plus métaphorique \td{sous l'effet} d'une 
+émotion. Il existe un autre sens particulier de cette préposition dans 
+certains contextes : \td{être sous des objets} peut signifier les 
+porter (voir le déterminatif du verbe \tl{fAi} \td{porter} 
+\begin{hieroglyph}A9\end{hieroglyph}).
 
 \begin{example}
   \begin{hieroglyph}
@@ -113,12 +114,12 @@ signifier les porter (voir le déterminatif du verbe \tl{fAi}
 
   \td{J'apporte des offrandes à Héliopolis.}\\
   \td{\litt Je suis sous les offrandes en direction d'Héliopolis.}
-\end{example}
+\end{example}%
 \footnotetext{Noter la graphie du déterminatif de la ville. Au lieu 
 d'être noté simplement \begin{hieroglyph}niwt\end{hieroglyph}, il est 
 écrit comme le groupe \tl{niw.t} \td{ville}.}
 
-\section{Les auxiliaires, éléments introducteurs}
+\section{Les auxiliaires, éléments introducteurs}\label{sec:aux}
 %----------------------------------------------------------------------
 
 À côté de l'auxiliaire \begin{hieroglyph}i-w\end{hieroglyph}, qui 
@@ -291,13 +292,14 @@ Un élément de syntaxe important : lorsque le sujet d'une proposition
 pas le pronom suffixe qui est utilisé mais le pronom dépendant. Le 
 \textbf{pronom dépendant} est la deuxième catégorie de pronoms 
 personnels de l'égyptien classique (qui en comporte trois), après 
-le pronom suffixe (voir \doc{cours~3}). Le pronom dépendant ne se 
-fixe pas au mot qui précède, mais en revanche, il est en position 
-dépendante, c'est-à-dire qu'il ne peut pas se trouver en tête de 
-phrase. Ce pronom dépendant est essentiellement employé comme 
-sujet\footnote{Il peut être employé comme COD pronominal des verbes 
-(sauf après un verbe à l'infinitif), mais nous verrons cela plus 
-tard.}, pour les cas où le pronom suffixe ne peut être utilisé.
+le pronom suffixe (voir cours~\ref{prt:grp_nom_1}, \Sref{sec:PS}). 
+Le pronom dépendant ne se fixe pas au mot qui précède, mais en 
+revanche, il est en position dépendante, c'est-à-dire qu'il ne 
+peut pas se trouver en tête de phrase. Ce pronom dépendant est 
+essentiellement employé comme sujet\footnote{Il peut être employé 
+comme COD pronominal des verbes (sauf après un verbe à l'infinitif), 
+mais nous verrons cela plus tard.}, pour les cas où le pronom suffixe 
+ne peut être utilisé.
 
 \subsubsection*{Tableau des pronoms personnels -- Pronoms dépendants}
 
@@ -407,7 +409,8 @@ teinté de regret : \td{Ah si\dots}.
   \infos{(\source{Conte du Paysan} B~22-24)}
 
   \tg{\PPA introduite par \tl{HA} + groupe prépositionnel prédical 
-      (sur la position voir \doc{cours~6}) + Sujet (groupe nominal)}
+      (sur la position voir cours~\ref{prt:grp_nom_3}, 
+      \Cref{cha:odre_mots}) + Sujet (groupe nominal)}
 
   \rem{Notez l'imparfait dans la traduction française, commandé par 
        l'expression \td{ah, si}.}

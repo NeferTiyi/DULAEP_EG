@@ -2,8 +2,7 @@
 %##HieroDef.txt
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\part{Cours~8 -- Grammaire -- Les phrases non verbales (3)}
-\label{prt:pnv3}
+\part{[Grammaire] Phrases non verbales (3)}\label{prt:pnv3}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \chapter{Syntaxe de la \PPA (suite et fin)}
@@ -85,12 +84,13 @@ cours~\ref{prt:grp_nom_2}, \Cref{cha:demonstratif}).
   sur document qui sera une sorte de révision du groupe nominal.
 
   \donc{} Lisez et apprenez aussi ensuite, le \textbf{complément} de 
-  cours sur le \textbf{groupe nominal}.
+  cours sur le \textbf{groupe nominal} (cours~\ref{prt:grp_nom_comp}).
 \end{exercice}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\part{Cours~8 -- Grammaire -- Le groupe nominal -- compléments}
+\part{[Grammaire] Le groupe nominal -- Compléments}
+\label{prt:grp_nom_comp}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \chapter{Expression de l'ipséité (\td{lui-même}, \td{en personne})}

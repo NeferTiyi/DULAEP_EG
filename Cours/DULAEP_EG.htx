@@ -1,60 +1,150 @@
 \documentclass[%
   % draft, %
-  ngerman, english, french, %
-  hiero, %
-  coptic, %
-  % background, %
-  dvipsnames, %
-  svgnames, %
-  a4paper, %
-  twoside, %
-  openany, %
-  10pt, %
-  oldfontcommands, %
-  article, %
+  ngerman, english, french,
+  hiero,
+  coptic,
+  kpfonts,
+  % background,
+  dvipsnames,
+  svgnames,
+  a4paper,
+  twoside,
+  openany,
+  10pt,
+  largesmallcaps,
+  oldstyle, %nums,
+  oldfontcommands,
+  article,
 ]{nefermemoir}
 
 \includeonly{%
-  DULAEP_EG_S1_W00a,
-  DULAEP_EG_S1_W00b,
-  DULAEP_EG_S1_W01a,
-  DULAEP_EG_S1_W01b,
-  DULAEP_EG_S1_W02a,
-  DULAEP_EG_S1_W02b,
-  DULAEP_EG_S1_W03,
-  DULAEP_EG_S1_W04,
-  DULAEP_EG_S1_W05,
-  DULAEP_EG_S1_W06,
-  DULAEP_EG_S1_W07,
-  DULAEP_EG_S1_W08,
-  DULAEP_EG_S1_W09,
-  DULAEP_EG_S1_W10,
-  DULAEP_EG_S1_W11,
-  DULAEP_EG_S1_W12,
-  DULAEP_EG_S2_W01,
-  DULAEP_EG_S2_W02,
-  DULAEP_EG_S2_W03,
-  DULAEP_EG_S2_W04,
-  DULAEP_EG_S2_W05,
-  DULAEP_EG_S2_W06,
-  DULAEP_EG_S2_W07,
+  % DULAEP_EG_S1_W00a,
+  % DULAEP_EG_S1_W00b,
+  DULAEP_EG_S1_C00,
+  % DULAEP_EG_S1_W01a,
+  % DULAEP_EG_S1_W01b,
+  DULAEP_EG_S1_C01,
+  % DULAEP_EG_S1_W02a,
+  % DULAEP_EG_S1_W02b,
+  DULAEP_EG_S1_C02,
+  % DULAEP_EG_S1_W03,
+  DULAEP_EG_S1_C03,
+  % DULAEP_EG_S1_W04,
+  DULAEP_EG_S1_C04,
+  % DULAEP_EG_S1_W05,
+  DULAEP_EG_S1_C05,
+  % DULAEP_EG_S1_W06,
+  DULAEP_EG_S1_C06,
+  % DULAEP_EG_S1_W07,
+  DULAEP_EG_S1_C07,
+  % DULAEP_EG_S1_W08,
+  DULAEP_EG_S1_C08,
+  % DULAEP_EG_S1_W09,
+  DULAEP_EG_S1_C09,
+  % DULAEP_EG_S1_W10,
+  DULAEP_EG_S1_C10,
+  % DULAEP_EG_S1_W11,
+  DULAEP_EG_S1_C11,
+  % DULAEP_EG_S1_W12,
+  DULAEP_EG_S1_C12,
+  % DULAEP_EG_S2_W01,
+  DULAEP_EG_S2_C01,
+  % DULAEP_EG_S2_W02,
+  DULAEP_EG_S2_C02,
+  % DULAEP_EG_S2_W03,
+  DULAEP_EG_S2_C03,
+  % DULAEP_EG_S2_W04,
+  DULAEP_EG_S2_C04,
+  % DULAEP_EG_S2_W05,
+  DULAEP_EG_S2_C05,
+  % DULAEP_EG_S2_W06,
+  DULAEP_EG_S2_C06,
+  % DULAEP_EG_S2_W07,
+  DULAEP_EG_S2_C07,
+  % DULAEP_EG_S2_W08,
+  DULAEP_EG_S2_C08,
+  DULAEP_EG_S2_C09,
   DULAEP_EG_Anx_Prepositions,
   DULAEP_EG_Anx_Phonologie,
+  DULAEP_EG_Anx_Determinatifs,
+  DULAEP_EG_Anx_Logogrammes,
+  DULAEP_EG_Anx_GardinerList,
 }
 
 \usepackage{xfrac}
 \usepackage{multicol}
 \usepackage{rotating}
 \usepackage{tipa}
-\usepackage{neferkheops}
-
+\usepackage[object=vectorian]{pgfornament}
+% \usepackage{neferkheops}
 \graphicspath{%
   {../img/}%
 }
 
+\frenchbsetup{PartNameFull=false}
+\xspaceaddexceptions{\frquote}
+
 \aliaspagestyle{part}{empty}
+\counterwithin{part}{book}
+\counterwithin{chapter}{part}
 \counterwithin{footnote}{part}
+% \renewcommand{\thechapter}{\arabic{chapter}}
 \renewcommand{\thefootnote}{\arabic{footnote}}
+
+% Apparence des numéros de divisions
+\renewcommand{\thepart}{\arabic{part}}
+\renewcommand{\thechapter}{\textsc{\roman{chapter}}}
+% \renewcommand{\thepart}{\scshape\roman{part}}
+% \renewcommand{\thepart}{\Roman{part}}
+
+% Numérotation des division et prise en compte dans la TOC
+\maxtocdepth{section}
+
+% Indentation et largeur des numéros dans la TOC
+% Entry         Level        Standard        memoir class
+%                         indent numwidth   indent numwidth 
+% ---------------------------------------------------------
+% book             -2       —      —          0.0    —
+% part             -1       0.0    —          0.0    1.5 
+% chapter           0       0.0    1.5        0.0    1.5
+% section           1       1.5    2.3        1.5    2.3
+% subsection        2       3.8    3.2        3.8    3.2
+% subsubsection     3       7.0    4.1        7.0    4.1
+% paragraph         4      10.0    5.0       10.0    5.0
+% subparagraph      5      12.0    6.0       12.0    6.0
+% figure/table     (1)      1.5    2.3        0.0    1.5
+% subfigure/table  (2)      —      —          1.5    2.3
+\cftsetindents{book}{-2.4em}{\cftsectionnumwidth}
+\cftsetindents{part}{-1.2em}{\cftsectionnumwidth}
+\cftsetindents{chapter}{\cftchapterindent}{2em}
+\cftsetindents{section}{2em}{\cftsectionnumwidth}
+
+% Pointillés dans la TOC
+\renewcommand{\cftpartdotsep}{18}
+\renewcommand{\cftsectiondotsep}{9}
+
+
+% \tikzset{pgfornamentstyle/.style={%
+%   inner sep=0pt,
+%   red!80!black,
+%   % draw=red!80!black,
+%   % fill=white,
+% %   fill opacity=.5,
+%   % yscale=.8,
+%   % thin,
+% }}%
+
+
+\newcommand{\filet}{%
+  \vspace{3\baselineskip}
+
+  \begin{center}
+    \pgfornament[width=.5\textwidth]{85}
+  \end{center}
+
+  \vspace{3\baselineskip}
+}
+
 
 
 \newtcolorbox{example}[1][]{%
@@ -102,6 +192,7 @@
 }
 
 
+\newcommand{\sectitre}{}
 \newcommand{\insertimg}{}
 
 \newcommand{\addtolof}[1]{%
@@ -121,12 +212,18 @@
 }
 
 \newcommand{\tll}[2][TlColor]{{%
-  \textcolor{#1}{\emph{#2}}%
+  \normalfont\textcolor{#1}{\emph{#2}}%
 }}%
 
+\renewcommand{\td}[1]{%
+  \textcolor{TdColor}{\itshape\sffamily#1}%
+}
 \newcommand{\tdr}[1]{%
   \textcolor{red}{\td{#1}}%
 }
+
+\renewcommand{\infos}[1]{{\smaller\quad#1}}
+
 \newcommand{\doc}[1]{%
   \textbf{\textcolor{purple}{#1}}%
 }
@@ -155,9 +252,239 @@
 
 \newlength{\graphicwidth}
 
+
+
+\makeatletter
+% ... Redefine title page ...
+% ---------------------------
+\newlength{\drop}% for my convenience
+
+% Define subtitle
+\newcommand{\subtitle}[1]{\def\@subtitle{#1}}
+% Define teacher name
+\newcommand{\lecturer}[1]{\def\@lecturer{#1}}
+% Define organisation name
+\newcommand{\orga}[1]{\def\@orga{#1}}
+
+\def\maketitle{%
+  \drop = 0.1\textheight%
+  \vfill%
+  \hbox{%
+    \hspace*{0.2\textwidth}%
+    \rule{3pt}{\textheight}%
+    \hspace*{0.05\textwidth}%
+    \parbox[b]{0.75\textwidth}{%
+      \vbox to 0.9\textheight{%
+        \vspace{\drop}%
+        {\noindent\HUGE\bfseries\RaggedRight\@title\par}%
+        \vspace{2\baselineskip}%
+        {\Huge\itshape\@subtitle\par}%
+        \vspace{4\baselineskip}%
+        {\Large\itshape\@date\par}%
+        \vspace{2\baselineskip}%
+        {\Large\@orga\par\vspace{0.5\baselineskip}\@lecturer\par}%
+
+        \vspace*{\fill}%
+
+        {\noindent \@author\par}%
+        \bigskip%
+        {\small\itshape\today, \printtime\par}%
+      }%
+    }%
+  }%
+  \vfill%
+
+  \pagebreak
+
+  \thispagestyle{empty}
+  \vspace*{\fill}
+  \input{neferlicence}
+  \pagebreak
+}
+
+
+% ... Redefine headings ...
+% -------------------------
+% Define short title for header
+\newcommand{\short}[1]{\def\@short{#1}}
+
+
+\makepagestyle{ruled}
+\makeevenhead{ruled}
+  {\normalfont\itshape\rightmark}
+  {even}
+  {\normalfont\itshape\leftmark}
+\makeoddhead{ruled}
+  {\normalfont\itshape\rightmark}
+  {odd}
+  {\normalfont\itshape\leftmark}
+\makeevenfoot{ruled}
+  {\thepage}
+  {}
+  {\normalfont\itshape\@short}
+\makeoddfoot{ruled}
+  {\normalfont\itshape\@lecturer}
+  {}
+  {\thepage}
+\makeheadrule{ruled}{\textwidth}{\normalrulethickness}
+% \makefootrule{ruled}{\textwidth}{\normalrulethickness}{1pt}
+
+\makepsmarks{ruled}{%
+  \nouppercaseheads
+  \clearmark{chapter}
+  \clearmark{section}
+  \createmark{part}{right}{shownumber}{}{.\ }
+  \createmark{chapter}{left}{shownumber}{}{.\ }
+  % \createmark{chapter}{left}{nonumber}{}{.\ }
+  % \createmark{section}{right}{nonumber}{}{.\ }
+  % \createmark{part}{left}{shownumber}{}{.\ }
+  % \createmark{chapter}{right}{shownumber}{}{.\ }
+  \createplainmark{toc}{both}{\contentsname}
+  \createplainmark{lof}{both}{\listfigurename}
+  \createplainmark{lot}{both}{\listtablename}
+  \createplainmark{bib}{both}{\bibname}
+  \createplainmark{index}{both}{\indexname}
+  \createplainmark{glossary}{both}{\glossaryname}
+}
+\makeatother
+
+% \nouppercaseheads
+% \makepagestyle{mystyle}
+% \makeevenhead{mystyle}
+%   {}
+%   {\textit{Book Title}}
+%   {}
+% \makeoddhead{mystyle}
+%   {}
+%   {\rightmark}
+%   {}
+% \makeevenfoot{mystyle}{}{\thepage}{}
+% \makeoddfoot{mystyle}{}{\thepage}{}
+% \clearmark{chapter}
+% \clearmark{section}
+% \createmark{part}{both}{shownumber}{\partname\space}{.\space}
+% \makeheadrule{mystyle}{\textwidth}{\normalrulethickness}
+
+
+
+
+\copypagestyle{dulaep}{Ruled}
+
+\makeatletter
+  \makeevenhead{dulaep}{\itshape\leftmark}{}{\itshape\@short}
+  \makeoddhead{dulaep}{\itshape\@lecturer}{}{\itshape\rightmark}
+\makeatother
+
+\addtopsmarks{dulaep}{}{%
+  \clearmark{chapter}
+  \clearmark{section}
+  \createmark{part}{left}{shownumber}{}{.\ }
+  \createmark{chapter}{right}{shownumber}{}{.\ }
+}
+
+% \pagestyle{ruled}
+\pagestyle{dulaep}
+
+
+\makechapterstyle{AlexanderGrebenkov}{%
+  \renewcommand{\chapterheadstart}{%
+    \vspace*{\beforechapskip}%
+    \hrule height 1.pt%
+    \medskip%
+  }
+  \renewcommand{\chapnamefont}{\normalfont\large\bfseries}
+  \renewcommand{\chapnumfont}{\normalfont\large\bfseries}
+  \renewcommand{\chaptitlefont}{\normalfont\large\bfseries}
+  \renewcommand{\printchaptername}{}
+  \renewcommand{\chapternamenum}{}
+  \renewcommand{\printchapternum}{\chapnumfont\thechapter}
+  \renewcommand{\afterchapternum}{.\quad}
+  \renewcommand{\afterchaptertitle}{%
+    \par\nobreak\medskip%
+    \hrule height 1.pt%
+    \vskip\afterchapskip%
+  }
+}
+
+\begin{comment}
+\makechapterstyle{section}{%
+  \chapterstyle{default}
+  \renewcommand{\printchaptername}{}
+  \renewcommand{\chapternamenum}{}
+  \renewcommand{\chapnumfont}{\normalfont\Huge\bfseries}
+  \renewcommand{\printchapternum}{\chapnumfont \thechapter\space}
+  \renewcommand{\afterchapternum}{}%
+}
+
+\makechapterstyle{article}{%
+  \chapterstyle{default}
+  \setlength{\beforechapskip}{3.5ex \@plus 1ex \@minus .2ex}
+  \renewcommand*{\chapterheadstart}{\vspace{\beforechapskip}}
+  \setlength{\afterchapskip}{2.3ex \@plus .2ex}
+  \renewcommand{\printchaptername}{}
+  \renewcommand{\chapternamenum}{}
+  \renewcommand{\chaptitlefont}{\normalfont\Large\bfseries}
+  \renewcommand{\chapnumfont}{\chaptitlefont}
+  \renewcommand{\printchapternum}{\chapnumfont \thechapter\quad}
+  \renewcommand{\afterchapternum}{}%
+}
+
+\makechapterstyle{hangnum}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapnumfont}{\chaptitlefont}
+  \settowidth{\chapindent}{\chapnumfont 999}
+  \renewcommand*{\printchaptername}{}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{%
+    \noindent\llap{\makebox[\chapindent][l]{\chapnumfont \thechapter}}}
+  \renewcommand*{\afterchapternum}{}
+}
+\end{comment}
+
+
+\makeatletter
+\makechapterstyle{dulaep}{%
+  \chapterstyle{article}
+  \renewcommand{\chaptitlefont}{\normalfont\Large\bfseries}
+  \renewcommand{\chapnumfont}{\chaptitlefont}
+  \renewcommand{\printchapternum}{\chapnumfont \thechapter.\quad}
+  \renewcommand{\chapterheadstart}{%
+    \vspace{\beforechapskip}%
+    \hrule%
+    \par\nobreak\smallskip%
+  }
+  \renewcommand{\afterchaptertitle}{%
+    \par\nobreak\smallskip%
+    \hrule%
+    \par\nobreak\vskip\afterchapskip%
+  }
+}
+\makeatother
+
+\chapterstyle{dulaep}
+
+% ... Part style ...
+% ---------------------
+\renewcommand{\partnamefont}{\RaggedLeft\normalfont\LARGE\scshape}
+\renewcommand*{\partnumfont}{\RaggedLeft\normalfont\LARGE\scshape}
+\renewcommand*{\parttitlefont}{\RaggedLeft\normalfont\huge\bfseries}
+
+\renewcommand{\midpartskip}{\par\vspace{0.5\onelineskip}}
+\renewcommand*{\beforepartskip}{%
+  \null\vspace{80pt}%
+  }
+\renewcommand*{\afterpartskip}{%
+  \noindent\rule{\textwidth}{3pt}%
+  % \par\nobreak\medskip%
+  % \hrule height 3pt%
+  \vskip 20pt plus 3pt minus 1pt%
+}
+
+
 %======================================================================
 \title{DULAEP --\\Égyptien classique}
-\short{DULAEP -- Égyptien classique}
+\short{DULAEP -- EG}
+% \short{DULAEP -- Égyptien classique}
 \subtitle{}
 \lecturer{Sylvie~\bsc{Donnat}}
 \orga{Faculté des sciences historiques de Strasbourg}
@@ -196,31 +523,58 @@
 \mainmatter
 \CaptionNormal
 
-\book{Semestre~1}
-\include{DULAEP_EG_S1_W00a}
-\include{DULAEP_EG_S1_W00b}
-\include{DULAEP_EG_S1_W01a}
-\include{DULAEP_EG_S1_W01b}
-\include{DULAEP_EG_S1_W02a}
-\include{DULAEP_EG_S1_W02b}
-\include{DULAEP_EG_S1_W03}
-\include{DULAEP_EG_S1_W04}
-\include{DULAEP_EG_S1_W05}
-\include{DULAEP_EG_S1_W06}
-\include{DULAEP_EG_S1_W07}
-\include{DULAEP_EG_S1_W08}
-\include{DULAEP_EG_S1_W09}
-\include{DULAEP_EG_S1_W10}
-\include{DULAEP_EG_S1_W11}
-\include{DULAEP_EG_S1_W12}
-\book{Semestre~2}
-\include{DULAEP_EG_S2_W01}
-\include{DULAEP_EG_S2_W02}
-\include{DULAEP_EG_S2_W03}
-\include{DULAEP_EG_S2_W04}
-\include{DULAEP_EG_S2_W05}
-\include{DULAEP_EG_S2_W06}
-\include{DULAEP_EG_S2_W07}
+% \addcontentsline{toc}{book}{Semestre~1}
+% \book*{Semestre~1}\label{bk:semestre1}
+\book{Semestre~1}\label{bk:semestre1}
+% \include{DULAEP_EG_S1_W00a}
+% \include{DULAEP_EG_S1_W00b}
+\include{DULAEP_EG_S1_C00}
+% \include{DULAEP_EG_S1_W01a}
+% \include{DULAEP_EG_S1_W01b}
+\include{DULAEP_EG_S1_C01}
+% \include{DULAEP_EG_S1_W02a}
+% \include{DULAEP_EG_S1_W02b}
+\include{DULAEP_EG_S1_C02}
+% \include{DULAEP_EG_S1_W03}
+\include{DULAEP_EG_S1_C03}
+% \include{DULAEP_EG_S1_W04}
+\include{DULAEP_EG_S1_C04}
+% \include{DULAEP_EG_S1_W05}
+\include{DULAEP_EG_S1_C05}
+% \include{DULAEP_EG_S1_W06}
+\include{DULAEP_EG_S1_C06}
+% \include{DULAEP_EG_S1_W07}
+\include{DULAEP_EG_S1_C07}
+% \include{DULAEP_EG_S1_W08}
+\include{DULAEP_EG_S1_C08}
+% \include{DULAEP_EG_S1_W09}
+\include{DULAEP_EG_S1_C09}
+% \include{DULAEP_EG_S1_W10}
+\include{DULAEP_EG_S1_C10}
+% \include{DULAEP_EG_S1_W11}
+\include{DULAEP_EG_S1_C11}
+% \include{DULAEP_EG_S1_W12}
+\include{DULAEP_EG_S1_C12}
+% \addcontentsline{toc}{book}{Semestre~2}
+% \book*{Semestre~2}\label{bk:semestre2}
+\book{Semestre~2}\label{bk:semestre2}
+% \include{DULAEP_EG_S2_W01}
+\include{DULAEP_EG_S2_C01}
+% \include{DULAEP_EG_S2_W02}
+\include{DULAEP_EG_S2_C02}
+% \include{DULAEP_EG_S2_W03}
+\include{DULAEP_EG_S2_C03}
+% \include{DULAEP_EG_S2_W04}
+\include{DULAEP_EG_S2_C04}
+% \include{DULAEP_EG_S2_W05}
+\include{DULAEP_EG_S2_C05}
+% \include{DULAEP_EG_S2_W06}
+\include{DULAEP_EG_S2_C06}
+% \include{DULAEP_EG_S2_W07}
+\include{DULAEP_EG_S2_C07}
+% \include{DULAEP_EG_S2_W08}
+\include{DULAEP_EG_S2_C08}
+\include{DULAEP_EG_S2_C09}
 
 \appendix
 % \appendixpage
@@ -231,6 +585,9 @@
 
 \include{DULAEP_EG_Anx_Prepositions}
 \include{DULAEP_EG_Anx_Phonologie}
+\include{DULAEP_EG_Anx_Determinatifs}
+\include{DULAEP_EG_Anx_Logogrammes}
+\include{DULAEP_EG_Anx_GardinerList}
 
 % \part{Principales prépositions simples}
 % \part{Classification des verbes en égyptien classique}
