@@ -64,6 +64,7 @@
   % DULAEP_EG_S2_W08,
   DULAEP_EG_S2_C08,
   DULAEP_EG_S2_C09,
+  DULAEP_EG_S2_C10,
   DULAEP_EG_Anx_Prepositions,
   DULAEP_EG_Anx_Phonologie,
   DULAEP_EG_Anx_Determinatifs,
@@ -71,12 +72,14 @@
   DULAEP_EG_Anx_GardinerList,
 }
 
+\usepackage[inline]{enumitem}
 \usepackage{xfrac}
 \usepackage{multicol}
 \usepackage{rotating}
 \usepackage{tipa}
 \usepackage[object=vectorian]{pgfornament}
 % \usepackage{neferkheops}
+
 \graphicspath{%
   {../img/}%
 }
@@ -575,6 +578,7 @@
 % \include{DULAEP_EG_S2_W08}
 \include{DULAEP_EG_S2_C08}
 \include{DULAEP_EG_S2_C09}
+\include{DULAEP_EG_S2_C10}
 
 \appendix
 % \appendixpage
