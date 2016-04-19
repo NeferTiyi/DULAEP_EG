@@ -1,0 +1,177 @@
+%!TEX root = DULAEP_EG.htx
+%##HieroDef.txt
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\chapter{Tableau des signes unilitères}\label{anx:unilit}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+{\renewcommand\tabularxcolumn[1]{m{#1}}
+\smaller\SmallerText
+\noindent%
+\begin{tabularx}{1.\textwidth}
+      {|+M{1.5cm}|^M{1.7cm}|^M{1.7cm}|^M{1.7cm}|^X|}
+  \toprule
+  \rowstyle{\bfseries}
+    Signe & Identification & Translit. & 
+    Phonét., désignation & Remarques
+  \tabularnewline
+  \otoprule
+    \begin{hieroglyph}A\end{hieroglyph} & 
+    Vautour percnoptère & \tl{A} &
+    \textipa{[P]}\\ \emph{aleph} &
+    Attaque glottale ; Se prononce conventionnellement \frquote{a}.
+  \tabularnewline
+  % \midrule
+    \begin{hieroglyph}i\end{hieroglyph} & 
+    Roseau fleuri & \tl{i} (ou \tl{j}) &
+    \textipa{[j]}\\ \emph{yod} &
+    Se prononce comme le \frquote{y} de \emph{yoyo}
+  \tabularnewline
+  % \midrule
+    \begin{hieroglyph}i-i+l\ ou\ +s-y\end{hieroglyph} & 
+    Deux roseaux fleuris ou deux traits & \tl{y} (ou \tl{jj}) &
+    \textipa{[j]}\\double \emph{yod} &
+    
+  \tabularnewline
+  % \midrule
+    \begin{hieroglyph}a\end{hieroglyph} & 
+    Bras & \tl{a} &
+    \textipa{[Q]}\\ \emph{\ain ayin} &
+    Coup de glotte ; Se prononce conventionnellement \frquote{â}
+  \tabularnewline
+  % \midrule
+    \begin{hieroglyph}w+l\ ou\ +s-W\end{hieroglyph} & 
+    Poussin de caille ou forme abrégée & \tl{w} &
+    \textipa{[w]}\\ \emph{ou} &
+    \frquote{ou} de \emph{oui}
+  \tabularnewline
+  % \midrule
+    \begin{hieroglyph}b\end{hieroglyph} & 
+    Pied & \tl{b} &
+    \textipa{[b]} &
+    
+  \tabularnewline
+  % \midrule
+    \begin{hieroglyph}p\end{hieroglyph} & 
+    Natte & \tl{p} &
+    \textipa{[p]} &
+    
+  \tabularnewline
+  % \midrule
+    \begin{hieroglyph}f\end{hieroglyph} & 
+    Vipère à cornes (céraste) & \tl{f} &
+    \textipa{[f]} &
+    
+  \tabularnewline
+  % \midrule
+    \begin{hieroglyph}m\end{hieroglyph} & 
+    Chouette & \tl{m} &
+    \textipa{[m]} &
+    Phonème aussi noté par \begin{hieroglyph}M\end{hieroglyph} 
+    (côte de gazelle ?)
+  \tabularnewline
+  % \midrule
+    \begin{hieroglyph}n\end{hieroglyph} & 
+    Filet d'eau & \tl{n} &
+    \textipa{[n]} &
+    Phonème aussi noté par \begin{hieroglyph}N\end{hieroglyph} 
+    (couronne rouge de \BE)
+  \tabularnewline
+  % \midrule
+    \begin{hieroglyph}r\end{hieroglyph} & 
+    Bouche & \tl{r} &
+    \textipa{[r]} &
+    
+  \tabularnewline
+  % \midrule
+    \begin{hieroglyph}h\end{hieroglyph} & 
+    Plan d'édifice & \tl{h} &
+    \textipa{[h]} &
+    Se prononce comme le \frquote{h} de l'anglais \emph{hot}
+  \tabularnewline
+  % \midrule
+    \begin{hieroglyph}H\end{hieroglyph} & 
+    Mèche de lin & \tl{H} &
+    \textipa{[\textcrh]}\\ h pointé &
+    Se prononce comme le \frquote{h} rauque de l'arabe \emph{Ahmed}
+  \tabularnewline
+  % \midrule
+    \begin{hieroglyph}x\end{hieroglyph} & 
+    Placenta (?) & \tl{x} &
+    \textipa{[X]}\\ h rond &
+    Se prononce comme \frquote{ch} de l'allemand \emph{Buch} ou 
+    la \emph{jota} espagnole
+  \tabularnewline
+  % \midrule
+    \begin{hieroglyph}X\end{hieroglyph} & 
+    Ventre de vache & \tl{X} &
+    \textipa{[\c{c}]}\\ h plat &
+    Se prononce comme \frquote{ch} de l'allemand \emph{ich}
+  \tabularnewline
+  % \midrule
+    \begin{hieroglyph}z\end{hieroglyph} & 
+    Verrou & \tl{s} &
+    \textipa{[s]} &
+    À l'origine \frquote{z} de \emph{zèbre}, mais se confond avec 
+    le suivant
+  \tabularnewline
+  % \midrule
+    \begin{hieroglyph}s\end{hieroglyph} & 
+    Étoffe pliée & \tl{s} &
+    \textipa{[s]} &
+    Se prononce \frquote{s} comme dans \emph{salut}
+  \tabularnewline
+  % \midrule
+    \begin{hieroglyph}S\end{hieroglyph} & 
+    Bassin d'eau & \tl{S} &
+    \textipa{[S]}\\ \emph{chin} &
+    Se prononce comme le \frquote{ch} de \emph{chat}
+  \tabularnewline
+  % \midrule
+    \begin{hieroglyph}q\end{hieroglyph} & 
+    Pente & \tl{o} (ou \tl{q}) &
+    \textipa{[q]}\\ \emph{qof} &
+    Se prononce comme le \emph{qof} arabe
+  \tabularnewline
+  % \midrule
+    \begin{hieroglyph}k\end{hieroglyph} & 
+    Corbeille à anse & \tl{k} &
+    \textipa{[k]}\\ \emph{kaf} &
+    Se prononce comme le \emph{kaf} arabe
+  \tabularnewline
+  % \midrule
+    \begin{hieroglyph}g\end{hieroglyph} & 
+    Support de jarre & \tl{g} &
+    \textipa{[g]} &
+    
+  \tabularnewline
+  % \midrule
+    \begin{hieroglyph}t\end{hieroglyph} & 
+    Pain & \tl{t} &
+    \textipa{[t]} &
+    Le signe bilitère \begin{hieroglyph}ti\end{hieroglyph} 
+    \tl{ti} peut parfois prendre la valeur \frquote{t}
+  \tabularnewline
+  % \midrule
+    \begin{hieroglyph}T\end{hieroglyph} & 
+    Corde pour entraver les animaux & \tl{T} &
+    \textipa{[tj]}\\ \emph{tch} &
+    \textipa{\.*e } emphatique de l'arabe ;
+    Se prononce \frquote{ti}~/ \frquote{tch} comme dans \emph{tiare}
+  \tabularnewline
+  % \midrule
+    \begin{hieroglyph}d\end{hieroglyph} & 
+    Main & \tl{d} &
+    \textipa{[d]} &
+    
+  \tabularnewline
+  % \midrule
+    \begin{hieroglyph}D\end{hieroglyph} & 
+    Cobra & \tl{D} &
+    \textipa{[dj]} &
+    Se prononce \frquote{dj} comme dans le début de \emph{dieux} ou 
+    de \emph{djébel}
+  \tabularnewline
+  \bottomrule
+\end{tabularx}
+}

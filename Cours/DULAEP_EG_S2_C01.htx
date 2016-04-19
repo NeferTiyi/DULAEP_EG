@@ -150,9 +150,12 @@ Nous reviendrons ensuite sur son sens et aborderons les questions de
 syntaxe. 
 
 La morphologie d'un verbe en égyptien ancien se définit par deux 
-caractéristiques : \primo son thème verbal (est-il bref ou long -- 
-voir cours~\ref{prt:ppv} du \titleref{bk:semestre1}, 
-\Sref{sec:th_verbal}), \secundo ses désinences éventuelles.
+caractéristiques : 
+\begin{enumerate*}[label=\arabic*\degre]
+  \item son thème verbal (est-il bref ou long -- voir \Pref{prt:ppv} 
+        du \Bref{bk:semestre1}, \Sref{sec:th_verbal}),
+  \item ses désinences éventuelles.
+\end{enumerate*}
 
 Le parfait ancien a des désinences reconnaissables. C'est une chance. 
 Il faut les apprendre par c{\oe}ur.
@@ -347,7 +350,7 @@ verbes, que vous devez retenir :
         par le sujet, mais acquise suite à \emph{un processus 
         d'acquisition}\footnote{La \PPJ \tl{nfr sw} exprime l'idée 
         d'une qualité possédée de façon permanente et intemporelle 
-        (voir cours~\ref{prt:PPJ}).} :\\
+        (voir \Pref{prt:PPJ}).} :\\
         \begin{hieroglyph}nfr-f:r-Y1v\end{hieroglyph}
         \tl{nfr} \td{devenir parfait} : 
         \begin{hieroglyph}nfr-f:r-w-Y1v\end{hieroglyph}

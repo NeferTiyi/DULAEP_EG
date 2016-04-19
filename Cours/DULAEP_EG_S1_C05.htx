@@ -345,7 +345,7 @@ graphique égyptiens.
 
 % \noindent\textbf{PLAN :}
 % \begin{enumerate}
-%   \item Antéposition honorifique (voir cours~\ref{prt:grp_nom_3}, 
+%   \item Antéposition honorifique (voir \Pref{prt:grp_nom_3}, 
 %         \Sref{sec:gen_direct} sur le génitif direct)
 %   \item \frquote{Orthographe} et évolution des graphies
 %   \item Principes généraux des signes en écriture hiératique avec 
@@ -355,8 +355,8 @@ graphique égyptiens.
 \chapter{L'antéposition honorifique}
 %======================================================================
 
-Voir le cours~\ref{prt:grp_nom_3}, \Sref{sec:gen_direct} sur le 
-génitif direct.
+Voir le \Pref{prt:grp_nom_3}, \Sref{sec:gen_direct} sur le génitif 
+direct.
 
 \chapter{\frquote{Orthographe} et évolution des graphies}
 %======================================================================
@@ -407,7 +407,7 @@ D'où les variantes :
 Ou encore les différentes formes du pronom suffixe 2\ieme personne 
 singulier féminin \begin{hieroglyph}T\end{hieroglyph} \tl{=T} ou 
 \begin{hieroglyph}t\end{hieroglyph} \tl{=t} 
-(voir cours~\ref{prt:grp_nom_1}, \Sref{sec:PS}).
+(voir \Pref{prt:grp_nom_1}, \Sref{sec:PS}).
 
 À l'inverse, certains mots conservent traces d'une prononciation 
 ancienne désormais obsolète. Par exemple, la graphie 
@@ -421,7 +421,7 @@ le \MK.
 %======================================================================
 
 On a déjà évoqué, notamment lors de la présentation du travail de 
-Jean-François~\bsc{Champollion} (cours~\ref{prt:syst_graph_2}, 
+Jean-François~\bsc{Champollion} (\Pref{prt:syst_graph_2}, 
 \Sref{sec:dechiffr}\,\ref{sub:champo_hiera}) l'unité profonde qui 
 existe entre l'écriture dite \hiero et l'écriture cursive dite 
 hiératique. Les signes hiératiques ne sont que des simplifications 

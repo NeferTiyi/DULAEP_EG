@@ -15,8 +15,8 @@ seront présentées ici pour la première fois.
 % =====================================================================
 
 L'égyptien ancien peut recourir à une \PPA ayant pour prédicat 
-le \tl{n} d'attribution (voir le cours~\ref{prt:pnv2}, 
-\Sref{sec:n_attrib}, du \titleref{bk:semestre1})
+le \tl{n} d'attribution (voir le \Pref{prt:pnv2}, \Sref{sec:n_attrib}, 
+du \Bref{bk:semestre1})
 
 \begin{example}
   \begin{hieroglyph}jw anx-n:x n +l\emph{N.}+s p:n\end{hieroglyph}
@@ -89,7 +89,7 @@ qui signifie \td{appartenant à}. Utilisé comme n'importe quel adjectif
 dans une \PPJ, il se place en tête, est invariable, et est normalement 
 suivi du complément indiquant le possesseur, puis du sujet de la 
 proposition (l'élément possédé), selon le schéma Prédicat-Sujet des 
-\PPJ[s] (voir cours~\ref{prt:PPJ} du \titleref{bk:semestre2}).
+\PPJ[s] (voir \Pref{prt:PPJ} du \Bref{bk:semestre2}).
 
 \begin{center}
 \tl{n(y) \tll{A} \tll{B}}

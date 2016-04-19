@@ -1,5 +1,5 @@
 \documentclass[%
-  % draft, %
+  % draft,
   ngerman, english, french,
   hiero,
   coptic,
@@ -18,61 +18,43 @@
 ]{nefermemoir}
 
 \includeonly{%
-  % DULAEP_EG_S1_W00a,
-  % DULAEP_EG_S1_W00b,
   DULAEP_EG_S1_C00,
-  % DULAEP_EG_S1_W01a,
-  % DULAEP_EG_S1_W01b,
   DULAEP_EG_S1_C01,
-  % DULAEP_EG_S1_W02a,
-  % DULAEP_EG_S1_W02b,
   DULAEP_EG_S1_C02,
-  % DULAEP_EG_S1_W03,
   DULAEP_EG_S1_C03,
-  % DULAEP_EG_S1_W04,
   DULAEP_EG_S1_C04,
-  % DULAEP_EG_S1_W05,
   DULAEP_EG_S1_C05,
-  % DULAEP_EG_S1_W06,
   DULAEP_EG_S1_C06,
-  % DULAEP_EG_S1_W07,
   DULAEP_EG_S1_C07,
-  % DULAEP_EG_S1_W08,
   DULAEP_EG_S1_C08,
-  % DULAEP_EG_S1_W09,
   DULAEP_EG_S1_C09,
-  % DULAEP_EG_S1_W10,
   DULAEP_EG_S1_C10,
-  % DULAEP_EG_S1_W11,
   DULAEP_EG_S1_C11,
-  % DULAEP_EG_S1_W12,
   DULAEP_EG_S1_C12,
-  % DULAEP_EG_S2_W01,
   DULAEP_EG_S2_C01,
-  % DULAEP_EG_S2_W02,
   DULAEP_EG_S2_C02,
-  % DULAEP_EG_S2_W03,
   DULAEP_EG_S2_C03,
-  % DULAEP_EG_S2_W04,
   DULAEP_EG_S2_C04,
-  % DULAEP_EG_S2_W05,
   DULAEP_EG_S2_C05,
-  % DULAEP_EG_S2_W06,
   DULAEP_EG_S2_C06,
-  % DULAEP_EG_S2_W07,
   DULAEP_EG_S2_C07,
-  % DULAEP_EG_S2_W08,
   DULAEP_EG_S2_C08,
   DULAEP_EG_S2_C09,
-  DULAEP_EG_Anx_Prepositions,
-  DULAEP_EG_Anx_Phonologie,
-  DULAEP_EG_Anx_Determinatifs,
-  DULAEP_EG_Anx_Logogrammes,
-  DULAEP_EG_Anx_GardinerList,
+  DULAEP_EG_S2_C10,
+  DULAEP_EG_S2_C11,
+  DULAEP_EG_S2_C12,
+  % DULAEP_EG_Anx_Uniliteres,
+  % DULAEP_EG_Anx_Prepositions,
+  % DULAEP_EG_Anx_Phonologie,
+  % DULAEP_EG_Anx_Determinatifs,
+  % DULAEP_EG_Anx_Logogrammes,
+  % DULAEP_EG_Anx_GardinerList,
 }
 
 \usepackage{xfrac}
 \usepackage{multicol}
+\usepackage[inline]{enumitem}
+\usepackage[export]{adjustbox}
 \usepackage{rotating}
 \usepackage{tipa}
 \usepackage[object=vectorian]{pgfornament}
@@ -122,6 +104,13 @@
 % Pointillés dans la TOC
 \renewcommand{\cftpartdotsep}{18}
 \renewcommand{\cftsectiondotsep}{9}
+
+
+\AtBeginDocument{%
+  \renewcommand{\partname}{Cours}
+  \renewcommand{\partrefname}{cours~}
+  \renewcommand{\bookrefname}{semestre~}
+}
 
 
 % \tikzset{pgfornamentstyle/.style={%
@@ -237,6 +226,7 @@
 \renewcommand{\PPA}[1][]{Proposition#1 à prédicat adverbial\xspace}
 \newcommand{\PPN}[1][]{Proposition#1 à prédicat nominal\xspace}
 \newcommand{\PPV}[1][]{Proposition#1 à prédicat pseudo-verbal\xspace}
+\newcommand{\PPB}[1][]{Proposition#1 à prédicat verbal\xspace}
 \newcommand{\PPJ}[1][]{Proposition#1 à prédicat adjectival\xspace}
 
 \newcommand{\citeauthortitle}[2][]{%
@@ -526,55 +516,34 @@
 % \addcontentsline{toc}{book}{Semestre~1}
 % \book*{Semestre~1}\label{bk:semestre1}
 \book{Semestre~1}\label{bk:semestre1}
-% \include{DULAEP_EG_S1_W00a}
-% \include{DULAEP_EG_S1_W00b}
 \include{DULAEP_EG_S1_C00}
-% \include{DULAEP_EG_S1_W01a}
-% \include{DULAEP_EG_S1_W01b}
 \include{DULAEP_EG_S1_C01}
-% \include{DULAEP_EG_S1_W02a}
-% \include{DULAEP_EG_S1_W02b}
 \include{DULAEP_EG_S1_C02}
-% \include{DULAEP_EG_S1_W03}
 \include{DULAEP_EG_S1_C03}
-% \include{DULAEP_EG_S1_W04}
 \include{DULAEP_EG_S1_C04}
-% \include{DULAEP_EG_S1_W05}
 \include{DULAEP_EG_S1_C05}
-% \include{DULAEP_EG_S1_W06}
 \include{DULAEP_EG_S1_C06}
-% \include{DULAEP_EG_S1_W07}
 \include{DULAEP_EG_S1_C07}
-% \include{DULAEP_EG_S1_W08}
 \include{DULAEP_EG_S1_C08}
-% \include{DULAEP_EG_S1_W09}
 \include{DULAEP_EG_S1_C09}
-% \include{DULAEP_EG_S1_W10}
 \include{DULAEP_EG_S1_C10}
-% \include{DULAEP_EG_S1_W11}
 \include{DULAEP_EG_S1_C11}
-% \include{DULAEP_EG_S1_W12}
 \include{DULAEP_EG_S1_C12}
 % \addcontentsline{toc}{book}{Semestre~2}
 % \book*{Semestre~2}\label{bk:semestre2}
 \book{Semestre~2}\label{bk:semestre2}
-% \include{DULAEP_EG_S2_W01}
 \include{DULAEP_EG_S2_C01}
-% \include{DULAEP_EG_S2_W02}
 \include{DULAEP_EG_S2_C02}
-% \include{DULAEP_EG_S2_W03}
 \include{DULAEP_EG_S2_C03}
-% \include{DULAEP_EG_S2_W04}
 \include{DULAEP_EG_S2_C04}
-% \include{DULAEP_EG_S2_W05}
 \include{DULAEP_EG_S2_C05}
-% \include{DULAEP_EG_S2_W06}
 \include{DULAEP_EG_S2_C06}
-% \include{DULAEP_EG_S2_W07}
 \include{DULAEP_EG_S2_C07}
-% \include{DULAEP_EG_S2_W08}
 \include{DULAEP_EG_S2_C08}
 \include{DULAEP_EG_S2_C09}
+\include{DULAEP_EG_S2_C10}
+\include{DULAEP_EG_S2_C11}
+\include{DULAEP_EG_S2_C12}
 
 \appendix
 % \appendixpage
@@ -583,6 +552,7 @@
 \addcontentsline{toc}{book}{\appendixpagename}
 \book*{\appendixpagename}
 
+\include{DULAEP_EG_Anx_Uniliteres}
 \include{DULAEP_EG_Anx_Prepositions}
 \include{DULAEP_EG_Anx_Phonologie}
 \include{DULAEP_EG_Anx_Determinatifs}
