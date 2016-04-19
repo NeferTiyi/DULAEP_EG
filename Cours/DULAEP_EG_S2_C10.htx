@@ -6,8 +6,8 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 Le \Pref{prt:num} de ce semestre a été consacré aux nombres et à 
-l'expression de la date. Dans ce cours-ci nous aborderons quelques
-aspects complémentaires de la science des nombres égyptiennes. Dans 
+l'expression de la date. Dans ce cours-ci nous aborderons quelques 
+aspects complémentaires de la science des nombres égyptienne. Dans 
 un premier temps, nous aborderons la notation 
 \begin{enumerate*}[label=\arabic*)]
   \item des fractions, 
@@ -33,7 +33,7 @@ au-dessus d'un nombre.
 
 \begin{example}
   \begin{hieroglyph}r:1*1*1*1:3\end{hieroglyph} = 
-  \tl{r-7} = \sfrac{1}{7}.
+  \tl{r-7} = \td{\sfrac{1}{7}}.
 \end{example}
 
 Certaines fractions disposent d'une notation spécifique : 
@@ -50,7 +50,7 @@ Certaines fractions disposent d'une notation spécifique :
 ont \num{1} pour numérateur. Pour exprimer des fractions différentes, 
 les Égyptiens recouraient à une notation d'addition de fractions.
 
-La fraction la plus commune est \tl{gs} \td{un-demi}. Les autres 
+La fraction la plus commune est \tl{gs}, \td{un-demi}. Les autres 
 fractions se trouvent essentiellement dans les papyrus mathématiques 
 et dans les comptabilités.
 
@@ -91,8 +91,8 @@ passe à \SI{76.88}{\litre}. Le système numérique en liaison avec ces
 mesures de grain est aussi complexe, avec des particularités en 
 hiératique selon les époques. Je vous renvoie pour tout cela, 
 en cas de besoin, à la présentation succincte de \citeauthor{Allen} 
-(\citetitle[\ppno~129-130]{Allen}) et à la présentation de 
-\citeauthor{GM} (leçon~26).
+(\citetitle[129-130]{Allen}) et à la présentation de 
+\citeauthor[(leçon~26)]{GM}.
 
 Les textes hiératiques utilisent aussi pour les mesures de grain d'un 
 système de notation de fractions inférieure au héqat spécifique, formé 
@@ -109,7 +109,7 @@ dressé par \citeauthor{GM} (\fref{fig:oudjat_fractions}).
 \end{figure}
 
 \citeauthor{Allen} indique enfin que l'indication de 
-volume des liquides se fait essentiellement en \frquote{jarre} 
+volume des liquides se fait essentiellement en \td{jarre} 
 \begin{hieroglyph}d:z-W22\end{hieroglyph} \tl{ds}, ainsi qu'en 
 \begin{hieroglyph}h:n-nw-w-W22\end{hieroglyph} \tl{hnw} 
 (\SI{0.48}{\litre}.).
@@ -122,11 +122,10 @@ L'unité de base pour la longueur est la \emph{coudée}
 correspondant environ à \SI{52.5}{\cm}.
 Elle est divisées en :
 \begin{itemize}
-  \item \emph{doigt} \begin{hieroglyph}Dba\end{hieroglyph} 
-        \tl{Dba} (\SI{1.88}{\cm})
-  \item \emph{paume} \begin{hieroglyph}Ssp-p:iaH\end{hieroglyph}, 
-        \begin{hieroglyph}D48\end{hieroglyph} 
-        \tl{Ssp} (\SI{7.5}{\cm})
+  \item \begin{hieroglyph}Dba\end{hieroglyph} 
+        \tl{Dba}, \td{doigt} (\SI{1.88}{\cm})
+  \item \begin{hieroglyph}Ssp-p:iaH-+l, +s-D48\end{hieroglyph} 
+        \tl{Ssp}, \td{paume} (\SI{7.5}{\cm})
 \end{itemize}
 Elle possède les multiples suivants :
 \begin{itemize}
@@ -140,7 +139,7 @@ Elle possède les multiples suivants :
 \chapter{Mesures de superficie}
 % =====================================================================
 
-L'unité de base est l'\emph{aroure} 
+L'unité de base est \emph{l'aroure} 
 \begin{hieroglyph}sTA:t*t+l, +sS:1\end{hieroglyph} (\tl{sTA.t}) 
 de \SI{100}{coudées\squared} soit \SI{1}{khet\squared} 
 (\SI{0.28}{\hectare}).
@@ -156,15 +155,15 @@ d'après \citeauthor{GM}.
 
 Le principal multiple de l'aroure est : 
 \begin{hieroglyph}xA-tA:N23*1\end{hieroglyph} \tl{xA-tA} 
-\emph{déca-aroure} = \SI{10}{aroures} (\SI{2.73}{\hectare}).
+\td{déca-aroure} = \SI{10}{aroures} (\SI{2.73}{\hectare}).
 
 \chapter{Mesures de poids}
 % =====================================================================
 
 Le poids est mesuré en \emph{dében} 
 \begin{hieroglyph}F46:n:O39\end{hieroglyph} (\tl{dbn}), correspondant 
-à \SI{91}{grammes}. L'unité possède deux fractions : 
-\begin{hieroglyph}qd-t:O39\end{hieroglyph} \tl{od.t} \emph{quité} de 
+à \SI{91}{\g}. L'unité possède deux fractions : 
+\begin{hieroglyph}qd-t:O39\end{hieroglyph} \tl{od.t}, \td{quité} de 
 \SI[fraction-function=\sfrac,quotient-mode=fraction]{1/10}{deben} et 
 \begin{hieroglyph}S20-1:O39\end{hieroglyph} \tl{Snati} (\td{anneau}) 
 de \SI[fraction-function=\sfrac,quotient-mode=fraction]{1/12}{deben} 
@@ -197,29 +196,29 @@ Le panneau a trois parties :
 \noindent%
 \textbf{À gauche, la défunte,} surmontée de hiéroglyphes indiquant 
 son nom et ses titres : 
-(1)~\tl{sA.t-nsw Nfr.t-iAb.t} \td{la fille du roi Néfertiabet}. 
+\lgn{(1)} \tl{sA.t-nsw Nfr.t-iAb.t} \td{la fille du roi Néfertiabet}.\\
 Juste au-dessus de la table d'offrande : 
-(5)~\tl{obH.t, ia a.wy}, \td{libation d'eau fraîche et lavage 
+\lgn{(5)} \tl{obH.t, ia a.wy}, \td{libation d'eau fraîche et lavage 
 des mains}.
 
 \noindent%
 \textbf{Au centre, la table d'offrandes} entourés de hiéroglyphes 
-indiquant des biens offerts. De haut en bas : \\
-Section du haut : 
-(6)~\tl{snTr} (\td{encens}), \tl{hAt.t} (\td{onguent}), 
+indiquant des biens offerts. De haut en bas :\\
+\uline{Section du haut} :
+\lgn{(6)} \tl{snTr} (\td{encens}), \tl{hAt.t} (\td{onguent}), 
 \tl{wAD} (\td{fard vert}), \tl{smd.t} (\td{fard noir}), 
 \tl{db} (variante de \tl{dAbw} \td{figues}), 
-\tl{iSd} (\td{fruit de l'arbre-\emph{iched}}) ; \\
-Section en-dessous : 
-(7)~\tl{sxp.t} (\td{bière}), \tl{irp} (\td{vin}), 
+\tl{iSd} (\td{fruit de l'arbre-\emph{iched}}) ;\\
+\uline{Section en-dessous} :
+\lgn{(7)} \tl{sxp.t} (\td{bière}), \tl{irp} (\td{vin}), 
 \tl{nbs} (\td{fruit du jujubier}), 
 \tl{t-nbs} (\td{pain de fruit de jujubier}), 
-\tl{waH} (\td{tubercule de souchet}) ; \\
-À droite de la table et sous la table : 
-(2)~\tl{mnx.t Ss.t r(A) : xA} 
+\tl{waH} (\td{tubercule de souchet}) ;\\
+\uline{À droite de la table et sous la table} :
+\lgn{(2)} \tl{mnx.t Ss.t r(A) : xA} 
 (\td{tissu, albâtre, oie-\emph{ro} : mille}), 
-(3)~\tl{t Hno.t : xA} (\td{pain, bière : mille}), 
-(4)~\tl{smn, kA, nwDw : xA} (\td{oie, taureau et antilopes : mille}).
+\lgn{(3)} \tl{t Hno.t : xA} (\td{pain, bière : mille}), 
+\lgn{(4)} \tl{smn, kA, nwDw : xA} (\td{oie, taureau et antilopes : mille}).
 
 % À gauche, une liste d'offrande de pièces de tissus, avec 
 % systématiquement la même quantité : xA « mille ».
