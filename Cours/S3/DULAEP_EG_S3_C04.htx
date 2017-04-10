@@ -1,0 +1,263 @@
+%!TEX root = DULAEP_EG.htx
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\part[Fonctions circonstancielles]{Fonctions circonstancielles\\ 
+(\tl{sDm.n=f}, \tl{sDm=f} aoriste et formes prospectives)}
+\label{prt:S3_fct_circ}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\chapter{Introduction}
+% =====================================================================
+
+On a vu dans le cours précédent qu'une forme verbale peut-être dite en 
+\frquote{fonction circonstancielle}. Nous allons un peu plus explorer 
+cette question.
+
+Le verbe en égyptien ancien peut-être prédicat d'une phrase :
+On parle alors de \textbf{fonction prédicative du verbe}.
+
+Cette fonction prédicative du verbe se décline selon les différentes 
+positions du verbe dans une phrase :
+
+\begin{itemize}
+  \item \textbf{autonome} (une seule proposition/un seul verbe 
+        prédicatif).\\
+        \begin{example}[title={}]
+          *\begin{hieroglyph}
+            jw bA:k-A1 sDm-m f n nb*1:f
+          \end{hieroglyph}
+
+          \tll{*\tl{iw bAk sDm=f n nb=f}}
+
+          \td{*Le serviteur écoute son maître.}
+
+          \tg{prédicat verbal : aoriste}
+        \end{example}
+
+  \item \textbf{initiale} (la phrase a plusieurs propositions et le 
+        verbe est le 1\ier~prédicat de la phrase -- en gros = verbe 
+        principal).\\
+        \begin{example}[title={}]
+          *\begin{hieroglyph}
+            jw bA:k-A1 sDm-m f n nb*1:f
+            ir-i-i f n:f
+          \end{hieroglyph}
+
+          \tll{*\tl{iw bAk sDm=f n nb=f, iry=f n=f}}
+
+          \td{*Le serviteur écoute son maître, de sorte qu'il agisse 
+              pour lui.}
+
+          \tg{phrase initiale, prédicat verbal : aoriste ; 
+              phrase~2 séquentielle-circonstancielle, prédicat : 
+              subjonctif}
+        \end{example}
+
+  \item \textbf{position séquentielle, fonction séquentielle} 
+        (le verbe est en 2\ieme~position, 2\ieme~prédicat, et il est 
+        simplement interprété comme coordonné au premier).\\
+        \begin{example}[title={}]
+          *\begin{hieroglyph}
+            jw sDm-m-n bA:k-A1 n nb*1:f
+            ir:n:f n:f
+          \end{hieroglyph}
+
+          \tll{*\tl{iw sDm.n bAk n nb=f, iry.n=f n=f}}
+
+          \td{*Le serviteur a écouté son maître, et il a agi pour lui.}
+
+          \tg{phrase initiale, prédicat verbal : accompli ; 
+              phrase~2 séquentielle, prédicat : accompli \tl{sDm.n=f}}
+        \end{example}
+
+  \item \textbf{position séquentielle, fonction circonstancielle} 
+        (le verbe est en 2\ieme position, 2\ieme prédicat, mais il est 
+        traduit comme une proposition subordonnée circonstancielle 
+        \frquote{virtuelle}, car il n'y a pas de conjonction de 
+        subordination qui l'introduise).\\
+        \begin{example}[title={}]
+          *\begin{hieroglyph}
+            jw bA:k-A1 sDm-m f n nb*1:f
+            ir-i-i f n:f
+          \end{hieroglyph}
+
+          \tll{*\tl{iw bAk sDm=f n nb=f, iry=f n=f}}
+
+          \td{*Le serviteur écoute son maître, de sorte qu'il agisse 
+              pour lui.}
+
+          \tg{phrase initiale, prédicat verbal : aoriste ; 
+              phrase~2 circonstancielle virtuelle finale-consécutive, 
+              prédicat : subjonctif}
+        \end{example}
+\end{itemize}
+
+Le verbe peut aussi avoir des \textbf{fonctions dites 
+\frquote{substantives}} (en français \td{\emph{le fait que tu viennes} 
+me fait plaisir}). Voir \Pref{prt:S3_fct_subst}.
+
+Pour le moment, nous ne parlons que des fonctions prédicatives.
+\begin{itemize}
+  \item Pour l'accompli \tl{sDm.n=f}, nous avons vu : il peut être 
+        autonome, en position initiale ou séquentielle (verbe prédicat 
+        coordonné)
+  \item Pour l'aoriste \tl{sDm=f} : il peut être autonome et en 
+        position initiale (pas de fonction séquentielle)
+  \item Pour le prospectif/subjonctif, nous sommes plus avancés dans 
+        l'apprentissage ; nous avons vu : il peut être autonome, en 
+        position initiale, avoir une fonction séquentielle ou une 
+        fonction circonstancielle (finale consécutive -- pour les 
+        formes prospectives, les deux analyses reviennent en fait au 
+        même pour le sens de la phrase).
+\end{itemize}
+
+L'aoriste \tl{sDm=f} et l'accompli \tl{sDm.n=f} peuvent aussi avoir 
+une fonction circonstancielle : \td{alors qu'il écoute}, \td{alors 
+qu'il a écouté}.
+
+
+\chapter{L'accompli \tl{sDm.n=f}, fonction circonstancielle}
+% =====================================================================
+
+\section{Fonction séquentielle} (cf. \Pref{prt:S3_accompli})
+% ---------------------------------------------------------------------
+En position séquentielle, l'accompli \tl{sdm.n=f} exprime généralement 
+une suite d'événement, à la fois logique et chronologique.
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    gm-m sw-W wp-p-W-tyw-D54:3 Hr-1 wA-A-t:N31-!
+    pH-D54:n s-n:3 sw-W r t:r-tr-ra n xA-A-W:y-N2
+  \end{hieroglyph}
+
+  \tl{gm sw wpwty.w Hr wA.t\\pH.n=sn sw r tr n(y) xAwy}
+  \infos{\CdS R\,19--20}
+
+  \tg{Proposition~1 : \tl[Gramm]{sDm=f} perfectif (forme verbale que 
+      nous n'avons pas encore étudiée, qui est un accompli et n'est 
+      jamais précédé de \tl[Gramm]{iw})}
+
+  \tg{Proposition~2 : accompli \tl[Gramm]{sDm.n=f} en fonction 
+      séquentielle}
+
+  \td{Les messagers le trouvèrent sur le chemin, \textbf{et} ils 
+      l'atteignirent au moment de la nuit.}
+\end{example}
+
+\section{Fonction circonstancielle}
+% ---------------------------------------------------------------------
+À l'inverse, dans les circonstancielles virtuelles, la forme verbale 
+exprime plutôt une antériorité.
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    D:\!\!d\s2 z:\!A1\s1 r*1 p:n wab-mw n:f sw-w
+  \end{hieroglyph}
+
+  \tl{Dd s r(A) pn, wab.n=f sw}
+  \infos{\LdM, 125}
+
+  \tg{Initiale = subjonctif ; séquentielle fonction circonstancielle = 
+      accompli \tl[Gramm]{sDm.n=f}}
+
+  \td{Qu'un homme dise cette formule, lorsqu'il se sera purifié.}
+
+  Noter la traduction du \tl[black]{sDm.n=f}\ \ ici par un futur 
+  antérieur (accompli envisagé dans le futur).
+\end{example}
+
+
+\chapter{L'aoriste \tl{sDm=f}, fonction circonstancielle}
+% =====================================================================
+
+L'aoriste peut être une forme verbale séquentielle, après une initiale 
+avec une valeur de circonstancielle virtuelle. Dans ce cas de figure, 
+elle marque la simultanéité avec l'action qui précède.
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    mw m i-t:r-W-s:3 s-wr-r:t-A2 f mr:r-A2 k
+  \end{hieroglyph}
+
+  \tl{mw itrw swr.t(w)=f, mr=k}\\
+  \infos{\cite[ex.~1003]{MW}, \CdS B\,233--234}
+
+  \tg{Initiale (exclamative) \tl[Gramm]{sDm=f} aoriste passif, et 
+      aoriste en fonction séquentielle.}
+
+  \td{L'eau du fleuve est bue, quand tu veux.}
+\end{example}
+
+
+\chapter{Le subjonctif \tl{sDm=f}, fonction circonstancielle}
+% =====================================================================
+
+Voir cours précédent, le~\ref{prt:S3_prospectif}.
+
+\begin{remarque}[Rappel]
+  Le subjonctif en position séquentielle se traduit par \td{de sorte 
+  que + subjonctif}.
+\end{remarque}
+
+
+\chapter{Excursus : que sont les circonstancielles véritables ?}
+% =====================================================================
+
+Nous venons de voir que trois formes verbales (l'accompli 
+\tl{sDm.n=f}, l'aoriste \tl{sDm=f} et le subjonctif \tl{sDm=f}) 
+peuvent, à côté de leur emploi prédicatif comme verbe initial, 
+être utilisé en position séquentielle, mais avec valeur de 
+\frquote{\uline{circonstancielle virtuelle}}. Nous sommes bien 
+d'accord qu'il n'y a pas de marque grammaticale particulière 
+écrite qui signale cette fonction.
+C'est à vous de la déterminer à l'analyse de la phrase.
+
+Qu'est-ce qu'alors une \frquote{circonstancielle véritable ou 
+réelle} ? Dans les manuels de grammaire égyptienne (par exemple 
+\citeauthor{MW}), une \frquote{circonstancielle véritable} est 
+une proposition (dépendante d'une proposition principale) qui 
+est \uline{introduite} par une conjonction de subordination.
+
+Il existe toute une série de conjonction de subordination en égyptien 
+ancien. En général, il s'agit de prépositions qui prennent un sens 
+particulier suivi d'une forme verbale.
+Par exemple, la préposition \begin{hieroglyph}r\end{hieroglyph} \tl{r} 
+(\td{vers}) peut avoir le sens de \td{pour que}, \td{dans le but que}.
+Et elle peut être suivie du subjonctif.
+
+Nous reparlerons (très brièvement) des propositions circonstancielles 
+\frquote{véritables} quand nous aborderons les \textbf{fonctions 
+substantives des verbes} dans le cours prochain (parce que, dans les 
+grammaires de référence, le verbe introduit par une conjonction de 
+subordination est classé dans les fonctions substantives. Nous verrons 
+pourquoi plus tard.)
+
+Nous reviendrons aussi plus longuement que les propositions 
+subordonnées circonstancielles véritables en semestre~2. 
+L'apprentissage des circonstancielles véritables est en fait très 
+simple. Il suffit de repérer et connaître quelques conjonctions de 
+subordination, puis de savoir quelles formes verbales sont utilisées 
+derrière ces conjonctions selon le temps et l'aspect requis (il y a 
+des règles simples et précises). Mais nous verrons cela le moment 
+venu, car pour pouvoir traduire toutes les circonstancielles 
+véritables, il faut connaître plus de formes verbales, notamment 
+les formes verbales qui sont spécialisées dans des emplois dans 
+les phrases dépendantes d'une phrase principale.
+
+Pour le moment, vous connaissez trois formes verbales, qui peuvent 
+être utilisés dans des propositions principales.
+
+Pour les plus pressés, vous pouvez toujours voir de quoi ont l'air 
+les conjonction de subordination dans la leçon~36 du \citetitle{GM} 
+de \citeauthor{GM}. Pour les autres, attendons le semestre prochain 
+(ou l'occasion de certains exemples du cours).
+
+\bigskip
+
+\begin{exercice}[before upper={\centering}]
+  C'est tout pour aujourd'hui ! Vous pouvez en profiter pour tout 
+  relire depuis le cours~1 et vous faire une synthèse personnelle sur 
+  les emplois possibles des trois formes verbales que nous avons vu.
+
+  Et bien sûr \textbf{les exercices} !
+\end{exercice}

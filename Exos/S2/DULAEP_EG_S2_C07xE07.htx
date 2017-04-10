@@ -1,0 +1,89 @@
+%!TEX root = DULAEP_EG.htx
+%##HieroDef.txt
+
+\chapter*{Exercice~7}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{Translittérer et traduire les extraits suivants de la 
+  stèle de Méry (Louvre \inv{C\,3})}
+
+  \begin{parts}
+    \part Cintre : lignes 1 à 3 (jusqu'à la barre oblique uniquement)
+
+    \includegraphics[width=\linewidth]{Louvre_C3_1}
+
+    \begin{solution}
+      \tl{%
+        \lgn{1} rnp.t-sp 9, Abd 2 n(y) Ax.t sw 20, \lgn{2} xr Hm n(y) 
+        @r anx-ms.wt, nb.ty anx-ms.wt, nsw-bity \#pr-kA-Ra 
+        \lgn{3} sA-Ra \%-n-Wsr.t anx(.w) mi Ra D.t%
+      }
+
+      \td{%
+        \lgn{1} L'an 9, le 2\ieme~mois de la saison Akhet, le jour 20, 
+        \lgn{2} sous la majesté de l'Horus Ânkhmesout, 
+        les Deux-maîtresses Ânkhmesout, le roi de \HBE Khéperkarê. 
+        \lgn{3} le fils de Rê Sénousret/Sésostris, vivant comme Rê à 
+        jamais.%
+      }
+    \end{solution}
+
+    \part Registre inférieur : Les légendes des personnages assis 
+    sur un siège : section 1 (entre les crochets), 2 et 3 (entre les 
+    crochets).
+
+    \includegraphics[width=\linewidth]{Louvre_C3_2}
+
+    \begin{solution}
+      \lgn{1} \tl{n imAx @r ms.n @nw.t}, 
+      \td{pour le vénérable Hor qu'a mis au monde Hénout}
+
+      \lgn{2} \tl{Hm.t=f mr.t=f imAx.t Mnxw.t mAa.t-xrw}, 
+      \td{son épouse, son aimée, la vénérable Menkhout juste-de-voix}
+
+      \lgn{3} \tl{imAx xtmw Xr-a Mry ms.n Mnx.wt}, 
+      \td{le vénérable scelleur adjoint Méry, qu'a mis au monde 
+      Menkhout}
+    \end{solution}
+  \end{parts}
+\end{questions}
+
+\subsection*{Vocabulaire}
+\subsubsection*{Les noms de Sésostris~I\ier, \dyn{12}}
+\begin{multicols}{2}
+\begin{itemize}
+  \item \begin{hieroglyph}<-ra-kA-xpr->\end{hieroglyph} 
+        \tl{\#pr-kA-Ra}, \td{Khéperkarê}\\
+  \item \begin{hieroglyph}<-wsr-s-r*t:z:n->\end{hieroglyph} 
+        \tl{\%-n(y)-Wsr.t}, \td{Sénousret} (\td{Sésostris})
+  \item \begin{hieroglyph}anx-ms-t:Z3\end{hieroglyph} 
+        \tl{anx-ms.wt}, \td{Ânkhmésout}
+\end{itemize}
+\end{multicols}
+
+\subsubsection*{Anthroponymes}
+\begin{multicols}{2}
+\begin{itemize}
+  \item \begin{hieroglyph}mn:n-x:t-mnx:3-B1\end{hieroglyph} 
+        \tl{Mnxw.t}, \td{Menkhout}
+  \item \begin{hieroglyph}mr-r:i*i-A1\end{hieroglyph} 
+        \tl{Mry}, \td{Méry}
+  \item \begin{hieroglyph}H-Hn-w:t-H8:3\end{hieroglyph} 
+        \tl{@nw.t}, \td{Hénout}
+  \item \begin{hieroglyph}G5-A1\end{hieroglyph} 
+        \tl{@r}, \td{Hor}
+\end{itemize}
+\end{multicols}
+
+\subsubsection*{Autres}
+\begin{multicols}{2}
+\begin{itemize}
+  \item \begin{hieroglyph}xtm-1-w-Xr:r-a:1\end{hieroglyph} 
+        \tl{xtmw Xr-a}, \td{scelleur adjoint} (titre)
+  \item \begin{hieroglyph}mr-r:t\end{hieroglyph} 
+        \tl{mr.t}, \td{l'aimée}
+  \item \begin{hieroglyph}N41:t-B1\end{hieroglyph} 
+        \tl{Hm.t}, \td{épouse}
+\end{itemize}
+\end{multicols}

@@ -1,0 +1,214 @@
+%!TEX root = DULAEP_EG.htx
+%##HieroDef.txt
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\phantomsection
+\addcontentsline{toc}{part}{Unitilères}
+\part*{Unitilères}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+{
+La connaissances des formes des lettres cursives passe par une 
+reconnaissance visuelle du graphème, mais aussi par la mémoire du 
+geste du tracé. Dans l'apprentissage du hiératique, il est important 
+de s'entrainer à former les signes. 
+Voici une première approche pour mémoriser la forme des signes 
+unilitères en hiératique. Reproduisez le signe à plusieurs reprises 
+sur la ligne correspondante. N'oubliez pas que le hiératique se lit 
+toujours de droite à gauche. Un sens de tracé vous est proposé. La 
+main va généralement du haut vers le bas. En couleur différente est 
+notée la deuxième séquence du tracé.
+
+Les signes hiératiques peuvent parfois être ligaturés (attachés). 
+La ligature n'est pas systématique. Le nombre de ligatures dépend 
+du degré de cursivité du texte. Ces ligatures rendent la lecture du 
+hiératique difficile au premier abord. Vous pouvez aussi habituer 
+votre main à ces ligatures.
+
+\subsection*{Petit exercice}
+% ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+\bigskip
+
+\noindent%
+\begin{minipage}[b]{1.5cm}
+  \vspace{0pt}
+  \includegraphics[width=1.5cm]{hiera_A1}
+\end{minipage}%
+\hfill%
+\begin{minipage}[b]{\textwidth-1.6cm}
+
+  \hfill%
+  \parbox{0.9\textwidth}{Essayez de traduire en hiératique la phrase 
+  suivante :\\
+  \qquad\td{Je suis avec toi.}\\
+  (solution page suivante).}
+
+  \vspace{1.2cm}
+
+  {\itshape%
+    Forme de l'homme assis en hiératique : 
+    au-dessus forme développée ; 
+    au-dessous forme abrégée plus fréquente.%
+  }%
+\end{minipage}%
+
+\begin{remarque}
+  Les signes hiératiques sont aussi disposés en cadrats. Si un 
+  cadrat ne comporte qu'un seul signe, celui-ci se place au niveau 
+  de la ligne d'écriture, et non au centre du cadrat.
+\end{remarque}
+
+\newpage
+
+\renewcommand\tabularxcolumn[1]{m{#1}}
+\noindent%
+\begin{tabularx}{\textwidth}{>{\RaggedLeft}Xcc}
+  \toprule
+    \textbf{Tracé} & \textbf{Hiératique} & \textbf{Signe}
+  \tabularnewline
+  \otoprule
+    \includegraphics[scale=0.2, valign=m]{hiera_unilit_01_A1_tr} & 
+    \includegraphics[scale=0.3, valign=m]{hiera_unilit_01_A1} & 
+    \begin{hieroglyph}A\ \end{hieroglyph}
+  \tabularnewline
+    \includegraphics[scale=0.2, valign=m]{hiera_unilit_01_A2_tr} & 
+    \includegraphics[scale=0.3, valign=m]{hiera_unilit_01_A2} & 
+    \smaller forme abrégée
+  \tabularnewline
+    \includegraphics[scale=0.2, valign=m]{hiera_unilit_02_i_tr} & 
+    \includegraphics[scale=0.1, valign=m]{hiera_unilit_02_i} & 
+    \begin{hieroglyph}i\ \end{hieroglyph}
+  \tabularnewline
+     & 
+    \includegraphics[scale=0.1, valign=m]{hiera_unilit_02_y1} & 
+    \begin{hieroglyph}i\ i\ \end{hieroglyph}
+  \tabularnewline
+    \includegraphics[scale=0.2, valign=m]{hiera_unilit_02_Y2_tr} & 
+    \includegraphics[scale=0.1, valign=m]{hiera_unilit_02_Y2} & 
+    \begin{hieroglyph}y\ \end{hieroglyph}
+  \tabularnewline
+    \includegraphics[scale=0.2, valign=m]{hiera_unilit_03_a_tr} & 
+    \includegraphics[scale=0.1, valign=m]{hiera_unilit_03_a} & 
+    \begin{hieroglyph}a\ \end{hieroglyph}
+  \tabularnewline
+    \includegraphics[scale=0.2, valign=m]{hiera_unilit_04_w1_tr} & 
+    \includegraphics[scale=0.3, valign=m]{hiera_unilit_04_w1} & 
+    \begin{hieroglyph}w\ \end{hieroglyph}
+  \tabularnewline
+    \includegraphics[scale=0.2, valign=m]{hiera_unilit_04_W2_tr} & 
+    \includegraphics[scale=0.3, valign=m]{hiera_unilit_04_W2} & 
+    \begin{hieroglyph}W\ \end{hieroglyph}
+  \tabularnewline
+    \includegraphics[scale=0.2, valign=m]{hiera_unilit_05_b_tr} & 
+    \includegraphics[scale=0.1, valign=m]{hiera_unilit_05_b} & 
+    \begin{hieroglyph}b\ \end{hieroglyph}
+  \tabularnewline
+    \includegraphics[scale=0.2, valign=m]{hiera_unilit_06_p_tr} & 
+    \includegraphics[scale=0.3, valign=m]{hiera_unilit_06_p} & 
+    \begin{hieroglyph}p\ \end{hieroglyph}
+  \tabularnewline
+    \includegraphics[scale=0.2, valign=m]{hiera_unilit_07_f_tr} & 
+    \includegraphics[scale=0.3, valign=m]{hiera_unilit_07_f} & 
+    \begin{hieroglyph}f\ \end{hieroglyph}
+  \tabularnewline
+    \includegraphics[scale=0.2, valign=m]{hiera_unilit_08_m1_tr} & 
+    \includegraphics[scale=0.1, valign=m]{hiera_unilit_08_m1} & 
+    \begin{hieroglyph}m\ \end{hieroglyph}
+  \tabularnewline
+    \includegraphics[scale=0.2, valign=m]{hiera_unilit_08_m2_tr} & 
+    \includegraphics[scale=0.1, valign=m]{hiera_unilit_08_m2} & 
+    \smaller forme abrégée
+  \tabularnewline
+    \includegraphics[scale=0.2, valign=m]{hiera_unilit_09_n_tr} & 
+    \includegraphics[scale=0.1, valign=m]{hiera_unilit_09_n} & 
+    \begin{hieroglyph}n\ \end{hieroglyph}
+  \tabularnewline
+    \includegraphics[scale=0.2, valign=m]{hiera_unilit_10_r_tr} & 
+    \includegraphics[scale=0.1, valign=m]{hiera_unilit_10_r} & 
+    \begin{hieroglyph}r\ \end{hieroglyph}
+  \tabularnewline
+    \includegraphics[scale=0.2, valign=m]{hiera_unilit_11_h_tr} & 
+    \includegraphics[scale=0.3, valign=m]{hiera_unilit_11_h} & 
+    \begin{hieroglyph}h\ \end{hieroglyph}
+  \tabularnewline
+    \includegraphics[scale=0.2, valign=m]{hiera_unilit_12_H_tr} & 
+    \includegraphics[scale=0.1, valign=m]{hiera_unilit_12_H} & 
+    \begin{hieroglyph}H\ \end{hieroglyph}
+  \tabularnewline
+    \includegraphics[scale=0.2, valign=m]{hiera_unilit_13_x_tr} & 
+    \includegraphics[scale=0.1, valign=m]{hiera_unilit_13_x} & 
+    \begin{hieroglyph}x\ \end{hieroglyph}
+  \tabularnewline
+    \includegraphics[scale=0.2, valign=m]{hiera_unilit_14_X_tr} & 
+    \includegraphics[scale=0.3, valign=m]{hiera_unilit_14_X} & 
+    \begin{hieroglyph}X\ \end{hieroglyph}
+  \tabularnewline
+    \includegraphics[scale=0.2, valign=m]{hiera_unilit_15_z_tr} & 
+    \includegraphics[scale=0.1, valign=m]{hiera_unilit_15_z} & 
+    \begin{hieroglyph}z\ \end{hieroglyph}
+  \tabularnewline
+    \includegraphics[scale=0.2, valign=m]{hiera_unilit_15_s_tr} & 
+    \includegraphics[scale=0.1, valign=m]{hiera_unilit_15_s} & 
+    \begin{hieroglyph}s\ \end{hieroglyph}
+  \tabularnewline
+    \includegraphics[scale=0.2, valign=m]{hiera_unilit_16_S_tr} & 
+    \includegraphics[scale=0.1, valign=m]{hiera_unilit_16_S} & 
+    \begin{hieroglyph}S\ \end{hieroglyph}
+  \tabularnewline
+    \includegraphics[scale=0.2, valign=m]{hiera_unilit_17_q_tr} & 
+    \includegraphics[scale=0.1, valign=m]{hiera_unilit_17_q} & 
+    \begin{hieroglyph}q\ \end{hieroglyph}
+  \tabularnewline
+    \includegraphics[scale=0.2, valign=m]{hiera_unilit_18_k_tr} & 
+    \includegraphics[scale=0.3, valign=m]{hiera_unilit_18_k} & 
+    \begin{hieroglyph}k\ \end{hieroglyph}
+  \tabularnewline
+    \includegraphics[scale=0.2, valign=m]{hiera_unilit_19_g_tr} & 
+    \includegraphics[scale=0.3, valign=m]{hiera_unilit_19_g} & 
+    \begin{hieroglyph}g\ \end{hieroglyph}
+  \tabularnewline
+    \includegraphics[scale=0.2, valign=m]{hiera_unilit_20_t_tr} & 
+    \includegraphics[scale=0.3, valign=m]{hiera_unilit_20_t} & 
+    \begin{hieroglyph}t\ \end{hieroglyph}
+  \tabularnewline
+    \includegraphics[scale=0.2, valign=m]{hiera_unilit_21_T_tr} & 
+    \includegraphics[scale=0.1, valign=m]{hiera_unilit_21_T} & 
+    \begin{hieroglyph}T\ \end{hieroglyph}
+  \tabularnewline
+    \includegraphics[scale=0.2, valign=m]{hiera_unilit_22_d_tr} & 
+    \includegraphics[scale=0.3, valign=m]{hiera_unilit_22_d} & 
+    \begin{hieroglyph}d\ \end{hieroglyph}
+  \tabularnewline
+    \includegraphics[scale=0.2, valign=m]{hiera_unilit_23_D_tr} & 
+    \includegraphics[scale=0.4, valign=m]{hiera_unilit_23_D} & 
+    \begin{hieroglyph}D\ \end{hieroglyph}
+  \tabularnewline
+  \bottomrule
+\end{tabularx}
+
+
+\noindent%
+\begin{tabularx}{\textwidth}{>{\RaggedLeft}Xc}
+  \toprule
+    \multicolumn{2}{r}{\textbf{Ligatures}}
+  \tabularnewline
+  \otoprule
+    \includegraphics[scale=0.3, valign=m]{hiera_unilit_ma} &
+    \reflectbox{\begin{hieroglyph}m:\!a\end{hieroglyph}}
+  \tabularnewline
+    \includegraphics[scale=0.3, valign=m]{hiera_unilit_na} &
+    \reflectbox{\begin{hieroglyph}n:k'\end{hieroglyph}}
+  \tabularnewline
+    \includegraphics[scale=0.3, valign=m]{hiera_unilit_nk} &
+    \reflectbox{\begin{hieroglyph}n:a\end{hieroglyph}}
+  \tabularnewline
+  \bottomrule
+\end{tabularx}
+
+\bigskip
+
+\subsection*{Solution de l'exercice}
+% ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+\includegraphics[height=1.2cm, valign=m]{hiera_unilit_exo}
+\reflectbox{\begin{hieroglyph}i-W A1 H-n:a .:k'\end{hieroglyph}}
+
+}

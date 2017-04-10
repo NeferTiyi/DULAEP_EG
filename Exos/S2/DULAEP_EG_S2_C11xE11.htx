@@ -1,0 +1,107 @@
+%!TEX root = DULAEP_EG.htx
+%##HieroDef.txt
+
+\chapter*{Exercice~11}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{Translittérer et traduire la totalité des cinq 
+  colonnes ci-dessous :}
+
+  \begin{center}
+    \begin{tikzpicture}
+      \node [anchor=south west, inner sep=0] (image) at (0,0) 
+        {\includegraphics[width=0.4\textwidth]{Allen_AmenhotepIII}} ;
+      \begin{scope}[
+        x={(image.south east)},
+        y={(image.north west)},
+      ]
+        \node at (0.08, 1.01) {\lgn{3}} ;
+        \node at (0.27, 1.01) {\lgn{2}} ;
+        \node at (0.45, 1.01) {\lgn{1}} ;
+        \node at (0.59, 1.01) {\lgn{4}} ;
+        \node at (0.72, 1.01) {\lgn{5}} ;
+      \end{scope}
+    \end{tikzpicture}
+  \end{center}
+
+  \begin{solution}
+    \lgn{1} \tl{di.n(=i) n=k anx (nb) wAs nb Aw.t-ib nb ra-nb}\\
+    \td{Je t'ai donné toute vie, tout pouvoir, toute joie chaque jour.}
+
+    \lgn{2} \tl{imn}, \td{Amon}
+
+    \lgn{3} \tl{Dd mdw di.n(=i) n=k nsy.t Ra Htp.wt nb DfAw nb snb nb 
+    mi Ra D.t}\\
+    \td{Dire les paroles : je t'ai donné la royauté de Rê, toutes 
+    les offrandes, toutes les provisions, toute santé comme Rê 
+    éternellement.}
+
+    \lgn{4-5} \tl{nsw-bity nb tA.wy nb xa.w Nb-mAa.t-Ra sA Ra n(y) 
+    X.t=f mr(y)=f imn-Htp(.w) HqA wAs.t}\\
+    \td{Le roi de \HBE, le seigneur du Double-Pays, le seigneur 
+    des apparitions Nebmaâtrê, le fils charnel de Rê, aimé de lui 
+    Amenhotep héqa ouaset (souverain de Thèbes).}
+  \end{solution}
+
+  \subsection*{Vocabulaire}
+  \begin{multicols}{2}
+  \begin{itemize}
+    \item \begin{hieroglyph}Aw:\!t-ib-Y1v\end{hieroglyph} 
+          \tl{Aw.t-ib}, \td{joie}
+    \item \begin{hieroglyph}wAs\end{hieroglyph} 
+          \tl{wAs}, \td{pouvoir}
+    \item \begin{hieroglyph}
+            sw-t:n-i-i-d-Y1:3 +l\ ou\ +s sw-i-i-t:Y1
+          \end{hieroglyph} 
+          \tl{nsy.t}, \td{royauté}
+    \item \begin{hieroglyph}Htp:t*p-t:X4:3\end{hieroglyph} 
+          \tl{Htp.wt}, \td{offrandes}
+    \item \begin{hieroglyph}D:\!f-G42:3\end{hieroglyph} 
+          \tl{DfAw}, \td{provisions}, \td{nourritures}
+    \item \begin{hieroglyph}s-n:b-Y1\end{hieroglyph} 
+          \tl{snb}, \td{santé}
+  \end{itemize}
+  \end{multicols}
+
+  \question\qfmt{Translittérer et traduire cette partie du linteau de 
+  Sésostris~III (Médamoud) conservée au musée du Louvre (détail de la 
+  moitié gauche), colonnes~1 à~5 (colonne~4 seulement jusqu'aux 
+  pointillés).}
+
+  \renewcommand{\insertimg}{%
+    \includegraphics[width=8cm]{Louvre_E13983_gauche2}%
+  }
+  \settowidth{\graphicwidth}{\insertimg}
+  \begin{minipage}[m]{\graphicwidth}
+    \insertimg%
+  \end{minipage}%
+  \hfill%
+  \begin{minipage}[m]{\linewidth-(\graphicwidth+7mm)}
+    La colonne~6 est une légende de l'action du roi : 
+
+    \tl{sor t-HD}, \td{présenter le pain-blanc}
+
+    (\begin{hieroglyph}s-q:r-Aa7:T2\end{hieroglyph} 
+    \tl{sor}, \td{frapper})
+  \end{minipage}
+
+  \bigskip
+
+  \begin{solution}
+
+    \tl{\lgn{1} Dd mdw : di.n(=i) n=k \lgn{2} /Dd mdw/ anx nb wAs nb}\\
+    \td{\lgn{1} Dire les paroles : je t'ai donné \lgn{2} toute vie et 
+    tout pouvoir.} (dans cette colonne \tl{Dd mdw} est seulement 
+    décoratif)
+
+    \lgn{3} \tl{MnTw} \td{Montou}
+
+    \tl{\lgn{5} Dd mdw : di.n(=i) n=k snb nb Aw.t-ib nb mi Ra}\\
+    \td{Dire les paroles : je t'ai donné toute santé, toute joie 
+    comme Rê.}
+
+    \tl{\lgn{6} sor t-HD}\\
+    \td{Consacrer le pain-blanc}
+  \end{solution}
+\end{questions}

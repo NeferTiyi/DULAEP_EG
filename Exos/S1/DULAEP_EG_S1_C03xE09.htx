@@ -1,0 +1,59 @@
+%!TEX root = DULAEP_EG.htx
+%##HieroDef.txt
+
+\chapter*{Exercice~9 --- Genre et nombre}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{Translittérer et traduire}
+
+  \begin{multicols}{2}
+  \begin{parts}
+    \part
+    \begin{hieroglyph}ib-1:3\end{hieroglyph}
+    \begin{solution}
+      \tl{ib.w}, \td{les c{\oe}urs}
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}N41:t-B1-B1-B1\end{hieroglyph}
+    \begin{solution}
+      \tl{Hm.wt}, \td{les épouses}
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}bA:k-W-A1:3\end{hieroglyph}
+    \begin{solution}
+      \tl{bAk.w}, \td{les serviteurs}
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}tA:tA\end{hieroglyph}
+    \begin{solution}
+      \tl{tA.wy}, \td{le Double-Pays} (l'\kmt)
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}HqA-q-A1-A1\end{hieroglyph}
+    \begin{solution}
+      \tl{HoA.wy}, \td{les deux souverains}
+    \end{solution}
+  \end{parts}
+  \end{multicols}
+\end{questions}
+
+\subsection*{Vocabulaire}
+\begin{multicols}{2}
+\begin{itemize}
+  \item \begin{hieroglyph}ib-1\end{hieroglyph} 
+        \tl{ib}, \td{c{\oe}ur}, \td{conscience}
+  \item \begin{hieroglyph}bA:k-A1\end{hieroglyph} 
+        \tl{bAk}, \td{serviteur}
+  \item \begin{hieroglyph}N41:t-B1\end{hieroglyph} 
+        \tl{Hm.t}, \td{femme}, \td{épouse}
+  \item \begin{hieroglyph}HqA-q-A-A1\end{hieroglyph} 
+        \tl{HqA}, \td{souverain}
+  \item \begin{hieroglyph}tA:N23*1\end{hieroglyph} 
+        \tl{tA}, \td{terre}, \td{pays}
+\end{itemize}
+\end{multicols}

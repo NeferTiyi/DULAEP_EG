@@ -1,0 +1,100 @@
+%!TEX root = DULAEP_EG.htx
+%##HieroDef.txt
+
+\chapter*{Exercice~4}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{Translittérer, analyser (grammaticalement) et 
+  traduire les propositions suivantes}
+
+  \begin{parts}
+    \part
+    \begin{hieroglyph}wn:n T m nTr-1 wnn T m nTr-1\end{hieroglyph}
+    \begin{solution}
+      \tl{wn=T m nTtr. wnn=T m nTr} ---
+      \td{Tu étais un dieu. Tu seras un dieu.} ---
+      Deux propositions à prédicat adverbial avec \frquote{\tl{m} 
+      d'état} introduite par des convertisseurs temporels (passé et 
+      futur).
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}ink-A1 wHm-m-w i-q:r-Y1\end{hieroglyph}
+    \begin{solution}
+      \tl{ink wHm ior} ---
+      \td{Tu es un héraut excellent} ---
+      Proposition à prédicat nominal.
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}C1 pw D-s-f\end{hieroglyph}
+    \begin{solution}
+      \tl{Ra pw Ds=f} ---
+      \td{C'est Rê lui-même.} ---
+      Proposition à prédicat nominal (type \tll{A \tl{pw} suite de A})
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}U4-a:t-Y1 pw\end{hieroglyph}
+    \begin{solution}
+      \tl{mAa.t pw} ---
+      \td{C'est la vérité.} ---
+      Proposition à prédicat nominal (type \tll{A \tl{pw}})
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}
+      HqA-q-A p*W:n r:T-n:nw*W-T14-pA'-xAst Hr:r-t:pt
+    \end{hieroglyph}
+    \begin{solution}
+      \tl{HoA pw n(y) RTnw Hr(y).t} ---
+      \td{C'est le souverain du Rétenou supérieur.} ---
+      Proposition à prédicat nominal (type \tll{A \tl{pw} suite de A})
+    \end{solution}
+  \end{parts}
+
+  \question\qfmt{Traduire en en joignant aux hiéroglyphes la 
+  translittération}
+
+  \begin{parts}
+    \part\td{Je suis dans la position d'un dieu.}
+    \begin{solution}
+      \begin{hieroglyph}jw A1 m nTr-1\end{hieroglyph}\quad
+      \tl{iw=i m nTr}
+    \end{solution}
+
+    \part\td{Je suis un dieu.} 
+    \begin{solution}
+      \begin{hieroglyph}ink nTr-1\end{hieroglyph}\quad
+      \tl{ink nTr}
+    \end{solution}
+  \end{parts}
+\end{questions}
+
+\subsection*{Vocabulaire}
+\begin{multicols}{2}
+  \begin{itemize}
+    \item \begin{hieroglyph}
+            i-A-t:Z5-Y1:3 +l\ ou\ +s i-A-t-O44
+          \end{hieroglyph} 
+          \tl{iA.t}, \td{fonction}
+    \item \begin{hieroglyph}wab-mw-A1\end{hieroglyph} 
+          \tl{wab}, \td{prêtre-pur}, \td{prêtre-\emph{ouab}}
+    \item \begin{hieroglyph}wHm-m-w-A1\end{hieroglyph} 
+          \tl{wHmw}, \td{héraut}
+    \item \begin{hieroglyph}
+            U4-a:t-Y1 +l\ ou\ +s U2:mAa-a:t*Z5-Y1
+          \end{hieroglyph} 
+          \tl{mAa.t}, \td{vérité}, \td{justice}, \td{ordre}
+    \item \begin{hieroglyph}C1\end{hieroglyph} 
+          \tl{Ra}, \td{Rê}
+    \item \begin{hieroglyph}r:T-n:nw*W-T14-pA'-xAst\end{hieroglyph} 
+          \tl{RTnw}, \td{Réténou} (pays d'Asie)
+    \item \begin{hieroglyph}Hr:r-y:pt\end{hieroglyph} 
+          \tl{Hry}, \td{supérieur}, \td{qui est au-dessus} 
+          (adjectif nisbé)
+    \item \begin{hieroglyph}HqA-q-A-A1\end{hieroglyph} 
+          \tl{HoA}, \td{souverain}
+  \end{itemize}
+\end{multicols}

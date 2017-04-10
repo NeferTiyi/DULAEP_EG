@@ -1,0 +1,177 @@
+%!TEX root = DULAEP_EG.htx
+
+\makeatletter
+% ... Redefine title page ...
+% ---------------------------
+\newlength{\drop}% for my convenience
+
+% Define subtitle
+\newcommand{\subtitle}[1]{\def\@subtitle{#1}}
+% Define teacher name
+\newcommand{\lecturer}[1]{\def\@lecturer{#1}}
+% Define organisation name
+\newcommand{\orga}[1]{\def\@orga{#1}}
+
+\def\maketitle{%
+  \drop = 0.1\textheight%
+  \vfill%
+  \hbox{%
+    \hspace*{0.2\textwidth}%
+    \rule{3pt}{\textheight}%
+    \hspace*{0.05\textwidth}%
+    \parbox[b]{0.75\textwidth}{%
+      \vbox to 0.9\textheight{%
+        {\includegraphics[height=1.75cm]{cours_logo}\par}%
+        \vspace{\drop}%
+        \vspace{2\baselineskip}%
+        {\noindent\HUGE\bfseries\RaggedRight\@title\par}%
+        \vspace{2\baselineskip}%
+        {\Huge\itshape\@subtitle\par}%
+        \vspace{4\baselineskip}%
+        {\Large\itshape\@date\par}%
+        \vspace{2\baselineskip}%
+        {\Large\@orga\par\vspace{0.5\baselineskip}\@lecturer\par}%
+
+        \vspace*{\fill}%
+
+        {\noindent \@author\par}%
+        \bigskip%
+        {\small\itshape\today, \printtime\par}%
+      }%
+    }%
+  }%
+  \vfill%
+
+  \pagebreak
+
+  \thispagestyle{empty}
+  \vspace*{\fill}
+  \input{neferlicence}
+  \pagebreak
+}
+
+% ... Redefine headings ...
+% -------------------------
+% Define short title for header
+\newcommand{\short}[1]{\def\@short{#1}}
+
+% \makepagestyle{ruled}
+% \makeevenhead{ruled}
+%   {\normalfont\itshape\rightmark}
+%   {even}
+%   {\normalfont\itshape\leftmark}
+% \makeoddhead{ruled}
+%   {\normalfont\itshape\rightmark}
+%   {odd}
+%   {\normalfont\itshape\leftmark}
+% \makeevenfoot{ruled}
+%   {\thepage}
+%   {}
+%   {\normalfont\itshape\@short}
+% \makeoddfoot{ruled}
+%   {\normalfont\itshape\@lecturer}
+%   {}
+%   {\thepage}
+% \makeheadrule{ruled}{\textwidth}{\normalrulethickness}
+% % \makefootrule{ruled}{\textwidth}{\normalrulethickness}{1pt}
+
+% \makepsmarks{ruled}{%
+%   \nouppercaseheads
+%   \clearmark{chapter}
+%   \clearmark{section}
+%   \createmark{part}{right}{shownumber}{}{.\ }
+%   \createmark{chapter}{left}{shownumber}{}{.\ }
+%   % \createmark{chapter}{left}{nonumber}{}{.\ }
+%   % \createmark{section}{right}{nonumber}{}{.\ }
+%   % \createmark{part}{left}{shownumber}{}{.\ }
+%   % \createmark{chapter}{right}{shownumber}{}{.\ }
+%   \createplainmark{toc}{both}{\contentsname}
+%   \createplainmark{lof}{both}{\listfigurename}
+%   \createplainmark{lot}{both}{\listtablename}
+%   \createplainmark{bib}{both}{\bibname}
+%   \createplainmark{index}{both}{\indexname}
+%   \createplainmark{glossary}{both}{\glossaryname}
+% }
+% \makeatother
+
+\copypagestyle{dulaep}{Ruled}
+\copypagestyle{dulaeplain}{Ruled}
+
+\makeatletter
+  % \makeevenhead{dulaep}{\itshape\leftmark}{}{\itshape\@short}
+  \makeevenhead{dulaep}
+    {\itshape\leftmark}{}{\includegraphics[height=1.5em]{cours_logo}}
+  \makeoddhead{dulaep}{\itshape\@lecturer}{}{\itshape\rightmark}
+
+  \makeevenhead{dulaeplain}{}{}{}
+  \makeoddhead{dulaeplain}{}{}{}
+  \makeevenfoot{dulaeplain}{\thepage}{}{}
+  \makeoddfoot{dulaeplain}{}{}{\thepage}
+\makeatother
+
+\addtopsmarks{dulaep}{}{%
+  \clearmark{chapter}
+  \clearmark{section}
+  \createmark{part}{left}{shownumber}{}{.\ }
+  \createmark{chapter}{right}{shownumber}{}{.\ }
+}
+
+\pagestyle{dulaep}
+
+
+% ... Chapter style ...
+% ---------------------
+\makeatletter
+\makechapterstyle{dulaep}{%
+  \chapterstyle{article}
+  \renewcommand{\chaptitlefont}{\normalfont\Large\bfseries}
+  \renewcommand{\chapnumfont}{\chaptitlefont}
+  \renewcommand{\printchapternum}{\chapnumfont \thechapter.\quad}
+  \renewcommand{\chapterheadstart}{%
+    \vspace{\beforechapskip}%
+    \hrule%
+    \par\nobreak\smallskip%
+  }
+  \renewcommand{\afterchaptertitle}{%
+    \par\nobreak\smallskip%
+    \hrule%
+    \par\nobreak\vskip\afterchapskip%
+  }
+}
+
+\makechapterstyle{dulaep2}{%
+  \chapterstyle{article}
+  \renewcommand{\chaptitlefont}{\normalfont\Large\bfseries}
+  \renewcommand{\chapnumfont}{\chaptitlefont}
+  \renewcommand{\printchapternum}{\chapnumfont \thechapter.\quad}
+  \renewcommand{\chapterheadstart}{%
+    \vspace{\beforechapskip}%
+    \hrule%
+    \nobreak\smallskip%
+  }
+  \renewcommand{\afterchaptertitle}{%
+    \nobreak\smallskip%
+    \hrule%
+    \par\nobreak\vskip\afterchapskip%
+  }
+}
+\makeatother
+
+\chapterstyle{dulaep}
+
+% ... Part style ...
+% ------------------
+\renewcommand{\partnamefont}{\RaggedLeft\normalfont\LARGE\scshape}
+\renewcommand*{\partnumfont}{\RaggedLeft\normalfont\LARGE\scshape}
+\renewcommand*{\parttitlefont}{\RaggedLeft\normalfont\huge\bfseries}
+
+\renewcommand{\midpartskip}{\par\vspace{0.5\onelineskip}}
+\renewcommand*{\beforepartskip}{%
+  \null\vspace{80pt}%
+}
+\renewcommand*{\afterpartskip}{%
+  \noindent\rule{\textwidth}{3pt}%
+  % \par\nobreak\medskip%
+  % \hrule height 3pt%
+  \vskip 20pt plus 3pt minus 1pt%
+}

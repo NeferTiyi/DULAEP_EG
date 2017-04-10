@@ -1,0 +1,75 @@
+%!TEX root = DULAEP_EG.htx
+%##HieroDef.txt
+
+\chapter*{Exercice~12}
+% =====================================================================
+
+\begin{questions}
+
+  \question\qfmt{Translittérer, analyser et traduire ces 
+  phrases tirées du \source{CdN}}
+
+  \begin{parts}
+    \part Le narrateur invite son interlocuteur à écouter son 
+    histoire :\\
+    \begin{hieroglyph}
+      sDm-m r:k n:A1 HAt:a-A1
+    \end{hieroglyph}
+
+    \begin{solution}
+      \tl{sDm r=k n=i, HAty-a \ex}
+
+      \td{Écoute-moi donc, prince local !}
+
+      Phrase à l'impératif, avec renforcement (\tl{r=k}), 
+      et vocatif.
+    \end{solution}
+
+    \part Le narrateur évoque la tempête dans laquelle il a été pris 
+    avec son équipage :\\
+    \begin{hieroglyph}
+      D:\!\!a-TAw pr:r:D54 jw n:3 m M14-wr-r:N36
+    \end{hieroglyph}
+
+    \begin{solution}
+      \tl{Da pr(.w), iw=n m wAD-wr}
+
+      \td{Une tempête éclata (\litt est sortie), alors que nous 
+          étions en mer.}
+
+      Deux propositions : proposition initiale à prédicat 
+      pseudo-verbal (parfait ancien), et proposition séquentielle 
+      à prédicat adverbial, traduite comme une circonstancielle.
+    \end{solution}
+
+    \part Puis il raconte son arrivée sur l'île :\\
+    \begin{hieroglyph}
+      aHa-a:n A1 r:a:k-w-A1 r iw:N23*1 i-n wA-A-w-mw n M14-wr-r:N36
+    \end{hieroglyph}
+
+    \begin{solution}
+      \tl{aHa.n=i rd.kwi r iw in wAw n(y) wAD-wr}
+
+      \td{Alors, je fus déposé (\litt placé) sur une île par une 
+          vague de la mer.}
+
+      Proposition à prédicat pseudo-verbal (parfait ancien), 
+      introduite par l'auxiliaire de la narration \tl{aHa.n} 
+      (sujet = pronom suffixe \tl{=i} -- prédicat \tl{rd.kwi}), 
+      puis une circonstancielle de lieu, et le complément d'agent 
+      introduit par \tl{in} \td{par}.
+    \end{solution}
+  \end{parts}
+\end{questions}
+
+\subsection*{Vocabulaire}
+\begin{multicols}{2}
+    \begin{itemize}
+      \item \tl{iw}, \td{île}
+      \item \tl{in}, \td{par} (préposition)
+      \item \tl{wAw}, \td{vague}
+      \item \tl{wAD-wr}, \td{la Très-verte}, \td{mer}
+      \item \tl{HAty-a}, \td{prince local}
+      \item \tl{Da}, \td{tempête}
+    \end{itemize}
+\end{multicols}

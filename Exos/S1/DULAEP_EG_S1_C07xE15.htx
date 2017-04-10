@@ -1,0 +1,102 @@
+%!TEX root = DULAEP_EG.htx
+%##HieroDef.txt
+
+\chapter*{Exercice~15 (à rendre par email)}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{Translittérer, analyser et traduire les phrases 
+  suivantes}
+
+  \begin{parts}
+    \part
+    \reflectbox{%
+      \begin{hieroglyph}m-a:k w-A1 m n:h-w-G37\end{hieroglyph}%
+    }
+    \begin{solution}
+      \tl{mk, wi m nhw}, \td{Vois, je suis dans le besoin}
+
+      Proposition à prédicat adverbial : auxiliaire présentatif + 
+      sujet (pronom dépendant) + prédicat (groupe prépositionnel 
+      avec \tl{m} d'état)
+    \end{solution}
+
+    \part
+    \reflectbox{%
+      \begin{hieroglyph}nn' sw-W m st-t:pr f\end{hieroglyph}%
+    }
+    \begin{solution}
+      \tl{nn sw m s.t=f}, \td{Il n'est pas à sa place.}
+
+      Proposition à prédicat adverbial : auxiliaire + sujet (pronom 
+      dépendant) + prédicat (groupe prépositionnel)
+    \end{solution}
+
+    \renewcommand{\insertimg}{%
+      \begin{hieroglyph}
+        i-W Xn:n-nw:W-niwt m s-g:r-A2
+        ib-3 m gm-m-W-G37:3 +l\ \dots +s !
+      \end{hieroglyph}%
+    }
+    \settowidth{\graphicwidth}{\insertimg}
+    \part\source{Conte de Sinouhé}\\
+    \begin{minipage}{\graphicwidth}
+      \RaggedLeft
+      \reflectbox{%
+        \begin{hieroglyph}
+          i-W Xn:n-nw:W-niwt m s-g:r-A2
+          ib-3 m gm-m-W-G37:3 +l\ \dots +s !
+        \end{hieroglyph}%
+      }\\
+      \reflectbox{%
+        \begin{hieroglyph}
+          p:a-t-A1-B1:3 m i-+l$\Big[$+s-M-+l$\Big]$+s-m-A2
+        \end{hieroglyph}%
+      }%
+    \end{minipage}
+
+    \begin{solution}
+      \tl{iw Xnw m sgr, ib.w m gmw (\dots) pa.t m i[m]w},
+      \td{La Résidence est dans le silence, les c{\oe}urs dans 
+      l'affliction (\dots) et les nobles dans le gémissement.}
+
+      Trois propositions à prédicat adverbial :
+      \begin{enumerate}
+        \item Proposition initiale : Auxiliaire + sujet + prédicat 
+              (groupe prépositionnel)
+        \item Proposition séquentielle : sujet + prédicat 
+              (groupe prépositionnel)
+        \item Proposition séquentielle : sujet + prédicat 
+              (groupe prépositionnel)
+      \end{enumerate}
+    \end{solution}
+  \end{parts}
+
+  \question\qfmt{Traduire et écrire en hiéroglyphes (pour une 
+  lecture de droite à gauche)}
+  \begin{parts}
+    \part\td{Vois, tu es ici.} (on parle à un homme)
+    \begin{solution}
+      \reflectbox{%
+        \begin{hieroglyph}m-a:k T-w aA:a-A-wAt\end{hieroglyph}%
+      }
+      \tl{mk, Tw aA}
+    \end{solution}
+  \end{parts}
+\end{questions}
+
+\subsection*{Vocabulaire}
+\begin{multicols}{2}
+\begin{itemize}
+  \item \begin{hieroglyph}aA:a-A-wAt\end{hieroglyph} 
+        \tl{aA}, \td{ici}
+  \item \begin{hieroglyph}p:a-t-A1-B1:3\end{hieroglyph} 
+        \tl{pa.t}, \td{nobles}
+  \item \begin{hieroglyph}n:h-w-G37\end{hieroglyph} 
+        \tl{nhw}, \td{besoin}
+  \item \begin{hieroglyph}
+          i-+l$\Big[$+s-M-+l$\Big]$+s-m-A2
+        \end{hieroglyph} 
+        \tl{i[m]w}, \td{gémissement}
+\end{itemize}
+\end{multicols}

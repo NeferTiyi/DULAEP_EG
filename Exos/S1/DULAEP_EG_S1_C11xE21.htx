@@ -1,0 +1,150 @@
+%!TEX root = DULAEP_EG.htx
+%##HieroDef.txt
+
+\chapter*{Exercice~21}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{Translittérer, analyser et traduire les phrases 
+  suivantes}
+
+  \begin{parts}
+    \part
+    \begin{hieroglyph}
+      nn mwt-t:B1 k H-n:a k nn sn-t:B1 i-m
+    \end{hieroglyph}
+    \infos{Recueil de protection pour le nouveau-né, 
+    \source{P.~Berlin~3027}}.
+    \begin{solution}
+      \tl{nn mw.t=k Hna=k. nn sn.t im}, 
+      \td{Ta mère n'est pas avec toi. La s{\oe}ur n'est pas là.}
+
+      Deux PPAdverbial négatives : négation + sujet + prédicat -- 
+      négation + sujet + prédicat
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}
+      m-D38:t w-A1 m h-A-t:D54 r km-t:niwt
+    \end{hieroglyph}
+    \infos{\CdP}
+    \begin{solution}
+      \tl{mt, wi m hA.t r Km.t}, 
+      \td{Vois, je descends vers l'\kmt (la vallée).}
+
+      Une PPPseudo-verbal (inaccompli progressif) : auxiliaire 
+      présentatif + sujet (pronom dépendant) + \tl{m} + infinitif + 
+      groupe prépositionnel (CC de lieu)
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}
+      m-a:k w-A1 r n:N41-m-D40 aA:mt-E7 k
+    \end{hieroglyph}
+    \infos{\CdP}
+    \begin{solution}
+      \tl{mk, wi r nHm aA=k}, 
+      \td{Vois, je vais m'emparer de ton âne.}
+
+      Une PPPseudo-verbal (allatif) : auxiliaire présentatif + sujet 
+      (pronom dépendant) + \tl{r} + infinitif + COD
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}
+      jw f m n:x:n-w-Xrd jw f :r i-A-w-A19
+    \end{hieroglyph}
+    \begin{solution}
+      \tl{iw=f m nxn ; iw=f r iAw}, 
+      \td{Il est un enfant ; il sera un vieillard.}
+
+      Deux PPAdverbial : auxiliaire indicatif + sujet (pronom suffixe) 
+      + groupe prépositionnel prédicat (\tl{m} d'état) -- auxiliaire 
+      indicatif + sujet (pronom suffixe) + groupe prépositionnel 
+      prédicat (\tl{r} d'état)
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}jw f r Ssp-p:D40 HD-t:Z5-G7\end{hieroglyph}
+    \begin{solution}
+      \tl{iw=f r Ssp HD.t}, 
+      \td{Il s'emparera de la Couronne blanche.}
+
+      Une PPPseudo-verbal (allatif) : auxiliaire indicatif + sujet 
+      (pronom suffixe) + \tl{r} + infinitif + COD
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}
+      jw U24-A1:3 aSA-A:3 Hr-1 A35-D40 :f
+    \end{hieroglyph}
+    \begin{solution}
+      \tl{iw Hmw.w aSA.w Hr od=f}, 
+      \td{De nombreux artisans le construisent.}
+
+      Une PPPseudo-verbal (inaccompli progressif) : auxiliaire 
+      indicatif + sujet + \tl{Hr} + infinitif + COD (pronom suffixe, 
+      après un infinitif)
+    \end{solution}
+
+    \part
+    \reflectbox{%
+      \begin{hieroglyph}
+        i-W t*W :r ir:t aHA-A-W-T11:xt:3 m N34-N33:3
+      \end{hieroglyph}%
+    } 
+    \infos{\source{Néferti}, 40}
+    \begin{solution}
+      \tl{iw=tw r ir.t aHA.w m Hmty}, 
+      \td{On fera des flèches en cuivre.}
+
+      Une PPPseudo-verbal (allatif) : auxiliaire indicatif + sujet 
+      (pronom suffixe indéfini) + \tl{r} + infinitif + COD + CC 
+      (matière)
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}nn sw-W r xpr:r\end{hieroglyph} 
+    \infos{\cite{Allen}}
+    \begin{solution}
+      \tl{nn sw r xpr}, 
+      \td{Il n'adviendra pas.}
+
+      Une PPPseudo-verbal (allatif) à la forme négative : très rare 
+      cas de négation \tl{r} + infinitif avec \tl{nn}. Négation + 
+      sujet (pronom dépendant) + \tl{r} + infinitif
+    \end{solution}
+  \end{parts}
+\end{questions}
+
+\subsection*{Vocabulaire}
+\begin{multicols}{2}
+  \begin{itemize}
+    \item \begin{hieroglyph}i-A-w-A19\end{hieroglyph} 
+          \tl{iAw}, \td{vieillard}, \td{vieil homme}
+    \item \begin{hieroglyph}aA:mt-E7\end{hieroglyph} 
+          \tl{aA}, \td{âne}
+    \item \begin{hieroglyph}aHA-A-W-T11:xt:3\end{hieroglyph} 
+          \tl{aHA.w}, \td{flèches}
+    \item \begin{hieroglyph}aSA-A\end{hieroglyph} 
+          \tl{aSA}, \td{nombreux} (adjectif)
+    \item \begin{hieroglyph}n:N41-m-D40\end{hieroglyph} 
+          \tl{nHm}, \td{prendre}, \td{s'emparer de}
+    \item \begin{hieroglyph}n:x:n-w-Xrd\end{hieroglyph} 
+          \tl{nxnw}, \td{nouveau-né}, \td{enfant}
+    \item \begin{hieroglyph}
+            U24-A1 +l\ ou \ +s U24-w-w-A1
+          \end{hieroglyph} 
+          \tl{Hmww}, \td{artisan}
+    \item \begin{hieroglyph}N34-N33:3\end{hieroglyph} 
+          \tl{Hmty}, \td{cuivre}
+    \item \begin{hieroglyph}HD-t-HDt\end{hieroglyph} 
+          \tl{HD.t}, \td{la couronne blanche}
+    \item \begin{hieroglyph}Ssp-p:D40\end{hieroglyph} 
+          \tl{Ssp} \vl{3}, \td{prendre}, \td{recevoir}
+    \item \begin{hieroglyph}A35-A24\end{hieroglyph} 
+          \tl{od} \vl{2}, \td{construire}
+    \item \begin{hieroglyph}d:p*t-P1\end{hieroglyph} 
+          \tl{dp.t}, \td{bateau}
+  \end{itemize}
+\end{multicols}

@@ -1,0 +1,135 @@
+%!TEX root = DULAEP_EG.htx
+%##HieroDef.txt
+
+\chapter*{Exercice~1}
+% =====================================================================
+\begin{questions}
+  \question\qfmt{Translittérer, analyser (grammaticalement) et 
+  traduire les propositions suivantes}
+
+  \begin{parts}
+    \part
+    \begin{hieroglyph}
+      iw i-A1 r:x-Y1-k-i-A1 r:n n nTr-1 pw aA:a-A-A40
+    \end{hieroglyph}
+    \begin{solution}
+      \tl{jw=i rx.kwi rn n(y) nTr pw aA} ---
+      \td{Je connais le nom de ce grand dieu} \\
+      Proposition à prédicat pseudo-verbal (parfait ancien) introduite 
+      par \tl{iw}
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}
+      jw f mH:Y1 Xr:r nfr-f:r-t-Y1:3 nb:t
+    \end{hieroglyph}
+    \begin{solution}
+      \tl{iw=f mH(.w) nfr.wt nb.(w)t} ---
+      \td{Il est rempli de toutes perfection} \\
+      Proposition à prédicat pseudo-verbal (parfait ancien) introduite 
+      par \tl{iw}
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}m-a:k s-t sDm-m\end{hieroglyph}
+    \begin{solution}
+      \tl{mk, s.t sDm(.w)} ---
+      \td{Vois, cela est entendu.} \\
+      Proposition à prédicat pseudo-verbal (parfait ancien) introduite 
+      par \tl{mk}
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}
+      tA:1*N23 A-\!\!q\s1:.-W-G37 r-Aw-W-Y1:3
+    \end{hieroglyph}
+    \begin{solution}
+      \tl{tA Ao.w r-Aw \ex} ---
+      \td{Le pays est entièrement dévasté !} / 
+      \td{Le pays a entièrement péri ! } \\
+      Proposition à prédicat pseudo-verbal (parfait ancien)
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}wn:n i-1 wn:n:t z:Dr-r:k-w i-1\end{hieroglyph}
+    \begin{solution}
+      \tl{wn=i wn.t sDr.kwi} ---
+      \td{J'étais endormi/allongé.} \\
+      Proposition à prédicat pseudo-verbal (parfait ancien) introduite 
+      par un convertisseur
+    \end{solution}
+  \end{parts}
+
+  \question\qfmt{Traduire en égyptien classique en joignant aux 
+  hiéroglyphes la translittération}
+
+  \begin{parts}
+    \part\td{Vois, leurs paroles sont fixées dans les écrits !}
+    \begin{solution}
+      \begin{hieroglyph}
+        m-a:k md-d:W*t-A2-Z3 s-n:3 mn:n:Y1 m zS-Y1:3
+      \end{hieroglyph}\quad
+      \tl{Mk, md.wt=sn mn(.w) m sS.w \ex}
+    \end{solution}
+
+    \part\td{Gardez-vous de manger du poisson-\emph{adou} !}
+    \begin{solution}
+      \begin{hieroglyph}
+        Hr:r-Aa19-tyw-n:y r wnm-m-A2 a:d-w-K3:1
+      \end{hieroglyph}\quad
+      \tl{Hr.tiwny r wnm adw \ex}
+    \end{solution}
+  \end{parts}
+
+  \question\qfmt{%
+    Translittérer, traduire et analyser le groupe
+    \begin{hieroglyph}di-anx\end{hieroglyph}%
+  }
+
+  \includegraphics[width=\linewidth]{Louvre_E13983_detail}\\
+  Détail du linteau de Médamoud (musée du Louvre \inv{E\,13983}, 
+  Sésostris~III)
+
+  \begin{solution}
+    \tl{nTr nfr, nb tA.wy, xa-KA.w-Ra, di(.w) anx}\\
+    \td{Le dieu, parfait, le seigneur du double pays, Khâkaourê, doué 
+    de vie.}
+
+    \tl{di(.w) anx} est un séquence au parfait ancien, à valeur 
+    optative
+  \end{solution}
+\end{questions}
+
+\subsection*{Vocabulaire}
+\begin{multicols}{2}
+  \begin{itemize}
+    \item \begin{hieroglyph}A-\!q:.-G37\end{hieroglyph} 
+          \tl{ao} \vl{2}, \td{périr}
+    \item \begin{hieroglyph}i-1\end{hieroglyph} 
+          graphie du pronom suffixe de la 1\iere~personne
+    \item \begin{hieroglyph}a:d-w-K3:1\end{hieroglyph} 
+          \tl{adw}, \td{poisson-\emph{âdou}}
+    \item \begin{hieroglyph}wn:n:t\end{hieroglyph} 
+          \tl{wn.t}, particule enclitique (en 2\ieme~position dans 
+          la phrase) de renforcement : \td{certes}, \td{donc}
+    \item \begin{hieroglyph}mn:n:Y1\end{hieroglyph} 
+          \tl{mn} \vl{2}, \td{être fixé}, \td{devenir stable}, 
+          \td{durer}
+    \item \begin{hieroglyph}mH:Y1\end{hieroglyph} 
+          \tl{mH} \vl{2}, \td{remplir}, au sens passif 
+          \td{être rempli de}, suivi de la préposition \tl{Hr} 
+          \td{sous}
+    \item \begin{hieroglyph}md-d:t-A2\end{hieroglyph} 
+          \tl{md.t}, \td{parole}, \td{discours}, \td{affaire}
+    \item \begin{hieroglyph}r-Aw-W-Y1:3\end{hieroglyph} 
+          \tl{r-Aw}, \td{entièrement}
+    \item \begin{hieroglyph}r:x-Y1\end{hieroglyph} 
+          \tl{rx} \vl{2}, \td{apprendre à connaître}, \td{savoir}
+    \item \begin{hieroglyph}zS-Y1v\end{hieroglyph} 
+          \tl{sS}, \td{l'écrit}
+    \item \begin{hieroglyph}sDm-m\end{hieroglyph} 
+          \tl{sDm}, \td{entendre}, \td{écouter}
+    \item \begin{hieroglyph}s-Dr:r-A55\end{hieroglyph} 
+          \tl{sDr}, \td{être couché}, \td{dormir}, \td{passer la nuit}
+  \end{itemize}
+\end{multicols}

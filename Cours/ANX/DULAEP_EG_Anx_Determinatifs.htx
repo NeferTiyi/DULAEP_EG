@@ -1,0 +1,30 @@
+%!TEX root = DULAEP_EG.htx
+%##HieroDef.txt
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\chapter[Déterminatifs]
+{Déterminatifs\footcite[D'après][25--27]{Obsomer_2003}}
+\label{anx:determ}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% \begin{multicols}{2}
+\section*{Première série}
+% ---------------------------------------------------------------------
+\includegraphics[width=0.75\textwidth]{determinatifs_1}
+
+\section*{Deuxième série}
+% ---------------------------------------------------------------------
+\includegraphics[width=0.75\textwidth]{determinatifs_2}
+
+\section*{Troisième série}
+% ---------------------------------------------------------------------
+\includegraphics[width=0.75\textwidth]{determinatifs_3}
+
+\section*{Quatrième série}
+% ---------------------------------------------------------------------
+\includegraphics[width=0.75\textwidth]{determinatifs_4}
+
+\section*{Cinquième série}
+% ---------------------------------------------------------------------
+\includegraphics[width=0.75\textwidth]{determinatifs_5}
+% \end{multicols}

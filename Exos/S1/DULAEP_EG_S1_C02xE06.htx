@@ -1,0 +1,90 @@
+%!TEX root = DULAEP_EG.htx
+%##HieroDef.txt
+
+\chapter*{Exercice~6 --- Le système graphique}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{Voici les mots notés au moyen de signes logogrammes, 
+  par ailleurs utilisés dans d'autres contextes comme phonogrammes. En 
+  vous aidant des listes de signes phonogrammes, essayez de retrouver 
+  la translittération des mots suivants}
+
+  \begin{multicols}{2}
+  \begin{parts}
+    \part\begin{hieroglyph}aHA-A24\end{hieroglyph} 
+    \td{combattre}
+    \begin{solution}
+      \tl{aHA}
+    \end{solution}
+
+    \part\begin{hieroglyph}xt:t*1\end{hieroglyph} 
+    \td{bois}
+    \begin{solution}
+      \tl{xt}
+    \end{solution}
+
+    \part\begin{hieroglyph}tp-1\end{hieroglyph} 
+    \td{tête}
+    \begin{solution}
+      \tl{tp}
+    \end{solution}
+
+    \part\begin{hieroglyph}HAt:t*1\end{hieroglyph} 
+    \td{avant}
+    \begin{solution}
+      \tl{HA.t}
+    \end{solution}
+
+    \part\begin{hieroglyph}S:N23*1\end{hieroglyph} 
+    \td{bassin}, \td{étang}, \td{lac}
+    \begin{solution}
+      \tl{S}
+    \end{solution}
+
+    \part\begin{hieroglyph}HqA-t:1\end{hieroglyph} 
+    \td{sceptre}
+    \begin{solution}
+      \tl{HoA.t}
+    \end{solution}
+  \end{parts}
+  \end{multicols}
+
+  \question\qfmt{En utilisant le tableau des déterminatifs, identifiez 
+  le déterminatif associé au logogramme dans les mots suivants, en 
+  indiquant sa valeur sémantique globale}
+
+  \begin{parts}
+    \part\begin{hieroglyph}tA:N23*1\end{hieroglyph} 
+    \tl{tA}, \td{terre}
+    \begin{solution}
+      terre irriguée (\GaL \MdC{N23})
+    \end{solution}
+
+    \part\begin{hieroglyph}zA-\!\!1:.-A1\end{hieroglyph} 
+    \tl{sA}, \td{fils}
+    \begin{solution}
+      homme assis (\GaL \MdC{A1})
+    \end{solution}
+
+    \part\begin{hieroglyph}z:1 +l\ ou\ +s z:1:xt\end{hieroglyph} 
+    \tl{s}, \td{verrou}
+    \begin{solution}
+      bois (\GaL \MdC{M3})
+    \end{solution}
+
+    \part\begin{hieroglyph}ns:\!\!1*F51\s1\end{hieroglyph} 
+    \tl{ns}, \td{langue}, 
+    \begin{solution}
+      morceau de viande (\GaL \MdC{F51})
+    \end{solution}
+
+    \part\begin{hieroglyph}
+      Y1:t*1 +l\ ou\ +s Y1:t*1-V12
+    \end{hieroglyph} 
+    \tl{mDA.t}, \td{rouleau de papyrus}, \td{livre}
+    \begin{solution}
+      nouer, document (\GaL \MdC{V12})
+    \end{solution}
+  \end{parts}
+\end{questions}

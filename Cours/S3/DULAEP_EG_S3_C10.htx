@@ -1,0 +1,349 @@
+%!TEX root = DULAEP_EG.htx
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\part[Constructions emphatiques]{Constructions emphatiques\\ 
+(\td{C'est (dans cette circonstance) qu'il a écouté})}
+\label{prt:S4_emphatique}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Dans un discours, un locuteur fait un acte de communication avec 
+un interlocuteur. Il peut être amené à chercher à le convaincre, 
+à capter son attention par différents procédés de type rhétorique. 
+Il existe différentes stratégies de communication en égyptien 
+ancien, dont nous tenterons de donner un aperçu synthétique au 
+\titleref{bk:semestre4}\footnote{Je classe dans cette catégorie des 
+procédés rhétoriques les \textbf{phrases balancées} vues dans le 
+\Pref{prt:S3_nom_imperf}.}. Nous allons présenter ici une stratégie 
+parmi celles existantes, appelée \textbf{construction emphatique} 
+(\cite[§\,1073--1075]{MW}), ou \textbf{temps seconds} (les manuels de 
+néo-égyptien, \cite[111--113]{Neveu}), ou encore \textbf{proposition 
+argumentative à prédicat adverbial} (\cite[Cours~51]{GM}).
+
+L'idée est la suivante : soit une phrase \frquote{plane}, un discours 
+\frquote{non-marqué} :
+
+\begin{aparte}[title={}]
+  \td{Le serviteur mange sous le sycomore.} 
+  (\tl{iw bAk Hr wnm Xr nh.t})
+\end{aparte}
+
+La même information peut être transmise en mettant l'accent sur un 
+élément du discours.
+
+\begin{itemize}
+  \item On peut mettre l'accent sur le \textbf{sujet} : \td{c'est 
+        le serviteur qui mange sous le sycomore.} (on verra cette 
+        construction en égyptien au \titleref{bk:semestre4}, car nous 
+        aurons besoin des participes ; elle est appelé la 
+        \textbf{phrase coupée}) ;
+  \item On peut mettre l'accent sur la \textbf{circonstance de 
+        l'action} : \td{c'est sous le sycomore que le serviteur mange.}
+\end{itemize}
+
+C'est ce procédé rhétorique-là (mise en avant du circonstant d'une 
+action) que nous allons étudier, et qui relève des constructions 
+substantives dites \textbf{emphatiques}, dont nous avons déjà 
+mentionné l'existence précédemment à plusieurs reprises.
+
+
+\chapter{Présentation générale}
+% =====================================================================
+
+Les \textbf{constructions substantives emphatiques} mettent en 
+relief des circonstants exclusifs d'une situation qui permet la 
+réalisation d'un procès (\td{c'est sous le sycomore qu'il mange}, 
+et pas ailleurs). Du point de vue de l'énoncé, l'énoncé est complet 
+s'il y a un sujet (le thème de la phrase) et un prédicat (ce que 
+l'on donne comme information). On parle aussi de \textbf{thème} et 
+de \textbf{rhème}. Dans une phrase \frquote{plane}, thème et rhème 
+correspondent respectivement au sujet et prédicat.
+
+Dans un énoncé marqué, mettant en valeur la circonstance, on 
+transforme en \textbf{rhème} (information principale de la phrase) 
+le circonstant (\td{sous le sycomore}). En français, la construction 
+adéquate revient à encadrer l'élément mis en emphase par \td{c'est 
+\dots que} (\textbf{C'est} sous le sycomore \textbf{qu'il mange}). 
+En égyptien, la construction emphatique n'est pas si éloignée. 
+Mot à mot, l'égyptien dit : \td{\textbf{Le fait que le serviteur 
+mange} est \textbf{sous le sycomore}}, le sujet = \td{le fait que 
+le serviteur mange}, le prédicat = \td{sous le sycomore}. 
+Le modèle de la proposition emphatique est donc, tout simplement, 
+la \textbf{\PPA} (mais sans \tl{iw}), avec pour sujet une forme 
+verbale (à la forme substantive) et pour prédicat un élément de 
+nature adverbial (qui est mis en valeur).
+
+\begin{aparte}% [title={}]
+  \tl{iw bAk wnm=f Xr nh.t}
+
+  \td{Le serviteur mange sous le sycomore.}
+
+  \tg{Avec aoriste}
+
+  \bigskip
+
+  \tl{wnm bAk Xr nh.t}
+
+  \td{Le fait que le serviteur mange est sous le sycomore.}
+
+  \tg{avec sujet comportant une \textbf{forme nominale} \incise{ici 
+      \tl[Gramm]{mrr=f}} d'un verbe}
+\end{aparte}
+
+Dans l'exercice~8 (\ref{???}), vous aviez eu une phrase qui entre en 
+fait dans cette construction.
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    d:g*g-ir t*W:f mi-i ra-1 w-b-n:N8 f
+  \end{hieroglyph}
+
+  \tl{dgg=tw=f mi Ra, wbn=f}
+
+  \td{\litt Le fait qu'il est cherché du regard est comme Rê, 
+      quand il se lève.}
+
+  \tg{Sujet = forme \tl[Gramm]{mrr=f}, prédicat = groupe 
+      prépositionnel, aoriste circonstanciel}
+
+  \td{S'il est cherché du regard, c'est comme Rê lorsqu'il se lève.}
+
+  \td{C'est comme Rê quand il se lève qu'il est cherché du regard.}
+
+  \bigskip
+
+  Cette construction emphatique pourrait correspondre (très 
+  théoriquement) à cette phrase plane :
+
+  \tll{*}\tl{iw dg=tw=f mi Ra, wbn=f}
+
+  \td{*On le cherche du regard, comme Rê, quand il se lève.}
+
+  \tg{Avec aoriste en position initiale, puis aoriste séquentiel}
+\end{example}
+
+
+\chapter{Formes nominales emphatiques}
+% =====================================================================
+
+La phrase marquée (mise en avant de la circonstance) présente donc 
+deux éléments :
+\begin{itemize}
+  \item un sujet qui comprend toujours une forme verbale (nominale) 
+        -- d'où le nom de \textbf{temps second} ;
+  \item un prédicat de nature adverbiale.
+\end{itemize}
+
+
+\section{Le sujet}
+% ---------------------------------------------------------------------
+On ne rencontre que des formes verbales qui peuvent avoir une fonction 
+substantive (emphatique). L'aoriste par exemple est donc exclu, tout 
+comme le perfectif. Trois formes sont possibles :
+\begin{itemize}
+  \item \textbf{Accompli} : le \tl{sDm.n=f} = 
+        \td{le fait qu'il a écouté}
+  \item \textbf{Inaccompli} : le \tl{mrr=f} = \td{le fait qu'il aime}
+  \item \textbf{Futur} : le prospectif/subjonctif \tl{sDm=f} = 
+        \td{le fait qu'il écoutera}
+\end{itemize}
+
+\section{Le prédicat}
+% ---------------------------------------------------------------------
+\textbf{Le prédicat est positionné après le sujet, et est en théorie 
+de nature \frquote{adverbiale}.} Toutefois, il peut sortir de ce cadre 
+strict.
+
+Pour le second membre de la proposition emphatique, les possibilités 
+sont les suivantes :
+\begin{itemize}
+  \item Élément adverbial ;
+  \item Forme \tl{sDm.n=f} ou \tl{sDm=f} en fonction circonstancielle ;
+  \item Sujet + parfait ancien ;
+  \item Sujet + \tl{sDm=f} ;
+  \item Construction négative du type \tl{n sDm.n=f} ou \tl{n sDm=f} ;
+  \item Proposition circonstancielle.
+\end{itemize}
+
+\section{Exemples}
+% ---------------------------------------------------------------------
+\begin{example}[title={Élément adverbial simple}]
+  \begin{hieroglyph}
+    gm-m:n sw-W wp:p-tyw-D54:3 Hr-1 wA-A-t:wAt
+  \end{hieroglyph}
+
+  \tl{gm.n sw wpwty.w Hr wA.t}
+  \infos{\cite[§\,51.3, \pno~576]{GM}, \CdS R\,19--20}
+
+  \td{Le fait qu'ils ne trouvèrent \textbf{est} sur le chemin}
+
+  \tg{Sujet = \tl[Gramm]{sDm.n=f} nominal, prédicat = groupe 
+      prépositionnel)}
+
+  \td{\donc{} C'est sur le chemin qui le trouvèrent.}
+\end{example}
+
+\begin{example}[title={Proposition circonstancielle}]
+  \begin{hieroglyph}
+    ir:f n:\!i*1 mi-1 mr:r:r imi-m-w:3 iwn-nw:niwt
+  \end{hieroglyph}
+
+  \tl{ir(w)=f n=i mi mrr imy.w\ \ Iwnw}
+  \infos{\cite[ex.~1910]{MW}}
+
+  \td{Le fait qu'il agira pour moi \textbf{est} comme ceux qui sont 
+      dans Héliopolis le désirent.}
+
+  \tg{Sujet = prospectif, prédicat = circonstancielle véritable avec 
+      \tl[Gramm]{mrr=f}}
+
+  \td{\donc{} C'est comme ceux qui sont dans Héliopolis le désirent 
+      qu'il agira.}
+\end{example}
+
+\begin{example}[title={Sujet + parfait ancien}]
+  \begin{hieroglyph}
+    ir:n A1 rnp-t-1-3 aSA-A-t-3 !
+    X:r:d-w-Xrd-rmT A1 xpr:r m n:xt:x*t-w-A24-A1:3
+  \end{hieroglyph}
+
+  \tl{ir.n=i rnp.wt aSA.wt,\\
+      Xrd.w=i xpr(.w) m nxt.w}
+  \infos{\CdS B\,92--94}
+
+  \td{Le fait que j'ai passé de nombreuses années \textbf{est} alors 
+      que mes enfants étaient devenus des chefs.}
+
+  \tg{Sujet = \tl[Gramm]{sDm.n=f} nominal, prédicat = proposition 
+      pseudo-verbale avec parfait ancien}
+
+  \td{\donc{} C'est alors que mes enfants étaient devenus des chefs, 
+      que j'ai passé de nombreuses années.}
+\end{example}
+
+\begin{notabene}
+  Vous remarquez peut-être que dans certains cas l'identification 
+  d'une construction emphatique n'est pas évidente. Pour les verbes 
+  qui, en position initiale, sont souvent précédés par \tl{iw} 
+  (\tl{sDm.n=f} ici), l'absence de \tl{iw} peut-être un indice de 
+  construction emphatique. La présence en tête de phrase d'un 
+  \tl{mrr=f} peut aussi être un indice.
+
+  Il peut arriver que, pour une même phrase, on puisse admettre une 
+  traduction comme phrase plane et une traduction comme phrase marquée.
+\end{notabene}
+
+
+\chapter{Négations}
+% =====================================================================
+
+Il y a deux types de négations à envisager pour les constructions 
+emphatiques :
+\begin{enumerate}
+  \item la \textbf{négation du sujet} (c'est-à-dire la négation 
+        du temps second lui-même) : \td{c'est sous le sycomore 
+        \textbf{qu'il n'a pas mangé}} ;
+  \item la \textbf{négation de la phrase} dans sa totalité : 
+        \td{\textbf{ce n'est pas sous le sycomore} qu'il a mangé}.
+\end{enumerate}
+
+\bigskip
+
+La négation du temps second se fait avec l'auxiliaire \tl{tm}.
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    tm-m n:f imi-m-A2 Xr:r n:h*t-M1
+  \end{hieroglyph}
+
+  \tl{tm.n=f wnm Xr nh.t}
+
+  \td{*Le fait qu'il n'a pas mangé est sous le sycomore.}
+
+  \td{C'est sous le sycomore qu'il n'a pas mangé.}
+\end{example}
+
+La négation complète de la phrase (la négation du rhème marqué) se 
+fait au moyen de la négation bi-partite \tl{n \dots is}, que nous 
+avons déjà rencontré l'an passé pour les phrases nominales. La 
+négation encadre le premier élément :
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    D35 imi-m-A2 n:f i-s Xr:r n:h*t-M1
+  \end{hieroglyph}
+
+  \tl{n wnm.n=f is Xr nh.t}
+
+  \td{*Le fait qu'il a mangé n'est pas sous le sycomore.}
+
+  \td{Ce n'est pas sous le sycomore qu'il a mangé.}
+\end{example}
+
+Vous remarquez sans doute que la négation est beaucoup plus 
+explicite pour repérer des phrases emphatiques que la forme 
+affirmative, puisqu'on a une négation spécifique pour la forme 
+verbale \frquote{subordonnée} (dans le sujet) et une négation spéciale 
+pour toute la phrase. À cet égard, dans un texte, soyez attentif aux 
+parallélismes de construction, entre phrases à l'affirmatif et phrases 
+négatives. Observez attentivement cet extrait de la Stèle de l'an~16 
+de Sésostris~III à Semna :
+
+\begin{example}[title={}]
+  \renewcommand{\insertimg}{%
+    \includegraphics[scale=0.5, valign=m]{Semna_an16_2}
+    \scalebox{1.5}{\begin{hieroglyph}D35\end{hieroglyph}}%
+  }
+  \settowidth{\graphicwidth}{\insertimg}
+
+  \begin{minipage}{\graphicwidth}
+    \RaggedLeft
+    (\dots)
+    \includegraphics[scale=0.5, valign=m]{Semna_an16_1}
+
+    \insertimg
+  \end{minipage}%
+
+  Sésostris~III parle : 
+
+  \tll{(le futur roi qui protégera la frontière, )}\\
+  \tl{sA=i pw ; ms=t(w)=f n Hm=i}
+
+  \td{c'est mon fils ;}
+  \remg{(\PPN)}\\
+  \td{le fait qu'il sera mis au monde \textbf{est} pour ma Majesté.}
+
+  \tg{Construction emphatique surtout identifiable grâce au 
+      corrélat négatif de la suite ci-dessous ; prospectif passif 
+      sujet, prédicat adverbial}
+
+  \td{\donc{} c'est pour ma Majesté qu'il sera mis au monde.}
+  \rem{(c'est-à-dire \frquote{C'est mon digne successeur.})}
+
+  \tll{(\dots celui qui ne protégera pas la frontière, )}\\
+  \tl{n sA=i is ; n ms=t(w)=f is n=i}
+
+  \td{ce n'est pas mon fils ;}
+  \remg{(\PPN négative)}\\
+  \td{le fait qu'il sera mis au monde \textbf{n'est pas} pour moi.}
+
+  \tg{Construction emphatique, négation ; prospectif passif sujet, 
+      prédicat adverbial}
+
+  \td{\donc{} ce n'est pas pour moi qu'il sera mis au monde.}
+\end{example}
+
+
+\chapter{Conclusion}
+% =====================================================================
+
+Voici le principe expliqué, je l'espère, dans ses grandes lignes 
+simplement. N'oubliez pas à l'issue de votre processus de traduction 
+de construire une phrase syntaxiquement correcte en français qui rende 
+compte de l'idée d'emphase sur une circonstance que vous avez repéré 
+dans la phrase égyptienne.
+
+\bigskip
+
+\begin{exercice}[before upper={\centering}]
+  \donc{} Faites \textbf{l'exercice~10} !
+\end{exercice}

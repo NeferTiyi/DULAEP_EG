@@ -1,0 +1,95 @@
+%!TEX root = DULAEP_EG.htx
+%##HieroDef.txt
+
+\chapter*{Exercice~9}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{Translittérer, analyser et traduire}
+
+  \begin{parts}
+    \part
+    \begin{hieroglyph}wr:r-W:y nb-A1\end{hieroglyph}
+    \infos{\cite[leçon~7]{Allen}}
+
+    \begin{solution}
+      \tl{wr.wy nb} ou \tl{wr.wy nb(=i)} ---
+      \td{Combien est grand le maître} ou 
+      \td{Combien est grand (mon) maître} ---
+      PPAdjectivale avec désinence exclamative de l'adjectif prédicat
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}n:t:f zA-1 st-ir-A40\end{hieroglyph}
+    \infos{\cite[leçon~7]{Allen}}
+
+    \begin{solution}
+      \tl{ntf sA Wsir} ---
+      \td{Il est le fils d'Osiris} ---
+      PPNominal
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}n:n:k sw-W\end{hieroglyph}
+    \infos{\cite[leçon~7]{Allen}}
+
+    \begin{solution}
+      \tl{nnk sw} ---
+      \td{Il m'appartient} ---
+      Proposition d'appartenance
+    \end{solution}
+
+    \part
+    Translittérer et traduire ce nom propre avec le nom du dieu Ptah 
+    en antéposition honorifique :\\
+    \begin{hieroglyph}p:t-h-n-anx-A1\end{hieroglyph}
+    \infos{\cite[ex.~652]{MW}}
+
+    \begin{solution}
+      \tl{N(y)-PtH-anx} --- \td{Nyptahânkh} (\frquote{La vie 
+      appartient à Ptah}), d'après \citeauthor{MW}
+
+      Mais il est à noter que ce point de grammaire est l'objet de 
+      discussions. \citeauthor{Allen}, dans \citetitle[leçon~7, 
+      \pno~91]{Allen}, considère qu'il faut translittérer : 
+      \tl{N(y)-anx-PtH} (avec traduction du nom identique).
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}n:k i-m HD:nbw:N33*3\end{hieroglyph}
+    \infos{\cite[ex.~660]{MW}}
+
+    \begin{solution}
+      \tl{n=k-im(y) HD} ---
+      \td{L'argent m'appartient} ou \td{à moi l'argent} ---
+      expression de l'appartenance par un prédicat adverbial
+    \end{solution}
+
+    \part
+    Réponse de la divinité serpent de l'île au naufragé qui a annoncé 
+    son désir de l'honorer en lui offrant différents biens, dont de la 
+    myrrhe :\\
+    \begin{hieroglyph}a:n-tyw-Hnqt n:A1 i-m sw-W\end{hieroglyph}
+    \infos{\cite[ex.~661]{MW}, \CdN}\\
+    Attention, dans cette phrase, il y a une thématisation du sujet 
+    par antéposition, c'est-à-dire que le sujet (le thème de la 
+    phrase) est annoncé en tête, puis de nouveau présent à la place 
+    attendue sous la forme d'un pronom.
+
+    \begin{solution}
+      \tl{antyw, n=i-im(y) sw} ---
+      \td{La myrrhe, elle m'appartient.} ---
+      expression de l'appartenance par un prédicat adverbial
+    \end{solution}
+  \end{parts}
+\end{questions}
+
+\subsection*{Vocabulaire}
+\begin{multicols}{2}
+  \begin{itemize}
+     \item \begin{hieroglyph}a:n-tyw-Hnqt\end{hieroglyph}
+           \tl{antyw}, \td{myrrhe}
+     \item \begin{hieroglyph}HD-nbw:N33*3\end{hieroglyph}
+           \tl{HD}, \td{argent}
+   \end{itemize}
+\end{multicols}

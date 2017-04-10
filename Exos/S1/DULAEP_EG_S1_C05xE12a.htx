@@ -1,0 +1,95 @@
+%!TEX root = DULAEP_EG.htx
+%##HieroDef.txt
+
+\chapter*{Exercice~12 (à rendre par email)}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{Translittérer, analyser\footnote{Indiquer la nature 
+  et la fonction des mots à l'intérieur du groupe nominal.} et 
+  traduire les groupes nominaux suivants :}
+
+  \begin{parts}
+    \part
+    \begin{hieroglyph}nb:t p*t:pt\end{hieroglyph}
+    \begin{solution}
+      \tl{nb.t p.t}, \td{maîtresse du ciel} ---
+      Groupe nominal : nom + complément de nom au génitif direct
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}st-t:pr n:t anx-n:x-rmT\end{hieroglyph}
+    \begin{solution}
+      \tl{s.t n(y).t anx.w}, \td{la place des vivants} ---
+      Groupe nominal : nom + complément de nom au génitif indirect
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}r-m-in:3 nw:1 i-t:r-w-N36:mw\end{hieroglyph}
+    \begin{solution}
+      \tl{rm.w n(y).w itrw}, \td{les poissons du fleuve} ---
+      Groupe nominal : nom + complément de nom au génitif indirect
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}
+      x:t-Y1:3 nb:t b-i-n:t:G37 Dw-w-t:G37
+    \end{hieroglyph}
+    \begin{solution}
+      \tl{x.t nb.t bin.t Dw.t}, 
+      \td{toutes choses mauvaises et néfastes} ---
+      Groupe nominal : nom, adjectif indéfini + deux adjectifs de 
+      qualité
+    \end{solution}
+  \end{parts}
+
+  \question\qfmt{Donner en hiéroglyphes et en translittération 
+  l'équivalent des groupes suivants :}
+
+  \begin{parts}
+    \part\td{Cette tienne tombe.} (en parlant à une femme)
+    \begin{solution}
+      \begin{hieroglyph}i-iz-z:pr T t:n\end{hieroglyph}
+      \tl{is=T tn}
+    \end{solution}
+
+    \part\td{Les deux frères}(comme personnages mythologiques).
+    \begin{solution}
+      \begin{hieroglyph}sn:n-W:y-A1-A1\end{hieroglyph}
+      \tl{sn.wy}
+    \end{solution}
+
+    \part\td{Le seigneur du Double-Pays.}
+    \begin{solution}
+      \begin{hieroglyph}nb tA:tA\end{hieroglyph}
+      \tl{nb tA.wy}
+    \end{solution}
+
+    \part\td{Le souverain, mon maître.}
+    \begin{solution}
+      \begin{hieroglyph}i-ti-i-i-A23 nb A1\end{hieroglyph}
+      \tl{ity, nb=i}
+    \end{solution}
+
+    \part\td{La maîtresse de maison.} (génitif direct)
+    \begin{solution}
+      \begin{hieroglyph}nb:t pr:1\end{hieroglyph}
+      \tl{nb.t-pr}
+    \end{solution}
+  \end{parts}
+\end{questions}
+
+\subsection*{Vocabulaire\protect\footnotemark{}}
+\footnotetext{Se reporter aussi au vocabulaire des exercices 
+précédents et des exemples vus en cours.}
+
+\begin{multicols}{2}
+\begin{itemize}
+  \item \begin{hieroglyph}i-t:r-w-N36:mw\end{hieroglyph} 
+        \tl{itrw}, \td{fleuve}
+  \item \begin{hieroglyph}Dw-w-G37\end{hieroglyph} 
+        \tl{Dw}, \td{néfaste}
+  \item \begin{hieroglyph}b-i-n:G37\end{hieroglyph} 
+        \tl{bin}, \td{mauvais}
+\end{itemize}
+\end{multicols}

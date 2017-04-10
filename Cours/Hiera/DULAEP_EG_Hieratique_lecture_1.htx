@@ -1,0 +1,115 @@
+%!TEX root = DULAEP_EG.htx
+%##HieroDef.txt
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\addcontentsline{toc}{part}{Exercice de lecture}
+\part*{Exercice de lecture}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{exercice}
+  Cette phrase  a été traduite pendant le cours 
+  (voir \Pref{prt:PPN_2}, \Cref{cha:PPN_non_auto}). 
+  Transcrire en \hiero[es] et traduire jusqu'à la flèche.
+
+  Le texte donne le nom du magicien (Djédi). Les deux premiers signes 
+  sont des bilitères que nous n'avons pas vus mais ils sont proches du 
+  \hiero.
+
+  {\flushright%
+    \begin{tikzpicture}
+      \node [anchor=south west, inner sep=0] (image) at (0,0) 
+            {\includegraphics[scale=0.75]{hiera_Djedi_1}} ;
+      \begin{scope}[
+        x={(image.south east)},
+        y={(image.north west)},
+        % red,
+        very thick,
+        >=stealth,
+      ]
+        \draw [thin] (0.00, 1.00) -- (1.00, 1.00) ;
+        \draw [->] (0.10, 1.10) -- (0.10, 0.80) ;
+      \end{scope}
+    \end{tikzpicture}\\
+    \smaller%
+    \source{Papyrus Westcar}, ligne~A1 (\cite[d'après][21]{HL1})
+    \par%
+  }%
+
+  \medskip
+
+  Quelques indications :\\
+  {\renewcommand\tabularxcolumn[1]{m{#1}}
+  \begin{tabularx}{0.85\textwidth}{l!{=}Xl!{=}X}
+    \includegraphics[scale=0.67, valign=m]{hiera_Y1} &
+    rouleau de papyrus fermé (position supérieure) &
+    \includegraphics[scale=0.67, valign=m]{hiera_A2} &
+    homme assis portant la main à la bouche
+    \tabularnewline
+  \end{tabularx}%
+  }%
+\end{exercice}
+
+\bigskip
+
+\begin{exercice}
+  Ce personnage a un appétit remarquable :
+
+  {\flushright%
+    \includegraphics[scale=0.75]{hiera_Djedi_2}\\
+    \smaller%
+    \source{Papyrus Westcar}, ligne~A2 (\cite[d'après][21]{HL1})%
+    \par%
+  }%
+
+  \medskip
+
+  Quelques indications paléographiques :\\
+  {\renewcommand\tabularxcolumn[1]{m{#1}}
+  \begin{tabularx}{\textwidth}{l!{=}Xl!{=}Xl!{=}X}
+      \includegraphics[scale=0.67, valign=m]{hiera_pains} &
+      \begin{hieroglyph}t:X2-X4:3\end{hieroglyph} &
+      \includegraphics[scale=0.67, valign=m]{hiera_wnm} &
+      \begin{hieroglyph}M42\end{hieroglyph} &
+      \includegraphics[scale=0.67, valign=m]{hiera_num_500} &
+      nombre \num{500}
+    \tabularnewline
+  \end{tabularx}%
+  }%
+\end{exercice}
+
+\vfill
+
+Solutions page suivante.
+
+\newpage
+
+\begin{exercice}
+  \includegraphics[scale=0.75]{hiera_Djedi_1}
+
+  \reflectbox{%
+    \begin{hieroglyph}
+      Dd-Dd-i-Y1:A1 r:n-A2 -f
+    \end{hieroglyph}%
+  }
+
+  \tl{+di rn=f}
+
+  \td{Son nom est Djédi.}
+\end{exercice}
+
+\bigskip
+
+\begin{exercice}
+  \includegraphics[scale=0.75]{hiera_Djedi_2}
+
+  \reflectbox{%
+    \begin{hieroglyph}
+      i-W:f Hr-1 wnm-m-A2 t:X2-X3-X4-3 100*100*100:100*100
+    \end{hieroglyph}%
+  }
+
+  \tl{iw=f Hr wnm t 500}
+
+  \td{Il mange \num{500}~pains.} 
+  (suite : \td{et une épaule de taureau})
+\end{exercice}

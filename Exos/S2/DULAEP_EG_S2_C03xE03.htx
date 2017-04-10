@@ -1,0 +1,112 @@
+%!TEX root = DULAEP_EG.htx
+%##HieroDef.txt
+
+\chapter*{Exercice~3 --- Impératif}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{Translittérer, analyser et traduire}
+
+  \begin{parts}
+    \part Tombe de Ptahhotep, Saqqâra, \dyn{5}
+
+    \renewcommand{\insertimg}{%
+      \includegraphics[height=4cm]{Ptahotep_3}%
+    }
+    \settowidth{\graphicwidth}{\insertimg}
+    \begin{minipage}[b]{\graphicwidth}
+      \insertimg%
+    \end{minipage}%
+    \hfill%
+    \begin{minipage}[b]{\linewidth-(\graphicwidth+7mm)}
+      Paroles de l'officiant qui découpe la patte, adressée à son 
+      collègue qui la maintient.
+    \end{minipage}
+
+    \begin{solution}
+      \tl{iT r=k wr.t} ---
+      \td{Tiens donc fermement} / \td{Saisis donc grandement} 
+      (\tl{wr.t} est un adverbe)\\
+      Proposition à l'impératif
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}m-D54 r:k r O8-t:pr\end{hieroglyph}
+    \begin{solution}
+      \tl{mi r=k r HA.t-aA} ---
+      \td{Viens donc au palais !} 
+      (impératif irrégulier du verbe \tl{iii})\\
+      Proposition à l'impératif
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}h-A-D54 r-f m nfr-f:r-w-t:P1\end{hieroglyph}
+    \begin{solution}
+      \tl{hA rf m nfrw.t} ---
+      \td{Descends donc dans la barque-\emph{neferout} !}\\
+      Proposition à l'impératif.
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}i-zb m Htp:t*p zp:1*1\end{hieroglyph}
+    \begin{solution}
+      \tl{is m Htp sp-sn} ---
+      \td{Va en paix ! Va en paix !} ou 
+      \td{Va en paix ! (bis)}\\
+      Proposition à l'impératif.
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}m snD-A2\end{hieroglyph}
+    \begin{solution}
+      \tl{m snD} ---
+      \td{N'aie pas peur !}\\
+      Proposition au vétitif.
+    \end{solution}
+  \end{parts}
+
+  \question\qfmt{Traduire en égyptien classique en joignant aux 
+  hiéroglyphes la translittération}
+
+  \begin{parts}
+    \part\td{Écris-lui (à lui) !}
+    \begin{solution}
+      \begin{hieroglyph}h-A-b-D54 n:f\end{hieroglyph}\quad
+      \tl{hAb n=f \ex}
+    \end{solution}
+
+    \part\td{Ne dis pas de mensonge !} 
+    \begin{solution}
+      \begin{hieroglyph}m Dd' g:r-grg-A2\end{hieroglyph}\quad
+      \tl{m Dd grg \ex}
+    \end{solution}
+
+    \part\td{Bats-toi ! (Combats !)} 
+    \begin{solution}
+      \begin{hieroglyph}aHA-A24\end{hieroglyph}\quad
+      \tl{aHA \ex}
+    \end{solution}
+  \end{parts}
+\end{questions}
+
+\subsection*{Vocabulaire}
+\begin{multicols}{2}
+  \begin{itemize}
+    \item \begin{hieroglyph}iTi-A24\end{hieroglyph} 
+          \tl{iTi} \vi{3}, \td{prendre}
+    \item \begin{hieroglyph}aHA-A24\end{hieroglyph} 
+          \tl{aHA}, \td{combattre}
+    \item \begin{hieroglyph}nfr-f:r-w-t:P1\end{hieroglyph} 
+          \tl{nfrw.t}, \td{barque-\emph{néférout}}
+    \item \begin{hieroglyph}h-A-b-D54\end{hieroglyph} 
+          \tl{hAb}, \td{envoyer un message, un messager}, \td{écrire}
+    \item \begin{hieroglyph}zp:1*1 +l\ ou \ +s zp:y\end{hieroglyph} 
+          \tl{sp 2}, \td{deux fois}, \td{bis}
+    \item \begin{hieroglyph}snD-A2\end{hieroglyph} 
+          \tl{snD}, \td{avoir peur}
+    \item \begin{hieroglyph}Sd:d-A24\end{hieroglyph} 
+          \tl{Sdi}, \td{secourir}, \td{sauver}
+    \item \begin{hieroglyph}g:r-grg-A2\end{hieroglyph} 
+          \tl{grg}, \td{mensonge}
+  \end{itemize}
+\end{multicols}

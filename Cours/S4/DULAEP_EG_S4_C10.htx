@@ -1,0 +1,287 @@
+%!TEX root = DULAEP_EG.htx
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\part{Quelques procédés de rhétorique}
+\label{prt:S4_rethorique}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\chapter{Introduction}
+% =====================================================================
+
+\noindent%
+\cite[667--683 (§\,\textsc{xliii})]{MW}
+\cite[leçons~50--52]{GM}
+\cite[§\,25.6]{Allen}
+
+Dans le \Pref{prt:S4_subord_recap}, nous avons abordé la \clef{phrase 
+coupée}, c'est-à-dire une construction qui sert à mettre en avant, à 
+mettre \clef{l'emphase} sur le sujet d'une action.
+
+\begin{cadre}[before upper=\centering]
+  \td{Le serviteur écoute.} \remg{(phrase plane)}\\
+  \tl{iw bAk sDm=f} \remg{(aoriste)}
+
+  \td{C'est le serviteur qui écoute.} 
+  \remg{(emphase sur le sujet de l'action)}\\
+  \tl{in bAk sDm(w)} \remg{(phrase coupée avec participe)}
+\end{cadre}
+
+Nous allons aborder, ou plutôt revoir en les regroupant tous 
+ensemble, d'autres procédés rhétoriques de mise en avant d'un 
+élément de la phrase.
+
+\paragraph{Pour rappel,} du point de vue énonciatif, une phrase 
+complète est constituée :
+\begin{itemize}
+  \item d'un thème (normalement le sujet)
+  \item d'un rhème (prédicat, l'information sur le sujet).
+\end{itemize}
+
+\begin{center}
+  \td{La maison est belle.}\\
+  \smaller%
+  Sujet : \td{la maison}\\
+  Prédicat : \td{est belle}
+\end{center}
+
+\bigskip
+
+Le sujet et le prédicat peuvent aussi être accompagnés de compléments :
+
+\begin{center}
+  \td{La maison est belle sous le soleil.}\\
+  \smaller%
+  Sujet : \td{la maison}\\
+  Prédicat : \td{est belle}\\
+  Complément circonstanciel : \td{sous le soleil}
+\end{center}
+
+\bigskip
+
+Dans un énoncé non marqué (neutre) : 
+le thème = sujet ; rhème = prédicat.
+
+Dans une stratégie d'énonciation différente, on peut choisir de mettre 
+l'emphase sur un élément spécifique de la phrase. Il existe \clef{deux 
+procédés principaux} :
+\begin{itemize}
+  \item La \clef{thématisation} : ce procédé consiste à mettre en 
+        avant le thème de la phrase, le sujet (par topicalisation)\\
+        \td{La maison est belle sous le soleil.} \donc{} 
+        \td{\clel{Quant à la maison}, elle est belle sous le soleil.}
+  \item la \clef{rhématisation} : ce procédé consiste à transformer 
+        une partie de la phrase en rhème marqué (focalisation)\\
+        \td{La maison est belle sous le soleil.} \donc{} 
+        \td{C'est \clel{la maison} qui est belle sous le soleil.}\\
+        \remg{(phrase coupée : emphase sur le sujet)}\\
+        \td{La maison est belle sous le soleil.} \donc{} 
+        \td{C'est \clel{sous le soleil} que la maison est belle.}\\
+        \remg{(emphase sur la circonstance)}
+\end{itemize}
+
+
+Nous allons aborder les deux procédés. Le premier, 
+\frquote{thématisation}, est très simple, il suffit comme en 
+français de mentionner en avance le sujet, par exemple précédé 
+de \tl{ir}, \td{quant à}. Nous verrons cela dans un second temps.
+Le second procédé, \frquote{rhématisation}, est plus complexe. 
+Nous allons commencer par lui.
+
+
+\chapter{La rhématisation}
+% =====================================================================
+
+\section{\emph{\texten{Cleft sentence}} ou phrase coupée}
+% ---------------------------------------------------------------------
+La \clef{mise en valeur du sujet} a été étudié dans le 
+\Pref{prt:S4_phrase_coupee}.
+
+\begin{example}[title={}]
+  \tl{\clel{in bAk} sDm(w)}
+
+  \td{C'est \clel{le serviteur} qui écoute.}
+\end{example}
+
+\section{Temps seconds ou verbes en fonction substantive emphatique}
+% ---------------------------------------------------------------------
+Ils ont été vus dans le \Pref{prt:S4_emphatique} du 
+\titleref{bk:semestre3}. 
+Reportez-vous y pour le détail, mais ici sont donnés quelques éléments 
+de rappel. 
+
+C'est un procédé qui met en relief des circonstants, c'est-à-dire 
+qu'il transforme une circonstance en \textbf{rhème marqué}. Cette 
+circonstance marquée est présentée comme la situation exclusive qui 
+permet la réalisation d'un procès.
+
+\begin{example}[title={}]
+  \td{Il mange sous le sycomore.} \remg{(phrase plane)}
+
+  \tl{iw=f wnm=f Xr nh.t} \remg{(aoriste)}
+
+  \bigskip
+
+  \td{C'est sous le sycomore qu'il mange.} \remg{(phrase emphatique)}\\
+  = \td{\clel{Le fait qu'il mange} \blue{est sous le sycomore}.}
+
+  \tl{\clel{wnm=f} \blue{Xr nh.t}} 
+
+  En \clel{orange}, un verbe en fonction nominale emphatique 
+  (= temps dit second) –-- fonction de \clel{sujet}.
+  En \blue{bleu}, le \blue{prédicat} mis en avant.
+\end{example}
+
+\paragraph{\clel{Le premier membre de la phrase (le sujet)}} 
+peut être (d'après \citeauthor{MW}) :
+\begin{itemize}
+  \item Trois formes nominales du verbe : l'accompli \tl{sDm.n=f}, 
+        la forme \tl{mrr=f}, le prospectif/subjonctif et les passifs 
+        correspondants ;
+  \item Une proposition non verbale introduite par le convertisseur 
+        \tl{wnn}.
+\end{itemize}
+
+\paragraph{\blue{Le second membre de la phrase (le prédicat)}} 
+peut être :
+\begin{itemize}
+  \item Un groupe prépositionnel ou une élément adverbial ;
+  \item Une forme \tl{sDm.n=f} ou \tl{sDm=f} en fonction 
+        circonstancielle ;
+  \item Sujet + parfait ancien ;
+  \item Sujet + \tl{sDm=f} ;
+  \item Construction négative du type \tl{n sDm.n=f} ou \tl{n sDm=f} ;
+  \item Proposition circonstancielle introduite par \tl{iw}, \tl{isT}, 
+        \tl{ti} ou \tl{ntt} ;
+  \item Subordonnée circonstancielle.
+\end{itemize}
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    di':di' T:n:3 p-pA-a:q-w-X4:3:n r:T-rmT-A1 
+    i-W s-n:3 Hr-1 ir:t kA-t:Y1
+  \end{hieroglyph}
+
+  \tl{\clel{didi=Tn pAao.w n r(m)T=i} \blue{iw=sn Hr ir.t kA.t}}
+  \infos{\source{Dossier d'Héqanakht}}
+
+  \td{\clel{Le fait que vous donniez des rations à mes gens} 
+      \blue{est (à la condition) qu'ils accomplissent le travail.}}
+
+  \tg{\clel{forme \tl[ClefCol]{mrr=f}} (fonction nominale emphatique)\\
+      \phantom{\flech\ }\blue{proposition circonstancielle} 
+      introduite par \tl[Gramm]{iw} (avec pronom suffixe)}
+
+  \td{Vous ne donnerez des rations à mes gens qu'à la condition 
+      qu'ils travaillent.}
+\end{example}
+
+Revoir les exemples donnés dans le \Pref{prt:S4_emphatique} du 
+semestre dernier.
+
+\subsection*{Négation de la phrase emphatique (rappel)}
+% ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Il y a deux façon de nier :
+\begin{itemize}
+  \item Nier le sujet (la négation du verbe en fonction nominale 
+        emphatique avec \tl{tm} + complément verbal négatif) :\\
+        \tl{\clel{tm=k wnm} \remg{(\tl[Gramm]{mrr=f} négatif)} 
+        \blue{Xr nh.t}}\\
+        \td{\clel{le fait qu'il ne mange pas} \blue{est sous le 
+        sycomore}.}
+  \item Nier le rhème marqué (avec la négation bipartite 
+        \tl{n \dots is} qui encadre le premier élément) :\\
+        \tl{\blue{n} \clel{wnm=f} \blue{is Xr nh.t}}\\
+        \clel{Le fait qu'il mange} \blue{n'est pas sous le sycomore.}\\
+        \blue{Ce n'est pas sous le sycomore} \clel{qu'il mange}.
+\end{itemize}
+
+
+\chapter{La thématisation}
+% =====================================================================
+
+La thématisation est un autre procédé de mise en avant d'un 
+élément de la phrase, très simple. C'est un phénomène linguistique 
+(propre au domaine du discours), qu'il soit parlé ou écrit 
+(\citeauthor[voir][]{MW}). Il consiste à mentionner en tête de phrase 
+un nom ou un groupe nominal qui sera ensuite repris par un pronom dans 
+la phrase (\td{Des figues, le serviteur en mange.}).
+
+\citeauthor{MW} indiquent deux type de mises en relief :
+\begin{itemize}
+  \item par antéposition (par anaphore) : 
+        \td{Des figues, le serviteur en mange.}
+  \item par post-position (par cataphore) : 
+        \td{Le serviteur en mange, des figues.}
+\end{itemize}
+
+En égyptien, l'élément thématisé peut, ou non, être introduit par 
+\begin{hieroglyph}i-r\end{hieroglyph} \tl{ir} (\td{quant à}) ou 
+\begin{hieroglyph}m-D38:k\end{hieroglyph} \tl{mk}. 
+\gens[A.H.]{Gardiner} parle de \emph{\texten{anticipatory emphasis}} 
+(\citetitle[leçon~\textsc{xiii}]{Gardiner}).
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    x-\!b-z:\!w-t:D3 -f wr:r s r mH:a-1-1
+  \end{hieroglyph}
+
+  \tl{xbsw.t=f, wr s(y) r mH 2}
+  \infos{\CdN, 63, \cite[§\,147]{Gardiner}}
+
+  \td{Sa barbe, elle est plus grande que 2 coudées.} 
+
+  \tg{\PPJ, avec thématisation du sujet}
+
+  \bigskip
+
+  \begin{hieroglyph}
+    i-r x-m-n' :nb r:1 p:n n' aq-q:D54-n:f
+  \end{hieroglyph}
+
+  \tl{ir xm nb r(A) pn, n ao.n=f}
+
+  \td{Quant à toute (personne) ignorant cette formule, 
+      il ne peut rentrer.}
+
+  \tg{Thématisation du sujet avec un participe substantivé, 
+      et aoriste négatif en verbe de la phrase}
+\end{example}
+
+
+\chapter{La phrase balancée (rappels)}
+% =====================================================================
+
+Nous avons vu (\titleref{bk:semestre3}, \Pref{prt:S3_nom_imperf}, 
+\Cref{cha:Wechelsatz}) les phrases balancés avec les formes de la 
+conjugaison suffixales attestées dans cette construction. Voici un 
+petit rappel.
+
+Dans la \clef{phrase balancée} ou \clef{\emph{Wechselsatz}}, les deux 
+membres de la phrase sont mis en parallèle pour montrer qu'il y a une 
+corrélation étroite entre les deux idées qu'elles expriment.
+Le système utilise des formes de la conjugaison suffixale qui 
+peuvent avoir une fonction substantive, donc la forme \tl{mrr=f}, 
+le \tl{sDm.n=f} et le prospectif/subjonctif.
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    x:d-d:P1 -k !
+    di':di' t-\!w n:k V16-tA:N21*1
+  \end{hieroglyph}
+
+  \tl{xdd=k\\didi=tw n=k sA tA}
+  \infos{\cite[§\,25.12]{Allen}}
+
+  \td{Navigues-tu vers le sud,\\
+      qu'on t'adresse des hommages (\litt \frquote{protection du 
+      sol}\footnotemark{})}
+
+  \tg{Phrase balancée avec deux formes \tl[Gramm]{mrr=f}}
+\end{example}
+\footcitetext[Voir][§\,25.12, n.~18]{Allen}
+
+\bigskip
+
+\begin{exercice}[before upper={\centering}]
+  Faire \textbf{l'exercice~10}.
+\end{exercice}

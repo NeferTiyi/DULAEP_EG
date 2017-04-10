@@ -1,0 +1,202 @@
+%!TEX root = DULAEP_EG.htx
+%##HieroDef.txt
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\part*{Semestre~2 : Examen}\markright{Semestre~2 : Examen}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Documents autorises : listes de signes \hiero[iques], lexiques et 
+dictionnaires.
+
+\bigskip
+
+\begin{questions}
+  % Exercice 1.
+  \question\qfmt{Translittérer et traduire la première ligne du 
+  document ci-dessous (figure \no2), c'est-à-dire la date.}
+  Il s'agit d'un document présenté au défunt Khnoumhotep~II, dans 
+  la fameuse scène de sa tombe à Béni Hassan (tombe~3) dite la 
+  \frquote{caravane des Asiatiques} (voir figure~1 pour la situation 
+  du détail). Le document présenté est écrit en \hiero cursif. Il 
+  donne le compte des \tl{aAmw} (\td{Asiatiques}) ramenés à l'occasion 
+  d'une mission envoyée pour aller chercher de la galène (\tl{msdm.t}) 
+  dans les déserts de l'est. Pour faire l'exercice, vous pouvez vous 
+  reporter à la transcription hiéroglyphique jointe.
+
+  {\RaggedLeft%
+    fig.~1\quad\includegraphics[width=0.67\linewidth]{Khnoumhotep_1}\\
+    fig.~2\quad\includegraphics[width=0.50\linewidth]{Khnoumhotep_2}
+    \par
+  }
+
+  Transcription de la ligne~1 à traduire : 
+  \reflectbox{%
+    \begin{hieroglyph}
+      rnp-t:zp 3:3 x:r Hm-1:n G5 sSm:tA:tA nswbjty <-ra-xa-xpr->
+    \end{hieroglyph}%
+  }
+
+  \begin{hieroglyph}sSm\end{hieroglyph}\quad
+  trilitère valeur \tl{sSm}
+
+  \begin{solution}
+    \tl{rnp.t-sp 6 xr Hm n(y) @r \%Sm-tA.wy nsw-bity \#a-xpr-ra}
+
+    \td{L'an~6 sous la majesté de l'Horus Sechemtaoui, 
+    le roi de \HBE Khâkheperrê}
+  \end{solution}
+
+  % Exercice 2.
+  \question\qfmt{translittérer, analyser\footnote{Indiquez le type 
+  des propositions et indiquez (s'il y a lieu) : auxiliaire, sujet 
+  et prédicat.} et traduire les phrases suivantes}
+
+  \begin{parts}
+    \part Extrait du \source{Papyrus Westcar} : Redjedet, l'épouse 
+    d'un prêtre de Rê nommé Ouserrê, est enceinte des futurs rois de 
+    la \dyn{5}. Rê envoie Isis, Nephthys, Meskhénet, Héqet et Khnoum 
+    pour aider lors de l'accouchement. Les déesses se présentent à 
+    Ouserrê pour offrir leurs services, en disant :
+
+    \begin{hieroglyph}
+      m-a:k' n:3 r:x-Y1:W*y-n:3 s-ms-s-y
+    \end{hieroglyph}
+
+    \begin{solution}
+      \tl{mk n rx.wyn sms.y}
+
+      \td{Vois, nous connaissons l'art d'enfanter.}
+      \litt : 
+      \td{Vois, nous savons faire mettre au monde.}
+
+      \PPP, avec parfait ancien, élément introducteur \tl{mk}, sujet 
+      pronom dépendant.
+    \end{solution}
+
+    \part Stèle de Ouha (Chicago \inv{OIM\,16956}), ligne~3, extrait 
+    de l'inscription autobiographique
+
+    {\RaggedLeft%
+      \includegraphics[width=0.67\linewidth]{Chicago_OIM16956_Ouha}
+
+      \reflectbox{%
+        \begin{hieroglyph}
+          nw:k mr-i-i n:t:f-A50:f Hz-i-i n mwt-\!\!t:.-B1:f
+        \end{hieroglyph}%
+      }\par
+    }
+
+    \begin{solution}
+      \tl{ink mry n(y) it=f, Hsy n(y) mw.t=f}
+
+      \td{Je suis un aimé de son père, un loué de sa mère.}
+
+      \PPN, sujet pronom indépendant et prédicat des groupes nominaux 
+      avec des participes substantivés.
+    \end{solution}
+
+    \part Extrait d'un texte littéraire, Le dialogue d'un homme avec 
+    son \emph{ba}. Conseil du \emph{ba} à l'homme :
+
+    \begin{subparts}
+      \subpart
+      \begin{hieroglyph}sDm-m-r:k:n A1\end{hieroglyph}
+
+      \subpart
+      \begin{hieroglyph}
+        m-a:k' nfr-f:r sDm-m n:r:T-rmT
+      \end{hieroglyph}
+
+      \subpart
+      \begin{hieroglyph}Sms-s-D54 h:r-w-ra nfr-f:r\end{hieroglyph}
+
+      \subpart
+      \begin{hieroglyph}s-m-x:n' mH:a-A2\end{hieroglyph}
+    \end{subparts}
+
+    \begin{solution}
+      \tl{%
+        sDm r=k n=i\\
+        Mk, nfr sDm n rmT\\
+        Sms hrw nfr\\
+        smx mH%
+      }
+
+      \td{Écoute-moi donc.} ---
+      phrase à l'impératif\\
+      \td{Vois, écouter les gens est bon.} ---
+      \PPJ introduite par \tl{mk}\\
+      \td{Suis un jour heureux.} ---
+      phrase à l'impératif\\
+      \td{Oublie le souci.} ---
+      phrase à l'impératif
+    \end{solution}
+
+    \part 
+    \begin{hieroglyph}
+      b-i-n:G37-w\!\!y:. md-d:t-A2-3:k
+    \end{hieroglyph}
+
+    \begin{solution}
+      \tl{bin.wi md.wt=k \ex}
+
+      \td{Comme tes paroles sont mauvaises !}
+
+      \PPJ (prédicat \tl{bin} avec suffixe \tl{wy} : 
+      \td{comme !}, \td{combien !})
+    \end{solution}
+
+    \part 
+    \begin{hieroglyph}nn wn:n tp*1:f\end{hieroglyph}
+
+    \begin{solution}
+      \tl{nn wn tp=f}
+
+      \td{Il n'y pas sa tête = il n'a pas de tête.}
+
+      Proposition de non-existence.
+    \end{solution}
+  \end{parts}
+\end{questions}
+
+\subsection*{Vocabulaire}
+\begin{multicols}{2}
+    \begin{itemize}
+      \item \begin{hieroglyph}i-t:f-A50\end{hieroglyph}
+            \tl{it}, \td{père}
+      \item \begin{hieroglyph}i-ti-i-i-A41\end{hieroglyph}
+            \tl{ity}, \td{souverain}
+      \item \begin{hieroglyph}b-i-n:G37\end{hieroglyph}
+            \tl{bin}, \td{mauvais}
+      \item \begin{hieroglyph}mwt-\!\!t:.\end{hieroglyph}
+            \tl{mw.t}, \td{mère}
+      \item \begin{hieroglyph}mr-i-i\end{hieroglyph}
+            \tl{mry}, \td{(un) aimé} (participe substantivé de 
+            \tl{mri})
+      \item \begin{hieroglyph}mH:a-A2\end{hieroglyph}
+            \tl{mH}, \td{souci}
+      \item \begin{hieroglyph}md-d:t-A2\end{hieroglyph}
+            \tl{md.t}, \td{parole}, \td{discours}, \td{affaire}
+      \item \begin{hieroglyph}r:x-Y1v\end{hieroglyph}
+            \tl{rx}, \td{apprendre à connaître}, \td{savoir}
+      \item \begin{hieroglyph}Hz-i-i\end{hieroglyph}
+            \tl{Hsy}, \td{(un) loué}, \td{(un) favorisé} 
+            (participe substantivé de \tl{Hsy}) ; 
+      \item \begin{hieroglyph}s-m-x:n'\end{hieroglyph}
+            \tl{smx} \vcl{2}, \td{oublier}
+      \item \begin{hieroglyph}s-ms-s-y\end{hieroglyph}
+            \tl{smsy} \vci{3}, \td{l'art de mettre au monde}, 
+            \td{faire accoucher}
+      \item \begin{hieroglyph}sDm-m\end{hieroglyph}
+            \tl{sDm} \vl{3}, \td{écouter}
+      \item \tl{sDm n \dots}, \td{écouter (quelqu'un)} 
+            (construction indirecte)
+      \item \begin{hieroglyph}Sms-s-D54\end{hieroglyph}
+            \tl{Sms} \vl{3}, \td{suivre}, \td{accompagner}, 
+            dans l'expression 
+            \begin{hieroglyph}
+              Sms-s-D54 h:r-w-ra nfr-f:r
+            \end{hieroglyph} 
+            \td{faire un jour heureux}
+    \end{itemize}
+\end{multicols}

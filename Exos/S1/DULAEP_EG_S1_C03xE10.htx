@@ -1,0 +1,188 @@
+%!TEX root = DULAEP_EG.htx
+%##HieroDef.txt
+
+\chapter*{Exercice~10 (à rendre par email)}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{Translittérer et traduire}
+
+  \begin{multicols}{2}
+  \begin{parts}
+    \part
+    \begin{hieroglyph}r-m-w-in:3 A1\end{hieroglyph}
+    \begin{solution}
+      \tl{rm.w=i}, \td{mes poissons}
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}nb-A1 :k\end{hieroglyph}
+    \begin{solution}
+      \tl{nb=k}, \td{ton maître}
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}zA-\!\!t:.-B1 s\end{hieroglyph}
+    \begin{solution}
+      \tl{sA.t=s}, \td{sa fille}
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}mwt-\!\!t:.-B1 f\end{hieroglyph}
+    \begin{solution}
+      \tl{mw.t=f}, \td{sa mère}
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}i-t:f-A1:3 s-n\end{hieroglyph}
+    \begin{solution}
+      \tl{it.w=sn}, \td{leurs pères}
+    \end{solution}
+  \end{parts}
+  \end{multicols}
+
+  \question\qfmt{Donner en hiéroglyphes et en translittération le 
+  pluriel des mots suivants}
+
+  \begin{solution}
+    Plusieurs réponses sont possibles
+  \end{solution}
+
+  \begin{multicols}{2}
+  \begin{parts}
+    \part\td{oiseau}
+    \begin{solution}
+      \begin{hieroglyph}A-p:d-W-zA\end{hieroglyph}
+      \tl{Apd.w}
+    \end{solution}
+
+    \part\td{s{\oe}ur}
+    \begin{solution}
+      \begin{hieroglyph}sn-n:t-B1-Z3A\end{hieroglyph}
+      \tl{sn.wt}
+    \end{solution}
+
+    \part\td{place}
+    \begin{solution}
+      \begin{hieroglyph}st-t:pr:3\end{hieroglyph}
+      \tl{s.wt}
+    \end{solution}
+
+    \part\td{conseil}
+    \begin{solution}
+      \begin{hieroglyph}s-x:r-W-Y1:3\end{hieroglyph}
+      \tl{sxr.w}
+    \end{solution}
+
+    \part\td{chemin}
+    \begin{solution}
+      \begin{hieroglyph}
+        wAt\s1:.-\!\!\!.:wAt\s1-\!\!\!wAt\s1:.
+      \end{hieroglyph}
+      \tl{wA.wt}
+    \end{solution}
+  \end{parts}
+  \end{multicols}
+
+  \question\qfmt{Donner en hiéroglyphes et en translittération le duel 
+  des mots suivants : plusieurs réponses sont possibles}
+
+  \begin{multicols}{2}
+  \begin{parts}
+    \part\td{jambe}
+    \begin{solution}
+      \begin{hieroglyph}r:d-W:y-rd-rd\end{hieroglyph}
+      \tl{rd.wy}
+    \end{solution}
+
+    \part\td{obélisque}
+    \begin{solution}
+      \begin{hieroglyph}t*x:n-W:y-txn-txn\end{hieroglyph}
+      \tl{txn.wy}
+    \end{solution}
+
+    \part\td{frère}
+    \begin{solution}
+      \begin{hieroglyph}sn:n-A1-A1\end{hieroglyph}
+      \tl{sn.wy}
+    \end{solution}
+
+    \part\td{{\oe}il}
+    \begin{solution}
+      \begin{hieroglyph}ir:ir\end{hieroglyph}
+      \tl{ir.ty}
+    \end{solution}
+  \end{parts}
+  \end{multicols}
+
+  \question\qfmt{Écrire en hiéroglyphes et en translittération les 
+  séquences suivantes}
+
+  \begin{multicols}{2}
+  \begin{parts}
+    \part\td{leurs places}
+    \begin{solution}
+      \begin{hieroglyph}st-t:pr:3 s-n:3\end{hieroglyph}
+      \tl{s.wt=sn}
+    \end{solution}
+
+    \part\td{ta tombe} (pour une femme)
+    \begin{solution}
+      \begin{hieroglyph}i-iz-z:pr s\end{hieroglyph}
+      \tl{is=s}
+    \end{solution}
+
+    \part\td{tes enfants} (à un homme)
+    \begin{solution}
+      \begin{hieroglyph}X:r:d-W-Xrd-rmT k\end{hieroglyph}
+      \tl{Xrd.w=k}
+    \end{solution}
+
+    \part\td{nos maisons}
+    \begin{solution}
+      \begin{hieroglyph}
+        pr\s1:.-\!\!.:pr\s1-\!\!pr\s1:. n:3
+      \end{hieroglyph}
+      \tl{pr.w=n}
+    \end{solution}
+
+    \part\td{vos noms}
+    \begin{solution}
+      \begin{hieroglyph}r:n-nw:W-A2-Z3A T:n:3\end{hieroglyph}
+      \tl{rn.w=Tn}
+    \end{solution}
+  \end{parts}
+  \end{multicols}
+\end{questions}
+
+\subsection*{Vocabulaire}
+\begin{multicols}{2}
+\begin{itemize}
+  \item \begin{hieroglyph}st-t:pr\end{hieroglyph} 
+        \tl{s.t}, \td{place}
+  \item \begin{hieroglyph}A-p:d-zA\end{hieroglyph} 
+        \tl{Apd}, \td{oiseau}
+  \item \begin{hieroglyph}ir:t*1\end{hieroglyph} 
+        \tl{ir.t}, \td{{\oe}il}
+  \item \begin{hieroglyph}i-iz-z:pr\end{hieroglyph} 
+        \tl{is}, \td{tombe}
+  \item \begin{hieroglyph}wAt:t*1\end{hieroglyph} 
+        \tl{wA.t}, \td{chemin}
+  \item \begin{hieroglyph}nb-A1 +l\ ou\ +s nb:1\end{hieroglyph} 
+        \tl{nb}, \td{maître}, \td{possesseur}
+  \item \begin{hieroglyph}r-m-in\end{hieroglyph} 
+        \tl{rm}, \td{poisson}
+  \item \begin{hieroglyph}r:n-A2\end{hieroglyph} 
+        \tl{rn}, \td{nom}
+  \item \begin{hieroglyph}r:d-rd\end{hieroglyph} 
+        \tl{rd}, \td{jambe}
+  \item \begin{hieroglyph}X:r:d-Xrd-A1\end{hieroglyph} 
+        \tl{Xrd}, \td{enfant}
+  \item \begin{hieroglyph}sn:n-A1\end{hieroglyph} 
+        \tl{sn}, \td{frère}
+  \item \begin{hieroglyph}s-x:r-Y1v\end{hieroglyph} 
+        \tl{sxr}, \td{plan}, \td{conseil}
+  \item \begin{hieroglyph}t*x:n-txn\end{hieroglyph} 
+        \tl{txn}, \td{obélisque}
+\end{itemize}
+\end{multicols}

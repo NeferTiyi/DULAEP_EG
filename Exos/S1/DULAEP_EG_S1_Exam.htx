@@ -1,0 +1,238 @@
+%!TEX root = DULAEP_EG.htx
+%##HieroDef.txt
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\part*{Semestre~1 : Examen}\markright{Semestre~1 : Examen}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Documents autorises : listes de signes, lexiques et dictionnaires 
+égyptien-français.
+
+\bigskip
+
+\begin{questions}
+  \question\qfmt{Paroi de la tombe du pharaon Séthy~I\ier (musée du 
+  Louvre). Translittérer et traduire les légendes se rapportant aux 
+  deux personnages (col.~1 à~5).}
+
+  \begin{minipage}{0.4\linewidth}
+    \centering
+    \includegraphics[width=\textwidth]{Louvre_B7_2}
+  \end{minipage}%
+  \begin{minipage}{0.6\linewidth}
+    \centering
+    \adjustbox{valign=T, minipage=2cm, raise=-2ex}{%
+      \begin{hieroglyph}
+        +dg-|5-W10:t Aa8:t:xAst imnt
+      \end{hieroglyph}%
+    }%
+    \adjustbox{valign=T, minipage=1.3\Htm}{%
+      \EnColonne[1.3\Htm]{%
+        \begin{hieroglyph}
+          +dg-|4-O10 Hr*tp-t wAs*(t:niwt)
+        \end{hieroglyph}%
+      }%
+    }%
+    \qquad%
+    \adjustbox{valign=T, minipage=3cm}{%
+      \EnColonne[1.3\Htm]{%
+        \begin{hieroglyph}
+          |1-nb tA'-tA'-idb*idb <-ra-mAat-mn-> !
+          |2-nb xa*3 <-(p:t)*H-C12*i*i-N36-n-> !
+          |3-di*anx mi*(ra:1) Dt
+        \end{hieroglyph}%
+      }
+    }%
+  \end{minipage}
+
+  \bigskip
+
+  \begin{solution}
+    \tl{%
+      \lgn{1} nb tA.wy Mn-MAa.t-Ra 
+      \lgn{2} nb xa.w \%tXy-mr.n-PtH 
+      \lgn{3} di anx mi Ra D.t%
+    }
+
+    \td{%
+      \lgn{1} le seigneur du Double-Pays Menmaâtrê, 
+      \lgn{2} seigneur des couronnes Séthy-aimé-de-Ptah, 
+      \lgn{3} doué de vie comme Rê éternellement.%
+    }
+
+    \tl{%
+      \lgn{4} @w.t-@r Hry.t-tp WAs.t
+      \lgn{5} Hnw.t smy.t jmnt(y.t)%
+    }
+
+    \td{%
+      \lgn{4} Hathor, qui préside à Thèbes
+      \lgn{5} souveraine de la nécropole occidentale.%
+    }
+  \end{solution}
+
+  \begin{EnvFullwidth}
+    \subsection*{Vocabulaire}
+    \begin{multicols}{2}
+      \begin{itemize}
+        \item \begin{hieroglyph}<-ra-mAat-mn->\end{hieroglyph}
+              \tl{Mn-MAa.t-Ra}, \td{Menmaâtrê}\\
+        \item \begin{hieroglyph}
+                <-C12-i-i-> +l pour +s <-stX-i-i->
+              \end{hieroglyph}
+              \tl{\%tXy}, \td{Séthy}
+        \item \begin{hieroglyph}imnt-t:xAst\end{hieroglyph}
+              \tl{imn.t}, \td{Occident}
+        \item \begin{hieroglyph}wAs-t:niwt\end{hieroglyph}
+              \tl{WAs.t}, \td{Thèbes}
+        \item \begin{hieroglyph}p:t-H-A40\end{hieroglyph}
+              \tl{PtH}, \td{Ptah}
+        \item \begin{hieroglyph}N36:n\end{hieroglyph}
+              \tl{mr.n} (forme verbale), \td{qu'aime\dots (un dieu)}
+        \item \begin{hieroglyph}
+                H-nw:t-B1 +l, var +s W10:t
+              \end{hieroglyph}
+              \tl{Hnw.t}, \td{souveraine}
+        \item \begin{hieroglyph}
+                Hr-r:y-tp-1 +l, +s Hr-tp
+              \end{hieroglyph}
+              \tl{Hry-tp}, \td{qui préside à}, \td{qui a autorité sur} 
+              (adjectif nisbé)
+        \item \begin{hieroglyph}Aa8:t:xAst\end{hieroglyph}
+              \tl{smy.t}, \td{désert}, \td{nécropole} 
+              (notamment dans l'expression \tl{smy.t imnt(y).t} ou 
+              \tl{smy.t imnt(y.t)})
+      \end{itemize}
+    \end{multicols}
+  \end{EnvFullwidth}
+
+  \question\qfmt{Translittérer, analyser et traduire les phrases 
+  suivantes}\\
+  {\smaller%
+    NB : l'analyse grammaticale doit indiquer :
+    \begin{enumerate*}
+      \item le type de(s) proposition(s), 
+      \item les auxiliaires et introducteurs éventuels, 
+      \item le sujet et le prédicat.
+    \end{enumerate*}%
+  }
+
+  \begin{parts}
+    \part\textbf{\source{La complainte de Khâkheperrêseneb}}
+
+    \begin{hieroglyph}
+      +dg-niwt:t*3 Aa8:t*niwt-Z3A m i-a:n-nw-W-A2-Z3A
+    \end{hieroglyph}%
+    \begin{solution}
+      \tl{niw.wt spA.wt m ianw \ex}
+
+      \td{Les villes et les provinces sont dans la détresse !}
+    \end{solution}
+
+    \part\textbf{Extrait d'une lettre d'Héqanakht aux membres de sa 
+    maisonnée :} après avoir annoncé que les salaires sont revus à la 
+    baisse en raison des circonstances économiques, le chef de domaine 
+    cherche à rassurer sur sa bienveillance.
+
+    \begin{hieroglyph}
+      +dg-m:di' T:n:3 pr-1-rmT r-Dr:r-f m-mi-t:t X:r:d-G37-w-rmT A1
+    \end{hieroglyph}%
+
+    {\smaller\SmallerText%
+      NB : dans le groupe 
+      \begin{hieroglyph}X:r:d-G37-w-rmT\end{hieroglyph} 
+      lire le \begin{hieroglyph}w\end{hieroglyph} avant le moineau.%
+    }
+
+    \begin{solution}
+      \tl{mTn pr r-Dr=f m mit.t Xrd.w=i}
+
+      \td{Voyez, la maisonnée toute entière est pareille à mes 
+          enfants.}
+    \end{solution}
+
+    \part\textbf{\source{Prophétie de Néferti} :} annonce de l'action 
+    du futur roi
+
+    \begin{hieroglyph}
+      +dg-i-W T14-m-W-rmT r x:r-A15:n S:a-t:F41-sSm:3 f-!
+      +dg-ti-m-H-W-T14-rmT xAst:r x:r-A15:n n:ns:\!\!z\s1-W:t-Q7-3 :f-!
+      +dg-i-W a:r-a:t-I12 imi-m-\!\!t:. xnt-n:t-pr :f 
+      Hr-1 s-h:r-t:Y1 n:f XA-A-k':Aa2-ib-1-A14
+    \end{hieroglyph}%
+
+    \begin{solution}
+      \tl{iw aAm.w r xr n Sa.t=f, \&imHy.w r xr n nsw.t=f. 
+          iw ara.t im(y).t xnt=f Hr shr.t n=f XAk-ib}
+
+      \td{Les Asiatiques vont tomber à cause de son massacre, 
+          les Libyens vont tomber à cause de sa flamme. 
+          L'ur{\ae}us qui est à son front apaise pour lui le 
+          mécontent.}
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}nn s-xA-A-A2 f x:r tp*p:tA-A1-Z3\end{hieroglyph}%
+    \begin{solution}
+      \tl{nn sxA(w)=f xr tp(y).w-tA}
+
+      \td{Son souvenir n'est pas auprès des survivants.}
+    \end{solution}
+  \end{parts}
+
+  \begin{EnvFullwidth}
+    \subsection*{Vocabulaire}
+    \begin{multicols}{2}
+      \begin{itemize}
+        \item \begin{hieroglyph}i-a:n-nw-W-A2\end{hieroglyph}
+              \tl{ianw}, \td{plainte}, \td{détresse}
+        \item \begin{hieroglyph}T14-m-A1\end{hieroglyph}
+              \tl{aAm}, \td{Asiatique}
+        \item \begin{hieroglyph}a:r-a:t-I12\end{hieroglyph}
+              \tl{ara.t} (var. de \tl{iar.t}), \td{ur{\ae}us}
+        \item \begin{hieroglyph}mi-t*t:Y1\end{hieroglyph}
+              \tl{mit.t}, \td{le pareil (que)}, 
+              \td{la même chose (que)}
+        \item \begin{hieroglyph}n:ns:\!\!z\s1-W:t-Q7-Z3\end{hieroglyph}
+              \tl{nsw.t}, \td{flamme}
+        \item \begin{hieroglyph}pr-rmT\end{hieroglyph}
+              \tl{pr}, \td{maisonnée}
+        \item \begin{hieroglyph}
+                xnt-n:t-D19 +l, +s xnt-n:t-pr
+              \end{hieroglyph}
+              \tl{xnt}, \td{face}, \td{front}
+        \item \begin{hieroglyph}x:r-A15\end{hieroglyph}
+              \tl{xr} \vl{2}, \td{tomber} ; 
+              \tl{xr n}, \td{tomber à cause de}
+        \item \begin{hieroglyph}x:r\end{hieroglyph}
+              \tl{xr}, \td{auprès de}
+        \item \begin{hieroglyph}XA-A-k':Aa2-ib-1-A14\end{hieroglyph}
+              \tl{XAk-ib}, \td{mécontent}
+        \item \begin{hieroglyph}X:r:d-Xrd\end{hieroglyph}
+              \tl{Xrd}, \td{enfant}
+        \item \begin{hieroglyph}
+                spAt:t*1 +l, +s Aa8:t*niwt
+              \end{hieroglyph}
+              \tl{spA.t}, \td{nome}, \td{province}
+        \item \begin{hieroglyph}s-h:r-Y1v\end{hieroglyph}
+              \tl{shri} \vci{3}, \td{apaiser}
+        \item \begin{hieroglyph}
+                s-xA-A-w-A2 +l, +s s-xA-A-A2
+              \end{hieroglyph}
+              \tl{sxAw}, \td{souvenir}
+        \item \begin{hieroglyph}S:a-t:F41-sSm:3\end{hieroglyph}
+              \tl{Sa.t}, \td{massacre}
+        \item \begin{hieroglyph}ti-m-H-y-T14-A1\end{hieroglyph}
+              \tl{\&imHy}, \td{Libyen}
+        \item \begin{hieroglyph}tp*p:tA-A1\end{hieroglyph}
+              \tl{tp-tA}, \td{celui qui est sur terre}, 
+              \td{le survivant} (adjectif nisbé)
+      \end{itemize}
+      \begin{notabene}
+        \begin{hieroglyph}r-Dr:r\end{hieroglyph}
+        \tl{r-Dr} + pronom suffixe = \td{jusqu'à sa limite} = 
+        \td{tout entier}
+      \end{notabene}
+    \end{multicols}
+  \end{EnvFullwidth}
+\end{questions}

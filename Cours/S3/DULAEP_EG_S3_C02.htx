@@ -1,0 +1,408 @@
+%!TEX root = DULAEP_EG.htx
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\part{[Épigraphie] Formules de dédicaces dans les temples}
+\label{prt:S3_dedicace}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\cites(Voir)()[leçon~34]{GM}[§\,18.7]{Allen}.
+
+À côté du formulaire d'offrande (\tl{di.n=i n=k}, voir 
+\Pref{prt:S3_accompli}) qui accompagne les représentations de 
+présentation d'offrandes aux dieux par le roi, un autre formulaire, 
+courant dans les inscriptions épigraphiques royales, utilise 
+l'accompli \tl{sDm.n=f}.
+
+Il s'agit de la formule de dédicace d'un monument : par cette formule, 
+un roi dédie à un dieu un monument qu'il a fait construire ou fait 
+embellir. C'est une façon pour le roi de mettre en avant son action et 
+sa relation privilégiée avec le dieu.
+
+Comme le formulaire \tl{di.n=i n=k}, le formulaire de dédicace 
+n'est jamais précédé de \tl{iw}. On peut considérer qu'il est 
+tout naturellement omis, le contexte d'énonciation étant donné par 
+l'ensemble de la scène. Je vous propose de considérer, à la suite de 
+la plupart des auteurs, que \tl{iw} est simplement en ellipse, et 
+donc de ne pas tenir compte de son absence dans la traduction du 
+formulaire. Nous verrons plus tard quelle autre variante de traduction 
+proposent les auteurs (par exemple \cite[ex.~1679]{MW}) qui rendent 
+l'absence de \tl{iw}.
+
+\noindent%
+\uline{Voici ce formulaire :}
+
+Il est en général précédé du nom d'un roi, puis de :
+\begin{itemize}
+  \item \begin{hieroglyph}ir:n:f\end{hieroglyph}
+        \tl{ir.n=f}, \td{il (le roi) a fait}
+  \item \begin{hieroglyph}m mn:nw*nw*nw\end{hieroglyph}
+        \tl{m mnw(=f)}, \td{en tant que (son) monument} suivi du 
+        nom d'un dieu ou d'un ancêtre introduit par la préposition 
+        \tl{n}, \td{pour}
+  \item éventuellement explicitation de l'objet exprimée par un 
+        infinitif par exemple : 
+        \begin{hieroglyph}s-aHa\end{hieroglyph} 
+        \tl{saHa}, \td{(l'acte) d'ériger}, 
+        \begin{hieroglyph}s-mA-A-w-Y1v\end{hieroglyph} 
+        \tl{smAw(.t)}, \td{renouveler}, 
+        \begin{hieroglyph}ir:t-n:f\end{hieroglyph} 
+        \tl{ir.t n=f}, \td{l'action de faire pour lui}
+  \item À ces éléments de base, s'ajoutent d'autres développements 
+        possibles, notamment (voir \cite[§\,18.7]{Allen}) 
+        \begin{hieroglyph}ir:f di-anx Dt\end{hieroglyph} 
+        \tl{ir=f di-anx D.t}, \td{de sorte qu'il (le roi) soit 
+        (\litt fasse) un doué-de-vie éternellement}. 
+        L'analyse de la forme verbale diffère selon les auteurs 
+        (comparer \citeauthor{Allen} et \citeauthor{GM}), mais 
+        il s'agit de toute façon d'une forme \tl{sDm=f} que nous 
+        n'avons pas encore étudiée.
+\end{itemize}
+
+\begin{example}[title={Exemple 1 : La chapelle blanche de 
+                Sésostris~I à Karnak}]
+  \begin{hieroglyph}
+    nswbjty <-ra-xpr-kA-> ir:n:f m mn:nw*nw*nw:f 
+    n :t:f i-mn:n:ra*1-A40 s-aHa n:f st-t*pr:f :n-t :xa:\!a:t
+  \end{hieroglyph}
+
+  \tl{nsw-bity \#pr-kA-Ra, ir.n=f m mnw=f n it=f\ \ Imn-Ra saHa n=f 
+      s.t=f n(y).t xa.t m mAw.t}
+
+  \td{Le roi de \HBE, Khéperkarê, il a fait comme son monument pour 
+      son père Amon-Rê le fait de faire dresser pour lui sa place 
+      d'apparition à nouveau.}
+
+  Source : \url{http://www.cfeetk.cnrs.fr/karnak/?iu=1087}
+
+  \cite{Lacau_Chevrier}
+
+  Voir P. LACAU, H. CHEVRIER, Une chapelle de Sésostris Ier à Karnak. Texte, Le Caire, 1956, p. 44-45
+\end{example}
+
+\begin{example}[title={Exemple 2 : Fragment de table d'offrande 
+                       au nom de Thoutmosis III, KIU 25}, breakable]
+  \setlength{\graphicwidth}{7cm}
+  \noindent%
+  \begin{minipage}{\graphicwidth}
+    \includegraphics[width=\textwidth]{Karnak_KIU_25}
+  \end{minipage}%
+  \hfill%
+  \begin{minipage}{\textwidth-(\graphicwidth+1cm)}
+    (Cfeetk, source : \url{http://www.cfeetk.cnrs.fr/karnak/?iu=25})
+    P. BARGUET, Le temple d'Amon-Rê à Karnak. Essai d'exégèse, RAPH 21, 1962, p. 202
+  \end{minipage}%
+
+  texte de la colonne à gauche, puis de la ligne en bas :
+
+  \tll{(le roi Menkhéperrê) }
+  \tl{ir.n=f m mnw=f [n] it=f\ \ Imn, nb nsw.wt tA.wy} 
+
+   \td{il a fait (ceci) comme son monument pour son père Amon, 
+       le seigneur des trônes du Double Pays}
+
+  \tl{xft ir.t=f Hw.t-aA.t m mAw.t Mn-xpr-Ra-Ax-mnw}
+
+  \td{en faisant (\tl{xft}, \td{lorsque} + infinitif \td{son faire}) 
+      un grand-château nouveau}
+
+  \tl{m pr n(y) it=f\ \ Imn,}
+
+  \td{dans la maison de son père Amon,}
+
+  \tl{ir=f di-anx D.t}
+
+  \td{de sorte qu'il soit un doué-de-vie éternellement.}
+
+  \bigskip
+
+  Voici la traduction complète proposée par \gens[P.]{Barguet} :\\
+  \includegraphics[width=\textwidth]{Karnak_KIU_25_trado}
+\end{example}
+
+\bigskip
+
+\begin{exercice}[before upper={\centering}]
+  Un petit \textbf{exercice d'épigraphie} vous est à présent proposé. 
+  Voir rubrique exercices.
+  % \donc{} Faire \textbf{l'exercice~15} (à rendre par email).
+\end{exercice}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\part[L'aoriste ou inaccompli \tl{sDm=f} (1)]{L'aoriste ou inaccompli 
+\tl{sDm=f} (1) (\td{il écoute})}
+\label{prt:S3_aoriste}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Nous venons d'apprendre une forme verbale qui rend l'accompli, 
+le \tl{sDm.n=f}. Nous allons à présent étudier une deuxième forme 
+importante qui a une valeur d'inaccompli général (vérité d'ordre 
+général, habitude, action répétée) appelée l'aoriste \tl{sDm=f} 
+ou l'inaccompli \tl{sDm=f} (\td{il écoute} ou \td{il écoutait}).
+
+Appellations :
+\begin{itemize}
+  \item \textbf{aoriste \tl{sDm=f}} est l'appellation la plus 
+        courante en domaine francophone 
+        (\cite[leçon~17]{GM}{Obsomer}[§\,586]{MW}),
+  \item \textbf{inaccompli \tl{sDm=f}} est aussi utilisé 
+        (\cite[§\,586]{MW})
+  \item \textbf{\texten{imperfective} \tl{sDm=f}} 
+        (\cite[§\,20]{Allen})
+  \item anciennement on trouve aussi \tl{sDm=f} circonstancielle, 
+        mais qui n'est plus guère utilisé (voir les explications 
+        dans \cite[§\,586]{MW})
+\end{itemize}
+
+L'aoriste est à l'origine le nom d'une forme verbale de la conjugaison 
+grecque. Le nom vient du grec \emph{aoristos} \frquote{non limité, 
+indéterminé}. En grec, c'est une forme verbale qui peut exprimer des 
+vérités d'ordre générale. Le terme est donc repris pour cette forme 
+égyptienne, par analogie partielle avec le grec.
+
+
+\chapter{Valeur}
+% =====================================================================
+
+L'aoriste est une classification de forme verbale qui rend compte d'un 
+\textbf{aspect} et non du temps du verbe. L'aoriste est par excellence 
+en égyptien \textbf{\frquote{l'inaccompli ordinaire}} (qui diffère de 
+l'inaccompli progressif \tl{Hr} + infinitif, action en train de se 
+faire, voir ci-dessous). Il est neutre du point de vue temporel. Si 
+le point de référence du locuteur est le présent, on le traduira en 
+français par un présent d'habitude \tl{sDm=f}, \td{il écoute}. Si le 
+point de référence est le passé, on le traduira volontiers par un 
+imparfait \tl{sDm=f}, \td{il écoutait}.
+
+Ses valeurs habituelles sont :
+\begin{itemize}
+  \item \textbf{l'inaccompli habituel} (par opposition à une action 
+        en train de se faire, cf. le progressif, voir ci-dessous)
+  \item l'expression de vérités générales (\textbf{aoriste gnomique}).
+\end{itemize}
+
+
+\chapter{Morphologie}
+% =====================================================================
+
+{
+\renewcommand\tabularxcolumn[1]{A{#1}}
+\noindent%
+\begin{tabularx}{\textwidth}{|>{\bfseries}X|*{6}{X|}}
+  \cline{2-7}
+    \multicolumn{1}{c|}{~} &
+    \multirow{2}{*}{\bfseries\vl{3}} &
+    \multirow{2}{*}{\bfseries\vg{2}} &
+    \multirow{2}{*}{\bfseries\vi{3}} &
+    \multicolumn{3}{c|}{\bfseries\va{}}
+  \tabularnewline
+    \multicolumn{1}{c|}{~} &
+    ~ & ~ & ~ & 
+    \bfseries\td{donner} & 
+    \bfseries\td{venir} & 
+    \bfseries\td{apporter}
+  \tabularnewline
+  \hline
+    \cellcolor{fvinit}Aoriste \tl{sDm=f} & \tl{sDm} & \tl{mAA} & 
+    \tl{mr} & \tl{di} & \tl{iw}  & \tl{in}
+  \tabularnewline
+  \hline
+\end{tabularx}
+}
+
+Le thème verbal est bref pour les verbes faibles et géminé pour les 
+verbes géminés.
+\tl{rdi} utilise le terme verbal \tl{di}.
+
+Une caractéristique particulière de cette forme verbale est le fait 
+qu'il présente, en fonction prédicative, le sujet deux fois : une 
+première fois avant le verbe et une seconde fois, de faon nominal, 
+et après le verbe (sujet pronominal post-posé) : \tl{iw bAk sDm=f} = 
+\td{le serviteur écoute} / \tl{iw=f sDm=f} = \td{il écoute}
+
+
+\chapter{Emplois (1) : comme prédicat principal}
+% =====================================================================
+
+Nous voyons dans un premier temps la \textbf{fonction prédicative} de 
+l'aoriste \tl{sDm=f}, c'est-à-dire son emploi comme prédicat dans une 
+proposition verbale (autonome ou initiale).
+
+Pour fonctionner comme prédicat de proposition indépendante, 
+l'aoriste est normalement précédé de l'auxiliaire d'énonciation 
+\tl{iw}.
+Le sujet est normalement antéposé et rattaché à \tl{iw} (sujet nominal 
+ou pronominal), puis répété dans la forme suffixale (pronom suffixe).
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    jw r*1:n z:\!A1*1 n:N41-m-D40:f sw-w
+  \end{hieroglyph}
+
+  \tl{iw r(A) n(y) s nHm=f sw}
+  \infos{\CdN}
+
+  \td{La bouche d'un homme le sauve}
+\end{example}
+
+\donc{} Notez que \clef{le COD pronominal est exprimé par le pronom 
+dépendant} (dans l'exemple ci-dessus \tl{sw}).
+
+Toutefois l'auxiliaire d'énonciation n'est pas obligatoire et peut 
+être omis dans certaines circonstances (notamment pour donner une 
+nuance exclamative ou dans le cadre des légendes de scènes sur les 
+monuments) :
+
+\begin{example}[title={}]
+  \begin{hieroglyph}i-mn:n-ra:1 di':f anx\end{hieroglyph}
+
+  \tl{Imn-ra di=f anx \ex}
+  \infos{\cite[ex.~837]{MW}, Chapelle blanche de Sésostris~I\ier}
+
+  \td{Amon-Rê donne la vie !}
+\end{example}
+
+L'auxiliaire \tl{mk} peut évidemment remplacer \tl{iw}.
+
+\begin{example}[title={}]
+  \begin{hieroglyph}m-a:k' w-A1 Sm-m-D54 A1 r-A1\end{hieroglyph}
+
+  \tl{mk, wi Sm=i r=i}
+  \infos{\cite[\pno~194, §\,17.3]{GM}, \CTx{II}, 384\,a}
+
+  \td{Vois, je m'en vais, quant à moi.}
+\end{example}
+
+Dans la \emph{narration}, l'aoriste se rend par un imparfait.
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    Hm-1 f h-A-b-D54:f w z:p*zp-3 aSA-A-w r wp:p-w-t:D54 nb
+  \end{hieroglyph}
+
+  \tl{Hm=f hAb=f w(i) sp.w aSA.w r wpw.t nb(.t)}
+  \infos{\cite[ex.~836]{MW}}
+
+  \td{Sa Majesté m'envoyait de nombreuses fois en mission.} 
+\end{example}
+
+L'auxiliaire d'énonciation peut être remplacé par le convertisseur 
+passé \tl{wn}. Il transpose alors la proposition dans le passé par 
+rapport au point de référence temporel.
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    wn:n A1 mAa:D54 A1 r b-i-N41:xAst p:n
+  \end{hieroglyph}
+
+  \tl{wn=i mAa=i r biA pn}
+  \infos{\cite[ex.~841]{MW}, \source{Sinaï} 90, W\,13}
+
+  \td{Je me rendais (habituellement) dans cette région minière.} 
+\end{example}
+
+
+\chapter{Négation}
+% =====================================================================
+
+L'aoriste \tl{sDm=f} est nié par la tournure suivante \tl{n sDm.n=f}, 
+c'est-à-dire par la négation \tl{n} suivi de l'accompli \tl{sDm.n=f} !
+
+Attention de ne pas vous embrouiller :
+\begin{itemize}
+  \item l'accompli \tl{sDm.n=f} se nie au moyen de \tl{n} + \tl{sDm=f} 
+        perfectif (sur cette forme voir \Pref{prt:S3_perfectif})
+  \item l'aoriste \tl{sDm=f} se nie au moyen de \tl{n} + \tl{sDm.n=f}
+\end{itemize}
+
+La tournure \tl{n sDm.n=f} \td{il n'entend pas} marque en fait 
+\frquote{une nuance d'impossibilité} (\cite[§\,638]{MW}) : 
+\td{il ne peut entendre}
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    D35 md-d-w-A2 n:f
+  \end{hieroglyph}
+
+  \tl{n mdw.n=f}
+  \infos{\cite[§\,18.2]{GM}, \CTx{II}, 96\,b}
+
+  \td{Il ne parle pas} = \td{Il ne peut parler} 
+\end{example}
+
+\tl{iw} est évidemment remplacé par la négation. En revanche, celle-ci 
+peut-être précédée de l'auxiliaire \tl{mk}.
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    m-a:k' D35 wAH-H-Y1 n A1 sw-w
+  \end{hieroglyph}
+
+  \tl{mk, n wAH.n=i sw}
+  \infos{\cite[§\,18.2]{GM}, \source{Kahun}, 18, 6}
+
+  \td{Vois, je ne peux le laisser.} 
+\end{example}
+
+
+\chapter{La morphologie du passif}
+% =====================================================================
+
+Le passif de l'aoriste \tl{sDm=f} s'obtient par ajout d'un infixe 
+\tl{-tw} (entre le thème de l'aoriste et le pronom suffixe). Cet 
+infixe \tl{-tw} est écrit 
+\begin{hieroglyph}t-w\end{hieroglyph} \tl{.tw} ou 
+\begin{hieroglyph}t\end{hieroglyph} \tl{.t(w)}.
+
+\tl{iw sDm.t(w)=f}, \td{Il est entendu.}
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    mw m i-t:r-W-S:3 s-wr-i-t-A2 f
+  \end{hieroglyph}
+
+  \tl{mw itrw swr.t(w)=f}
+  \infos{\cite[ex.~1003]{MW}, \CdS B\,233-234}
+
+  \td{L'eau du fleuve est bue.}
+\end{example}
+
+
+\chapter{Excursus 1 : inaccompli ordinaire / inaccompli progressif}
+% =====================================================================
+
+À présent que nous progressons d'avantage dans la grammaire de 
+l'égyptien classique, n'oubliez pas ce que nous avons vu l'an 
+dernier, et faites des mises en relation pour percevoir le système.
+
+L'aoriste \tl{sDm=f} est un \textbf{inaccompli ordinaire}, qui 
+fonctionne en complément de \textbf{l'inaccompli progressif} que 
+nous avons étudié l'an passé :
+
+\noindent%
+\tl{iw bAk sDm=f}\\
+\td{Le serviteur écoute (habituellement).}
+
+\noindent%
+\tl{iw bAk Hr sDm}\\
+\td{Le serviteur écoute / est en train d'écouter.}
+
+
+\chapter{Excursus 2 : aoriste \tl{sDm=f} et accompli \tl{sDm.n=f}}
+% =====================================================================
+
+Opérez aussi des mises en relation au sein de la conjugaison 
+suffixale. Du point de vue aspectuel, le système fonctionne sur une 
+opposition entre :
+
+\noindent%
+\tl{iw=f sDm=f}, \td{il écoute}\\
+et\\
+\tl{iw sDm.n=f}, \td{il a écouté}
+
+\bigskip
+
+\begin{exercice}[before upper={\centering}]
+  Nous pouvons à présent aborder \textbf{les exercices} !
+\end{exercice}

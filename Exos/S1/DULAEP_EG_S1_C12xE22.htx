@@ -1,0 +1,99 @@
+%!TEX root = DULAEP_EG.htx
+%##HieroDef.txt
+
+\chapter*{Exercice~22}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{Translittérer, analyser et traduire}
+
+  \begin{parts}
+    \part
+    \begin{hieroglyph}
+      x-s-U35-D40 aA:p*p-I14 m P3-1 ra-1-A40
+    \end{hieroglyph} 
+    \infos{titre d'une incantation contre Apopis}
+    \begin{solution}
+      \tl{xsf aApp m wiA Ra}, 
+      \td{Repousser Apopis de la barque de Rê.}
+
+      énoncé-titre (avec infinitif)
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}
+      HA-A-A2 n:A1 x:n-nw-w-pA'-A2:3 x-m-m-y:Y1-O-!
+      Tz:z-W-Y1-A2:3 x:p*p-i-i-A2:3-O
+    \end{hieroglyph} 
+    \infos{\source{Khâkheperrêseneb}} -- révision
+    \begin{solution}
+      \tl{HA, n=i xnw xmmy, Ts.w xppy.w \ex}, 
+      \td{Ah, si j'avais des paroles inconnues, des vers inhabituels !}
+
+      Proposition à prédicat adverbial introduite par \tl{HA} + 
+      prédicat (\tl{n} + pronom suffixe) et deux sujets coordonnés.
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}
+      i-n-i-W n:k' it-3:A1 r wA-A-t:wAt sxt-t*y:A1
+    \end{hieroglyph} 
+    \infos{\CdP}
+    \begin{solution}
+      \tl{in-iw n=k it=i r wA.t, sxty ?}, 
+      \td{Mon orge sera-t-il, pour toi, un chemin, paysan ?}
+
+      Proposition à prédicat adverbial interrogative avec 
+      interrogation + complément d'attribution (\tl{n=k}) + sujet + 
+      groupe prépositionnel prédicat (\tl{r} d'état) + vocatif.
+    \end{solution}
+
+    \part Légende d'une scène dans la tombe de Râhotep à Meïdoum 
+    (\dyn{4})
+
+    \renewcommand{\insertimg}{%
+      \includegraphics[width=6cm]{Rahotep_Meidoum}%
+    }
+    \settowidth{\graphicwidth}{\insertimg}
+    \begin{minipage}[b]{\graphicwidth}
+      \insertimg%
+    \end{minipage}%
+    \hfill%
+    \begin{minipage}[b]{\linewidth-(\graphicwidth+7mm)}
+      D'après Petrie, \emph{Meidum}, pl.~XII.
+    \end{minipage}
+
+    \begin{solution}
+      \tl{skA it bty}, 
+      \td{Cultiver l'orge et le blé}
+    \end{solution}
+  \end{parts}
+\end{questions}
+
+\subsection*{Vocabulaire}
+\begin{multicols}{2}
+  \begin{itemize}
+    \item \begin{hieroglyph}it-+l\ ou\ +s-M33\end{hieroglyph} 
+          \tl{it}, \td{orge}
+    \item \begin{hieroglyph}P3-1\end{hieroglyph} 
+          \tl{wiA}, \td{barque}
+    \item \begin{hieroglyph}aA:p*p-I14\end{hieroglyph} 
+          \tl{aApp}, \td{Apopis}
+    \item \begin{hieroglyph}bdt-t:y-it-3\end{hieroglyph} 
+          \tl{bty}, \td{blé}
+    \item \begin{hieroglyph}x:p*p-i-i-A2:3\end{hieroglyph} 
+          \tl{xppy}, \td{inhabituel}
+    \item \begin{hieroglyph}x-m-m-y:Y1\end{hieroglyph} 
+          \tl{xmmy}, \td{inconnu}
+    \item \begin{hieroglyph}x:n-nw-w-pA'-A2:3\end{hieroglyph} 
+          \tl{xnw}, \td{paroles}
+    \item \begin{hieroglyph}x-s-U35-D40\end{hieroglyph} 
+          \tl{xsf} \vl{3}, \td{repousser}
+    \item \begin{hieroglyph}s-kA-U13\end{hieroglyph} 
+          \tl{skA} \vl{3}, \td{labourer}
+    \item \begin{hieroglyph}sxt-t*y:A1\end{hieroglyph} 
+          \tl{sxty}, \td{paysan}
+    \item \begin{hieroglyph}Tz:z-Y1-A2\end{hieroglyph} 
+          \tl{Ts}, \td{vers}
+  \end{itemize}
+\end{multicols}

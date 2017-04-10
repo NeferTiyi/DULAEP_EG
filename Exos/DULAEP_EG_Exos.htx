@@ -1,0 +1,525 @@
+\documentclass[%
+  % draft,
+  ngerman, english, french,
+  biblio,
+  hiero,
+  % coptic,
+  kpfonts,
+  % background,
+  dvipsnames,
+  svgnames,
+  a4paper,
+  twoside,
+  openany,
+  10pt,
+  largesmallcaps,
+  oldstyle, %nums,
+  oldfontcommands,
+  article,
+]{nefermemoir}
+
+% \includeonly{%
+  % ========================== Semestre 1 ========================== %
+  % DULAEP_EG_S1_C00,
+  % DULAEP_EG_S1_C01,
+  % DULAEP_EG_S1_C02,
+  % DULAEP_EG_S1_C03,
+  % DULAEP_EG_S1_C04,
+  % DULAEP_EG_S1_C05,
+  % DULAEP_EG_S1_C06,
+  % DULAEP_EG_S1_C07,
+  % DULAEP_EG_S1_C08,
+  % DULAEP_EG_S1_C09,
+  % DULAEP_EG_S1_C10,
+  % DULAEP_EG_S1_C11,
+  % DULAEP_EG_S1_C12,
+  % ========================== Semestre 2 ========================== %
+  % DULAEP_EG_S2_C01,
+  % DULAEP_EG_S2_C02,
+  % DULAEP_EG_S2_C03,
+  % DULAEP_EG_S2_C04,
+  % DULAEP_EG_S2_C05,
+  % DULAEP_EG_S2_C06,
+  % DULAEP_EG_S2_C07,
+  % DULAEP_EG_S2_C08,
+  % DULAEP_EG_S2_C09,
+  % DULAEP_EG_S2_C10,
+  % DULAEP_EG_S2_C11,
+  % DULAEP_EG_S2_C12,
+  % ========================== Semestre 3 ========================== %
+  % DULAEP_EG_S3_C00,
+  % DULAEP_EG_S3_C01,
+  % DULAEP_EG_S3_C02,
+  % DULAEP_EG_S3_C03,
+  % DULAEP_EG_S3_C04,
+  % DULAEP_EG_S3_C05,
+  % DULAEP_EG_S3_C06,
+  % DULAEP_EG_S3_C07,
+  % DULAEP_EG_S3_C08,
+  % DULAEP_EG_S3_C09,
+  % DULAEP_EG_S3_C10,
+  % DULAEP_EG_S3_C11,
+  % DULAEP_EG_S3_C12,
+  % ========================== Semestre 4 ========================== %
+  % DULAEP_EG_S4_C00,
+  % DULAEP_EG_S4_C01,
+  % ========================== Hiératique ========================== %
+  % DULAEP_EG_Hieratique,
+  % DULAEP_EG_Hieratique_lecture,
+  % =========================== Annexes ============================ %
+  % DULAEP_EG_Anx_Uniliteres,
+  % DULAEP_EG_Anx_Prepositions,
+  % DULAEP_EG_Anx_Phonologie,
+  % DULAEP_EG_Anx_Determinatifs,
+  % DULAEP_EG_Anx_Logogrammes,
+  % DULAEP_EG_Anx_GardinerList,
+  % DULAEP_EG_Anx_VerbesClassif,
+  % DULAEP_EG_Anx_VerbesInfinitifs,
+  % ========================== Exercices =========================== %
+%   DULAEP_EG_Exos_corrections,
+% }
+
+% \usepackage[backend=biber,style=authoryear]{biblatex}
+\usepackage{xfrac}
+\usepackage{multicol}
+\usepackage[inline]{enumitem}
+\usepackage[export]{adjustbox}
+\usepackage{rotating}
+\usepackage{tipa}
+\usepackage[object=vectorian]{pgfornament}
+\usepackage{neferexam}
+% \usepackage{neferkheops}
+
+\babeltags{de = ngerman, en = english}
+
+\graphicspath{%
+  {../img/Cours/},%
+  {../img/Docs/},%
+  {../img/Hiera/},%
+  {../img/Exos/},%
+}
+
+\frenchbsetup{PartNameFull=false}
+
+\aliaspagestyle{part}{empty}
+\counterwithin{part}{book}
+\counterwithin{chapter}{part}
+\counterwithin{footnote}{part}
+% \renewcommand{\thechapter}{\arabic{chapter}}
+\renewcommand{\thefootnote}{\arabic{footnote}}
+
+% Apparence des numéros de divisions
+\renewcommand{\thepart}{\arabic{part}}
+\renewcommand{\thechapter}{\textsc{\roman{chapter}}}
+% \renewcommand{\thepart}{\scshape\roman{part}}
+% \renewcommand{\thepart}{\Roman{part}}
+
+% Numérotation des division et prise en compte dans la TOC
+\maxtocdepth{section}
+
+% Indentation et largeur des numéros dans la TOC
+% Entry         Level        Standard        memoir class
+%                         indent numwidth   indent numwidth 
+% ---------------------------------------------------------
+% book             -2       —      —          0.0    —
+% part             -1       0.0    —          0.0    1.5 
+% chapter           0       0.0    1.5        0.0    1.5
+% section           1       1.5    2.3        1.5    2.3
+% subsection        2       3.8    3.2        3.8    3.2
+% subsubsection     3       7.0    4.1        7.0    4.1
+% paragraph         4      10.0    5.0       10.0    5.0
+% subparagraph      5      12.0    6.0       12.0    6.0
+% figure/table     (1)      1.5    2.3        0.0    1.5
+% subfigure/table  (2)      —      —          1.5    2.3
+\cftsetindents{book}{-2.4em}{\cftsectionnumwidth}
+\cftsetindents{part}{-1.2em}{\cftsectionnumwidth}
+\cftsetindents{chapter}{\cftchapterindent}{2em}
+\cftsetindents{section}{2em}{\cftsectionnumwidth}
+
+% Pointillés dans la TOC
+\renewcommand{\cftpartdotsep}{18}
+\renewcommand{\cftsectiondotsep}{9}
+
+
+\AtBeginDocument{%
+  % \renewcommand{\partname}{Cours}
+  % \renewcommand{\partrefname}{cours~}
+  \renewcommand{\bookrefname}{semestre~}
+}
+
+% \babelhyphenation[french]{}
+
+% \tikzset{pgfornamentstyle/.style={%
+%   inner sep=0pt,
+%   red!80!black,
+%   % draw=red!80!black,
+%   % fill=white,
+% %   fill opacity=.5,
+%   % yscale=.8,
+%   % thin,
+% }}%
+
+
+\newcommand{\filet}{%
+  \vspace{3\baselineskip}
+
+  \begin{center}
+    \pgfornament[width=.5\textwidth]{85}
+  \end{center}
+
+  \vspace{3\baselineskip}
+}
+
+
+\newtcolorbox{example}[1][]{%
+  % show bounding box,
+  % breakable,
+  title     = {Exemple :},
+  colframe  = Ivory!80!black,
+  coltitle  = black,
+  colbacktitle = Ivory!95!black,
+  colback   = Ivory,
+  parbox    = false,
+  before    = \vspace{1ex plus 1pt minus .4pt}\noindent,
+  after     = \vspace{1ex plus 1pt minus .4pt},
+  before upper = {\DisplayHieroglyphs\setlength{\parindent}{0pt}},
+  fonttitle    = \bfseries,
+  #1, %
+}
+
+\newtcolorbox{exercice}[1][]{%
+  % show bounding box,
+  % breakable,
+  colframe  = LightBlue,
+  colback   = LightBlue!25,
+  parbox    = false,
+  before    = \vspace{1ex plus 1pt minus .4pt}\noindent,
+  after     = \vspace{1ex plus 1pt minus .4pt},
+  before upper = \indent,
+  fonttitle    = \large\bfseries,
+  #1,
+}
+
+\newtcolorbox{cadre}[1][]{%
+  % show bounding box,
+  % breakable,
+  colframe  = black,
+  colback   = white,
+  parbox    = false,
+  before    = \vspace{1ex plus 1pt minus .4pt}\noindent,
+  after     = \vspace{1ex plus 1pt minus .4pt},
+  before upper = \indent,
+  fonttitle    = \large\bfseries,
+  #1,
+}
+
+\newenvironment{notabene}[1][NB]{%
+  \bigskip
+  \begin{list}{#1}{%
+    \renewcommand\makelabel[1]{\bfseries\uline{##1} :}%
+    \settowidth\labelwidth{\makelabel{#1}}%
+    \setlength\leftmargin{\labelwidth + \labelsep}%
+  }%
+  \item\ignorespaces%
+}%
+{%
+  \unskip\end{list}%
+  \bigskip%
+}
+
+\setlist[enumerate,1]{label=\arabic*., ref=\arabic*}
+
+\newcommand{\sectitre}{}
+\newcommand{\insertimg}{}
+
+\newcommand{\addtolof}[1]{%
+  \phantomsection
+  \addcontentsline{lof}{figure}{%
+    \hspace*{\cftfigurenumwidth}%
+    #1%
+  }
+}
+
+\renewcommand{\hiero}[1][ique]{%
+  hiéroglyph#1\xspace%
+}
+\renewcommand{\Hiero}[1][ique]{%
+  Hiéroglyph#1\xspace%
+}
+
+\newcommand{\tll}[2][TlColor]{{%
+  \normalfont\textcolor{#1}{\emph{#2}}%
+}}%
+
+\renewcommand{\td}[2][TdColor]{%
+  \textcolor{#1}{\itshape\sffamily#2}%
+}
+\newcommand{\tdr}[1]{%
+  \textcolor{red}{\td{#1}}%
+}
+
+\renewcommand{\infos}[1]{{\smaller\quad(#1)}}
+
+\newcommand{\doc}[1]{%
+  \textbf{\textcolor{purple}{#1}}%
+}
+\colorlet{ClefCol}{orange}
+\newcommand{\clef}[1]{%
+  \textbf{\textcolor{ClefCol}{#1}}%
+}
+\newcommand{\info}[1]{%
+  \textcolor{DarkGreen}{#1}%
+}
+
+\renewcommand{\PPA}[1][]{Proposition#1 à prédicat adverbial\xspace}
+\newcommand{\PPN}[1][]{Proposition#1 à prédicat nominal\xspace}
+\newcommand{\PPP}[1][]{Proposition#1 à prédicat pseudo-\-verbal\xspace}
+\newcommand{\PPV}[1][]{Proposition#1 à prédicat verbal\xspace}
+\newcommand{\PPJ}[1][]{Proposition#1 à prédicat adjectival\xspace}
+
+\newcommand{\citeauthortitle}[2][]{%
+  \citeauthor{#2}, \citetitle[#1]{#2}%
+}
+
+\newcolumntype{+}{>{\global\let\currentrowstyle\relax}}
+\newcolumntype{^}{>{\currentrowstyle}}
+\newcommand{\rowstyle}[1]{%
+  \gdef\currentrowstyle{#1}#1\ignorespaces%
+}
+\renewcommand\tabularxcolumn[1]{M{#1}}
+
+\newlength{\graphicwidth}
+
+
+\newcommand{\qfmt}[1]{{\large\bfseries#1}}
+\newcommand{\pfmt}[1]{#1}
+
+\renewcommand{\solutiontitle}{\noindent\textbf{Solution :}\enspace}
+\renewcommand{\thequestion}{\Alph{question}}
+\renewcommand{\thepartno}{\arabic{partno}}
+\renewcommand{\questionlabel}{\qfmt{\thequestion.}}
+\renewcommand{\partlabel}{\pfmt{\thepartno.}}
+\renewcommand{\questionshook}{%
+  \setlength{\itemsep}{\baselineskip}%
+%   \setlength{\leftmargin}{0pt}%
+%   \setlength{\labelwidth}{-\labelsep}%
+}
+
+\input{../Cours/DULAEP_EG_titlepage}
+
+% =====================================================================
+\title{Égyptien classique}
+\short{DULAEP -- EG}
+% \short{DULAEP -- Égyptien classique}
+\subtitle{Exercices}
+\lecturer{Sylvie~\bsc{Donnat}}
+\orga{Faculté des sciences historiques de Strasbourg}
+\author{\SL}
+\date{2015-2016}
+
+\hypersetup{%
+  pdftitle  = {DULAEP -- Égyptien classique}, 
+  pdfauthor = {Sonia Labetoulle}
+}
+% pdfsubject % pdfcreator % pdfproducer % pdfkeywords
+
+% =====================================================================
+
+\addbibresource{DULAEP_EG_biblio.bib}
+
+% \defbibnote{gramm}{\section*{Grammaires et cours}}
+% \defbibnote{dico}{Dictionnaires et lexiques}
+% \defbibnote{dessin}{Sur le dessin des signes}
+% \defbibnote{langue}{Sur la langue égyptienne ancienne}
+% \defbibnote{misc}{Autres}
+
+% \DeclareBibliographyCategory{gramm}
+% \DeclareBibliographyCategory{dico}
+% \DeclareBibliographyCategory{dessin}
+% \DeclareBibliographyCategory{langue}
+
+% \addtocategory{gramm}{Obsomer}
+% \addtocategory{gramm}{MW}
+% \addtocategory{gramm}{GM}
+% \addtocategory{gramm}{Gardiner}
+
+% \addtocategory{dico}{WinandStella}
+% \addtocategory{dico}{Faulkner}
+% \addtocategory{dico}{Hannig}
+% \addtocategory{dico}{EG}
+% \addtocategory{dico}{BS}
+
+% \addtocategory{dessin}{Fischer}
+
+% \addtocategory{langue}{Vernus}
+% \addtocategory{langue}{Loprieno}
+
+
+% \backgroundsetup{%
+%   opacity   = 0.18,
+%   contents  = \includegraphics{DeB_Hathor},
+%   % position  = current page.center,
+%   scale     = 0.5
+% }
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+
+% \addbibresource{DULAEP_EG_biblio.bib}
+
+\thispagestyle{empty}
+\maketitle
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\SmallerText
+
+\frontmatter
+\tableofcontents*
+
+\mainmatter
+\CaptionNormal
+
+% \book{Semestre~1}\label{bk:exos_S1}
+% \noprintanswers
+% \part{Énoncés}
+% \include{DULAEP_EG_Exos_S1}
+% \printanswers
+% \part{Solutions}
+% \include{DULAEP_EG_Exos_S1}
+
+% \book{Semestre~2}\label{bk:exos_S2}
+% \noprintanswers
+% \part{Énoncés}
+% \include{DULAEP_EG_Exos_S2}
+% \printanswers
+% \part{Solutions}
+% \include{DULAEP_EG_Exos_S2}
+
+\book{Semestre~3}\label{bk:exos_S3}
+% \noprintanswers
+% \part{Énoncés}
+% \include{DULAEP_EG_S3_Exos_Full}
+\printanswers
+\part{Solutions}
+\include{DULAEP_EG_S3_Exos_Full}
+\input{DULAEP_EG_S3_Exam}
+
+
+% \book{Semestre~4}\label{bk:exos_S4}
+% \noprintanswers
+% \part{Énoncés}
+% \printanswers
+% \part{Solutions}
+
+
+% \markboth{left}{right}
+% \markright{right}
+
+
+
+
+% {%
+% % \pagestyle{dulaepAnx}
+
+% % \pagestyle{plain}
+% % \phantomsection
+% % \addcontentsline{toc}{book}{Exercices}
+% % \book*{Exercices}
+% \book{Exercices}
+% \markboth{Exercices}{}
+% \include{DULAEP_EG_Exos_corrections}
+
+% % % \phantomsection
+% % % \addcontentsline{toc}{book}{Solutions des exercices}
+% % % \book*{Solutions des exercices}
+% \book{Solutions des exercices}
+% \markboth{Solutions des exercices}{}
+\printanswers
+% \include{DULAEP_EG_Exos_corrections}
+% }
+
+\appendix
+% \appendixpage
+
+% \phantomsection
+% \addcontentsline{toc}{book}{\appendixpagename}
+% \book*{\appendixpagename}
+
+% \include{DULAEP_EG_Anx_Uniliteres}
+% \include{DULAEP_EG_Anx_Prepositions}
+% \include{DULAEP_EG_Anx_Phonologie}
+% \include{DULAEP_EG_Anx_Determinatifs}
+% \include{DULAEP_EG_Anx_Logogrammes}
+% \include{DULAEP_EG_Anx_GardinerList}
+% \include{DULAEP_EG_Anx_VerbesClassif}
+% \include{DULAEP_EG_Anx_VerbesInfinitifs}
+
+% \backmatter
+% \phantomsection
+% \addcontentsline{toc}{book}{Tables et bibliographie}
+% \book*{Tables et bibliographie}
+% \newpage
+% \listoftables
+% \listoffigures
+
+
+\nocite{*}
+\printbibheading[title=Bibliographie]
+\printbibliography
+
+
+% \newpage
+% \printbibheading[title=Bibliographie]
+% \printbibliography[%
+%   heading=subbibliography,
+%   title={Grammaires et cours},
+%   sorting=none,
+%   keyword=gramm%
+% ]
+% \printbibliography[%
+%   heading=subbibliography,
+%   title={Dictionnaires et lexiques},
+%   sorting=none,
+%   keyword=dico%
+% ]
+% \printbibliography[%
+%   heading=subbibliography,
+%   title={Sur le dessin des signes},
+%   sorting=none,
+%   keyword=dessin%
+% ]
+% \printbibliography[%
+%   heading=subbibliography,
+%   title={Sur la langue égyptienne ancienne},
+%   sorting=none,
+%   keyword=langue%
+% ]
+% \printbibliography[%
+%   heading=subbibliography,
+%   title={Divers},
+%   notkeyword=gramm,
+%   notkeyword=dico,
+%   notkeyword=dessin,
+%   notkeyword=langue%
+% ]
+
+\cleardoublepage
+\pagestyle{empty}
+~\newpage
+\vspace*{\fill}
+\begin{center}
+  Imprimé en France\\
+  \today, \printtime\par
+\end{center}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\end{document}
+
+% \chapter{}
+% =====================================================================
+
+% \section{}
+% ---------------------------------------------------------------------
+
+% \subsection{}
+% ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

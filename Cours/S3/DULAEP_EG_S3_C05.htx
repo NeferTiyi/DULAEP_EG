@@ -1,0 +1,335 @@
+%!TEX root = DULAEP_EG.htx
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\part[Fonctions substantives]{Fonctions substantives\\ 
+(\td{le fait qu'il écoute}, \td{le fait qu'il a écoute},\\ 
+\td{le fait qu'il écoutera})}
+\label{prt:S3_fct_subst}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\chapter{Introduction}
+% =====================================================================
+
+À partir de nos trois formes verbales étudiées \incise{le \tl{sDm.n=f} 
+accompli, l'aoriste \tl{sDm=f} et le prospectif/subjonctif}, nous 
+continuons notre exploration des fonctions des formes verbales de la 
+conjugaison suffixale. Le but est de maîtriser les outils d'analyse 
+grammaticaux que nous allons utiliser pendant toute l'année.
+
+Pour le moment, nous avons abordé les \clef{fonctions prédicatives} 
+du verbe. Nous avons vu trois cas de figures principaux :
+
+Le verbe est :
+\begin{itemize}
+  \item \textbf{autonome} (une seule proposition/un seul verbe 
+        prédicatif) ou en \textbf{position initiale} (la phrase 
+        a plusieurs propositions et le verbe est le 1\ier~prédicat 
+        de la phrase -- en gros = verbe principal)
+  \item \textbf{position séquentielle, fonction séquentielle} 
+        (le verbe est en 2\ieme~position, 2\ieme~prédicat, 
+        et il est simplement coordonné au premier)
+  \item \textbf{position séquentielle, fonction circonstancielle} 
+        (le verbe est en 2\ieme~position, 2\ieme~prédicat, mais il 
+        est traduit comme une proposition subordonnée circonstancielle 
+        \frquote{virtuelle}, car il n'y a pas de conjonction de 
+        subordination.
+\end{itemize}
+
+\bigskip
+
+{\bfseries\donc{} revoir l'introduction du cours 4.\par}
+
+\bigskip
+
+À côté de ces fonctions prédicatives, le verbe peut aussi avoir 
+des \clef{fonctions dites \frquote{substantives}}. Cela signifie
+simplement que la forme verbale joue le rôle d'un substantif ou 
+d'un groupe nominal. Cela arrive très souvent en français, sauf 
+que, dans cette langue, la forme verbale est alors précédée de 
+\frquote{le fait que} ou \frquote{que}, des expression et morphème 
+qui \emph{nominalisent} la forme verbale.
+
+On parle de \frquote{fonction substantive} d'un verbe conjugué 
+(conjugaison suffixale), quand cette forme verbale assume les 
+fonctions d'un nom ou d'un groupe nominal, c'est-à-dire joue le 
+rôle d'un sujet, d'un COD, etc. La difficulté par rapport au 
+français, c'est qu'il n'y a pas d'expression \incise{type 
+\frquote{le fait que}} qui signale la forme verbale comme 
+substantive. C'est à l'analyse que vous pourrez le déterminer.
+
+Concrètement, sur les trois formes verbales que nous connaissons 
+maintenant :
+\begin{itemize}
+  \item l'accompli \tl{sDm.n=f} peut remplir des fonctions 
+        substantives \td{le fait qu'il a écouté}
+  \item le subjonctif \tl{sDm=f} aussi, \td{le fait qu'il puisse 
+        écouter}
+  \item \emph{mais \uline{jamais} le \tl{sDm=f} aoriste}. Pourquoi ? 
+        Réponse tout à l'heure.
+\end{itemize}
+
+En attendant, nous allons voir ces fonctions substantives de 
+l'accompli \tl{sDm.n=f} et du subjonctif \tl{sDm=f}. 
+Une dernière petite chose avant d'entrer dans le vif du sujet : 
+les manuels (\cite[ex.][]{MW}), distinguent :
+\begin{itemize}
+  \item des \textbf{fonctions substantives non emphatiques} ;
+  \item et des \textbf{fonctions substantives emphatiques}.
+\end{itemize}
+
+Qu'est-ce que c'est ? Ne vous laissez pas impressionner par la 
+terminologie. Ce n'est pas aussi compliqué que cela en a l'air. 
+Les \frquote{fonctions substantives emphatiques} : ce sont les cas 
+où la forme verbale en fonction substantivale (sujet par exemple) 
+est utilisée dans une construction particulière qui a pour but de 
+mettre \emph{l'emphase} sur un membre de la phrase.
+
+Observez cet exemple en français :
+\begin{itemize}
+  \item phrase plane : \td{Il a accepté \uline{parce que tu es venu}.}
+  \item \td{C'est \uline{parce que tu es venu} qu'il a accepté.} 
+        \quad\reflectbox{\donc} ici une construction que l'on 
+        qualifierait d'emphatique.
+\end{itemize}
+
+Mais laissons cela de côté pour l'instant.
+Nous nous occupons des fonctions substantives \uline{simples} pour ce 
+cours. Chaque chose en son temps.
+
+
+\chapter{L'accompli \tl{sdm.n=f} dans ses emplois substantivaux}
+% =====================================================================
+
+Le \tl{sDm.n=f} accompli peut être utilisé en fonction de substantif 
+(en fait vous verrez quand nous ferons la synthèse, que l'accompli 
+\tl{sDm.n=f} est, contrairement à d'autres formes, attesté dans tous 
+les types d'emploi).
+
+Cette forme verbale peut assumer différents emplois d'un substantif : 
+sujet, génitif indirect, prédicat d'une \PPN\dots
+
+\begin{example}[title={Exemple : Génitif indirect}]
+  \begin{hieroglyph}
+    st-t:pr nb n:t pXr:r n Hm-1:f
+  \end{hieroglyph}
+
+  \tl{s.t nb(.t) n(y).t pXr.n Hm=f}
+  \infos{\cite[§\,321]{Obsomer_2003}, \urk{IV}, 671, 3 
+  (Annales Thoutmosis~III)}
+
+  \td{\litt : Toute place de le fait que sa Majesté a parcouru.} = 
+  \td{Toute place que sa Majesté a parcourue.}
+\end{example}
+
+\bigskip
+
+{\em Vous voyez l'idée. Il faut intégrer une sorte de gymnastique 
+mentale pour penser \frquote{égyptien}.}
+
+\bigskip
+
+\paragraph{Cas particulier très important : les propositions 
+circonstancielles véritables.}
+On en a déjà parlé dans le cours précédent. On classe souvent, 
+dans les emplois substantivaux du verbe, les formes verbales 
+quand elles sont utilisées dans les propositions circonstancielles 
+\textbf{véritables~/ réelles}, c'est-à-dire dans des propositions 
+introduites par des conjonctions de subordination. On considère en 
+effet que, derrière ces mots introducteurs (qui sont souvent des 
+prépositions) la forme verbale est substantivée (vous verrez pourquoi 
+plus tard).
+
+Au semestre prochain, nous consacrerons un cours complet à ces 
+subordonnées circonstancielles et aux conjonctions les plus courantes. 
+Mais un petit exemple de mise en bouche :
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    wD-b-D-pXr k a:k m s-r-E27-D54:n A1 n:k qd-d:nw-A35
+  \end{hieroglyph}
+
+  \tl{wDb=k a=k, \clef{m} sr.n=i n=k od} 
+  \infos{\cite[ex.~1585]{MW}, \CTx{VI}, 173\,r}
+
+  \td{Puisses-tu détourner ta main, \clef{quand} je t'aurai annoncé 
+      la construction.}
+
+  \tg{Initiale forme prospective, circonstancielle véritable 
+      introduite par \tl[Gramm]{m} suivi de l'accompli 
+      \tl[Gramm]{sDm.n=f}.}
+\end{example}
+
+
+\chapter{Les formes prospectives dans leurs emplois substantivaux}
+% =====================================================================
+
+Comme l'accompli \tl{sDm.n=f}, les formes prospectives ont des emplois 
+de \frquote{substantif}, c'est-à-dire que le prospectif \tl{sDm(w)=f} 
+et le subjonctif \tl{sDm=f} peuvent jouer le rôle d'un substantif 
+(\td{le fait qu'il écoutera}, \td{le fait qu'il puisse écouter}). Ils 
+peuvent jouer le rôle de sujet, COD, génitif\dots
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    h:r-w-ra n ms-s-msi s
+  \end{hieroglyph}
+
+  \tl{hrw n(y) ms=s}
+  \infos{\cite[§\,348]{Obsomer_2003}, \source{Kahun}, 6, 26}
+
+  \td{le jour où elle enfantera}\\
+  (\td{\litt Le jour de le fait-qu'elle-enfantera})
+\end{example}
+
+Vous percevez la gymnastique mentale à acquérir pour traduire ces 
+constructions dans un français correct, n'est-ce pas ?
+
+Les cas les plus fréquents à retenir rapidement sont les suivants :
+
+\section{Complément d'objet d'un verbe (proposition complétive)}
+% ---------------------------------------------------------------------
+Cet emploi est complémentaire de celui de l'infinitif quand le sujet 
+de la complétive est différent de celui de la principale.
+
+Dans cet emploi, le prospectif \tl{sDm(w)=f} est plutôt un usage 
+ancien.
+
+On trouve beaucoup plus fréquemment le subjonctif dans cet emploi. 
+En général, le subjonctif est obligatoire après les verbes 
+introducteurs de propositions subordonnées complétives qui sont 
+dit \frquote{verbes jussifs}, c'est-à-dire qui ne présentent pas 
+les faits de manière objective (comme \td{constater que} par exemple). 
+En égyptien ancien, ces verbes introducteurs jussifs sont 
+\begin{hieroglyph}wD-w\end{hieroglyph} 
+\tl{wD}, \td{ordonner (que)}, 
+\begin{hieroglyph}r:di'\end{hieroglyph} 
+\tl{rdi}, \td{faire en sorte (que)}, 
+\begin{hieroglyph}mr:r-A2\end{hieroglyph} 
+\tl{mri}, \td{souhaiter}, \td{désirer (que)}. 
+Si leur COD est une complétive, il n'y a pas d'élément introducteur 
+et le verbe utilisé est toujours le subjonctif (comme en français du 
+reste : \td{je veux \uline{(que) tu viennes}}).
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    k:t n:t r:a:t di' z:t-B1 r tA:N23
+  \end{hieroglyph}
+
+  \tl{k.t n(y).t rd.t \uline{di s.t} r t(A)}
+
+  \td{Autre (formule) pour faire en sorte \uline{qu'une femme 
+      mette} au monde.}
+
+  \tg{Subjonctif dans une complétive après un verbe opérateur 
+      à l'infinitif, puisque, en fait, la proposition est un 
+      \frquote{énoncé-titre}.}
+\end{example}
+
+Nous passerons en revue toutes les constructions de propositions 
+complétives au \titleref{bk:semestre4}.
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    di' A1 sDm-m T:n:3
+  \end{hieroglyph}
+
+  \tl{Di=i \uline{sDm=Tn}}
+  \infos{\source{St. Caire~20538}, II, b, 9}
+
+  \td{Je veux faire en sorte \uline{que vous entendiez}.}
+
+  \tg{Verbe initial = subjonctif en position initial ; 
+      2\ieme~verbe = subjonctif dans une complétive.}
+\end{example}
+
+\section{Verbe d'une proposition circonstancielle véritable après une 
+conjonction de subordination}
+% ---------------------------------------------------------------------
+Nous verrons cela plus en détail au \titleref{bk:semestre4}.
+
+
+\chapter{Les négations}
+% =====================================================================
+
+Question, à votre avis, quelle négation utilise-t-on pour nier un 
+verbe dans ses emplois substantifs ?
+
+\begin{hieroglyph}D35\end{hieroglyph} \tl{n} ?
+\begin{hieroglyph}nn\end{hieroglyph} \tl{nn} ?
+\begin{hieroglyph}t:tm-m\end{hieroglyph} \tl{tm} ?
+
+\begin{hieroglyph}t:tm-m\end{hieroglyph}, bien sûr !
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    jw wD-w D:\!\!Y1
+  \end{hieroglyph}
+
+  \tl{iw wD.n Gb it Wsir tm=i wnm Hs.w}
+  \infos{\cite[ex.~975]{MW}}
+
+  \td{Geb, le père d'Osiris, a ordonné que je ne mange pas 
+      d'excréments.}
+
+  \tg{Verbe initial : accompli \tl[Gramm]{sDm.n=f} suivi d'une 
+      proposition complétive négative au subjonctif.}
+\end{example}
+
+
+\chapter{Pas d'emploi substantif pour l'aoriste, pourquoi ?}
+% =====================================================================
+
+L'aoriste \tl{sDm=f} n'a pas d'emploi substantif, tout simplement 
+parce qu'il est remplacé dans ces fonctions par une autre forme : la 
+forme substantive \tl{mrr=f} (qui, morphologiquement, se caractérise 
+par une gémination pour les verbes faibles). Nous étudierons cette 
+forme verbale plus tard dans le semestre. Comme son nom l'indique, 
+c'est une forme qui ne peut pas être celle d'un verbe en position 
+initiale, ou un verbe autonome. Elle fait en effet partie des formes 
+verbales qui sont \uline{toujours} dans des situations de dépendance 
+syntaxique (subordonnées).
+
+
+\chapter{synthèse d'étape}
+% =====================================================================
+
+Essayons de rassembler toutes ces nouveautés.
+\begin{itemize}
+  \item Vous connaissez la valeur et la morphologie des trois formes : 
+        l'accompli \tl{sDm.n=f}, l'aoriste \tl{sDm=f}, et les formes 
+        prospectives. Si vous ne vous rappelez pas de cela relisez les 
+        cours et le tableau des formes suffixales.
+  \item Quelles sont les fonctions possibles de ces trois formes 
+        verbales ? Essayez de vous le rappeler avant de lire la 
+        réponse ci-dessous.
+\end{itemize}
+
+\bigskip
+
+\begin{description}
+  \item[\tl{sDm.n=f} accompli :]~\\[-\baselineskip]
+        \begin{itemize}
+          \item fonctions prédicatives : autonome/initiale, 
+                fonction séquentielle, fonction circonstancielle
+          \item fonctions substantives
+        \end{itemize}
+
+  \item[\tl{sDm=f} aoriste :]~\\[-\baselineskip]
+        \begin{itemize}
+          \item fonctions prédicatives : autonome/initiale, 
+                fonction circonstancielle
+        \end{itemize}
+
+  \item[formes prospectives :]~\\[-\baselineskip]
+        \begin{itemize}
+          \item fonctions prédicatives : autonome/initiale, 
+                séquentielle-circonstancielle (\td{de sorte que})
+          \item fonctions substantives
+        \end{itemize}
+\end{description}
+
+\bigskip
+
+\begin{exercice}[before upper={\centering}]
+  C'est tout pour aujourd'hui ! Nous pouvons traduire.
+\end{exercice}

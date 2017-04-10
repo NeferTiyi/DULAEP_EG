@@ -1,0 +1,47 @@
+%!TEX root = DULAEP_EG.htx
+%##HieroDef.txt
+
+\chapter*{Exercice~8 --- Le système graphique}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{En utilisant le tableau des unilitères et la liste 
+  des plurilitères, translittérer les cartouches suivants, et en 
+  vous aidant d'un manuel d'histoire égyptienne, indiquez de quel(s) 
+  pharaon(s) il peut s'agir (notez le nom en transcription en 
+  alphabet latin).}
+
+  \begin{parts}
+    \bigskip
+    \part
+    \begin{hieroglyph}<-i-mn:n-m-HAt:t->\end{hieroglyph}
+    nom de rois de la \dyn{12}
+    \begin{solution}
+      \tl{imn-m-HA.t}, Amenemhat
+    \end{solution}
+
+    \bigskip
+    \part
+    \begin{hieroglyph}<-i-mn:n-Htp:t*p->\end{hieroglyph}
+    nom de rois de la \dyn{18}
+    \begin{solution}
+      \tl{imn-Htp}, Amenhotep ou Aménophis
+    \end{solution}
+
+    \bigskip
+    \part
+    \begin{hieroglyph}<-DHwty-ms-s->\end{hieroglyph}
+    nom de rois de la \dyn{18}
+    \begin{solution}
+      \tl{DHwty-ms}, Thoutmosis
+    \end{solution}
+
+    \bigskip
+    \part
+    \begin{hieroglyph}<-k-i-i-z:r:z->\end{hieroglyph}
+    un des cartouches du premier empereur romain
+    \begin{solution}
+      \tl{kysrs}, César
+    \end{solution}
+  \end{parts}
+\end{questions}

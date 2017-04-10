@@ -1,0 +1,290 @@
+%!TEX root = DULAEP_EG.htx
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\part[Conditionnelles, circonstancielles véritables et virtuelles]
+     {Conditionnelles (\td{si\dots}) \\ Circonstancielles véritables 
+(suite et fin) \\ Circonstancielles virtuelles (rappels)}
+\label{prt:S4_conditionnelles}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Au semestre précédent, nous avons abordé les propositions 
+subordonnées circonstancielles, les \frquote{circonstancielles 
+véritables}, c'est-à-dire les circonstancielles sous le régime de 
+la \emph{préposition-conjonction}, c'est-à-dire introduites par une 
+préposition conjonction (\Pref{pt:S3_circonst_vrai}). 
+Il nous restait à aborder des circonstancielles particulières : les 
+\textbf{conditionnelles}. Nous allons les étudier dans ce cours, puis 
+nous clorons le volet sur les circonstancielles par un récapitulatif 
+des différentes façons de les exprimer en égyptien ancien classique.
+
+
+\chapter{Les conditionnelles}
+% =====================================================================
+
+Une conditionnelle exprime une condition à remplir pour que le 
+procès exprimé ait lieu. En conséquence, en égyptien, comme dans 
+d'autres langues, les subordonnées conditionnelles se placent avant 
+la principale : \frquote{\red{si tu viens}, il sera content}. 
+On parle de phrase construite sur le modèle :
+
+\begin{center}\bfseries Protase, apodose\end{center}
+
+En égyptien ancien, les conditionnelles sont introduites par 
+\clef{\begin{hieroglyph}i-r\end{hieroglyph} \tl[ClefCol]{ir}} (forme 
+développée de la préposition \begin{hieroglyph}r\end{hieroglyph} 
+\tl{r}), signifiant \td{quant à} (en ce cas avec le sens \td{si}), 
+et placées en tête de phrase.
+
+Étant donné le sens, la forme verbale dans les conditionnelles est 
+essentiellement le \clef{prospectif / subjonctif}, ou des propositions 
+adverbiales ou pseudo-verbale avec convertisseur subjonctif 
+\begin{hieroglyph}wn:n\end{hieroglyph} \tl{wn} (\td{que soit}) ou 
+au prospectif \begin{hieroglyph}wnn\end{hieroglyph} \tl{wnn}. Plus 
+rarement, on trouve la forme \tl{sDm.n=f} (comme expression d'une 
+hypothèse accomplie).
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    i-r wn:n s-x:r-A2 m X:t*1 T s-m-x:n' sw-w
+  \end{hieroglyph}
+
+  \tl{\red{ir wn sxr m X.t=T}, smx sw}\\
+  \infos{\cite[ex.~1710]{MW}, \source{Bol de Berlin}}
+
+  \td{\red{S'il existait \remg{(subjonctif)} un dessein dans ton 
+      corps}, oublie-le \remg{(impératif)}.}
+\end{example}
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    i-r wn:n-n:k m s-sSm-m-i-i-A1 
+    h-r sDm-m:k md-d-w-A2 s-p-r-w-spr-A2-A1
+  \end{hieroglyph}
+
+  \tl{\red{ir wnn=k m sSmy}, hr(.w), sDm=k mdw sprw}\\
+  \infos{\cite[ex.~1734]{MW}, \source{Ptahhotep}, 264--265}
+
+  \td{\red{Si tu es dirigeant}, sois calme \remg{(parfait ancien -- 
+      souhait)}, alors que tu écoutes le discours d'un demandeur 
+      \remg{(aoriste circonstanciel)}.}
+\end{example}
+
+On trouve aussi les formes passives \tl{sDm.tw=f} du prospectif ou 
+du subjonctif ou \tl{sDm.w=f}, passif de l'accompli \tl{sDm.n=f}.
+
+La négation d'une conditionnelle se fait normalement au moyen de 
+l'auxiliaire négatif \begin{hieroglyph}t:tm-m\end{hieroglyph} \tl{tm} 
+au subjonctif suivi du verbe au complément verbal négatif.
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    i-r t:tm-m T:\!n ir:\!n A1 wA-A-t:wAt s-wA-A-wAt:\!D54 r:A1
+    w-d-U32-k-A imnt-t-tyw-A40:3
+  \end{hieroglyph}
+
+  \tl{\red{ir tm=Tn ir n=i wA.t}, swA=i r=i wd.kA=i imnty.w}\\
+  \infos{\cite[ex.~1724]{MW}, \CTx{VI}, 231\,d--e}
+
+  \td{\red{Si vous ne faites pas pour moi le chemin} afin que je 
+      traverse, je rejetterai \remg{(forme \tl[Gramm]{sDm.kA=f})} 
+      les Occidentaux.}
+\end{example}
+
+Mais on trouve aussi une construction à valeur négative 
+\tl{ir nfr.n} (\td{s'il n'y a plus}). Il s'agit du verbe de qualité 
+\td{être parfait, achevé, arrivé à son terme} à la forme accomplie 
+\tl{sDm.n=f}. Le \tl{n} final peut être rendu par l'unilitère ou par 
+le hiéroglyphe de la négation. Littéralement l'expression pourrait se 
+rendre par \td{c'est devenu achevé/fini}, \td{c'en est arrivé à rien}, 
+\td{c'est néant}.
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    i-r nfr-f:r:n' wnn m-\!a:. T:n:3 jw T:n:3 r-Dd'
+    +l (\dots)+s
+  \end{hieroglyph}
+
+  \tl{\red{ir nfr.n wnn(w.t) m-a=Tn}, iw=Tn r Dd\dots}
+  \infos{\source{TPPI}, 2, §\,2, 3--5}
+
+  \td{\red{S'il n'y a plus rien dans vos mains} (\litt si ce qui 
+      est\footnotemark{} dans vos mains est achevé), alors vous 
+      direz\dots}
+\end{example}
+\footnotetext{Participe substantivé, voir \Pref{prt:S4_prtcp_pass}, 
+\Cref{cha:S4_C05_part_indirect}.}
+
+
+\chapter{Autres façons d'exprimer des circonstancielles}
+% =====================================================================
+
+Nous avons vu que, à côté des circonstancielles véritables, 
+c'est-à-dire des propositions introduites par une 
+préposition-conjonction, assimilables, du point de vue de la syntaxe, 
+à nos propositions subordonnées circonstancielles, il existe d'autres 
+moyens en égyptien ancien d'exprimer une circonstancielle.
+Bref rappel.
+
+\section{Les proposition circonstancielles consécutives au subjonctif 
+(virtuelles)}
+% ---------------------------------------------------------------------
+Il s'agit de propositions, simplement juxtaposées à la proposition 
+initiale, mais en position de dépendance, et débutant par un 
+\textbf{subjonctif}. Elles sont le plus souvent en fonction de 
+circonstancielles consécutives ou finales :
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    Dd' z:\!A1\s1 r-1 p:n aq-D54:f imnt-t:1 r:sA*1 pr:r:r-D54:f
+  \end{hieroglyph}
+
+  \tl{Dd s r(A) pn \red{ao=f imn.t} r-sA prr=f}
+  \infos{\cite[ex.~1642]{MW}, \CTx{IV}, 326\,j}
+
+  \td{Qu'un homme dise cette formule \red{de sorte qu'il entre dans 
+      l'Occident}, après en être sorti / après qu'il en est sorti.}
+
+  \tg{Circonstancielle régime préposition-conjonction}
+\end{example}
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    m-D54:3 U3 T:n:3 mn:nw*nw*nw p:n nfr
+  \end{hieroglyph}
+
+  \tl{mi.w, \red{mA=Tn mnw pn nfr}}
+  \infos{\cite[ex.~891]{MW}, \source{Hatchepsout}, A~2--3}
+
+  \td{Venez, \red{afin de voir ce beau monument}.}
+\end{example}
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    i-m-M:a n:f TAw nDm-m-Y1 i-m 
+    wn:n f m-M:a-M:a Hz-s-i-i nb M tA:1*N21 n anx-w-3
+  \end{hieroglyph}
+
+  \tl{im n=f TAw nDm im, \red{wn=f mm Xsi nb m tA n(y) anx.w}}
+
+  \td{Donne-lui le doux souffle là, \red{de sorte qu'il soit parmi 
+      tous les loués de la terre des vivants}.}
+
+  \tg{Convertisseur subjonctif pour une \PPA}
+\end{example}
+
+On peut aussi trouver le \tl{sDm.n=f}, accompli, en tête d'une 
+proposition non autonome dépendant d'une principale.
+
+\section{Autres formes suffixales dans des circonstancielles 
+(virtuelles)}
+% ---------------------------------------------------------------------
+\begin{example}[title={\tl[black]{sDm.n=f}}]
+  \begin{hieroglyph}
+    jw f r p-H-pH:D54 pr*1:f s-n:b ir:n:f ii-t:n:f r s
+  \end{hieroglyph}
+
+  \tl{iw=f r pX pr=f, snb(.w), \red{ir.n=f ii.t.n=f r=s}}\\
+  \infos{\cite[ex.~1560]{MW}, \source{Hatnoub}, 20}
+
+  \td{Il rentrera chez lui \remg{(\tl[Gramm]{r} + infinitif)}, étant 
+      en santé \remg{(parfait ancien séquentiel)}, \red{ayant accompli 
+      ce pourquoi il était venu}\footnotemark{}.}
+\end{example}
+\footnotetext{\tl{ii.t.n=f r=s} forme relative : \frquote{le fait 
+d'être venu par lui à ce sujet}, voir \Pref{prt:S4_forme_rel}.}
+
+\begin{example}[title={\tl[black]{sDm=f} aoriste}]
+  \begin{hieroglyph}
+    jw ir:n-A1 pr:r:t wp-wAt:t*3-E18 w-DA-D54:f r n:\!nD\s1 t:f
+  \end{hieroglyph}
+
+  \tl{iw ir.n=i pr.t Wp-wA.wt \red{wDA=f} r nD jt=f}
+  \infos{\source{Stèle d'Ikhernofret}}
+
+  \td{J'ai effectué la sortie d'Oupouaout, \red{quand il se rendait 
+      en procession} pour protéger son père.}
+\end{example}
+
+\section{Les \frquote{constructions enchâssées}}
+% ---------------------------------------------------------------------
+On a eu l'occasion de voir ce type de construction lors d'exercices. 
+Il concerne prioritairement les constructions pseudo-verbales. Il y a 
+construction enchâssée, quand deux propositions se suivent et que :
+
+{\color{ClefCol}
+\begin{itemize}
+  \item la seconde contient une construction pseudo-verbale ;
+  \item le sujet de la seconde est un élément déjà présent dans la 
+        première.
+\end{itemize}
+}
+
+Il est alors possible d'enchâsser la seconde dans la première, 
+c'est-à-dire que la proposition pseudo- verbale est intégrée à la 
+structure de la principale. Alors, la proposition enchâssée joue 
+alors le \clef{rôle de circonstancielle (ou de complétive)} de la 
+proposition considérée comme principale. La première est généralement 
+en seconde position, mais elle peut aussi précéder la principale.
+
+\begin{example}[title={Pseudo-verbale avec \tl{Xr} + infinitif}]
+  \emph{Cet oasien vint\dots}
+
+  \begin{hieroglyph}
+    gm-m n:f sw-w Hr-1 pr:r-t:D54
+  \end{hieroglyph}
+
+  \tl{gm.n=f \red{sw} Xr pr.t}
+  \infos{\source{Oasien}, B\,1, 34}
+
+  \td{Et il \red{le} trouva alors qu'il sortait.}
+\end{example}
+
+\begin{example}[title={Pseudo-verbale avec parfait ancien}]
+  \begin{hieroglyph}
+    +l (\dots)+s
+    gm-m n:f z:\!A1\s2*1 aHa-a:D54 Hr-1 mr:r-i-i-t:N23
+  \end{hieroglyph}
+
+  \tl{(\dots) gm.n=f \red{s} aXa.w Xr mry.t}
+  \infos{\source{Oasien}, R\,6, 4--5}
+
+  \td{(\dots) Il trouva \red{un homme} se tenant debout \remg{(parfait 
+    ancien)} sur la rive / alors qu'il se tenait sur la rive / qui se 
+  tenait debout sur la rive.}
+\end{example}
+
+\section{Constructions pseudo-verbales en fonction de 
+circonstancielles virtuelles}
+% ---------------------------------------------------------------------
+Une \PPP peut aussi avoir valeur de circonstancielle en dehors du 
+cadre des propositions enchâssées. Dépourvu d'élément introducteur, 
+elle peut être considérée comme servant de cadre à un récit qui 
+précède et donc être considérée comme dépendante d'une proposition 
+initiale du point de vue du sens. On peut donc aussi la rendre, dans 
+la traduction, par une subordonnée circonstancielle en français.
+
+\section{Des propositions introduites par les particules 
+\tl{isk} / \tl{isT}}
+% ---------------------------------------------------------------------
+Les particules
+\begin{hieroglyph}i-s-T\end{hieroglyph},
+\begin{hieroglyph}i-s-t\end{hieroglyph},
+\begin{hieroglyph}s-T\end{hieroglyph},
+\begin{hieroglyph}s-t\end{hieroglyph},
+\begin{hieroglyph}i-s-k\end{hieroglyph},
+\begin{hieroglyph}s-k\end{hieroglyph},
+introduisent des \PPV[s] ou non-verbal. Elles servent à présenter une 
+situation comme concomitante de l'énoncé qui précède. On peut traduire 
+cette particule de deux manières :
+\begin{itemize}
+  \item soit en faisant de la proposition une phrase indépendante, 
+        simplement introduite par \td{or} ;
+  \item soit comme une subordonnée temporelle 
+        \parencite[voir][109]{Obsomer}.
+\end{itemize}
+
+\bigskip
+
+\begin{exercice}[before upper={\centering}]
+  \donc{} Vous pouvez faire \textbf{l'exercice~2}.
+\end{exercice}

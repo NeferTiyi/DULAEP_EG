@@ -1,0 +1,102 @@
+%!TEX root = DULAEP_EG.htx
+%##HieroDef.txt
+
+\chapter*{Exercice~8}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{Translittérer, analyser et traduire}
+
+  \begin{parts}
+    \part
+    \begin{hieroglyph}n' n:t:f i-s bA-k:A1\end{hieroglyph}
+    \begin{solution}
+      \tl{n ntf is bAk=i} ---
+      \td{Il n'est pas mon serviteur} ---
+      PPN, négative
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}nfr-f:r p-w\end{hieroglyph}
+    \begin{solution}
+      \tl{nfr pw} ---
+      \td{C'est (quelque chose de) parfait.} ---
+      PPN avec la copule pw
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}nn w-A1 H-n:a f\end{hieroglyph}
+    \begin{solution}
+      \tl{nn wi Hna=f} ---
+      \td{Je ne suis pas avec lui} ---
+      PPAdverbial, négative
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}nn a:b-a:Y1 nn g:r-grg:Y1 i-m\end{hieroglyph}
+    \begin{solution}
+      \tl{nn aba. nn grg im} ---
+      \td{Il n'y a pas d'exagération. Il n'y a pas de mensonge, 
+      là.} ---
+      deux Proposition d'inexistence
+    \end{solution}
+    \part
+    \begin{hieroglyph}jw A1 xa:a-k:A1 m nTr-1-A40\end{hieroglyph}
+    \infos{\cite[§\,426]{Obsomer_2003}}
+
+    \begin{solution}
+      \tl{iw=i xa.kwi m nTr} ---
+      \td{Je suis apparu en tant que dieu} ---
+      PPPseudo-verbal -- parfait ancien
+    \end{solution}
+  \end{parts}
+
+  \subsection*{Vocabulaire}
+  \begin{multicols}{2}
+  \begin{itemize}
+    \item \begin{hieroglyph}a:b-a:Y1\end{hieroglyph}
+          \tl{aba}, \td{exagération}
+    \item \begin{hieroglyph}xa:a-Y1\end{hieroglyph}
+          \tl{xai} \vi{3}, \td{apparaître}
+    \item \begin{hieroglyph}g:r-grg:Y1\end{hieroglyph}
+          \tl{grg}, \td{mensonge}
+  \end{itemize}
+  \end{multicols}
+
+  \question\qfmt{Exercice d'épigraphie : Translittérer et traduire cet 
+  extrait d'une stèle funéraire conservée au \BM (\inv{EA\,586}).} Il 
+  faut, dans cet exercice, seulement lire les séquences indiquées 2-3 
+  et 7-8, qui donnent l'identité des quatre personnages représentés 
+  tournés vers la gauche, et leur lien de parenté avec le défunt.
+
+  % \renewcommand{\insertimg}{%
+    \begin{center}
+      \includegraphics[width=0.67\linewidth]{BM_EA586}%
+    \end{center}
+  % }
+  % \settowidth{\graphicwidth}{\insertimg}
+  % \begin{minipage}[b]{\graphicwidth}
+  %   \insertimg%
+  % \end{minipage}%
+  % \hfill%
+  % \begin{minipage}[b]{\linewidth-(\graphicwidth+7mm)}
+  %   Paroles de l'officiant qui découpe la patte, adressée à son 
+  %   collègue qui la maintient.
+  % \end{minipage}
+
+  \subsection*{Vocabulaire}
+  \begin{multicols}{2}
+    \begin{itemize}
+      \item \begin{hieroglyph}i-mn:n-m-HAt:t-A1\end{hieroglyph}
+            \tl{Imn-m-HA.t}, \td{Amenemhat} (anthroponyme)
+      \item \begin{hieroglyph}ini-n:t-f-A1\end{hieroglyph}
+            \tl{Int.f}, \td{Antef} (anthroponyme)
+      \item \begin{hieroglyph}mr-r:t:f\end{hieroglyph}
+            \tl{mr.t=f} \td{aimée de lui}
+      \item \begin{hieroglyph}mzH-zA-\!\!t:.-B1\end{hieroglyph}
+            \tl{\%A.t-\%bk}, \td{Sat-Sobek} (anthroponyme)
+      \item \begin{hieroglyph}wsr-r:t-zA-\!\!t:.-B1\end{hieroglyph}
+            \tl{\%A.t-Wsr.t}, \td{Sat-Ouseret} (anthroponyme)
+    \end{itemize}
+  \end{multicols}
+\end{questions}

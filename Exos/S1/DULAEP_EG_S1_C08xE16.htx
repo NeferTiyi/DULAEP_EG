@@ -1,0 +1,98 @@
+%!TEX root = DULAEP_EG.htx
+%##HieroDef.txt
+
+\chapter*{Exercice~16 (à rendre par email)}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{Translittérer, analyser et traduire}
+
+  \begin{parts}
+    \part
+    \begin{hieroglyph}
+      jw r:T-rmT m r-m-w-t-rmi ir:t*1-A1
+    \end{hieroglyph}
+    \begin{solution}
+      \tl{iw rmT m rm.wt ir.t=i}, 
+      \td{Les hommes sont (issus) des larmes de mon {\oe}il.}
+
+      Proposition à prédicat adverbial : auxiliaire + sujet + prédicat 
+      (groupe prépositionnel)
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}
+      m-a:k niwt:t*1 t:n m H-b-Hb jw:k m nb:A1-s
+    \end{hieroglyph}
+    \begin{solution}
+      \tl{mk, niw.t tn m Hb, iw=k m nb=s}, 
+      \td{Vois, la ville est en fête, (car) tu es son maître.}
+
+      Deux propositions à prédicat adverbial :
+      \begin{enumerate}
+         \item initiale : auxiliaire + sujet / prédicat (groupe 
+               prépositionnel)
+         \item séquentielle : auxiliaire (\tl{iw} nécessaire pour 
+               asseoir le pronom suffixe) + sujet (pronom suffixe) + 
+               prédicat (groupe prépositionnel avec \tl{m} d'état)
+      \end{enumerate}
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}
+      nn m jw-ms-s-A2 x*t:f Hr:1 T:n:3
+    \end{hieroglyph}
+    \begin{solution}
+      \tl{nn \zero m iwms xft-Hr=Tn}, 
+      \td{Ce n'est pas un mensonge devant vous.}
+
+      Proposition à prédicat adverbial négative : négation + 
+      sujet \tl{\zero} (pas de sujet exprimé) + prédicat (groupe 
+      prépositionnel avec \tl{m} d'état) + CC de lieu (groupe 
+      prépositionnel)
+    \end{solution}
+  \end{parts}
+
+  \question\qfmt{Traduire et écrire en hiéroglyphes}
+
+  \begin{parts}
+    \part\td{Une plainte est dans le ciel, un gémissement dans 
+    la Douat !}
+    \begin{solution}
+      \begin{hieroglyph}
+
+      \end{hieroglyph}
+      \tl{iw ianw m p.t, imw m \_wA.t \ex}
+    \end{solution}
+  \end{parts}
+\end{questions}
+
+\subsection*{Vocabulaire}
+\begin{multicols}{2}
+\begin{itemize}
+  \item \begin{hieroglyph}jw-ms-s-A2\end{hieroglyph} 
+        \tl{iwms}, \td{mensonge}
+  \item \begin{hieroglyph}i-a:n-nw-w-A2\end{hieroglyph} 
+        \tl{ianw}, \td{plainte}
+  \item \begin{hieroglyph}i-m-M-mw\end{hieroglyph} 
+        \tl{imw}, \td{gémissement}
+  \item \begin{hieroglyph}niwt:t*1\end{hieroglyph} 
+        \tl{niw.t}, \td{ville}
+  \item \begin{hieroglyph}r-m-w-t-rmi\end{hieroglyph} 
+        \tl{rm.wt}, \td{larmes}
+  \item \begin{hieroglyph}r-m:T-rmT\end{hieroglyph} 
+        graphie complète de 
+        \begin{hieroglyph}r:T-rmT\end{hieroglyph} 
+        \tl{rmT}, \td{gens}, \td{humains}
+  \item \begin{hieroglyph}H-b-Hb\end{hieroglyph} 
+        \tl{Hb}, \td{fête}
+  \item \begin{hieroglyph}x*t:f-Hr:1\end{hieroglyph} 
+        \tl{xft-Hr} (préposition composée),
+        \td{devant}, \td{en présence de} --- \rem{NB : notez la 
+        disposition des signes \tl{t} et \tl{f} dans \tl{xft}, qui ne 
+        respecte pas le sens de lecture mais opte pour une disposition 
+        harmonieuse des signes dans le cadrat.}
+  \item \begin{hieroglyph}dwA-t:pr\end{hieroglyph} 
+        \tl{\_wA.t}, \td{Douat} (domaine chthonien des morts, d'Osiris)
+\end{itemize}
+\end{multicols}

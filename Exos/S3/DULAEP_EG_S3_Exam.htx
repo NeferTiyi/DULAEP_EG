@@ -1,0 +1,127 @@
+%!TEX root = DULAEP_EG_Exos.htx
+%##HieroDef.txt
+
+\chapter*{Semestre~3 : Examen}
+% =====================================================================
+
+\begin{questions}
+  \question[16]\qfmt{Inscription de Thoutmosis~III, Akhménou, Karnak}\\
+  Translittérer, analyser les formes verbales en rouge, et traduire 
+  (1~point pour chaque analyse des formes verbales + 6~points de 
+  traduction)\\
+  \red{\begin{hieroglyph}anx\end{hieroglyph}}%
+  \begin{hieroglyph}
+    G5 kA-D40-xa-m-wAs-t:niwt 
+    nswbjty <-ra-mn-xpr-> !
+    i-mn:n zA-1 n X:t*1 f <-G26-ms:z-nfr-xpr:3->
+  \end{hieroglyph}\\
+  \red{\begin{hieroglyph}ir:n:f\end{hieroglyph}}%
+  \begin{hieroglyph}
+    m mn:nw*nw*nw f n t:f-A40 +l$\Big[$+s 3:f 
+    sw-t:n-i-i-w-bit:t-tyw-A46-Z3 +l$\Big]$+s
+  \end{hieroglyph}\\
+  \hspace*{2em}%
+  \red{\begin{hieroglyph}ir:t\end{hieroglyph}}%
+  \begin{hieroglyph}
+    n z:n O8-pr aA:t:\!a n:t HH-3 
+    m rnp-rnp-rnp !
+    +l\hspace*{2em}+s m mA-w-t-Y1v m i-n:r:inr HD nfr n nw:\!a:D8
+  \end{hieroglyph}\\
+  \hspace*{2em}%
+  \red{\begin{hieroglyph}D44:Y1-ti\end{hieroglyph}}%
+  \begin{hieroglyph}mi Axt:t*pr n:t pt\end{hieroglyph}\\
+  \hspace*{2em}%
+  \red{\begin{hieroglyph}s-mn:n:x*mnx-ti\end{hieroglyph}}%
+  \begin{hieroglyph}m kA:t-A9 Dt\end{hieroglyph}
+
+  \smallskip
+
+  \red{\begin{hieroglyph}wD\end{hieroglyph}}%
+  \begin{hieroglyph}Hm-A42 f\end{hieroglyph}%
+  \red{\begin{hieroglyph}s-mn:n:t-Y1\end{hieroglyph}}%
+  \begin{hieroglyph}r:n-r:n-r:n nw-1 t:f-t:f-t:f\end{hieroglyph}\\
+  \hspace*{2em}%
+  \red{\begin{hieroglyph}s-r-w-d:rwd-Y1\end{hieroglyph}}%
+  \begin{hieroglyph}pA-t*X6:3 z:n\end{hieroglyph}\\
+  \hspace*{2em}%
+  \red{\begin{hieroglyph}ms-s-t\end{hieroglyph}}%
+  \begin{hieroglyph}
+    a:S-m-G7-3:z:n m D:\!\!\!t\s2:1\s2-3:z:n nb
+  \end{hieroglyph}\\
+  \hspace*{2em}%
+  \red{\begin{hieroglyph}wAH-Y1\end{hieroglyph}}%
+  \begin{hieroglyph}
+    n z:n nTr-Htp:X2*Hnqt-X4:3 aA:Y1 m mA-w-t
+  \end{hieroglyph}
+
+  \question[4]\qfmt{Translittérer, analyser et traduire cette phrase 
+  tirée de \source{l'Enseignement de Ptahhotep}}\\
+  Contexte : \td{Si tu te trouves être un dirigeant, sois aimable 
+  quand tu entends le propos d'un plaignant} 
+  (trad. \gens[P.]{Vernus}).\\
+  Suite :
+  \begin{hieroglyph}
+    m g:f-n:D19-A2 sw-W r s-sk-k:t-wr:f X:t*1 f
+  \end{hieroglyph}
+\end{questions}
+
+
+\subsection*{Vocabulaire}
+\begin{multicols}{2}
+  \begin{itemize}
+    \item \begin{hieroglyph}i-n:r:inr\end{hieroglyph}
+          \tl{inr}, \td{pierre}
+    \item \begin{hieroglyph}wD-w-Y1v\end{hieroglyph}
+          \tl{wD}, \td{ordonner} 
+          (+ \clel{subjonctif} ou \clel{infinitif} =
+          \td{ordonner que}, \td{ordonner de})
+    \item \begin{hieroglyph}wAH-Y1\end{hieroglyph}
+          \tl{wAH}, \td{poser}, \td{instituer} (verbe fort)
+    \item \begin{hieroglyph}nw:\!a:D8\end{hieroglyph}
+          \tl{anw}, \td{Ânou} (lieu de provenance de pierres) 
+    \item \begin{hieroglyph}a:S-m-G7\end{hieroglyph}
+          \tl{axm} / \tl{aSm}, \td{image (divine)}
+    \item \begin{hieroglyph}pA-t*X6:3\end{hieroglyph}
+          \tl{pA.wt}, \td{pains d'offrandes}
+    \item \begin{hieroglyph}m-mA-w-t-Y1v\end{hieroglyph}
+          \tl{m-mAw.t}, \td{de nouveau}
+    \item \begin{hieroglyph}ms-s-msi\end{hieroglyph}
+          \tl{msi} \vi{2}, \td{mettre au monde}, \td{façonner 
+          (une statue divine)}
+    \item \begin{hieroglyph}
+            sw-t:n-i-i-w-bit:t-tyw-A46-Z3
+          \end{hieroglyph}
+          \tl{nswty.w-bity.w}, \td{rois de \HBE}
+    \item \begin{hieroglyph}O8-pr\end{hieroglyph}
+          \tl{Hw.t-aA.t}, \td{grand palais} 
+          (dans l'expression \td{grand palais de million d'années})
+    \item \begin{hieroglyph}nTr-Htp:X2*Hnqt-X4:3\end{hieroglyph}
+          \tl{Htp.w-nTr}, \td{offrandes divines}
+    \item \begin{hieroglyph}HD-D:\!\!\!ra\s1\end{hieroglyph}
+          \tl{HD}, \td{blanc}, \td{brillant}
+    \item \begin{hieroglyph}s-mn:n:x*mnx\end{hieroglyph}
+          \tl{smnx}, \td{rendre efficient}, \td{construire}
+    \item \begin{hieroglyph}kA:t-A9\end{hieroglyph}
+          \tl{kA.t}, \td{travail}
+    \item \begin{hieroglyph}s-mn:n-Y1v\end{hieroglyph}
+          \tl{smn} \vcl{2}, \td{établir}
+    \item \begin{hieroglyph}s-r-w-d:rwd-Y1\end{hieroglyph}
+          \tl{srwD}, \td{renforcer}
+    \item \begin{hieroglyph}s-sk-k:wr\end{hieroglyph}
+          \tl{sk} \vl{2}, \td{balayer}, dans \tl{sk X.t=f}, 
+          \td{vider son ventre} (= vider son c\oe ur)
+    \item \begin{hieroglyph}g:f-n:fnd-A2\end{hieroglyph}
+          \tl{gfn}, \td{repousser}, \td{renvoyer}
+    \item \begin{hieroglyph}D:\!\!\!t\s2:1\s2\end{hieroglyph}
+          \tl{D.t}, \td{corps} (le mot peut renvoyer aux corps 
+          divins en tant que statues de culte en différents matériaux)
+    \item \begin{hieroglyph}Dt\end{hieroglyph}
+          \tl{D.t}, \td{éternité}
+    \item \begin{hieroglyph}D44:Y1\end{hieroglyph}
+          \tl{Dsr}, \td{devenir sacré, séparé}
+  \end{itemize}
+\end{multicols}
+
+\noindent%
+Voir aussi les dictionnaires et lexiques, ou encore le TLA en ligne 
+(\url{http://aaew.bbaw.de/tla/}).

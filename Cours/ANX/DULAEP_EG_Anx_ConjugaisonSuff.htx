@@ -1,0 +1,73 @@
+%!TEX root = DULAEP_EG.htx
+%##HieroDef.txt
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\chapter{Conjugaison suffixale}
+\label{anx:conj_suff}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+{%
+% \newcolumntype{A}[1]{>{\vspace{2pt}\centering}m{#1}<{\vspace{2pt}}}
+\renewcommand\tabularxcolumn[1]{A{#1}}
+\noindent%
+\begin{tabularx}{\textwidth}{|>{\bfseries}X|*{6}{X|}}
+  \cline{2-7}
+    \multicolumn{1}{c|}{~} &
+    \multirow{2}{*}{\bfseries\vl{3}} &
+    \multirow{2}{*}{\bfseries\vg{2}} &
+    \multirow{2}{*}{\bfseries\vi{3}} &
+    \multicolumn{3}{c|}{\bfseries\va{}}
+  \tabularnewline
+    \multicolumn{1}{c|}{~} &
+    ~ & ~ & ~ & 
+    \bfseries\td{donner} & 
+    \bfseries\td{venir} & 
+    \bfseries\td{apporter}
+  \tabularnewline
+  \hline
+    \cellcolor{fvinit}Perfectif \tl{sDm=f} &
+    \tl{sDm} & \tl{mA} & \tl{mr} & \tl{rdi} & 
+    \tl{ii}/\tl{iw} & \tl{in}
+  \tabularnewline
+  \hline
+    \cellcolor{fvinit}Accompli \tl{sDm.n=f} &
+    \tl{sDm.n} & \tl{mA.n} & \tl{mr.n} & \tl{rdi.n}/\tl{di.n} & 
+    \tl{ii.n}/\tl{iw.n} & \tl{in.n}
+  \tabularnewline
+  \hline
+    \cellcolor{fvinit}Aoriste \tl{sDm=f} & \tl{sDm} & \tl{mAA} & 
+    \tl{mr} & \tl{di} & \tl{iw}  & \tl{in}
+  \tabularnewline
+  \hline
+    \cellcolor{fvinit}Prospectif \tl{sDm(w)=f} & \tl{sDm(w/y)} & 
+    \tl{mAA} & \tl{mr(w/y)} & \tl{rdi} & \tl{iw} & \tl{in}
+  \tabularnewline
+  \hline
+    \cellcolor{fvinit}Subjonctif \tl{sDm=f} & \tl{sDm} & 
+    \tl{mA}/\tl{mAn} & \tl{mr(y)} & \tl{di} & \tl{iwt} & \tl{int}
+  \tabularnewline
+  \hline
+    \cellcolor{fvdepd}\tl{sDmt=f} & \tl{sDmt} & \tl{mAA} & 
+    \tl{mrt} & \tl{rdit} & \tl{iit} & \tl{int}
+  \tabularnewline
+  \hline
+    \cellcolor{fvdepd}Forme nominale \tl{mrr=f} & \tl{sDm} & 
+    \tl{mAA} & \tl{mrr} & \tl{didi} & \tl{iw(w)} & \tl{inn}
+  \tabularnewline
+  \hline
+    \cellcolor{fvmisc}\tl{sDm.xr=f} & \tl{sDm.xr} & 
+    \tl{mAA.xr} & \tl{mr.xr} & \tl{(r)di.xr} &  & \tl{in.xr}
+  \tabularnewline
+  \hline
+    \cellcolor{fvmisc}\tl{sDm.kA=f} & \tl{sDm.kA} & 
+    \tl{mAA.kA} & \tl{mr.kA} & \tl{(r)di.kA} & \tl{iw.kA} & 
+    \tl{in.kA}
+  \tabularnewline
+  \hline
+    \cellcolor{fvmisc}\tl{sDm.in=f} & \tl{sDm.in} & 
+    \tl{mAA.in} & \tl{mr.in} & \tl{(r)di.in} & \tl{ii.in} & 
+    \tl{in.in}
+  \tabularnewline
+  \hline
+\end{tabularx}
+}

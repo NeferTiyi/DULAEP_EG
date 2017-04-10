@@ -1,0 +1,190 @@
+%!TEX root = DULAEP_EG.htx
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\part[La forme \tl{sDmt=f}]{La forme \tl{sDmt=f} (\td{qu'il a écoute})}
+\label{prt:S3_sdmtf}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+La forme \tl{sDmt=f} est une forme verbale de l'accompli, qui a des 
+emplois limités à des propositions circonstancielles, en position de 
+dépendance syntaxique par rapport à une principale.
+
+
+\chapter{Caractéristiques générales}
+% =====================================================================
+
+\begin{itemize}
+  \item Aspect : accompli
+  \item Morphologie : désinence \tl{-t} (thème verbal bref, long pour 
+        les géminés)
+  \item Emplois limités, en égyptien classique, à quelques tournures 
+        typiques dans lesquelles elle est toujours subordonnée 
+        (circonstancielles)
+\end{itemize}
+
+\begin{aparte}
+  Le sens général de \tl{sDmt=f} est \td{ayant accompli}, \td{alors 
+  qu'il a accompli}.
+
+  Ses utilisations principales sont :
+  \begin{itemize}
+    \item dans des tournures négatives, du type \td{avant qu'il ait 
+          entendu}, \tl{n sDmt=f} ;
+    \item dans des circonstancielles véritables (après les 
+          conjonctions \tl{r}, \td{jusqu'à ce que} et \tl{Dr}, 
+          \td{avant que}, \td{depuis que}.
+  \end{itemize}
+\end{aparte}
+
+
+\chapter{Morphologie}
+% =====================================================================
+
+La forme se caractérise donc par une désinence \tl{-t}.
+
+Les verbes géminés ont un thème verbal long, mais pas les verbes 
+faibles.
+
+{
+\renewcommand\tabularxcolumn[1]{A{#1}}
+\noindent%
+\begin{tabularx}{\textwidth}{|>{\bfseries}X|*{6}{X|}}
+  \cline{2-7}
+    \multicolumn{1}{c|}{~} &
+    \multirow{2}{*}{\bfseries\vl{3}} &
+    \multirow{2}{*}{\bfseries\vg{2}} &
+    \multirow{2}{*}{\bfseries\vi{3}} &
+    \multicolumn{3}{c|}{\bfseries\va{}}
+  \tabularnewline
+    \multicolumn{1}{c|}{~} &
+    ~ & ~ & ~ & 
+    \bfseries\td{donner} & 
+    \bfseries\td{venir} & 
+    \bfseries\td{apporter}
+  \tabularnewline
+  \hline
+    \cellcolor{fvdepd}\tl{sDmt=f} & \tl{sDmt} & \tl{mAA} & 
+    \tl{mrt} & \tl{rdit} & \tl{iit} & \tl{int}
+  \tabularnewline
+  \hline
+\end{tabularx}
+}
+
+Il est à noter que le passif et l'actif ont généralement le même 
+aspect, sauf pour les verbes faibles qui présentent, au passif, une 
+terminaison en \tl{-yt}.
+
+\tl{mryt=f} = \td{ayant été aimé}
+
+
+\chapter{Emplois}
+% =====================================================================
+
+Ses emplois se limitent, en égyptien classique, à deux cas de figures 
+essentiellement :
+
+\begin{enumerate}
+  \item tournure négative \tl{n sDmt=f} ;
+  \item régime des prépositions-conjonctions (c'est-à-dire dans des 
+        circonstancielles véritables)
+\end{enumerate}
+
+\section{La tournure négative \tl{n sDmt=f}, \td{avant qu'il ait 
+entendu}}
+% ---------------------------------------------------------------------
+Le sens de base de la tournure est \td{il n'a pas \textbf{encore} 
+entendu}. Le sens concret est souvent : \td{alors qu'il n'a pas encore 
+entendu}, \td{avant qu'il ait entendu}. Cette tournure s'emploie dans 
+des \textbf{propositions subordonnées virtuelles}.
+
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    m g:r-grg:Y1 dwA-A-ra D35 ii-i-t:D54 f
+  \end{hieroglyph}
+
+  \tl{m grg dwA n iit=f}
+  \infos{\source{Oasien}, anc. B\,1, 183}
+
+  \td{Ne fonde pas le lendemain avant qu'il ne soit venu.}
+
+  \bigskip
+
+  \begin{hieroglyph}
+    xpr-r r:n:k' D35 ms-s-i-i-t r:T-A1-B1-3 
+    D35 x:p-xpr-r:t nTr-1-A40-3
+  \end{hieroglyph}
+
+  \tl{xpr rn=k n msyt rmT, n xprt nTr.w}
+  \infos{\cite[309]{Allen}}
+
+  \td{Ton nom est advenu \remg{(perfectif)}, alors que les hommes 
+      n'étaient pas nés et que les dieux n'étaient pas advenus.}
+\end{example}
+
+La forme peut se trouver dans des propositions subordonnées traduites 
+comme des relatives en français. L'exemple suivant montre la tournure 
+\tl{n sDmt=f} introduite par \tl{nty.t} (\td{que}/\td{ce que}).
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    m-wA-A-A2 n:t:t D35 ii-i-t:D54 f
+  \end{hieroglyph}
+
+  \tl{m wA nt(y).t n iit} \remg{(sujet non exprimé)}
+  \infos{\CdP B$_1$\,271--272}
+
+  \td{Ne te vante pas \remg{(vétitif)} de ce qui n'est pas 
+      encore venu.}
+\end{example}
+
+\section{Régime des prépositions-conjonctions}
+% ---------------------------------------------------------------------
+La forme \tl{sDmt=f} fait partie des formes verbales utilisées 
+dans les circonstancielles véritables, c'est-à-dire introduite 
+par des prépositions conjonctions. Nous consacrerons un cours à 
+ces circonstancielles (voir \Pref{pt:S3_circonst_vrai} et 
+\titleref{bk:semestre4}, \Pref{prt:S4_conditionnelles}), mais, 
+pour mémoire, derrière les prépositions-conjonctions, on trouve :
+\begin{itemize}
+  \item à l'accompli : le \tl{sDm.n=f} ou le \tl{sDmt=f}
+  \item à l'inaccompli : le \tl{mrr=f}
+  \item pour le futur : les formes prospectives
+\end{itemize}
+
+La forme \tl{sDmt=f} se rencontre essentielle derrière \tl{r}, 
+\td{jusqu'à ce que} et \tl{Dr}, \td{avant que}.
+
+\begin{itemize}
+  \item \tl{r sDmt=f} = \td{jusqu'à ce qu'il ait entendu}
+  \item \tl{Dr sDmt=f} = \td{avant qu'il ait entendu}
+\end{itemize}
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    Dd' r:n A50 i-n z:\!zA T:w N23-1 Dr:r x:n-d:t-rd k Hr:r A50
+  \end{hieroglyph}
+
+  \tl{Dd rn=i, in sATw, Dr xndt=k Hr=i}
+  \infos{\CTx{V}, 186\,f--g}
+
+  \td{Dis mon nom, dit le sol, avant que tu n'aies marché sur moi.}
+
+  \bigskip
+
+  \begin{hieroglyph}
+    m s-Dr:r-Q6 g:r-H-N2 mi-i ra:1 r spr:r-D54*t:k r Ab-Dw:niwt
+  \end{hieroglyph}
+
+  \tl{m sDr grH mi hrw r sprt=k r AbDw}
+  \infos{\cite[ex.~824]{MW}, \source{St. Néferhotep}, 13}
+
+  \td{Ne te couche pas ni la nuit, ni le jour, jusqu'à ce que tu aies 
+      atteint Abydos.}
+\end{example}
+
+
+\chapter{Tournure négative}
+% =====================================================================
+
+La négation \tl{tmt=f sDm}, \td{n'ayant pas/plus écouté} est attestée.

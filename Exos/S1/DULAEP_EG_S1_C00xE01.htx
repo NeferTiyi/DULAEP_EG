@@ -1,0 +1,34 @@
+%!TEX root = DULAEP_EG.htx
+%##HieroDef.txt
+
+\chapter*{Exercice~1 --- Familiarisation avec les hiéroglyphes}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{En vous aidant de la liste des signes 
+  \frquote{unilitères}, indiquez pour chacun de ces 23~signes 
+  l'identification de l'élément représenté.}
+
+  \begin{hieroglyph}
+    A-i-a-w-W-b-p-f-m-n-r-h-H-x-X-z-s- S-q-k-g-t-T-d-D
+  \end{hieroglyph}
+
+  \begin{notabene}
+    Ces signes ont été choisis pour cet exercice de familiarisation 
+    car, comme vous le verrez dans la prochaine section, il s'agit de 
+    la vingtaine de signes à apprendre par c{\oe}ur le plus rapidement 
+    possible. L'apprentissage des autres signes se fera 
+    progressivement.
+  \end{notabene}
+
+  \begin{solution}
+    Voir tableau des unilitères.
+  \end{solution}
+
+  \question\qfmt{À votre avis, les signes ci-dessus sont orientés pour 
+  une lecture de droite à gauche ou de gauche à droite ?}
+
+  \begin{solution}
+    De gauche à droite.
+  \end{solution}
+\end{questions}

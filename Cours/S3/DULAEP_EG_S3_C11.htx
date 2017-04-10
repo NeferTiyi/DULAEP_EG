@@ -1,0 +1,210 @@
+%!TEX root = DULAEP_EG.htx
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\part{Formes séquentielles contingentes}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Pour clore ce grand volet sur les formes de la conjugaison suffixale, 
+il faut à présent aborder des formes \frquote{plus rares}, qui se 
+caractérisent par un suffixe très facilement reconnaissable. Leur 
+identification est donc aisée.
+
+Je vous renvoie à :
+
+\begin{itemize}
+  \item \cite[Cours~22]{Allen}
+  \item \cite[93]{Obsomer}
+  \item \cite[leçon~42]{GM}
+  \item \cite[§\,623--627]{MW}
+\end{itemize}
+
+% \begin{itemize}
+%   \item \tl{sDm.xrf}
+%   \item \tl{sDm.kA=f}
+%   \item \tl{sDm.in=f}
+% \end{itemize}
+
+Il s'agit de trois formes suffixales rares qui sont construites avec 
+trois particules apparentées à des verbes signifiant respectivement 
+\td{crier} (\tl{xrw}) ou \td{tomber} d'après Grandet/Mathieu), 
+\td{penser} (\tl{kAi}), dire (\tl{i.n}).
+
+Elles partagent une caractéristique syntaxique importante : 
+elles sont employées dans des \textbf{phrases principales}, mais 
+\textbf{non-initiales}. C'est que le procès qu'elles expriment est 
+conditionné par la réalisation d'un autre, qui précède. Elles sont 
+employées dans des propositions principales, mais non initiales, en 
+tant que formes séquentielles et contingentes. Elles sont, pour les 
+deux premières, surtout utilisées dans les textes à caractère 
+didactique et marquent un enchaînement obligatoire du raisonnement. 
+La troisième appartient au registre de la narration.
+
+Les deux premières formes sont apparentées au prospectif (futur), 
+alors que la dernière est apparentée au perfectif (temps de la 
+narration)
+
+\begin{itemize}
+  \item \tl{sDm.xr=f}, \td{alors, il écoutera}
+  \item \tl{sDm.kA=f}, \td{alors, il écoutera}
+  \item \tl{sDm.in=f}, \td{alors, il écouta}
+\end{itemize}
+
+
+\chapter{\tl{sDm.xr=f}}
+% =====================================================================
+
+Le thème verbal est bref, mais la gémination possible pour les géminés.
+
+Suffixe : \begin{hieroglyph}x:r\end{hieroglyph} (écrit après les 
+déterminatifs).
+
+\uline{Le sens est obligatif} : c'est-à-dire que la forme verbale 
+exprime la conséquence logique, \emph{inévitable}, d'un énoncé qui 
+précède. Celui-ci est souvent exprimé par une circonstancielle en tête 
+de phrase introduite par \tl{ir} \td{si}, \td{quant à}. Cette forme 
+verbale est très fréquente dans les textes médicaux.
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    i-r xpr:r f m f:n-t-w-I14:3 imi-Y1-x:r-Y1:f s-t
+  \end{hieroglyph}
+
+  \tl{ir xpr=f m fntw, wnm.xr=f st}
+  \infos{\cite{GM}, \CTx{VII}, 438\,c}
+
+  \td{S'il se transforme en vers \footnotemark{}, il le mangera 
+      forcément.}
+\end{example}
+\footnotetext{Proposition conditionnelle avec un subjonctif, 
+voir \titleref{bk:semestre4}.}
+
+En moyen égyptien, il existe déjà une variante à cette forme verbale : 
+\tl{xr(=f) sDm=f} (thème de l'aoriste ou du prospectif).
+
+Le passif : \tl{sDm.xr.tw=f}
+
+
+\chapter{\tl{sDm.kA=f}}
+% =====================================================================
+
+Thème verbal bref.
+
+Suffixe : \begin{hieroglyph}k-A\end{hieroglyph} (après les 
+déterminatifs).
+
+Cette forme exprime une conséquence chronologique, liée à la volonté 
+du locuteur, d'une action qui précède. La traduction par un futur est 
+très fréquente.
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    i-r D54-w-\!t:. k m H-f:A-t:I14 nb:t m-\!\!t:.-A14-k-A r:a-ra-G7
+  \end{hieroglyph}
+
+  \tl{ir iwt=k m HfA.t nb.t, mwt.kA Ra}
+  \infos{\cite{GM}, \CTx{VII}, 18\,c}
+
+  \td{Si tu viens sous la forme d'un quelconque serpent, Rê mourra.}
+\end{example}
+
+La variante de cette forme verbale est en usage dès la \dyn{12} : 
+\tl{kA(=f) sDm=f} (thème de l'aoriste ou du prospectif/subjonctif).
+
+Le passif : \tl{sDm.kA.tw=f}
+
+
+\chapter{\tl{sDm.in=f}}\label{cha:sDminf}
+% =====================================================================
+
+Thème verbal bref.
+
+Suffixe : \begin{hieroglyph}i-n\end{hieroglyph} ou 
+\begin{hieroglyph}i-N\end{hieroglyph} (après les déterminatifs).
+
+Cette forme est un séquentiel narratif qui introduit une nouvelle 
+étape dans un récit. Elle est donc le plus souvent traduite par un 
+passé simple. Toutefois, on peut aussi la rencontrer dans les textes 
+médicaux où la traduction par un futur s'imposera.
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    Dd'-i-n sxt-t:y-A1 p:n
+  \end{hieroglyph}
+
+  \tl{Dd.in sxty pn}
+  \infos{\cite[§\,373]{Obsomer_2003}, \CdP R\,2, 5}
+
+  \td{Alors ce paysan dit\dots}
+\end{example}
+
+Le passif est : \tl{sDm.in.tw=f}
+
+
+\chapter{Excursus : la narration}
+% =====================================================================
+
+L'égyptien ancien possède beaucoup de construction utilisée dans la 
+narration (= rapport de \frquote{faits présentés comme extérieurs au 
+monde immédiat du locuteur}, \cite[654]{MW}). Nous en avons vu déjà 
+plusieurs. Voici un petit récapitulatif.
+
+D'après \citeauthor{MW}, on peut distinguer \textbf{deux groupes de 
+constructions narratives} d'après la syntaxe : les formes narratives 
+autonomes, et celles qui sont toujours séquentielles.
+
+\section{Formes narratives autonomes}
+% ---------------------------------------------------------------------
+\begin{itemize}
+  \item \tl{sDm=f} perfectif (voir \Pref{prt:S3_perfectif})
+  \item le parfait ancien (voir \Pref{prt:parfait}, 
+        \titleref{bk:semestre2})
+  \item \tl{iw sDm.n=f} (voir \Pref{prt:S3_accompli})
+\end{itemize}
+
+S'ajoute à elles une construction que nous n'avons pas encore vue, 
+car nous avons besoin des participes et des formes relatives (voir 
+\titleref{bk:semestre4}), mais qui se construit sur le modèle de 
+la \PPN : 
+\tl{sDm pw ir(w).n=f} 
+\td{\litt c'est écouter \remg{(infinitif)} ce qu'il a fait 
+\remg{(forme relative accomplie)}} 
+= \td{alors il écouta}.
+
+Il existe aussi un emploi de l'infinitif appelé \frquote{infinitif 
+narratif} qui se rencontre notamment dans les annales royales.
+
+\section{Formes narratives à valeur séquentielle}
+% ---------------------------------------------------------------------
+\paragraph{Avec l'auxiliaire}
+\begin{hieroglyph}aHa-a:D54-n\end{hieroglyph} 
+\tl{aHa.n}, \td{Et, alors\dots}
+\begin{itemize}
+  \item \tl{aHa.n} + \tl{sDm.n=f}
+  \item \tl{aHa.n} + parfait ancien
+  \item \tl{aHa.n} + \tl{Hr} + infinitif
+\end{itemize}
+
+\paragraph{Avec l'auxiliaire}
+\begin{hieroglyph}wn:n-i-n\end{hieroglyph} 
+\tl{wn.in=f} (\td{alors}) , en particulier :
+\begin{itemize}
+  \item \tl{wn.in} + parfait ancien
+  \item \tl{wn.in} + \tl{Hr} + infinitif
+\end{itemize}
+
+La forme \tl{sDm.in=f} (voir ci-dessus, \Cref{cha:sDminf}).
+
+
+\filet
+
+\begin{center}
+  \em
+  Vous avez à présent un aperçu de toutes les formes verbales de la 
+  conjugaison suffixale.
+\end{center}
+
+\bigskip
+
+\begin{exercice}[before upper={\centering}]
+  \donc{} Mettons en pratique à présent : \textbf{exercice~11}.
+\end{exercice}

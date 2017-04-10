@@ -1,0 +1,104 @@
+%!TEX root = DULAEP_EG.htx
+%##HieroDef.txt
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\chapter{Syntaxe de la phrase égyptienne --- \PPA et \PPP}
+\label{anx:syntaxe}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\cite[D'après][35]{WinandStella}.
+
+\bigskip
+
+\noindent%
+\begin{description}
+  \item [P.S. :] pronom suffixe
+  \item [P.D. :] pronom dépendant
+  \item [S.N. :] syntagme nominal
+  \item [Prép. :] préposition
+\end{description}
+
+{%
+% \newcolumntype{A}[1]{>{\vspace{2pt}\centering}m{#1}<{\vspace{2pt}}}
+\renewcommand\tabularxcolumn[1]{A{#1}}
+
+\section*{\PPA}
+% ---------------------------------------------------------------------
+\noindent%
+\begin{tabularx}{11.5cm}{*{4}{|A{1.5cm}}|X|}
+  \hline
+    \textbf{Modalité} &
+    \textbf{Aux. Énonc.} &
+    \textbf{Négation} &
+    \textbf{Sujet} &
+    \textbf{Prédicat}
+  \tabularnewline
+  \hline
+    ~ &
+    \tl{mk}\\ \tl{isT}\\ \tl{HA} &
+    \tl{nn} &
+    \tl{\zero}\\ S.N.\\ P.D. &
+    ~
+  \tabularnewline
+  \cline{1-4}
+    \tl{in} &
+    \multicolumn{2}{c|}{\tl{iw}} &
+    \tl{\zero}\\ S.N.\\ P.S. &
+
+  \tabularnewline
+  \cline{1-4}
+    ~ &
+    \tl{\zero} &
+    \tl{nn} &
+    S.N.\\ P.D.\\ (\tl{ink}) &
+    \multirow{-3}{*}[1.1cm]{\parbox{3cm}{\centering%
+      Adv.\\
+      \bigskip
+      Prép. + S.N.%
+    }}
+  \tabularnewline
+  \hline
+\end{tabularx}
+
+\section*{\PPP}
+% ---------------------------------------------------------------------
+\noindent%
+\begin{tabularx}{11.5cm}{*{4}{|A{1.5cm}}|X|}
+  \hline
+    \textbf{Modalité} &
+    \textbf{Aux. Énonc.} &
+    \textbf{Négation} &
+    \textbf{Sujet} &
+    \textbf{Prédicat}
+  \tabularnewline
+  \hline
+    ~ &
+    \tl{mk}\\ \tl{isT}\\ \tl{HA} &
+    \tl{nn} &
+    \tl{\zero}\\ S.N.\\ P.D. &
+    
+  \tabularnewline
+  \cline{1-4}
+    \tl{in} &
+    \multicolumn{2}{c|}{\tl{iw}} &
+    \tl{\zero}\\ S.N.\\ P.S. &
+    
+  \tabularnewline
+  \cline{1-4}
+    ~ &
+    \tl{\zero} &
+    \tl{nn} &
+    S.N.\\ P.D.\\ (\tl{ink}) &
+    \multirow{-3}{*}[1.3cm]{\parbox{3cm}{\centering%
+      \tl{Hr} + infinitif\\
+      \medskip
+      \tl{m} + infinitif\\
+      \medskip
+      \tl{r} + infinitif\\
+      \medskip
+      parfait ancien%
+    }}
+  \tabularnewline
+  \hline
+\end{tabularx}
+}

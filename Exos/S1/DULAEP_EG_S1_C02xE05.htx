@@ -1,0 +1,65 @@
+%!TEX root = DULAEP_EG.htx
+%##HieroDef.txt
+
+\chapter*{Exercice~5 --- Le système graphique}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{En utilisant le tableau des unilitères, la liste des 
+  plurilitères et le tableau des déterminatifs, translittérer les mots 
+  suivants et essayer d'en deviner approximativement le sens}
+
+  \begin{multicols}{2}
+  \begin{parts}
+    \part\begin{hieroglyph}X:r:d-Xrd-A1\end{hieroglyph}
+    \begin{solution}
+      \tl{Xrd}, \td{enfant}
+    \end{solution}
+
+    \part\begin{hieroglyph}i-mn:n-G7\end{hieroglyph}
+    \begin{solution}
+      \tl{imn}, \td{Amon}
+    \end{solution}
+
+    \part\begin{hieroglyph}sxm-m-\!\!t:.-I12\end{hieroglyph}
+    \begin{solution}
+      \tl{Sxm.t}, (Sekhmet)
+    \end{solution}
+
+    \part\begin{hieroglyph}t-\!w-\!t:.-A53\end{hieroglyph}
+    \begin{solution}
+      \tl{twt}, \td{image}
+    \end{solution}
+
+    \part\begin{hieroglyph}km-m-t:niwt\end{hieroglyph}
+    \begin{solution}
+      \tl{Km.t}, \td{\kmt (\litt la (terre) noire)}
+    \end{solution}
+
+    \part\begin{hieroglyph}r-m-in\end{hieroglyph}
+    \begin{solution}
+      \tl{rm}, \td{poisson}
+    \end{solution}
+
+    \part\begin{hieroglyph}A-p:d-zA\end{hieroglyph}
+    \begin{solution}
+      \tl{Apd}, \td{oiseau}
+    \end{solution}
+
+    \part\begin{hieroglyph}g:r-H-N2\end{hieroglyph}
+    \begin{solution}
+      \tl{grH}, \td{nuit}
+    \end{solution}
+
+    \part\begin{hieroglyph}h:r-w-ra\end{hieroglyph}
+    \begin{solution}
+      \tl{hrw}, \td{jour}
+    \end{solution}
+
+    \part\begin{hieroglyph}n:h-t-M1\end{hieroglyph}
+    \begin{solution}
+      \tl{nh.t}, \td{arbre, sycomore}
+    \end{solution}
+  \end{parts}
+  \end{multicols}
+\end{questions}

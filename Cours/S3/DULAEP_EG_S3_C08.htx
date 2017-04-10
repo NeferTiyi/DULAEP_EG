@@ -1,0 +1,327 @@
+%!TEX root = DULAEP_EG.htx
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\part[La forme substantive \tl{mrr=f}]{La forme substantive \tl{mrr=f} 
+(\td{le fait qu'il aime})}
+\label{prt:S3_nom_imperf}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\chapter{Introduction}
+% =====================================================================
+
+Lors du cours sur l'aoriste, nous avons vu que l'aoriste \tl{sDm=f}, 
+contrairement à l'accompli \tl{sdm.n=f}, ne peut assumer toute la 
+gamme des emplois possibles des formes verbales de la conjugaison 
+suffixale. L'aoriste peut assumer seulement les fonctions prédicatives 
+(autonome, initiale, et en position de circonstancielle virtuelle), 
+mais aucun des emplois classés dans les emplois dits nominaux. La 
+raison en est simple, on l'a dit : il existe une forme d'inaccompli 
+général \emph{spécialisée} dans ces emplois : le \tl{mrr=f}.
+
+\begin{aparte}[title={Les appellations de cette forme verbale}]
+  La forme \tl{mrr=f} est une forme substantive personnelle qui est 
+  interprétée par les linguistes de diverses façons.
+  Parmi les interprétations proposées, on trouve :
+  \begin{itemize}
+    \item une \textbf{forme nominale du verbe}, appelée 
+          \textbf{\frquote{forme emphatique}} (\emph{\textde{standard 
+          theory}} issue des travaux de \gens{Polotsky})
+    \item le \citetitle{GM} de \citeauthor{GM} et la 
+          \citetitle{Obsomer} d'\citeauthor{Obsomer} la désigne 
+          comme une \textbf{\frquote{forme nominale imperfective}} 
+          ou \textbf{\tl{sDm=f} imperfectif}
+    \item une \textbf{forme relative en fonction non attributive} 
+          (\cite[cf.][ch.~25]{Allen}) (forme relative ne s'appliquant 
+          à aucun antécédent et ne recevant donc aucune marque de 
+          genre ou de nombre)
+  \end{itemize}
+
+  L'appellation proposée ici est celle pour laquelle ont opté 
+  \citeauthor{MW}.
+\end{aparte}
+
+Notez bien que, jusqu'à présent, nous avons étudié des formes 
+verbales qui peuvent être verbes principaux d'une phrase (en fonction 
+prédicative, initial ou séquentiel) -- et éventuellement avoir des 
+fonctions substantives. Nous abordons à présent les formes verbales 
+qui ont toujours un emploi qui les place sous la dépendance d'un autre 
+verbe.
+
+
+\chapter{Valeur}
+% =====================================================================
+
+La forme substantive dite \tl{mrr=f} est, comme l'aoriste, un 
+\textbf{inaccompli général}. Donc elle exprime une idée générale, 
+une action habituelle ou répétée. Elle n'est toutefois jamais 
+utilisée dans des fonctions \frquote{prédicatives}, seulement 
+en \textbf{fonction non prédicative}, c'est-à-dire des fonctions 
+nominales. On peut la traduire de manière générale par \td{le fait 
+qu'il aime}.
+
+Comme l'aoriste, cette n'a pas de connotation temporelle précise. Le 
+temps de la traduction (présent ou imparfait par exemple) dépend du 
+contexte.
+
+
+\chapter{Morphologie}
+% =====================================================================
+
+Cette forme n'a pas de désinence particulière, mais elle se 
+caractérise par la gémination des verbes géminés, mais aussi des 
+verbes faibles \vi{2} (d'où son appellation de \frquote{forme 
+\tl{mrr=f}}).
+
+\begin{itemize}
+  \item Les verbes forts conservent leur thème verbal habituel ;
+  \item Les verbes géminés présentent la réduplication, comme les 
+        verbes faibles \vi{2} ;
+  \item Les verbes irréguliers : \tl{rdi} présente le thème verbal 
+        \tl{didi}.
+\end{itemize}.
+
+
+\chapter{Emplois, uniquement substantivaux}
+% =====================================================================
+
+Le \tl{mrr=f} n'a pas d'emploi prédicatif et ne peut constituer un 
+énoncé autonome. On peut distinguer quatre grands types d'emplois :
+\begin{itemize}
+  \item Les emplois substantivaux non-emphatiques (dont on a déjà 
+        parlé pour d'autres formes verbales) ;
+  \item Les emplois substantivaux emphatiques, dont on parlera dans un 
+        autre cours (\Pref{prt:S4_emphatique}) ;
+  \item La phrase balancée, que nous allons découvrir ;
+  \item Et un emploi idiomatique dans les formules de serment.
+\end{itemize}
+
+
+\section{Emplois nominaux non emphatique}
+% ---------------------------------------------------------------------
+La forme \tl{mrr=f} peut assumer, à l'intérieur d'une phrase, toutes 
+les fonctions d'un substantif. Elle concurrence alors dans ces emplois 
+la forme de l'infinitif, à laquelle elle est préférée quand le sujet 
+du verbe est exprimée.
+
+\subsection{\tl{mrr=f} sujet,}
+% ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+\PPJ.
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    qs-n:G37 ms-s-s-Z5 s
+  \end{hieroglyph}
+
+  \tl{osn mss=f}
+  \infos{\cite[ex.~899]{MW}, \source{P.~Westcar}, 9, 22}
+
+  \td{Le fait qu'elle accouche était pénible.}
+\end{example}
+
+\subsection{\tl{mrr=f} objet dans une complétive dépendant de certains 
+verbes exprimant l'ordre}
+% ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    U3-n Hm-1:f q:n-n:D40 A1
+  \end{hieroglyph}
+
+  \tl{mA.n Hm=f onn=i}
+  \infos{\urk{IV}, 9, 16}
+
+  \td{Sa Majesté constata que je suis vaillant/ma vaillance.}
+\end{example}
+
+\donc{} Voir \Pref{prt:S4_completives}, \titleref{bk:semestre4} sur 
+les propositions subordonnées complétives.
+
+\subsection{Régime d'une préposition-conjonction}
+% ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+La forme \tl{mrr=f} est également fréquemment employée après les 
+prépositions (temporelles, causales, comparatives).
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    m A-d-mzH ib*1:k r:f x*t:f X:z-z:G37 f
+  \end{hieroglyph}
+
+  \tl{m Ad(w) ib=k r=f, xft Xssf}
+  \infos{\source{Ptahhotep}, 6, 1}
+
+  \td{Ne te montre pas agressif contre lui tandis qu'il se montre 
+      humble.}
+
+  \bigskip
+
+  \begin{hieroglyph}
+    D:\!\!d\s2 z:\!A1\s1 r*1 p:n aq-\!\!\!q\s1:.-D54:f imnt-t:1
+    r:sA*1 pr:r:r-D54:f
+  \end{hieroglyph}
+
+  \tl{Dd s r(A) pn ao=f imn.t r-sA prr=f}
+  \infos{\cite[Ex.~1642]{MW}, \CTx{IV}, 326\,j}
+
+  \td{Qu'un homme dise cette formule pour entrer\footnotemark{} dans 
+      l'Occident après en être sorti.}
+\end{example}
+\footnotetext{Circonstancielle virtuelle, but ou conséquence 
+(subjonctif).}
+
+\subsection{Fonction de génitif}
+% ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+La forme \tl{mrr=f} peut être construite en position de génitif 
+directe ou indirecte. Elle fonctionne alors comme une relative à sens 
+général.
+
+\subsection{Dans les phrases balancées}
+% ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Voir \Cref{cha:Wechelsatz} à la fin de ce cours.
+
+
+\chapter{Négation}
+% =====================================================================
+
+La forme \tl{mrr=f} se nie avec un auxiliaire négatif spécifique 
+\tl{tm}. C'est la négation utilisée pour les formes verbales 
+\textbf{employées dans des subordonnées}. Il est donc utilisé 
+pour le \tl{mrr=f} (qui est toujours le verbe d'une subordonnée), 
+mais aussi pour l'infinitif, les formes adjectivales du verbe 
+(participes, formes relatives, voir \Pref{prt:S4_prtcp} 
+à~\ref{prt:S4_forme_rel}, \titleref{bk:semestre4}) et tous les verbes 
+quand ils remplissent une fonction substantive.
+
+Dans ces cas, l'auxiliaire négatif se met à la forme verbale et le 
+verbe dans une forme appelé le \frquote{complément verbal négatif} 
+qui se caractérise en principe par une désinence \tl{-w}.
+
+
+\tl{tm=f sDm(w)} = \td{le fait qu'il n'entende pas}
+
+
+\chapter{Passif}
+% =====================================================================
+
+Le passif du \tl{mrr=f} présente la forme suffixée avec \tl{.tw}.
+
+\tl{mrr.tw=f} = \td{Le fait qu'il est aimé}
+
+
+\chapter{Les \frquote{phrases balancées} ou \emph{Wechelsatz}}
+\label{cha:Wechelsatz}
+% =====================================================================
+
+Les phrases balancées sont des constructions particulières qui offrent 
+un parallélisme de construction entre une proposition et la suivante. 
+L'idée est de dire que si la première proposition est vraie, alors la 
+seconde aussi.
+
+C'est une tournure qui a une certaine puissance rhétorique et poétique.
+
+Les phrases balancées sont aussi attestées avec trois formes verbales 
+en particulier :
+
+\begin{itemize}
+  \item le \tl{mrr=f}
+  \item le \tl{sDm.n=f} (\cite[§\,575]{MW})
+  \item le prospectif (\cite[§\,601]{MW})
+\end{itemize}
+
+\begin{example}[title={Forme substantive \tl{mrr=f}}]
+  \begin{hieroglyph}
+    pr:r-r:D54 s-n:3 r p*t:pt m b-i-k-G6-Z3 !
+    pr:r-r:D54 A1 Hr:1 D:\!n-H-H5:3 s-n:3
+  \end{hieroglyph}
+
+  \tl{prr=sn r p.t m bik.w\\
+      prr=i Hr DnH.w=sn}
+  \infos{\CTx{III}, 24\,c--25\,a}
+
+  \td{Ils sortent au ciel en tant que faucons, 
+      je sors sur leurs ailes.}
+\end{example}
+
+\begin{example}[title={Accompli \tl{sDm.n=f}}]
+  \begin{hieroglyph}
+    pr:r-n s-n r p*t:pt m b-i-k-G6:3 !
+    pr:r-n i-A1 Hr D:\!n-H-D3:D3 s-n
+  \end{hieroglyph}
+
+  \tl{pr.n=sn r p.t m bik.w\\
+      pr.n=i Hr DnH.wy=sn}
+  \infos{\cite[ex.\,81]{MW}, \CTx{III}, 115\,g}
+
+  \td{Ils sont sortis au ciel en tant que faucons, 
+      je suis sorti sur leurs ailes.}
+\end{example}
+
+\begin{example}[title={Prospectif \tl{sDm=f}}]
+  \begin{hieroglyph}
+    mr-r:N36-w f mwt-\!\!t:. T:n mwt-\!\!t:. T:n !
+    mr-r:N36-w f anx T:n anx T:n
+  \end{hieroglyph}
+
+  \tl{mrw=f m(w)t=Tn, m(wt)=Tn\\
+      mrw=f anx=Tn anx=Tn}
+  \infos{\cite[ex.\,865]{MW}, \TP~153\,c}
+
+  \td{S'il désire que vous mourriez, vous mourrez. 
+      S'il désire que vous viviez, vous vivrez.}
+\end{example}
+
+
+\chapter{Les formules de serment}
+% =====================================================================
+
+\cite[Voir][\nopp25.11.4]{Allen}.
+
+Les formules de serments évoquent une divinité ou un ancêtre, ou 
+encore un roi. Elles commencent par une phrase (une affirmation) 
+utilisant le verbe \tl{wAH}, \td{endurer} ou \tl{anx}, \td{vivre}. 
+Cette initiale peut être considérée comme une circonstancielle 
+exceptionnellement en tête. La suite est la proposition principale.
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    anx-n:x-A2 n A1 <-wsr-r:t-z:n-> Dd' A1 m U2:mAa-a:t
+  \end{hieroglyph}
+
+  \tl{\red{anx} n=i S-n-wsr.t, Dd=i m-mAa.t \ex}\\
+  \infos{\cite[ex.\,865]{MW}, \TP~153\,c}
+
+  \td{Aussi vrai que Sésostris vit pour moi, c'est en vérité que 
+      je parle !}
+
+  \tg{~\\[-2.5\baselineskip] %
+  \begin{enumerate}
+    \item formule de serment avec \tl{mrr=f} (mais le verbe est un 
+          verbe fort alors il n'y a pas de marques)
+    \item principale avec \tl{mrr=f} utilisé dans une forme emphatique 
+          en temps second (le fait que je parle est en vérité), dont 
+          nous parlerons plus tard.
+  \end{enumerate}%
+  }
+
+  \textbf{}
+
+  Retenez pour l'instant cette formule de serment et revoyez 
+  l'exercice de traduction suivie de la \source{lettre au mort}.
+
+  \bigskip
+
+  \begin{hieroglyph}
+    wAH-H-Y1v i-mn:n q:n-A24 nn wAH-H A1 :t-w
+  \end{hieroglyph}
+
+  \tl{\red{wAH}\ \ Imn on, nn wAH=i tw \ex}
+
+  \td{Aussi vrai qu'Amon le brave perdure, je ne te laisserai pas 
+      perdurer !}
+
+  \tg{Principale avec un prospectif négatif}
+\end{example}
+
+\bigskip
+
+\begin{exercice}[before upper={\centering}]
+  \donc{} Faire \textbf{l'exercice~8}.
+\end{exercice}

@@ -1,0 +1,131 @@
+%!TEX root = DULAEP_EG.htx
+%##HieroDef.txt
+
+\chapter*{Exercice~13 (à rendre par email)}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{Translittérer, analyser\footnote{Indiquer le type 
+  de phrase et identifier l'élément introducteur, le sujet et le 
+  prédicat.} et traduire les phrases suivantes}
+
+  \begin{parts}
+    \part
+    \begin{hieroglyph}jw Xn-n:nw*W-niwt m s-g:r-A2\end{hieroglyph}
+    \begin{solution}
+      \tl{iw Xnw m sgr}, \td{La Résidence est dans le silence.}\\
+      Proposition à prédicat adverbial. Auxiliaire d'énonciation + 
+      Sujet + groupe prépositionnel prédicat
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}
+      jw m-\!\!t:.-Z6 m Hr:1 A1 mi-n:ra
+    \end{hieroglyph}
+    \begin{solution}
+      \tl{iw mwt m-Hr=i min}, 
+      \td{La mort est devant moi aujourd'hui.}\\
+      Proposition à prédicat adverbial. Auxiliaire d'énonciation + 
+      Sujet + groupe prépositionnel prédicat + adverbe CC de temps
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}
+      r:1:k m r:a-A40 Hr*1:k m wp:p-wAt:t*3-A40
+    \end{hieroglyph}
+    \begin{solution}
+      \tl{r(A)=k m Ra ; Hr=k m Wp.wA.wt \ex}, 
+      \td{Ta bouche est Rê ; ton visage est Oupouaout !}\\
+      Deux Propositions à prédicat adverbial, exclamatives 
+      (sans \tl{iw}). Sujet + groupe prépositionnel prédicat ; 
+      Sujet + groupe prépositionnel prédicat
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}
+      jw i-t:f-A1 f m Xn-n:nw*W-pr O12-pr f
+    \end{hieroglyph}
+    \begin{solution}
+      \tl{iw it=f m-Xnw aH=f}, \td{Son père est dans le palais.}\\
+      Proposition à prédicat adverbial. Auxiliaire d'énonciation + 
+      Sujet + groupe prépositionnel prédicat
+    \end{solution}
+  \end{parts}
+
+  \question\qfmt{Traduire en  en donnant hiéroglyphes et 
+  translittération}
+
+  \begin{parts}
+    \part\td{Les pays étrangers sont à tes pieds (\litt sous tes 
+    jambes).}
+    \begin{solution}
+      \begin{hieroglyph}jw xAst:t*3 Xr:r r:d-rd-rd k\end{hieroglyph}
+      \tl{iw xAs.wt Xr rd.wy=k}
+    \end{solution}
+
+    \part\td{Vous serez des \frquote{pensionnés} auprès du dieu.}
+    \begin{solution}
+      \begin{hieroglyph}
+        jw T:n:3 i-imAx-x-i-i-Z3 x:r nTr-1
+      \end{hieroglyph}
+      \tl{iw=Tn r imAxy.w xr nTr}
+    \end{solution}
+
+    \part\td{Ta majesté est Horus.}
+    \begin{solution}
+      \begin{hieroglyph}jw Hm-1-f m G5-G7\end{hieroglyph}
+      \tl{iw Hm=f m @r}
+    \end{solution}
+
+    \part\td{Son nom est dans mon c{\oe}ur.}
+    \begin{solution}
+      \begin{hieroglyph}jw r:n-A2-f ib-1-A1\end{hieroglyph}
+      \tl{iw rn=f m ib=i}
+    \end{solution}
+  \end{parts}
+\end{questions}
+
+
+\subsection*{Vocabulaire}
+\begin{multicols}{2}
+\begin{itemize}
+  \item \begin{hieroglyph}ib-1\end{hieroglyph} 
+        \tl{ib}, \td{c{\oe}ur}, \td{conscience}
+  \item \begin{hieroglyph}i-mA-imAx:\!\!x\s1\end{hieroglyph} 
+        \tl{imAx}, \td{pensionné}, \td{vénérable}
+  \item \begin{hieroglyph}O12-pr\end{hieroglyph} 
+        \tl{aH}, \td{palais}
+  \item \begin{hieroglyph}wp:p-\!wAt:t*3-\!A40\end{hieroglyph} 
+        \tl{Wp-wA.wt}, \td{Oupouaout (\litt l'Ouvreur-des-chemins)}
+  \item \begin{hieroglyph}m-\!Xn-n:nw*W-pr\end{hieroglyph} 
+        \tl{m-Xnw}, \td{à l'intérieur de} (préposition composée)
+  \item \begin{hieroglyph}mi-n:ra\end{hieroglyph} 
+        \tl{min}, \td{aujourd'hui}
+  \item \begin{hieroglyph}m-t:A14 +l, var.\ +s m-t:Z6\end{hieroglyph} 
+        \tl{mwt}, \td{mort}
+  \item \begin{hieroglyph}sw-t:n-A43\end{hieroglyph} 
+        \tl{n(y)-sw.t}, \td{roi (de \HE)}
+  \item \begin{hieroglyph}r:1\end{hieroglyph} 
+        \tl{r(A)}, \td{bouche}
+  \item \begin{hieroglyph}r:a-A40 +l, var.\ +s r:a-ra\end{hieroglyph} 
+        \tl{Ra}, \td{Rê}
+  \item \begin{hieroglyph}Hm-1\end{hieroglyph} 
+        \tl{Hm}, \td{la Majesté (du roi)}
+  \item \begin{hieroglyph}Hr-1\end{hieroglyph} 
+        \tl{Hr}, \td{visage} (\tl{m-Hr}, \td{devant})
+  \item \begin{hieroglyph}G5-A40\end{hieroglyph} 
+        \tl{@r}, \td{Horus}
+  \item \begin{hieroglyph}x:r\end{hieroglyph} 
+        \tl{xr}, \td{auprès}
+  \item \begin{hieroglyph}xAst:t*1\end{hieroglyph} 
+        \tl{xAs.t}, \td{pays étranger}
+  \item \begin{hieroglyph}Xn-n:nw*W-niwt\end{hieroglyph} 
+        \tl{\$nw}, \td{la Résidence}
+  \item \begin{hieroglyph}s-g:r-A2\end{hieroglyph} 
+        \tl{sgr}, \td{silence}
+  \item \begin{hieroglyph}Dt\end{hieroglyph} 
+        \tl{D.t}, \td{éternité (durée linéaire)}
+  \item \begin{hieroglyph}nH-H-H-ra\end{hieroglyph} 
+        \tl{nHH}, \td{éternité (cyclique)}
+\end{itemize}
+\end{multicols}

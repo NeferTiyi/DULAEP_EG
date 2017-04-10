@@ -1,0 +1,104 @@
+%!TEX root = DULAEP_EG.htx
+%##HieroDef.txt
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\chapter{Participes, forme \tl{sDm.ty=fy} et forme relative}
+\label{anx:participes}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+{%
+% \newcolumntype{A}[1]{>{\vspace{2pt}\centering}m{#1}<{\vspace{2pt}}}
+\renewcommand\tabularxcolumn[1]{A{#1}}
+
+\section*{Participes}
+% ---------------------------------------------------------------------
+\begin{notabene}
+  N'oubliez pas que les participes peuvent s'accorder au pluriel et 
+  au féminin.
+\end{notabene}
+
+\noindent%
+\begin{tabularx}{\textwidth}{|>{\bfseries}X|>{\bfseries}X|*{4}{X|}}
+
+  \cline{3-6}
+    \multicolumn{2}{c|}{~} & 
+    \bfseries\vl{3} & \bfseries\vg{2} & \bfseries\vi{3} & 
+    \bfseries\td{donner}
+  \tabularnewline
+  \hline
+    \cellcolor{fvinit} & actif &
+    \tl{sDm(w)} & \tl{mA(w)} & \tl{mr(w)} & \tl{rdi} / \tl{di}
+  \tabularnewline
+  \cline{2-6}
+    \cellcolor{fvinit}\multirow{-2}{*}{Accompli} & passif & 
+    \tl{sDm}
+
+    \smallskip
+
+    \footnotesize Formes particulières :\\
+    \tl{wdd} (\tl{wD}) \\
+    \tl{rxxy} (\tl{rx}) \\
+    \tl{Ddd} (\tl{Dd}) &
+    \tl{mA} & \tl{mry} & \tl{rdy}
+  \tabularnewline
+  \hline
+    \cellcolor{fvdepd} & actif &
+    \tl{sDm} & \tl{mAA} & \tl{mrr} & \tl{didi}
+  \tabularnewline
+  \cline{2-6}
+    \cellcolor{fvdepd}\multirow{-2}{*}{Inaccompli} & passif & 
+    \tl{sDmw} & \tl{mAA} & \tl{mrrw} & \tl{didi}
+  \tabularnewline
+  \hline
+    \cellcolor{fvmisc}Prospectif & passif & 
+    \tl{sDmy} & \tl{mAy} & \tl{mry} & \tl{dy}
+  \tabularnewline
+  \hline
+\end{tabularx}
+
+\section*{Forme \tl{sDm.ty=fy}}
+% ---------------------------------------------------------------------
+\noindent%
+\begin{tabularx}{\textwidth}{|>{\bfseries}X|>{\bfseries}X|*{4}{X|}}
+
+  \cline{3-6}
+    \multicolumn{2}{c|}{~} & 
+    \bfseries\vl{3} & \bfseries\vg{2} & \bfseries\vi{3} & 
+    \bfseries\td{donner}
+  \tabularnewline
+  \hline
+    \cellcolor{fvmisc}Prospectif & actif & 
+    \tl{sDm.ty=fy} & \tl{mAA.ty=fy} & \tl{mr.ty=fy} & \tl{rd.ty=fy}
+  \tabularnewline
+  \hline
+\end{tabularx}
+
+% Pour le prospectif actif, voir la forme \tl{sDm.ti=fi}.
+
+
+\section*{Forme relative}
+% ---------------------------------------------------------------------
+\noindent%
+\begin{tabularx}{\textwidth}{|>{\bfseries}X|>{\bfseries}X|*{4}{X|}}
+
+  \cline{3-6}
+    \multicolumn{2}{c|}{~} & 
+    \bfseries\vl{3} & \bfseries\vg{2} & \bfseries\vi{3} & 
+    \bfseries\td{donner}
+  \tabularnewline
+  \hline
+    \cellcolor{fvinit}Accompli & \texttimes &
+    \tl{sDm(w).n=f} & \tl{mA(w).n=f} & \tl{mr(w).n=f} & \tl{rdi(w).n=f}
+  \tabularnewline
+  \hline
+    \cellcolor{fvdepd}Inaccompli & \texttimes &
+    \tl{sDm(w)=f} & \tl{mAA(w)=f} & \tl{mrr(w)=f} & \tl{didi(w)=f}
+  \tabularnewline
+  \hline
+    \cellcolor{fvmisc}Prospectif & \texttimes & 
+    \tl{sDmy=f} & \tl{mAy=f} & \tl{mry=f} & \tl{dy=f}
+  \tabularnewline
+  \hline
+\end{tabularx}
+
+}

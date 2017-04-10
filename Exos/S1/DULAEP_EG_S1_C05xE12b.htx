@@ -1,0 +1,97 @@
+%!TEX root = DULAEP_EG.htx
+%##HieroDef.txt
+
+\chapter*{Exercice~12 --- Épigraphie}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{Translittérer et traduire la légende \hiero devant 
+  chaque personnage divin}
+
+  \begin{parts}
+    \part
+    \renewcommand{\insertimg}{%
+      \includegraphics[height=8cm]{Champollion_Amon}%
+    }
+    \settowidth{\graphicwidth}{\insertimg}
+    \begin{minipage}[b]{\graphicwidth}
+      \insertimg%
+    \end{minipage}%
+    \hfill%
+    \begin{minipage}[b]{\linewidth-(\graphicwidth+7mm)}
+      D'après Champollion, \emph{Panthéon égyptien}, Paris, 1823.
+    \end{minipage}
+    \begin{solution}
+      \reflectbox{%
+        \begin{hieroglyph}
+          i-mn:n:ra*1 nb g\s1:g*g tA':tA' nb p*t:pt
+        \end{hieroglyph}%
+      }\quad
+      \tl{Imn-Ra nb ns.wt \&A.wy nb p.t}, \td{Amon-Rê, maître des 
+      trônes du Double-Pays, maître du ciel}
+    \end{solution}
+
+    \part
+    \renewcommand{\insertimg}{%
+      \includegraphics[height=8cm, valign=b]{Champollion_Khonsou}%
+    }
+    \settowidth{\graphicwidth}{\insertimg}
+    \begin{minipage}[b]{\graphicwidth}
+      \insertimg%
+    \end{minipage}%
+    \hfill%
+    \begin{minipage}[b]{\linewidth-(\graphicwidth+7mm)}
+      D'après Champollion, \emph{Panthéon égyptien}, Paris, 1823.
+    \end{minipage}
+    \begin{solution}
+      \reflectbox{%
+        \begin{hieroglyph}
+          x:n-sw-w-A40
+        \end{hieroglyph}%
+      }\quad
+      \tl{\#nsw}, \td{Khonsou}
+    \end{solution}
+
+    \part \textbf{Exercice facultatif :} Notez dans l'image~1, 
+    derrière le dieu, Champollion a fait paraître le nom du dieu en 
+    hiératique (deux versions). En comparant les signes, sauriez-vous 
+    transcrire les deux inscriptions hiératiques en \hiero[es] ?
+    \begin{solution}
+      \reflectbox{%
+        \begin{hieroglyph}i-mn:n-G7\end{hieroglyph}%
+      }\quad
+      \tl{Imn}, \td{Amon}
+      --- 
+      \reflectbox{%
+        \begin{hieroglyph}i-mn:n-G7-ra-G7\end{hieroglyph}%
+      }\quad
+      \tl{Imn-Ra}, \td{Amon-Rê}
+    \end{solution}
+
+    \part Translittérer, analyser et traduire pour trouver quelle est 
+    l'identité de la divinité représentée et à laquelle le roi fait 
+    une offrande (hors cadre).
+
+    \renewcommand{\insertimg}{%
+      \includegraphics[height=8cm]{Louvre_E13983_Montou}%
+    }
+    \settowidth{\graphicwidth}{\insertimg}
+    \begin{minipage}[b]{\graphicwidth}
+      \insertimg%
+    \end{minipage}%
+    \hfill%
+    \begin{minipage}[b]{\linewidth-(\graphicwidth+7mm)}
+      Détail du linteau de Médamoud (Louvre \inv{E\,13983})\\ 
+      \rem{Source de l'image : base atlas du musée du Louvre en ligne. 
+      \textcopyright~Musée du Louvre / C.~Décamps (détail retouché par 
+      SD). Photo complète : \url{http://cartelfr.louvre.fr/cartelfr/% 
+      visite?srv=car_not_frame&idNotice=14218&langue=fr}}
+    \end{minipage}
+    \begin{solution}
+      \reflectbox{%
+        \begin{hieroglyph}mn:n:T-w nb wAs-t:spAt\end{hieroglyph}%
+      }\quad
+      \tl{MnTw, nb WAs.t}, \td{Montou, maître de Thèbes}
+    \end{solution}
+  \end{parts}
+\end{questions}

@@ -1,0 +1,163 @@
+%!TEX root = DULAEP_EG.htx
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\part[{[Épigraphie]} Légendes de scènes d'offrande aux dieux et 
+formule d'offrande funéraire]
+{[Épigraphie] Légendes de scènes d'offrande aux dieux et formule 
+d'offrande funéraire\\ (rappels et approfondissement)}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\chapter{La formule d'offrande funéraire}
+% =====================================================================
+
+Nous avons déjà eu l'occasion de présenter, dans le 
+\Pref{prt:formule_offrande} du \titleref{bk:semestre2}, le formulaire 
+de l'offrande funéraire classique : 
+\begin{hieroglyph}sw-t:Htp-di\end{hieroglyph} ou 
+\begin{hieroglyph}sw-di-Htp:t*p\end{hieroglyph}, la formule rituelle 
+qui doit assurer l'approvisionnement du défunt en offrandes.
+
+Vous vous souvenez que la formule funéraire complète comprend trois 
+éléments :
+\begin{enumerate}
+  \item La formule \begin{hieroglyph}sw-t:Htp-di\end{hieroglyph} ou 
+        \begin{hieroglyph}sw-di-Htp:t*p\end{hieroglyph} suivie du nom 
+        d'une ou plusieurs divinités, généralement Osiris ou Anubis : 
+        \tl{di n(y)-sw(.t) Htp Wsir}, \td{fasse le roi que s'apaise 
+        Osiris} (\clef{interprétation subjonctif en initiale}) ou 
+        \tl{Htp di nsw} \td{offrande que donne le roi (à)}%
+        % (pour l'interprétation grammaticale de cette traduction, voir
+        % \titleref{bk:semestre4}, \Pref{prt:S4_forme_rel})
+        .
+        \label{itm:dnyswthtp}
+  \item Un \clef{subjonctif} dans une séquentielle-circonstancielle : 
+        \tl{di=f} (ou \tl{di=sn} ou \tl{di=s}), \td{de sorte qu'il 
+        donne}, suivi de la mention d'un bienfait \incise{généralement 
+        \begin{hieroglyph}O3\end{hieroglyph} \tl{pr.t-xrw}, \td{une 
+        offrande invocatoire}} ;
+  \item \tl{n} ou \begin{hieroglyph}n-kA:n\end{hieroglyph} \tl{n kA 
+        n(y)}, \td{pour le \emph{ka} de}, suivi du nom du défunt 
+        bénéficiaire.
+\end{enumerate}
+
+Maintenant que vous connaissez le subjonctif, vous pouvez 
+comprendre l'analyse grammaticale de ce formulaire. Pour la variante 
+du point~\ref{itm:dnyswthtp}, il faudra attendre le semestre prochain 
+(\titleref{bk:semestre4}, \Pref{prt:S4_forme_rel}), pour comprendre 
+l'interprétation alternative.
+
+\bigskip
+
+\begin{exercice}[before upper={\centering}]
+  Voir \textbf{l'exercice} pour un nouvel essai de traduction de ce 
+  formulaire récurrent.
+\end{exercice}
+
+
+\chapter{Légendes sur les scènes des temples (compléments)}
+% =====================================================================
+
+Les décorations des parois de tombes ou de temples sont accompagnées 
+de légendes hiéroglyphiques et de textes. Nous voyons progressivement 
+certains formulaires récurrents.
+
+
+Lors du cours \Pref{prt:formule_offrande} du \titleref{bk:semestre2} 
+et à nouveau dans le \Pref{prt:S3_accompli} de ce semestre, nous avons 
+vu le formulaire \tl{di.n(=i) n=k}, \td{je t'ai donné} qui accompagne 
+la représentation du dieu dans les scènes d'offrande royale.
+
+Dans la section épigraphie du \Pref{prt:S3_dedicace} de ce semestre, 
+nous avons vu le formulaire de dédicace des monuments.
+
+On va revenir à présent sur le linteau de Médamoud de Sésostris~III, 
+sur lequel on a fait plusieurs exercices, mais que nous n'avons pas 
+encore traduit intégralement.
+
+\begin{figure}
+  \includegraphics[width=\textwidth]{Louvre_E13983}
+  \caption{Linteau de Médamoud de Sésostris~III 
+           (\musee{Louvre} \inv{E\,13983})}
+\end{figure}
+
+Vous êtes normalement capables de traduire : la titulature 
+(horizontale au centre), les colonnes de textes qui se rapportent à 
+Montou, à gauche, les colonnes de textes qui se rapportent à Montou 
+à droite, les légendes des deux actions royales représentées.
+
+Nous n'avons pas du tout vu les colonnes centrales, qui partagent le 
+tableau en deux scènes distinctes.
+
+Vous pouvez essayer de trouver un sens à la colonne qui commence 
+par le signe \begin{hieroglyph}V16\end{hieroglyph} \tl{sA} 
+(\td{protection}). L'autre colonne est plus complexe sur le plan 
+grammatical.
+
+Sachez que le premier mot est le verbe 
+\begin{hieroglyph}wnn\end{hieroglyph} \tl{wnn} \vg{2}, \td{exister}, 
+qui est aussi utilisé, vous vous en souvenez sans doute, pour former 
+des auxiliaires, des convertisseurs temporelles (voir cours de l'an 
+dernier : convertisseur de la proposition à prédicat adverbiale, entre 
+autres, passé \tl{wn} et futur \tl{wnn}).
+
+\noindent%
+\begin{minipage}{1.5cm}
+  \centering
+  \reflectbox{\EnColonne[1.2\Htm]{%
+    \begin{hieroglyph}
+      wn n f xnt t*kA kA*kA anx*w nb Dt
+    \end{hieroglyph}%
+  }}
+\end{minipage}%
+\hfill%
+\begin{minipage}{0.5\textwidth-2cm}
+  Commençons par translittérer :
+
+  \bigskip
+
+  \tl{wn=f xnt kA.w anx.w nb(.w) D.t}.
+
+  \bigskip
+
+  \tl{xnt} est une préposition qui signifie \td{à l'avant}, 
+  \td{à la tête}.
+\end{minipage}%
+\hfill%
+\begin{minipage}{1.5cm}
+  \centering
+  \reflectbox{\EnColonne[1.2\Htm]{%
+    \begin{hieroglyph}
+      i*w f xnt t*kA kA*kA anx*w nb Dt
+    \end{hieroglyph}%
+  }}
+\end{minipage}%
+\hfill%
+\begin{minipage}{0.5\textwidth-2cm}
+  Vous n'auriez aucun mal je pense à trouver le sens de cette 
+  phrase-là :
+
+  \bigskip
+
+  \tl{jw=f xnt kA.w anx.w nb(.w) D.t}
+
+  \td{il est à la tête des vivants.}
+\end{minipage}%
+
+\tl{wn} est encore dans cet exemple un convertisseur, mais cette fois 
+un convertisseur subjonctif (\tl{wnn} au subjonctif donne \tl{wn=f}).
+
+Si une phrase non-verbale (comme une \PPA) a besoin d'être convertie 
+au subjonctif, on la fait précédé de ce \tl{wn} convertisseur 
+subjonctif. Cela fonctionne pour tous les types de textes évidemment 
+et pas seulement les textes épigraphiques.
+
+Qu'elle est alors le sens de la phrase ? Réponse page suivante.
+
+\td{Qu'il soit à la tête des vivants à jamais !}
+
+\bigskip
+
+\begin{exercice}[before upper={\centering}]
+  \textbf{À titre d'exercice}, vous pouvez m'envoyer tout le texte de 
+  ce linteau translittéré et traduit.
+\end{exercice}

@@ -1,0 +1,234 @@
+%!TEX root = DULAEP_EG.htx
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\part[Le perfectif \tl{sDm=f}]{Le perfectif \tl{sDm=f} 
+(\td{il écouta})}
+\label{prt:S3_perfectif}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\chapter{Introduction}
+% =====================================================================
+
+Le \textbf{perfectif \tl{sDm=f}} (\td{il écouta}) est 
+essentiellement un temps de la narration. Nous l'avons déjà rencontré 
+(cf.~\Pref{prt:S3_accompli}), puisque le perfectif \tl{sDm=f} est la 
+forme verbale utilisée pour former le corrélat négatif de \tl{iw 
+sDm.n=f}, \td{il a écouté} \donc{} \tl{n sDm=f}, \td{il n'a pas 
+écouté}.
+
+En dehors de cet emploi dans la négation de l'accompli, le forme ne 
+pose pas de réel problème de traduction, mais peut poser des problèmes 
+d'identification. Cette forme verbale perfective est en effet, sur le 
+plan morphologique (sauf pour les verbes irréguliers), très proche du 
+subjonctif \tl{sDm=f}. Elle partage en outre avec elle un trait 
+syntaxique important : en particulier l'impossibilité d'être 
+introduite par \tl{iw}. Heureusement, d'autres éléments syntaxiques 
+permettent dans la plupart des cas de distinguer perfectif \tl{sDm=f} 
+et subjonctif \tl{sDm=f}.
+
+
+\chapter{Valeur}
+% =====================================================================
+
+Le \textbf{perfectif \tl{sDm=f}} est un \textbf{accompli ponctuel} qui 
+se traduit par \td{il écouta}/\td{il entendit} ou \td{il a entendu}. 
+Dans l'histoire de la langue, cette forme verbale tend à être 
+concurrencée par l'accompli \tl{sDm.n=f}. On peut donc dire que, du 
+point de vue de l'égyptien classique, le perfectif est une 
+construction archaïque, alors que le \tl{sdm.n=f} accompli est la 
+construction la plus vivante. En égyptien classique, son emploi 
+se limite ainsi à celui d'un \textbf{prétérit narratif}. C'est un 
+\textbf{accompli ponctuel}, c'est-à-dire qu'il met l'accent sur la 
+réalisation du procès.
+
+
+\chapter{Morphologie}
+% =====================================================================
+
+Du point de vue de la morphologie, le thème verbal du \tl{sDm=f} 
+perfectif se caractérise par des formes brèves pour tous les types de 
+verbes. Le verbes \tl{rdi} utilise toutefois le thème verbal \tl{rdi}.
+
+{
+\renewcommand\tabularxcolumn[1]{A{#1}}
+\noindent%
+\begin{tabularx}{\textwidth}{|>{\bfseries}X|*{6}{X|}}
+  \cline{2-7}
+    \multicolumn{1}{c|}{~} &
+    \multirow{2}{*}{\bfseries\vl{3}} &
+    \multirow{2}{*}{\bfseries\vg{2}} &
+    \multirow{2}{*}{\bfseries\vi{3}} &
+    \multicolumn{3}{c|}{\bfseries\va{}}
+  \tabularnewline
+    \multicolumn{1}{c|}{~} &
+    ~ & ~ & ~ & 
+    \bfseries\td{donner} & 
+    \bfseries\td{venir} & 
+    \bfseries\td{apporter}
+  \tabularnewline
+  \hline
+    \cellcolor{fvinit}Perfectif \tl{sDm=f} &
+    \tl{sDm} & \tl{mA} & \tl{mr} & \tl{rdi} & 
+    \tl{ii}/\tl{iw} & \tl{in}
+  \tabularnewline
+  \hline
+\end{tabularx}
+}
+
+
+\chapter{Emplois}
+% =====================================================================
+
+Du point de vue des emplois, la situation est très simple. Le 
+perfectif ne possède que des \textbf{emplois prédicatifs dans des 
+propositions autonomes, indépendantes}, dans le cadre de la narration. 
+Il n'est jamais précédé de \tl{iw}.
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    w-DA Hm-1 f r s-x:r-t:xr k-A-s-T14-xAst X:z-t-G37
+  \end{hieroglyph}
+
+  \tl{wDA Hm=f r sxr.t KAS Xs.t}
+  \infos{Assouan, tombe~36, Sarenpout~I\ier}
+
+  \td{Sa Majesté s'avança pour abattre la vile Kouch.}
+
+  \tg{verbe (= \tl[Gramm]{sdm=f} perfectif), sujet, puis complément 
+      circonstanciel (groupe prépositionnel avec infinitif)}
+\end{example}
+
+Dans quelques cas, le sujet peut être antéposé. Contrairement à 
+l'aoriste (\tl{iw=f sDm=f} = \td{il écoute}), cette antéposition n'est 
+pas la norme. Aussi peut-on y voir une façon de mettre en valeur le 
+sujet. On peut considérer que le sujet est \textbf{thématisé} et on 
+peut éventuellement rendre cette insistance dans la traduction.
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    HqA-q-A1 p:f n:D-n:D-nD-nw:A2 f H-n:a A1
+  \end{hieroglyph}
+
+  \tl{HoA pf nDnD=f Hna=i}
+  \infos{\CdS}
+
+  \td{Ce souverain, il tint conseil avec moi.}
+\end{example}
+
+Dans ce genre de phrase, la distinction avec un aoriste (qui ne 
+serait pas introduit par \tl{iw}) peut s'avérer délicate. Il faut 
+donc considérer attentivement la morphologie du verbe pour voir si 
+une distinction est possible, sinon s'en référer au sens de la phrase, 
+au contexte.
+
+\begin{aparte}[title={Conseil méthodologique}, breakable]
+  Maintenant que vous connaissez plusieurs formes verbales, vous 
+  vous rendez probablement compte de la difficulté causée par 
+  l'absence de désinences spécifiques Entre le perfectif \tl{sDm=f} 
+  et l'aoriste \tl{sDm=f}, la différence morphologique est ténue 
+  (revoir le \tref{tbl:conj_suff} sur la conjugaison suffixale). 
+  Les thèmes verbaux ne présentent de différences que pour les 
+  verbes géminés. Aussi, c'est essentiellement le contexte d'emploi 
+  de la forme qui donnera des éléments pour choisir, lors de 
+  l'analyse, entre une forme ou l'autre.
+
+  De façon générale, face à un texte égyptien, je vous conseille 
+  d'utiliser une technique d'analyse des formes verbales progressive, 
+  fonctionnant \frquote{par élimination} : 
+  \begin{enumerate*}
+    \item La morphologie du verbe permet-elle de restreindre le champ 
+          des possibles ?
+    \item La syntaxe de la phrase permet-elle de réduire encore le 
+          nombre ? Arrivé à ce stade, idéalement, il ne reste qu'une 
+          forme verbale qui correspond aux paramètres du texte que 
+          vous avez sous les yeux. Si ce n'est pas le cas, cherchez à 
+          appliquer le dernier critère :
+    \item Le sens de la phrase.
+  \end{enumerate*}
+\end{aparte}
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    r-di w Hm-1 f m zS-A1
+  \end{hieroglyph}
+
+  \tl{rdi w(i) Hm=f m sS}
+
+  \td{Sa Majesté m'a établi comme scribe.}
+
+  \tg{Perfectif}
+
+  \medskip
+
+  \textbf{\emph{mais}}
+
+  \medskip
+
+  \begin{hieroglyph}
+    jw md-d-w-A2 f di':f TA-A-m-S28 n:f Hr
+  \end{hieroglyph}
+
+  \tl{iw mdw=f di=f TAm n=f Hr}
+  \infos{\CdN 18--19}
+
+  \td{Sa parole rend \frquote{voilé de face} pour lui.}
+
+  \tg{Aoriste}
+\end{example}
+
+
+\chapter{Négation}
+% =====================================================================
+
+Il n'y a pas de négation spécifique : voir la négation de l'accompli 
+\tl{sDm.n=f}.
+
+
+\chapter{Passif}
+% =====================================================================
+
+Il n'y a pas de passif spécifique : voir le passif de l'accompli 
+\tl{sDm.n=f}.
+
+
+\chapter{Excursus : l'expression de l'accompli en égyptien ancien
+(synthèse d'étape)}
+% =====================================================================
+
+Comme on a déjà eu l'occasion de le dire dans ce cours, il est 
+nécessaire de régulièrement tenter de percevoir la logique du système 
+verbal. Cela permet d'assimiler plus facilement les constructions.
+
+L'aspect \textbf{accompli} est rendu par plusieurs constructions en 
+égyptien classique. Avant de lire le paragraphe ci-dessous, essayez 
+de vous en rappeler de mémoire.
+
+\begin{itemize}
+  \item Le perfectif \tl{sDm=f} \textbf{accompli ponctuel} ;
+  \item L'accompli \tl{sdm.n=f}, \textbf{accompli perfectif, ponctuel, 
+        voire résultatif} ;
+  \item Le parfait ancien.
+\end{itemize}
+
+Le parfait ancien, à côté de son emploi prédicatif comme prédicat 
+de la proposition à prédicat pseudo-verbal, peut être employé de 
+manière autonome en tête de phrase (cf.~\Pref{prt:parfait}, 
+\titleref{bk:semestre2}). Aux 2\ieme~et 3\ieme~personnes, le parfait 
+ancien a une valeur de souhait, mais à la 1\iere~personne il rend 
+un temps passé dans la narration. Cette usage est un peu archaïque.
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    r:a-k' w-A1 r pr sw-t:n zA-A1
+  \end{hieroglyph}
+
+  \tl{rdi.kwi r pr-sA-n(y)-sw.t}
+  \infos{\cite[ex.~1127]{MW}, \CdS B\,286}
+
+  \td{Je fus placé dans la maison d'un fils royal.}
+\end{example}
+
+On parlera aussi plus tard de l'accompli \tl{sdmt=f}, une 
+forme verbale qui n'est utilisée que dans des propositions 
+circonstancielles, et de la forme narrative \tl{sdm.in=f} 
+(séquentiel narratif qui marque une étape dans le récit).

@@ -1,0 +1,74 @@
+%!TEX root = DULAEP_EG.htx
+%##HieroDef.txt
+
+\chapter*{Exercice~6}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{Translittérer, analyser (grammaticalement) et 
+  traduire les propositions suivantes}
+
+  \begin{parts}
+    \part
+    \begin{hieroglyph}wr:r n:f i-r:p-Hnqt:3 r mw\end{hieroglyph}
+    \infos{\cite[exercice~40]{Obsomer_2003}}
+
+    \begin{solution}
+      \tl{wr n=f irp r mw} ---
+      \td{Le vin est meilleur pour lui que l'eau.} ---
+      Proposition à prédicat adjectival, avec tournure comparative
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}wr:r mn:nw*nw*nw k r sw-t-A40 nb\end{hieroglyph}
+    \infos{\cite[exercice~40]{Obsomer_2003}}
+
+    \begin{solution}
+      \tl{wr mnw=k r nsw nb} ---
+      \td{Ton monument est plus grand que (celui de) tout roi.} ---
+      Proposition à prédicat adjectival, avec tournure comparative
+    \end{solution}
+
+    \part Hymne à Sésostris~III, papyrus Illahoun. Essayez 
+    de repérer les correspondances entre les signes hiératiques 
+    et hiéroglyphiques (facultatif) et translittérer, analyser 
+    et traduire la transcription hiéroglyphique
+
+    \begin{center}
+      \includegraphics[width=6.2cm]{Illahoun_hymne_SesostrisIII}\\
+      \adjustbox{reflect, width=6cm}{%
+        \begin{hieroglyph}wr-r-w-y nb:A1*n niwt:t*1 f\end{hieroglyph}%
+      }
+    \end{center}
+
+    \begin{solution}
+      \tl{wr.wy nb n(y) niw.t=f \ex} ---
+      \td{Combien est grand le seigneur de sa ville !} ---
+      \PPJ, avec désinence exclamative
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}n:t:k r:a-ra-1-G7 nb p*t:pt\end{hieroglyph}
+    \infos{\cite[\pno~83, \no35]{Allen}}
+
+    \begin{solution}
+      \tl{ntk Ra nb p.t} ---
+      \td{Tu es Rê, seigneur du ciel.} ---
+      \PPN
+    \end{solution}
+  \end{parts}
+\end{questions}
+
+\subsection*{Vocabulaire}
+\begin{multicols}{2}
+  \begin{itemize}
+    \item \begin{hieroglyph}i-r:p-Hnqt:3\end{hieroglyph}
+          \tl{irp}, \td{vin}
+    \item \begin{hieroglyph}wr:r\end{hieroglyph}
+          \tl{wr}, \td{grand}, \td{vénérable}
+    \item \begin{hieroglyph}mn:nw*nw*nw\end{hieroglyph}
+          \tl{mnw}, \td{monument}
+    \item \begin{hieroglyph}sw-t-A40\end{hieroglyph}
+          \tl{nsw} / \tl{n(y)-sw.t}, \td{roi}
+  \end{itemize}
+\end{multicols}

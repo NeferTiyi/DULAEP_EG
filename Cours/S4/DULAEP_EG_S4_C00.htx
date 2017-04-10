@@ -1,0 +1,217 @@
+%!TEX root = DULAEP_EG.htx
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\part*{Pour se remettre dans le bain}
+\markboth{Pour se remettre dans le bain}{}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Tout d'abord :
+
+\begin{center}
+  \scalebox{2}{\begin{hieroglyph}F14-nfr\end{hieroglyph}}
+\end{center}
+
+\bigskip
+
+Voir \source{\frquote{Gourde portant un v\oe u de bonne année sous la 
+protection de Ptah, Amon, Sekhmet et Neith}},
+\musee{Louvre} \inv{E\,22605} (\fref{fig:E22605}).
+
+\renewcommand{\insertimg}{%
+  \includegraphics[height=5cm]{Louvre_E22605_1}%
+}
+\settowidth{\graphicwidth}{\insertimg}
+\begin{figure}[htb]
+  \noindent%
+  \begin{minipage}[b]{\graphicwidth}%
+    \centerfloat
+    \includegraphics[width=\textwidth]{Louvre_E22605_1}
+  \end{minipage}%
+  \qquad%
+  \begin{minipage}[b]{\graphicwidth}%
+    \centerfloat
+    \includegraphics[width=\textwidth]{Louvre_E22605_2}
+  \end{minipage}%
+  \caption[%
+    \source{Gourde portant un v\oe u de bonne année sous la protection 
+    de Ptah, Amon, Sekhmet et Neith} (\musee{Louvre} \inv{E\,22605})%
+  ]{%
+    \source{Gourde portant un v\oe u de bonne année sous la protection
+    de Ptah, Amon, Sekhmet et Neith} 
+    (\musee{Musée du Louvre} \inv{E\,22605}\footnotemark{}, \dyn{26}, 
+    \datesregne{664}{525})%
+  }
+  \label{fig:E22605}
+\end{figure}
+\footnotetext{\url{http://cartelfr.louvre.fr/cartelfr/%
+visite?srv=car_not_frame&idNotice=32399&langue=fr}}
+
+
+Ce semestre nous allons aborder la fin du programme d'égyptien 
+classique. Vous avez vu toutes les formes verbales de la conjugaison 
+suffixale. Il nous reste seulement à voir les \textbf{formes 
+adjectivales du verbe} (les participes et formes dites relatives), 
+et vous aurez aborder toutes les formes verbales. Par ailleurs nous 
+continuerons à étudier des constructions de phrases plus complexes. 
+Je vous renvoie au programme prévisionnel du semestre 
+(\Cref{cha:S4_pgm}).
+
+Par ailleurs, nous poursuivrons les exercices, selon le format 
+habituel que vous connaissez, mais nous allons aborder aussi la 
+traduction d'un texte suivi complet. Pour cela, en parallèle au 
+cours, avec ses leçons progressives et ses exercices d'application, 
+vous aurez à travailler sur un texte relativement long, un classique 
+de l'épigraphie égyptienne de la \dyn{12} : La \textbf{Stèle de Semna 
+de l'an 16} (Sésostris~III). Vous pouvez télécharger le texte complet. 
+Une section du cours sur Moodle est réservé à ce travail. Vous ne 
+pouvez tout traduire pour l'instant. Il vous faut, au moins connaître, 
+les formes adjectivales du verbe. Néanmoins, je vous indiquerai à 
+chaque leçon quelles lignes vous est susceptibles de savoir faire. 
+Vous traduirez le texte progressivement, ainsi à la fin du semestre, 
+vous aurez travaillé sur un texte complet, qui offre un panorama riche 
+de la syntaxe de l'égyptien classique. Au cours du semestre, nous 
+travaillerons aussi sur un texte beaucoup plus cours la \textbf{Stèle 
+de Semna de l'an 8} (Sésostris~III).
+
+Enfin, je continuerai à distiller de temps en temps des petits 
+exercices en hiératique.
+
+Bon travail à nouveau ! Mais avant, voici ci-dessous un petit schéma 
+récapitulatif de ce que nous avons fait jusqu'à présent.
+
+
+\chapter*{Aperçu synthétique (d'étape) de la grammaire du 
+moyen-égyptien}
+% =====================================================================
+
+{%
+\newcolumntype{A}[1]{%
+  >{\vspace*{0.5em}\centering}m{#1}<{\vspace*{0.5em}}%
+}
+\renewcommand\tabularxcolumn[1]{A{#1}}
+
+\newlength{\itemsepold}
+\setlength{\itemsepold}{\itemsep}
+\begin{itemize}\setlength{\itemsep}{1.5ex}
+  \item Un énoncé complet simple comprend : 
+        \tll{(Auxiliaire) Sujet (S) + Prédicat (P)}.
+  \item L'ordre des mots S/P peut varier selon le type de phrase.
+
+% Propositions non verbales
+  \item Selon la nature du prédicat : 
+        \begin{itemize}\setlength{\itemsep}{\itemsepold}
+          \item PPAdverbial : \tll{(auxiliaire) S + P}
+          \item PPNominal : \tll{AB, B \tl{pw} A}
+          \item PPAdjectival : \tll{P + S}
+          \item Constructions pseudo-verbales : 
+                \tll{(auxiliaire) S + P} 
+                (progressif, allatif, parfait ancien)
+          \item \textbf{Propositions verbales} (généralement \tll{P S} 
+                ou \tll{V S}, avec ou sans auxiliaire)
+        \end{itemize}
+  \item Les formes de la conjugaison suffixale se distinguent 
+        morphologiquement par le thème verbal (bref ou géminé, 
+        cf.~verbes irréguliers) et éventuellement une désinence 
+        ou un infixe particulier.\\
+        \begin{tabularx}{0.5\textwidth}{|X|X|}
+          \hline
+            \textbf{Accompli}\\ \smallskip
+            \tl{sDm.n=f}\\ \tl{sDm=f}\\ \tl{sDmt=f} &
+            \textbf{Inaccompli}\\ \smallskip
+            \tl{sDm=f} aoriste\\ \tl{mrr=f}\\ ~
+          \tabularnewline
+          \hline
+            \multicolumn{2}{|A{0.45\textwidth}|}{%
+              \textbf{Formes prospectives}\\ \smallskip
+              \tl{sDm=f} subjonctif\\ \tl{sDm(w)=f} prospectif%
+            }
+          \tabularnewline
+          \hline
+            \multicolumn{2}{|A{0.45\textwidth}|}{%
+              \textbf{Formes séquentielles contingentes}\\ \smallskip
+              \tl{sDm.kA=f}\\ \tl{sDm.xr=f}\\ \tl{sDm.in=f}%
+            }
+          \tabularnewline
+          \hline
+        \end{tabularx}
+  \item Aux formes de la conjugaison suffixale, on peut ajouter 
+        \textbf{l'infinitif}, \textbf{l'impératif} et le 
+        \textbf{parfait ancien}.
+  \item Une proposition peut-être : autonome, initiale, séquentielle, 
+        circonstancielle (virtuelle).
+  \item Il existe des circonstancielles dites véritables, 
+        c'est-à-dire introduites par une préposition-conjonction.
+\end{itemize}
+}
+
+\filet
+
+\begin{center}
+  Pendant les premiers cours, nous allons compléter l'exploration 
+  des circonstancielles et autres subordonnées : les phrases 
+  conditionnelles, puis les propositions subordonnées complétives 
+  (déjà aperçues en exercice), avant d'aborder les participes.
+
+  \em
+  Bon travail !
+\end{center}
+
+\noindent\rule{\textwidth}{1pt}
+
+
+\chapter*{Descriptif et programme}\label{cha:S4_pgm}
+% =====================================================================
+{
+\setlist[enumerate,1]{label=\Roman*.}
+\setlist[enumerate,2]{label=\arabic*.}
+\begin{enumerate}
+  \item Pour se remettre dans le bain : présentation du travail de ce 
+        semestre (grammaire et travail de traduction suivie : 
+        la Stèle de Semna de l'an~16)
+  \item Grammaire 1. Les propositions subordonnées complétives
+    \begin{enumerate}
+      \item Introduction générale
+      \item Les complétives sans conjonction
+      \item Les complétives avec conjonction
+    \end{enumerate}
+  \item Grammaire 2. Les circonstancielles véritables (suite) :
+    \begin{enumerate}
+      \item Les conditionnelles
+      \item Récapitulatif sur les circonstancielles
+    \end{enumerate}
+  \item Grammaire 3. Les formes adjectivales du verbe (1) : 
+        les participes
+    \begin{enumerate}
+      \item Introduction
+      \item Morphologie des participes accompli et inaccompli
+      \item Emploi et syntaxe
+      \item Le \tl{sDm.ti=fi} à valeur prospective
+      \item La construction indirecte du participe passif
+    \end{enumerate}
+  \item Épigraphie 1. Les appels aux vivants
+  \item Grammaire 4. Les formes adjectivales du verbe (2) : 
+        les formes relatives
+    \begin{enumerate}
+      \item Introduction
+      \item Morphologie
+      \item Emploi et syntaxe
+    \end{enumerate}
+  \item Épigraphie 3. Rappels sur l'expression de l'identité et 
+        de la filiation
+  \item Grammaire 5. Les propositions subordonnées relatives
+    \begin{enumerate}
+      \item Introduction
+      \item Morphologie des introduction \tl{nty} et \tl{iwty}
+      \item Emploi et syntaxe
+      \item Excursus : proposition subordonnée relative et 
+            relative \frquote{virtuelle}
+    \end{enumerate}
+  \item Épigraphie 5. Traduire une inscription royale : 
+        la Stèle de Semna de l'an~8
+  \item Grammaire 6. La phrase coupée (\td{c'est lui qui\dots})
+  \item Grammaire 7. Les formes rhétoriques
+  \item Grammaire 8. L'interrogation (synthèse)
+  \item Grammaire 9. Récapitulatif sur les auxiliaires Fin\dots 
+        et après ?
+\end{enumerate}
+}

@@ -1,0 +1,116 @@
+%!TEX root = DULAEP_EG.htx
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\part[La forme \tl{sDm.ty=fy}]
+     {La forme \tl{sDm.ty=fy} (\td{celui qui écoutera})}
+\label{prt:S4_prtcp_pro}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\chapter{Introduction}
+% =====================================================================
+
+Dans le cours précédent, nous avons vu les participes accompli, 
+inaccompli, aux formes actives et passives. Il nous reste à voir le 
+participe prospectif. Celui-ci est peu attesté, en particulier à la 
+voix active. Le participe prospectif actif est en réalité de fait, 
+assumé par une forme particulière, appelée la forme \tl{sDm.ty=fy}, 
+\td{celui qui entendra}. Le participe prospectif proprement dit est 
+surtout attesté à la voix passive.
+
+
+\chapter{La forme \tl{sDm.ty=fy}, morphologie}
+% =====================================================================
+
+Cette forme se caractérise par une désinence particulière, qui varie 
+selon la personne. Notez bien que cette forme particulière n'existe 
+qu'à la 3\ieme~personne uniquement (singulier et pluriel). Le thème 
+verbal est quant à lui bref :
+\begin{itemize}
+  \item Les verbes forts : thème verbal identique au radical.
+  \item Les verbes faibles, \vi{3} et \vi{4} : thème verbal bref.
+  \item Les verbes géminés présentent généralement la gémination.
+  \item Pour les irréguliers : \tl{rdi} donne \tl{rd.t(y)=f(y)}, 
+        \td{celui qui donnera}.
+\end{itemize}
+
+\bigskip
+
+\paragraph{Les désinences :}~\\
+
+\begingroup
+  \renewcommand\tabularxcolumn[1]{m{#1}}
+  \noindent%
+  \begin{tabularx}{\textwidth}{+>{\bfseries}X*{2}{^M{0.40\textwidth}}}
+    \toprule
+    \rowstyle{\bfseries}
+      & Masculin & Féminin 
+    \tabularnewline
+    \otoprule
+      Singulier &
+      \begin{hieroglyph}t*y:f:y\end{hieroglyph}\quad\tl{ty=fy}\\ var. 
+      \begin{hieroglyph}t:f:y-+l, +s-t*y:f-+l, +s-t:f\end{hieroglyph}\\
+      \tl{sDm.ty=fy}, \td{celui qui écoutera} & 
+      \begin{hieroglyph}t:y-s-y\end{hieroglyph}\quad\tl{ty=sy}\\
+      var. \begin{hieroglyph}t-s-y-+l, +s-t-s\end{hieroglyph}\\
+      \tl{sDm.ty=sy}, \td{celle qui écoutera}
+    \tabularnewline
+    \midrule
+      Pluriel &
+      \multicolumn{2}{M{0.8\textwidth}}{%
+        \begin{hieroglyph}t:y-s-n:3\end{hieroglyph}\quad\tl{ty=sn}\quad
+        var. \begin{hieroglyph}t-s-n:3\end{hieroglyph}\\
+        \tl{sDm.ty=sn}, \td{ceux qui écouteront}%
+      }
+    \tabularnewline
+    \bottomrule
+  \end{tabularx}%
+\endgroup
+
+Il est à noter que les double \emph{yod} ne sont pas systématiquement 
+indiqués en hiéroglyphes. En ce cas, le \tl{t} (non suivi du 
+\emph{yod}) de la désinence peut se trouver avant le déterminatif.
+
+
+\chapter{La forme \tl{sDm.ty=fy}, fonction et syntaxe}
+% =====================================================================
+
+Comme les participes, cette forme peut être épithète d'un nom ou être 
+substantivée et remplir toute fonction d'un substantif.
+
+En tant que forme verbale, elle peut être suivi de COD ou COI, 
+nominaux ou pronominaux (en ce cas, le pronom dépendant).
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    Z9:D54-t:f:y nb Hr-1 wD-w-inr p:n
+  \end{hieroglyph}
+
+  \tl{sAw.t(y)=fy nb wD pn}
+  \infos{dans le formulaire de \source{l'Appel aux vivants}}
+
+  \td{Toute personne qui passera près de cette stèle}
+\end{example}
+
+La négation se fait par l'auxiliaire négatif \tl{tm} à la forme 
+\tl{sDm.ty=fy} suivi du complément négatif ou de l'infinitif : 
+\tl{tm.ty=fy sDm}, \td{celui qui n'écoutera pas}.
+
+
+\chapter{Le participe prospectif passif}
+% =====================================================================
+
+Les rares attestations présentent un thème verbal bref, et une 
+désinence 
+\begin{hieroglyph}i-i\end{hieroglyph} \tl{-y} au masculin et 
+\begin{hieroglyph}ti-i\end{hieroglyph} \tl{-ti} 
+(ou \begin{hieroglyph}t\end{hieroglyph} \tl{t(i)}) au féminin : 
+\tl{sDm.ti}, \td{qui sera écoutée} ; \tl{sDmy}, \td{qui sera écouté}.
+
+\bigskip
+
+\begin{exercice}%[before upper={\centering}]
+  Vous pouvez faire \textbf{l'exercice~4}, ainsi que les 
+  \textbf{lignes~15 à~18} de la \textbf{\source{Stèle de Semna}}, 
+  à partir de \tl{ir gr.t sA=i}, et jusqu'à \tl{is n=i}. 
+  Pour le vocabulaire, voir \emph{Moodle}.
+\end{exercice}

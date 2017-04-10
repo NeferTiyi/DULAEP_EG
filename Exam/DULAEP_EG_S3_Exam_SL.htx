@@ -1,0 +1,378 @@
+\documentclass[%
+  french,
+  hiero,
+  kpfonts,
+  dvipsnames,
+  svgnames,
+  a4paper,
+  twoside,
+  openany,
+  10pt,
+  largesmallcaps,
+  oldstylenums,
+  oldfontcommands,
+  article,
+]{nefermemoir}
+
+% \usepackage[margin=2cm]{geometry}
+\usepackage{lipsum}
+\usepackage{xfrac}
+\usepackage{multicol}
+\usepackage[inline]{enumitem}
+% \usepackage[export]{adjustbox}
+% \usepackage{rotating}
+
+
+\newcommand{\filet}{%
+  \vspace{3\baselineskip}
+
+  \begin{center}
+    \pgfornament[width=.5\textwidth]{85}
+  \end{center}
+
+  \vspace{3\baselineskip}
+}
+
+
+\newtcolorbox{example}[1][]{%
+  % show bounding box,
+  % breakable,
+  title     = {Exemple :},
+  colframe  = Ivory!80!black,
+  coltitle  = black,
+  colbacktitle = Ivory!95!black,
+  colback   = Ivory,
+  parbox    = false,
+  before    = \vspace{1ex plus 1pt minus .4pt}\noindent,
+  after     = \vspace{1ex plus 1pt minus .4pt},
+  before upper = {\DisplayHieroglyphs\setlength{\parindent}{0pt}},
+  fonttitle    = \bfseries,
+  #1, %
+}
+
+\newtcolorbox{exercice}[1][]{%
+  % show bounding box,
+  % breakable,
+  colframe  = LightBlue,
+  colback   = LightBlue!25,
+  parbox    = false,
+  before    = \vspace{1ex plus 1pt minus .4pt}\noindent,
+  after     = \vspace{1ex plus 1pt minus .4pt},
+  before upper = \indent,
+  fonttitle    = \large\bfseries,
+  #1,
+}
+
+\newtcolorbox{cadre}[1][]{%
+  % show bounding box,
+  % breakable,
+  colframe  = black,
+  colback   = white,
+  parbox    = false,
+  before    = \vspace{1ex plus 1pt minus .4pt}\noindent,
+  after     = \vspace{1ex plus 1pt minus .4pt},
+  before upper = \indent,
+  fonttitle    = \large\bfseries,
+  #1,
+}
+
+\newenvironment{notabene}[1][NB]{%
+  \medskip
+  \begin{list}{#1}{%
+    \renewcommand\makelabel[1]{\bfseries\uline{##1} :}%
+    \settowidth\labelwidth{\makelabel{#1}}%
+    \setlength\leftmargin{\labelwidth + \labelsep}%
+  }%
+  \item\ignorespaces%
+}%
+{%
+  \unskip\end{list}%
+  \medskip%
+}
+
+\setlist[enumerate,1]{label=\arabic*., ref=\arabic*}
+
+\newcommand{\sectitre}{}
+\newcommand{\insertimg}{}
+
+\renewcommand{\hiero}[1][ique]{%
+  hiéroglyph#1\xspace%
+}
+\renewcommand{\Hiero}[1][ique]{%
+  Hiéroglyph#1\xspace%
+}
+
+\newcommand{\tll}[2][TlColor]{{%
+  \normalfont\textcolor{#1}{\emph{#2}}%
+}}%
+
+\renewcommand{\td}[1]{%
+  \textcolor{TdColor}{\itshape\sffamily#1}%
+}
+\newcommand{\tdr}[1]{%
+  \textcolor{red}{\td{#1}}%
+}
+
+\renewcommand{\infos}[1]{{\smaller\quad(#1)}}
+
+\newcommand{\doc}[1]{%
+  \textbf{\textcolor{purple}{#1}}%
+}
+\colorlet{ClefCol}{orange}
+\newcommand{\clef}[1]{%
+  \textbf{\textcolor{ClefCol}{#1}}%
+}
+\newcommand{\info}[1]{%
+  \textcolor{DarkGreen}{#1}%
+}
+
+\renewcommand{\PPA}[1][]{Proposition#1 à prédicat adverbial\xspace}
+\newcommand{\PPN}[1][]{Proposition#1 à prédicat nominal\xspace}
+\newcommand{\PPP}[1][]{Proposition#1 à prédicat pseudo-\-verbal\xspace}
+\newcommand{\PPV}[1][]{Proposition#1 à prédicat verbal\xspace}
+\newcommand{\PPJ}[1][]{Proposition#1 à prédicat adjectival\xspace}
+
+
+\newcolumntype{+}{>{\global\let\currentrowstyle\relax}}
+\newcolumntype{^}{>{\currentrowstyle}}
+\newcommand{\rowstyle}[1]{%
+  \gdef\currentrowstyle{#1}#1\ignorespaces%
+}
+\renewcommand\tabularxcolumn[1]{M{#1}}
+
+\newcommand{\EI}{\textbf{Élément introducteur :}\xspace}
+\newcommand{\SJ}{\textbf{Sujet :}\xspace}
+\newcommand{\PR}{\textbf{Prédicat :}\xspace}
+\newcommand{\CO}{\textbf{C.O.~:}\xspace}
+\newcommand{\CC}{\textbf{C.C.~:}\xspace}
+\newcommand{\CA}{\textbf{C.A.~:}\xspace}
+
+\newcommand{\Acc}{Accompli \tl{sDm.n=f}\xspace}
+\newcommand{\Aor}{Aoriste\xspace}
+\newcommand{\Prosp}{Prospectif\xspace}
+\newcommand{\Subj}{Subjonctif\xspace}
+\newcommand{\Perf}{Perfectif\xspace}
+\newcommand{\mrr}{\tl{mrr=f}\xspace}
+\newcommand{\sDmt}{\tl{sDmt=f}\xspace}
+\newcommand{\sDmxr}{\tl{sDm.xr=f}\xspace}
+\newcommand{\sDmkA}{\tl{sDm.kA=f}\xspace}
+\newcommand{\sDmjn}{\tl{sDm.jn=f}\xspace}
+
+
+
+%======================================================================
+\title{%
+  \bfseries%
+  DULAEP\\%
+  Égyptien classique~2\ieme~année\\%
+  Examen du 1\ier~semestre%
+}
+\author{\textbf{\SL}\\(\no étudiant \num{21517319})}
+\date{\today}
+
+\hypersetup{%
+  pdftitle  = {DULAEP --- EG2--S1}, 
+  pdfauthor = {Sonia Labetoulle}
+}
+% pdfsubject % pdfcreator % pdfproducer % pdfkeywords
+
+%======================================================================
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+
+\thispagestyle{empty}
+\maketitle
+\vspace*{3\baselineskip}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\DisplayHieroglyphs
+
+% \PPA
+% \PPN
+% \PPP
+% \PPJ
+% \PPV
+% \Acc
+% \Aor
+% \Prosp
+% \Subj
+% \Perf
+% \mrr
+% \sDmt
+% \sDmxr
+% \sDmkA
+% \sDmjn
+
+\begin{cadre}[title={Question~1 : Inscription de Thoutmosis~III, 
+              Akhménou, Karnak}, breakable]
+  \begin{hieroglyph}
+  \end{hieroglyph}
+
+  \noindent%
+  \tl{\red{anx} @r KA-nxt-\#a-m-WAs.t, 
+      (ny)-sw.t-bjt(y) Mn-xpr-Ra, 
+      sA Jmn n(y) X.t=f +Hwty-ms-nfr-xpr.w~\ex}
+
+  \medskip
+
+  \noindent%
+  \textbf{Titulature royale}
+  \begin{enumerate}
+    \item \tl{anx} : subjonctif de \vl{3}, 
+          sujet = groupes nominaux aposés
+  \end{enumerate}
+
+  \medskip
+
+  \noindent%
+  \td{\red{Que vive} l'Horus Kanakht-khâemouaset, 
+      le roi de \HBE Menkhéperrê, 
+      le fils charnel d'Amon Thoutmosis Néferkhépérou !}
+
+  \noindent%
+  \rule{\textwidth}{0.5pt}
+
+  \noindent%
+  \tl{\red{jr.n=f} m mnw=f n jt[.w=f nswty.w-bjty.w], 
+      \red{jr.t} n=sn Hw.t-aA.t n(y).t HH m rnp.wt, m-mAw.t, 
+      m jnr HD nfr n(y) anw, 
+      \red{Dsr.tj} mj Ax.t n(y).t p.t, 
+      \red{smnx.tj} m kA.t D.t}
+
+  \medskip
+
+  \noindent%
+  \textbf{Formule de dédicace.}
+  \begin{enumerate}
+    \item \tl{jr.n=f} : prédicat = \tl{jr.n}, \Acc de \tl{jrj} \vi{3} 
+          et sujet = \tl{=f}, P.S. ; \\
+          + C.C. + C.A. (\tl{n jt.w=f nswty.w-bjty.w}) ;
+    \item \tl{jr.t} : infinitif de \tl{jrj} \vi{3} 
+          + C.A. (\tl{n} + P.S.) 
+          + C.O. (syntagme nominal, \tl{Hw.t-aA.t n(y).t HH m rnp.wt}) 
+          + C.C. apposés (syntagmes adverbiaux, 
+          \tl{m-mAw.t, m jnr HD nfr n(y) anw}) ;
+    \item \tl{Dsr.tj} : parfait ancien \rem{(proposition relative 
+          non déterminée)} de \tl{Dsr} \vl{3}, 3\ieme~personne du 
+          féminin du singulier \rem{(se rapporte à \tl{Hw.t-aA.t})} 
+          + C.C. de comparaison ;
+    \item \tl{smnx.tj} : parfait ancien \rem{(proposition relative 
+          non déterminée)} de \tl{smnx} \vcl{3}, 3\ieme~personne du 
+          féminin du singulier \rem{(se rapporte à \tl{Hw.t-aA.t})} 
+          + C.C. de moyen.
+  \end{enumerate}
+
+  \medskip
+
+  \noindent%
+  \td{\red{Il a fait} comme son monument pour ses pères, les rois 
+      de \HBE, de \red{faire} pour eux un grand palais de millions 
+      d'années, de nouveau, en belle pierre blanche d'Ânou, \red{sacré} 
+      \rem{(= le palais)} comme l'horizon du ciel, \red{rendu 
+      efficient} \rem{(= le palais)} par le travail pour \rem{(de ?)} l'éternité.}
+
+  \noindent%
+  \rule{\textwidth}{0.5pt}
+
+  \noindent%
+  \tl{\red{wD} @m=f \red{smn.t} rn.w n(y).w jt.w, 
+                    \red{srwD} pA.wt=sn, 
+                    \red{ms.t} aSm=sn m D.wt=sn nb(.w), 
+                    \red{wAH} n=sn Htp.w-nTr aA(.w) m-mAw.t}
+
+  \medskip
+
+  \begin{enumerate}
+    \item \tl{wD} : perfectif \tl{sDm=f} \rem{(narration)} de \vl{2}, 
+          sujet = \tl{@m=f}
+    \item puis une série d'infinitifs coordonnés, C.O. de \tl{wD} 
+          (\flech{} complétives) :
+          \begin{itemize}
+            \item \tl{smn.t} : infinitif féminin de \tl{smn} \vcl{2} 
+                  + C.O. (syntagme nominal, \tl{rn.w n(y).w jt.w}) ;
+            \item \tl{srwD} : infinitif de \vcl{3} 
+                  + C.O. (syntagme nominal, \tl{pA.wt=sn}) ;
+            \item \tl{ms.t} : infinitif féminin de \tl{msi} \vi{3} 
+                  + C.O. (syntagme nominal, \tl{aSm=sn}) 
+                  + C.C. (syntagme adverbial, \tl{m D.wt=sn nb(.w)}) ;
+            \item \tl{wAH} : infinitif de \vl{3} 
+                  + C.A. (\tl{n} + P.S.) 
+                  + C.O. (syntagme nominal, \tl{Htp.w-nTr aA(.w)}) 
+                  + C.C. (\frquote{adverbe}, \tl{m-mAw.t}).
+          \end{itemize}
+  \end{enumerate}
+
+  \medskip
+
+  \noindent%
+  \td{Sa Majesté \red{ordonna} d'\red{établir} les noms des pères, 
+      de \red{renforcer} leurs pains d'offrande, de \red{façonner} 
+      leurs images (divines) au moyen de chacun de leurs corps, 
+      d'\red{instituer} de nouveau pour eux de grandes offrandes 
+      divines.}
+\end{cadre}
+
+\begin{cadre}[title={Question~2 : \source{Enseignement de Ptahhotep}}]
+  \begin{hieroglyph}
+  \end{hieroglyph}
+
+  \noindent%
+  \tl{m gfn(w) sw r skt=f X.t=f~\ex}
+
+  \medskip
+
+  \noindent%
+  \textbf{Impératif vétitif + circonstancielle véritable au \sDmt}
+  \begin{itemize}
+    \item \tl{m gfn(w)} : impératif de \tl{jmj} + complément verbal 
+          négatif de \tl{gfn} \vl{3}
+    \item \tl{sw} = C.O. de \tl{gfn}
+  \end{itemize}
+
+  \smallskip
+
+  \begin{itemize}
+    \item \tl{r} : préposition-conjonction ;
+    \item \PR \tl{skt}, forme \sDmt de \tl{sk} \vl{2}, 
+          régime de préposition-conjonction ;
+    \item \SJ \tl{=f}, pronom suffixe ;
+    \item \CO \tl{X.t=f}, syntagme nominal.
+  \end{itemize}
+
+  \medskip
+
+  \noindent%
+  \td{Ne le renvoie pas jusqu'à ce qu'il ait vidé son c{\oe}ur !}
+\end{cadre}
+
+\begin{comment}
+\begin{cadre}[title={Question~3}]
+  \begin{hieroglyph}
+  \end{hieroglyph}
+
+  \noindent%
+  \tl{}
+
+  Test
+
+  \noindent%
+  \td{}
+\end{cadre}
+
+\begin{cadre}[title={Question~4}]
+  \begin{hieroglyph}
+  \end{hieroglyph}
+
+  \noindent%
+  \tl{}
+
+  Test
+
+  \noindent%
+  \td{}
+\end{cadre}
+\end{comment}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\end{document}

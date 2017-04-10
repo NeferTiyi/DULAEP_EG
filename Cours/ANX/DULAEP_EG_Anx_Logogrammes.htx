@@ -1,0 +1,56 @@
+%!TEX root = DULAEP_EG.htx
+%##HieroDef.txt
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\chapter[Logogrammes]{Logogrammes\footcite[D'après][28--29]{Obsomer}}
+\label{anx:logog}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{aparte}[title={Remarque :}, breakable]
+  Les termes \textbf{\frquote{idéogrammes}} et 
+  \textbf{\frquote{logogrammes}} sont utilisés pour désigner les 
+  signes notant un mot complet. Logogramme (dérivé du grec 
+  \emph{logos} \frquote{parole} et \emph{gramma} \frquote{caractère, 
+  lettre}) désigne un signe notant une \textbf{unité de sens} (= un 
+  mot). Le terme idéogramme est considéré comme un synonyme dans 
+  l'usage courant, même si son étymologie (du grec \emph{idea} 
+  \frquote{forme, aspect}), renvoie à une catégorie plus spécifique 
+  de signe-mot, les \frquote{caractères figuratifs} de 
+  \bsc{Champollion} \frquote{qui expriment l'objet dont ils présentent 
+  à l'{\oe}il l'image plus ou moins fidèle et plus ou moins 
+  détaillée\footnotemark{}}.
+  Champollion définit une seconde catégorie de \frquote{signes-mots} : 
+  les caractères \frquote{tropiques ou symboliques}, permettant de 
+  noter des mots renvoyant à des idées plus abstraites. 
+
+  Le terme logogramme, qui renvoie à l'idée de mot noté par un signe 
+  quelque soit la méthode de représentation (strictement figurative, 
+  ou métaphorique, etc.), est ainsi souvent privilégié aujourd'hui 
+  pour sa polysémie\footnotemark{}.
+\end{aparte}
+\addtocounter{footnote}{-1}
+\footcitetexts[22]{Champo}[cf.~aussi][28]{MW}
+\addtocounter{footnote}{1}
+\footcitetext[16]{Glassner_2009}
+
+\section*{Première série}
+% ---------------------------------------------------------------------
+L'idéogramme est souvent accompagné d'un trait vertical, dit 
+\frquote{trait de l'idéogramme}.
+
+\includegraphics[width=0.75\textwidth]{logogrammes_1}
+
+\section*{Deuxième série}
+% ---------------------------------------------------------------------
+Les idéogrammes notant des termes géographiques reçoivent assez 
+souvent un déterminatif.
+
+\includegraphics[width=0.75\textwidth]{logogrammes_2}
+
+\section*{Troisième série}
+% ---------------------------------------------------------------------
+Les idéogrammes de genre féminin sont suivis d'un 
+\begin{hieroglyph}t\end{hieroglyph} \tl{-t}, marque grammaticale 
+du féminin.
+
+\includegraphics[width=0.75\textwidth]{logogrammes_3}

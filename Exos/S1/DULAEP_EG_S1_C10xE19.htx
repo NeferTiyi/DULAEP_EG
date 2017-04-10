@@ -1,0 +1,63 @@
+%!TEX root = DULAEP_EG.htx
+%##HieroDef.txt
+
+\chapter*{Exercice~19}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{Translittérer et donner l'infinitif des verbes 
+  suivants (en translittération et en hiéroglyphes)}
+
+  \begin{multicols}{2}
+  \begin{parts}
+    \part
+    \begin{hieroglyph}h-A-D54\end{hieroglyph} 
+    \td{descendre}, \vi{3}
+    \begin{solution}
+      \tl{hAi} \donc{} \tl{hA.t}
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}anx-n:x\end{hieroglyph} 
+    \td{vivre}, \vl{3}
+    \begin{solution}
+      \tl{anx} \donc{} \tl{anx}
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}ir\end{hieroglyph} 
+    \td{faire}, \vi{3}
+    \begin{solution}
+      \tl{iri} \donc{} \tl{ir.t}
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}s-mn:n-Y1v\end{hieroglyph} 
+    \td{faire durer}, \vcl{2}
+    \begin{solution}
+      \tl{smn} \donc{} \tl{smn.t}
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}w-wD-Y1v\end{hieroglyph} 
+    \td{ordonner}, \vl{2}
+    \begin{solution}
+      \tl{wD} \donc{} \tl{wD}
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}r:di'\end{hieroglyph} 
+    \td{donner}, \td{placer}, \va{}
+    \begin{solution}
+      \tl{rdi} \donc{} \tl{rd.t}
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}md-d-w-A2\end{hieroglyph} 
+    \td{parler}, \vi{3}
+    \begin{solution}
+      \tl{mdw} \donc{} \tl{md.t}
+    \end{solution}
+  \end{parts}
+  \end{multicols}
+\end{questions}

@@ -1,0 +1,42 @@
+%!TEX root = DULAEP_EG.htx
+%##HieroDef.txt
+
+\chapter*{Exercice~2 --- Le système graphique}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{Quelles sont les trois valeurs possibles d'un 
+    signe égyptien ?}
+
+  \begin{solution}
+    \begin{itemize}
+      \item logogramme
+      \item phonogramme
+      \item déterminatif
+    \end{itemize}
+  \end{solution}
+
+  \question\qfmt{Translittérez le mot suivant, sachant que
+    \begin{hieroglyph}mn\end{hieroglyph} est un bilitère notant 
+    \tl{mn} et le filet d'eau \begin{hieroglyph}n\end{hieroglyph} 
+    un unilitère notant le son \tl{n}.}
+
+  \begin{center}
+    \begin{hieroglyph}mn:n-A1\end{hieroglyph}
+  \end{center}
+
+  \begin{solution}
+    \tl{mn}
+  \end{solution}
+
+  \question\qfmt{Dans le mot suivant, 
+    \begin{hieroglyph}nTr-1\end{hieroglyph} \td{dieu}, quelle est 
+    la valeur de \begin{hieroglyph}nTr\end{hieroglyph} ? Logogramme, 
+    phonogramme ou déterminatif ? Et comment pouvez-vous le déterminer 
+    à ce stade du cours ?}
+
+  \begin{solution}
+    Il s'agit ici d'un logogramme, comme l'indique le signe \MdC{Z1} 
+    (trait). Lecture \tl{nTr}.
+  \end{solution}
+\end{questions}

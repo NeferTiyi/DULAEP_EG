@@ -1,0 +1,249 @@
+%!TEX root = DULAEP_EG.htx
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\part[Propositions subordonnées relatives en égyptien ancien --- 
+récapitulatif]
+{Propositions subordonnées relatives\\en égyptien ancien --- 
+Récapitulatif}
+\label{prt:S4_subord_recap}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\emph{Les phrases précédées d'une astérisque sont inventées.}
+
+
+\chapter{Petit bilan d'étape}
+% =====================================================================
+
+Dans ce cours, nous faisons une petite pause pour faire un bilan des 
+derniers cours qui ont été assez riches en nouveautés.
+
+Au \titleref{bk:semestre3}, cette année, nous avons abordé les 
+formes verbales de la \clef{conjugaison suffixale}. Ce sont les 
+formes verbales qui peuvent être :
+\begin{enumerate}
+  \item \clef{prédicat} de \textbf{phrases principales} 
+        (initiales et autonomes) \\
+        ex. \tll{*}\tl{iw=f \blue{sDm=f}}, 
+        \td{*\blue{il écoute} (tous les jours)} 
+        (aoriste en position autonome)
+  \item \clef{prédicat} de \textbf{phrases séquentielles} \\
+        ex. \tll{*}\tl{iw sDm.n=f, \blue{mAA.n=f}}, 
+        \td{*il a écouté \blue{et il a regardé}} 
+        (accompli en initiale, + accompli dans une séquentielle)
+  \item \clef{prédicat} de phrases à \textbf{fonction 
+        circonstancielle} \\
+        ex. \tll{*}\tl{iw=f sDm=f \blue{mA=f}}, 
+        \td{*il écoute \blue{de sorte qu'il constate}} 
+        (aoriste en initiale + subjonctif dans une circonstancielle 
+        virtuelle),
+  \item ou nominalisées avec des \clef{fonctions nominales} variées \\
+        ex. \tll{*}\tl{iw wD.n=i \blue{mA=f}}, 
+        \td{*J'ai ordonné \blue{qu'il constate}\dots} 
+        (accompli en initial, verbe opérateur,
+        \tl{sDm=f} subjonctif dans une complétive) \\
+        ex. \tl{\blue{anx=f} pw}, 
+        \td{c'est \blue{le fait qu'il vivra}} = 
+        \td{(si tu fais ce diagnostic,) c'est \blue{qu'il vivra}}, 
+        \td{(si tu fais ce diagnostic), cela signifie 
+        \blue{qu'il vivra}} 
+        (\PPN avec un prospectif en fonction nominale-prédicat)
+\end{enumerate}
+
+
+Pour pouvoir traduire correctement ces formes verbales, il faut : 
+\begin{enumerate*}
+  \item connaître leur morphologie ;
+  \item connaître leurs emplois attestés.
+\end{enumerate*}
+Voir les cours du \titleref{bk:semestre3}.
+
+Au \titleref{bk:semestre4}, cette année, nous avons abordé les 
+\clef{formes adjectivales du verbe}, c'est-à-dire des formes qui 
+expriment l'action verbale sous la forme de l'adjectif. Ces formes 
+adjectivales correspondent aux \clef{participes en français}, mais 
+peuvent aussi être traduites par des \clef{propositions subordonnées 
+relatives}. Ces formes adjectivales peuvent avoir plusieurs fonctions, 
+mais en tout premier lieu, elles assument \textbf{les mêmes fonctions 
+qu'un adjectif}, c'est-à-dire notamment :
+
+\begin{enumerate}
+  \item \textbf{épithète du nom}\\
+        \begin{example}[title={}]
+          \tll{*}\tl{iw mAA.n=i Ra \red{pr(w)} m Nwn}
+
+          \td{*J'ai vu Rê \red{sorti} du Noun}
+
+          \tg{Phrase à prédicat verbal, 
+              \tl[Gramm]{sDm.n=f} accompli et complément d'objet 
+              (\tl[Gramm]{Ra pr(w) m Nwn}) ; 
+              le participe \tl[Gramm]{pr(w)} fait parti du groupe 
+              nominal COD et est épithète du nom \tl[Gramm]{Ra}}
+        \end{example}
+\end{enumerate}
+
+
+Mais le participe peut, comme tout adjectif, être substantivé :
+
+\begin{enumerate}[resume]
+  \item \textbf{formes adjectivales substantivées}, donc assumant 
+        les fonctions d'un nom.\\
+        \begin{example}[title={}]
+          \tll{*}\tl{ink \red{mry} n(y) it=f}
+
+          \td{*Je suis \red{un aimé} de son père.}
+
+          \tg{\PPN, avec pour prédicat un participe substantivé.}
+        \end{example}
+\end{enumerate}
+
+La difficulté, pour un étudiant francophone, tient à certains éléments 
+de syntaxe, notamment concernant le rapport entre la forme adjectivale 
+du verbe et le mot qu'il qualifie. En français le rapport est toujours 
+direct :
+
+\begin{quote}
+  \td{L'\green{étudiant} \red{écoutant} la leçon a plus de chance 
+  de réussir l'examen.}
+
+  \td{La \green{leçon} \red{écoutée} est mieux assimilée.}
+\end{quote}
+
+L'\green{antécédent} est toujours \red{acteur} ou \red{patient} de 
+l'action exprimée par le participe en français. Si un autre rapport 
+doit être exprimé, le français recourt à la proposition subordonnée 
+relative. Le français possède une batterie assez impressionnante de 
+pronoms relatifs : qui (\red{relation directe}), que, dont, de 
+laquelle, desquelles, où, sur laquelle, etc. (\blue{relation 
+indirecte})
+
+\begin{quote}
+  \td{L'\green{étudiant} \red{qui écoute} la leçon a plus de chance 
+  de réussir l'examen.} (relation directe)
+
+  \td{La \green{leçon} \red{qui est écoutée} est mieux assimilée.} 
+  (relation directe)
+\end{quote}
+
+\paragraph{MAIS :}
+\begin{quote}
+  \td{Le cours \blue{que} l'étudiant aura écouté sera mieux assimilé.}
+  (relation indirecte = l'antécédent n'est pas le sujet du verbe de la 
+  proposition subordonnée relative)
+
+  \td{L'étudiant \blue{dont} l'attention sera soutenue a plus de 
+  chance d'assimiler le cours.}
+  (relation indirecte = l'antécédent n'est pas le sujet du verbe de la 
+  proposition subordonnée relative)
+\end{quote}
+
+\bigskip
+
+L'égyptien n'a pas cette variété de pronoms relatifs pour rendre 
+compte des divers types de relation indirecte possible. Mais, à la 
+place, il utilise le système \blue{\frquote{pronom de rappel}} :
+\begin{itemize}
+  \item la syntaxe relation indirecte du participe passif avec son 
+        antécédent (avec le pronom de rappel) selon la syntaxe de 
+        l'égyptien ancien :\\
+        \td{L'étudiant \blue{soutenu} l'attention \blue{de lui} a plus 
+        de chance d'assimiler le cours.}
+  \item la forme relative (forme adjectivale à l'actif) selon la 
+        syntaxe de l'égyptien ancien :\\
+        \td{Le cours \blue{écoutant} l'étudiant sera mieux assimilé.}
+  \item la proposition subordonnée relative véritable avec 
+        construction de la relation indirecte.
+\end{itemize}
+
+Nous allons revoir tout cela de manière synthétique.
+
+
+\chapter{La relation indirecte (rappels)}
+% =====================================================================
+
+\paragraph{Pour rappel,} les participes actifs ou passifs égyptiens 
+correspondent donc à des \emph{propositions relatives françaises qui 
+ont une relation directe avec l'antécédent}, c'est-à-dire dont 
+l'antécédent est le sujet grammatical du verbe (sujet logique pour 
+les participes actifs, patient pour les passifs).
+
+\begin{quote}
+  \tl{bAk sDm(w)} (participe actif), 
+  \td{le serviteur qui entend/entendant}
+
+  \tl{bAk sDm(w)} (participe passif), 
+  \td{le serviteur qui est entendu/entendu} 
+  (avec possibilité d'exprimer l'agent \tl{in nb=f}).
+\end{quote}
+
+Il existe aussi une \emph{proposition relative indirecte du français} 
+à laquelle peut correspondre en égyptien la \emph{construction 
+complexe du participe passif} vu précédemment 
+(\Pref{prt:S4_prtcp_pass}).
+
+\begin{quote}
+  \tll{*}\tl{bAk \blue{sDm} mdw\blue{=f} in nb=f}, 
+  \td{*Le serviteur \blue{dont} la parole \blue{est écoutée} par le 
+      maître}
+
+  \tg{Antécédent, participe, CO et pronom de rappel, agent}
+
+  \td{\litt : Serviteur \blue{écouté sa} parole par le maître}
+\end{quote}
+
+En français, la fonction de l'antécédent par rapport à la relative est 
+précisée par le pronom relatif alors qu'en égyptien elle est précisée 
+par \emph{le pronom de rappel} (voir \Pref{prt:S4_prtcp_pass}).
+
+L'égyptien peut également utiliser une \clef{tournure active} en 
+utilisant la forme adjectivale du verbe appelée \clef{\frquote{forme 
+relative}}, qui s'accorde en genre et en nombre avec son antécédent. 
+Dans ce cas, le sujet logique est \textbf{toujours exprimé} et suit 
+la forme relative sans être introduit par \tl{in} ou \tl{xr}. 
+La nature de la relation entre l'antécédent et la forme relative 
+peut (comme dans le cas de la construction indirecte du participe 
+passif) être explicitée par un \clef{pronom de rappel}.
+
+\begin{quote}
+  \tll{*}\tl{bAk \blue{sDm} \green{nb} mdw\blue{=f}}, 
+  \td{*Le serviteur \blue{dont} \green{le maître} \blue{écoute} la 
+      parole}
+
+  \tg{Antécédent, forme relative et sujet, objet pronom de rappel}
+
+  \td{\litt serviteur que \blue{écoute} \green{le maître} \blue{sa} 
+      parole}
+\end{quote}
+
+\paragraph{Pour rappel~2,} les propositions subordonnées 
+relatives \frquote{véritables} sont introduites par un pronom 
+relatif \tl[ClefCol]{nty} ou \tl[ClefCol]{iwty} 
+(voir \Pref{prt:S4_forme_rel}). Ils expriment normalement une 
+relation directe entre l'antécédent et la proposition subordonnée 
+relative, et se traduisent respectivement par \td{\clel{qui}} 
+et \td{\clel{qui ne pas}}. Toutefois, si la relation avec 
+\blue{l'antécédent} est indirecte (l'antécédent n'est pas 
+l'agent ou le patient de \green{l'action exprimée} dans la 
+proposition subordonnée relative), un \blue{pronom de rappel} 
+est ajouté dans la proposition subordonnée.
+
+\begin{itemize}
+  \item \tll{*}\tl{dwA \blue{nTr pn} \clel{nty} 
+        \green{m niw.t tn}}\\
+        \td{*Adore \blue{ce dieu} \clel{qui} 
+        \green{est dans cette ville}} 
+        (impératif suivi d'un groupe nominal COD, dans lequel se 
+        trouve une proposition subordonnée relative)
+  \item \tll{*}\tl{dwA \blue{nTr pn} \clel{nty} Hr\blue{=f} 
+        \green{m bik}}\\
+        \td{*Adore \blue{ce dieu} \clel{dont} la tête est 
+        celle d'un faucon} 
+        (impératif suivi d'un groupe nominal COD, dans lequel se 
+        trouve une proposition subordonnée relative) 
+        (\td{\litt Adore le dieu que sa tête est celle d'un faucon »})
+\end{itemize}
+
+\bigskip
+
+\begin{exercice}[before upper={\centering}]
+  Faire \textbf{l'exercice~9}.
+\end{exercice}

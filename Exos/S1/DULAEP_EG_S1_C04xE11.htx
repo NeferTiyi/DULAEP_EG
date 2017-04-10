@@ -1,0 +1,144 @@
+%!TEX root = DULAEP_EG.htx
+%##HieroDef.txt
+
+\chapter*{Exercice~11 (à rendre par email)}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{Translittérer, analyser et traduire les séquences 
+  suivantes}
+
+  \begin{parts}
+    \part
+    \begin{hieroglyph}
+      x:t-Y1:3 nb:t nfr-f:r:t
+    \end{hieroglyph}
+    \begin{solution}
+      \tl{x.t nb.t nfr.t} (\tl{x.t} considéré comme un collectif) ou
+      \tl{x.wt nb.(w)t nfr.(w)t}
+
+      \td{toutes choses parfaites}
+
+      groupe nominal : substantif + adjectif indéfini + adjectif de 
+      qualité épithète du nom
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}s-x:r-Y1v b-i-n:G37\end{hieroglyph}
+    \begin{solution}
+      \tl{sxr bin}
+
+      \td{un mauvais dessein}
+
+      Groupe nominal : Substantif + adjectif épithète du nom (adjectif 
+      de qualité)
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}zA-\!\!t:.-B1 f S:r-i-t:G37\end{hieroglyph}
+    \begin{solution}
+      \tl{sA.t=f Sri.t}
+
+      \td{sa petite fille}
+
+      Groupe nominal : Substantif + pronom suffixe exprimant la 
+      possession + adjectif épithète du nom (adjectif de qualité).
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}rnp-t:3 aSA:t-Z3A\end{hieroglyph}
+    \begin{solution}
+      \tl{rnp.wt aSA.wt}
+
+      \td{de nombreuses années}
+
+      Groupe nominal : Substantif + adjectif épithète du nom (adjectif 
+      de qualité).
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}wAt:t*3 imnt-t:t\end{hieroglyph}
+    \begin{solution}
+      \tl{wA.wt imnt(y.w)t}
+
+      \td{les chemins occidentaux}
+
+      Groupe nominal : Substantif + adjectif épithète du nom (adjectif 
+      nisbé)
+    \end{solution}
+  \end{parts}
+
+  \question\qfmt{Traduire en hiéroglyphes (écrits de droite à gauche)}
+
+  \begin{parts}
+    \part\td{ce scribe excellent}
+    \begin{solution}
+      \reflectbox{%
+        \begin{hieroglyph}zS-A1 p:n i-q:r-Y1v\end{hieroglyph}%
+      }
+      \tl{sS pn ior}
+    \end{solution}
+
+    \part\td{tous les humains}
+    \begin{solution}
+      \reflectbox{\begin{hieroglyph}r:T-rmT\end{hieroglyph}}
+      \tl{rmT nb}
+    \end{solution}
+ 
+    \part\td{le grand dieu}
+    \begin{solution}
+      \reflectbox{\begin{hieroglyph}nTr-1 aA:a-A\end{hieroglyph}}
+      \tl{nTr aA}
+    \end{solution}
+
+    \part\td{Horus de l'horizon}
+    \begin{solution}
+      \reflectbox{\begin{hieroglyph}G5-G7 Axt:Axt\end{hieroglyph}}
+      \tl{@r Axty}
+    \end{solution}
+
+    \part\td{Anubis qui est sur sa montagne}
+    \begin{solution}
+      \reflectbox{%
+        \begin{hieroglyph}i-n:p-w-E16 tp:p*y Dw-1-f\end{hieroglyph}%
+      }
+      \tl{Inpw tpy Dw=f}
+    \end{solution}
+  \end{parts}
+\end{questions}
+
+\subsection*{Vocabulaire}
+\begin{multicols}{2}
+\begin{itemize}
+  \item \begin{hieroglyph}imnt-t:xAst\end{hieroglyph} 
+        \tl{Imn.t}, \td{l'Occident} (le royaume des morts)
+  \item \begin{hieroglyph}i-n:p-w-E16\end{hieroglyph} 
+        \tl{Inpw}, \td{Anubis}
+  \item \begin{hieroglyph}i-q:r-Y1v\end{hieroglyph} 
+        \tl{ior}, \td{excellent}
+  \item \begin{hieroglyph}aA:a\end{hieroglyph} 
+        \tl{aA}, \td{grand}
+  \item \begin{hieroglyph}aSA-A-\!\!3:.\end{hieroglyph} 
+        \tl{aSA.w}, \td{nombreux}
+  \item \begin{hieroglyph}b-i-n:G37\end{hieroglyph} 
+        \tl{bin}, \td{mauvais}
+  \item \begin{hieroglyph}nfr-f:r-Y1v\end{hieroglyph} 
+        \tl{nfr}, \td{bon}, \td{parfait}
+  \item \begin{hieroglyph}nTr +l\ ou\ +s nTr-T:r-A40\end{hieroglyph} 
+        \tl{nTr}, \td{dieu}
+  \item \begin{hieroglyph}r:T-rmT\end{hieroglyph} 
+        \tl{rmT} (\tl{r(m)T}), \td{hommes}, \td{humains}, \td{gens}
+  \item \begin{hieroglyph}rnp-t:1\end{hieroglyph} 
+        \tl{rnp.t}, \td{année}
+  \item \begin{hieroglyph}G5-A40\end{hieroglyph} 
+        \tl{@r}, \td{Horus}
+  \item \begin{hieroglyph}\end{hieroglyph} 
+        \tl{zS-A1}, \td{scribe}
+  \item \begin{hieroglyph}S:r-i-G37\end{hieroglyph} 
+        \tl{Sri}, \td{petit}
+  \item \begin{hieroglyph}tp-1\end{hieroglyph} 
+        \tl{tp}, \td{sur} (préposition)
+  \item \begin{hieroglyph}Dw-1\end{hieroglyph} 
+        \tl{Dw}, \td{montagne}
+\end{itemize}
+\end{multicols}

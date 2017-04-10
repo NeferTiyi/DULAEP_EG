@@ -1,0 +1,133 @@
+%!TEX root = DULAEP_EG.htx
+%##HieroDef.txt
+
+\chapter*{Exercice~2 --- Nombres et datation}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{Translittérer et traduire les séquences suivantes 
+  avec des cardinaux et ordinaux}
+
+  \begin{multicols}{2}
+  \begin{parts}
+    \part 
+    \begin{hieroglyph}wa:a n m-D38-T:n-wAt\end{hieroglyph}
+    \begin{solution}
+      \tl{wa n(y) mTn}, \td{un chemin}
+    \end{solution}
+
+    \part 
+    \begin{hieroglyph}d-mi-i-N21:1 wa:a\s2*1\end{hieroglyph}
+    \begin{solution}
+      \tl{dmi wa}, \td{une ville}
+    \end{solution}
+
+    \part 
+    \begin{hieroglyph}rnp-t:1 100-10\end{hieroglyph}
+    \begin{solution}
+      \tl{\num{110} rnp.t}, \td{\num{110} ans}
+    \end{solution}
+
+    \part 
+    \begin{hieroglyph}ra:1*1*1 p:n\end{hieroglyph}
+    \begin{solution}
+      \tl{hrw 3 pn}, \td{ces \num{3} jours}
+    \end{solution}
+
+    \part 
+    \begin{hieroglyph}
+      t-\!A 1*1*1*1:1*1*1 Hwt-t:pr-Hr:r-t:H8-I12
+    \end{hieroglyph}
+    \begin{solution}
+      \tl{tA \num{7} @w.t-@r}, 
+      \td{ces \num{7} Hathor} (groupe de divinités)
+    \end{solution}
+
+    \part 
+    \begin{hieroglyph}z:p*W-zp:3 1*1*1*1\end{hieroglyph}
+    \begin{solution}
+      \tl{spw \num{4}}, \td{\num{4} fois}
+    \end{solution}
+
+    \part 
+    \begin{hieroglyph}pA'-A Xrd-W-A1:3 1*1*1\end{hieroglyph}
+    \begin{solution}
+      \tl{pA Xrd.w 3}, \td{ces 3 enfants}
+    \end{solution}
+
+    \part 
+    \begin{hieroglyph}100*100:100-10*10:10 n sr-A1:3\end{hieroglyph}
+    \begin{solution}
+      \tl{\num{330} n(y) wr.w}, \td{\num{330} chefs}
+    \end{solution}
+
+    \part 
+    \begin{hieroglyph}pXr:r*t-N33:3 Z3A-Z3A nw:t\end{hieroglyph}
+    \begin{solution}
+      \tl{pXr.t 6-nw.t}, \td{le 6\ieme~remède}
+    \end{solution}
+
+    \part 
+    \begin{hieroglyph}
+      Z1\R90:Z1\R90:Z1\R90:Z1\R90 nw ra-1
+    \end{hieroglyph}
+    \begin{solution}
+      \tl{4-nw hrw}, \td{le 4\ieme~jour}
+    \end{solution}
+  \end{parts}
+  \end{multicols}
+
+  \question\qfmt{Cintre de la stèle de Semna (Sésostris~III, musée 
+  de Berlin \inv{1157}) : traduire la titulature royale, lignes~1 
+  et~2, ainsi que la datation, ligne~3 (jusqu'à 
+  \begin{hieroglyph}pr-r:t-ra\end{hieroglyph}) du document suivant}
+
+  \begin{center}
+    \includegraphics[width=8cm]{Berlin_1157_Semna_cintre}
+  \end{center}
+
+  \begin{notabene}
+    Les signes qui débutent les deux premières lignes peuvent être 
+    considérés comme des souhaits :
+    \tl{anx}, \td{que vive (le roi\dots)}.
+  \end{notabene}
+
+  \begin{solution}
+    \tl{%
+      \lgn{1} anx @r NTr-xprw, nb.ty NTr-msw.t, n(y)-sw(.t) bity 
+      \#a-kA.w-Ra d anx\\
+      \lgn{2} anx @r (ny) nbw \#pr, sA Ra n(y) X.t=f, mry=f, 
+      nb tA.wy \%-n-wsr.t d anx Dd wAs D.t\\
+      \lgn{3} rnp.t-sp 16, Abd 3 (ny) pr.t\dots%
+    }
+
+    \td{%
+      \lgn{1} Que vive l'Horus Netjerkhépérou, les Deux Maîtresses 
+      Netjermésout, le roi de \HBE Khâkaourê, doué de vie.\\
+      \lgn{2} Que vive l'Horus d'or Khéper, le fils charnel de Rê, 
+      aimé de lui, le maître du Double-Pays Sénousret (Sésostris), 
+      doué de vie, stabilité, pouvoir, éternellement.
+      \lgn{3} L'an~16, le 3\ieme~mois de la saison Péret\dots%
+    }
+  \end{solution}
+\end{questions}
+
+\subsection*{Vocabulaire}
+\begin{multicols}{2}
+  \begin{itemize}
+    \item \begin{hieroglyph}sr-A1\end{hieroglyph}
+          \tl{wr}, \td{chef}
+    \item \begin{hieroglyph}pXr:r*t-N33:3\end{hieroglyph}
+          \tl{pXr.t}, \td{remède}, \td{prescription}
+    \item \begin{hieroglyph}m:D38-T:n-wAt\end{hieroglyph}
+          \tl{mTn}, \td{chemin}, \td{route}
+    \item \begin{hieroglyph}h:r-w-ra-1 +l,\ +s ra-1\end{hieroglyph}
+          \tl{hrw}, \td{jour}
+    \item \begin{hieroglyph}Hwt-t:pr-Hr:r-t:H8-I12\end{hieroglyph}
+          \tl{@w.t-@r}, \td{Hathor}
+    \item \begin{hieroglyph}z:p-zp\end{hieroglyph}
+          \tl{sp}, \td{fois}
+    \item \begin{hieroglyph}d-mi-i-N21:1\end{hieroglyph}
+          \tl{dmi}, \td{ville}
+  \end{itemize}
+\end{multicols}

@@ -1,0 +1,309 @@
+%!TEX root = DULAEP_EG.htx
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\part[Les propositions subordonnées relatives \tl{nty} / \tl{iwty}]
+{Les propositions subordonnées relatives \tl{nty} / \tl{iwty}\\
+(\td{qui} / \td{qui ne pas})}
+\label{prt:S4_subordonnee}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\chapter{Introduction}
+% =====================================================================
+
+Nous avons vu les participes et les formes relatives qui peuvent être 
+traduits par des propositions subordonnées relatives en français. En 
+égyptien ancien, il est aussi possible de construire des propositions 
+relatives \frquote{véritables} en quelque sorte du point de vue du 
+français, c'est-à-dire introduites par des pronoms relatifs qui sont 
+suivis d'une proposition verbale ou non verbale.
+
+Comparativement aux cours~\ref{prt:S4_prtcp}, \ref{prt:S4_prtcp_pass} 
+et~\ref{prt:S4_forme_rel} de ce semestre, la construction de ces 
+relatives est assez simple à présenter. Il suffit essentiellement de 
+connaître les pronoms relatifs.
+
+
+\chapter{Les pronoms relatifs}
+% =====================================================================
+
+Il existe en fait deux formes (forme affirmative et forme négative). 
+Ces pronoms relatifs s'accordent ensuite en genre et en nombre avec 
+leur antécédents.
+Voir \tref{tbl:prnm_rel}.
+
+
+\begin{table}[hbt]
+  \caption{Pronoms relatifs \tl{nty} et \tl{iwty}}
+  \label{tbl:prnm_rel}
+  \begin{tabularx}{0.66\textwidth}{M{1cm}XX}
+    \toprule
+       & \textbf{\td{qui}} & \textbf{\td{qui \dots ne \dots pas}}
+    \tabularnewline
+    \otoprule
+      \textbf{m. sg.} &
+      \begin{hieroglyph}nty-+l\ ; +s-n:t\end{hieroglyph}\\
+      \tl{nty} &
+      \begin{hieroglyph}jwty-+l\ ; +s-n':t-w\end{hieroglyph}\\
+      \tl{iwty}
+    \tabularnewline
+    \midrule
+      \textbf{f. sg.} &
+      \begin{hieroglyph}ntyt\end{hieroglyph}\\
+      \tl{nt(y).t} &
+      \begin{hieroglyph}jwtyt-G37\end{hieroglyph}\\
+      \tl{iwt(y).t}
+    \tabularnewline
+    \midrule
+      \textbf{m. pl.} &
+      \begin{hieroglyph}n:t-tyw-Z3\end{hieroglyph}\\
+      \tl{nty.w} &
+      \begin{hieroglyph}n':t-tyw-Z3\end{hieroglyph}\\
+      \tl{iwty.w}
+    \tabularnewline
+    \midrule
+      \textbf{f. pl.} &
+      \begin{hieroglyph}ntyt\end{hieroglyph}\\
+      \tl{nt(y.w)t} &
+      \begin{hieroglyph}jwtyt-G37\end{hieroglyph}\\
+      \tl{iwt(y.w)t}
+    \tabularnewline
+    \bottomrule
+  \end{tabularx}
+\end{table}
+
+
+\chapter{Emplois~(1)}
+% =====================================================================
+
+\section{Valeur déterminative}
+% ---------------------------------------------------------------------
+La proposition relative introduite par \tl{nty} / \tl{iwty} est 
+une proposition relative \clef{déterminative}, c'est-à-dire qu'elle 
+est essentielle au sens de la phrase, et que son antécédent est 
+\emph{défini}. Dans la traduction française, l'antécédent aura donc 
+toujours un article défini ou un déterminant du type \td{tout}, 
+\td{chaque}, etc.
+
+Quand l'antécédent est le sujet de la proposition relative, le 
+pronom relatif joue le rôle de sujet (c'est ce que l'on appelle une 
+proposition subordonnée relative \emph{directe}, avec comme pronom 
+relatif \frquote{qui} --- comparer à la relation directe du participe).
+
+\begin{example}[title={Groupe nominal CC}]
+  \begin{hieroglyph}
+    r:T-rmT km-m-t:niwt n:t-tyw-\!\!3:. i-m H-n:a-f
+  \end{hieroglyph}
+
+  \tl{rmT Km.t nty.w im Hna=f}
+  \infos{\CdS, B\,33--4}
+
+  \td{Les gens d'\kmt qui sont là avec lui} / 
+
+  \td{Les gens d'\kmt qui étaient là avec lui}
+\end{example}
+
+\begin{notabene}
+  Quand l'antécédent est indéfini, l'égyptien utilise une autre 
+  tournure. Réfléchissez à cette phrase avec un impératif négatif.
+
+  \begin{hieroglyph}
+    m s-mA-A-\!T31 z:\!A1\s2*1 i-W -k r:x-Y1-ti-i Ax-x:W-Y1:3-f
+  \end{hieroglyph}
+
+  \tl{m smA s iw=k rx.ti Axw=f}
+
+  \td{Ne tue pas un homme \remg{(=phrase initiale)} alors que tu 
+      connais sa compétence. \remg{(= circonstancielle virtuelle)}}
+
+  = \td{Ne tue pas un homme \remg{(= phrase initiale)} dont tu 
+        connais la compétence. \remg{(= phrase séquentielle, 
+        traduite comme une relative \frquote{virtuelle})}}
+\end{notabene}
+
+
+\section{Le pronom relatif substantivé}
+% ---------------------------------------------------------------------
+Le pronom relatif peut aussi (comme les participes et formes 
+relatives) être employé sans antécédent, avec le sens de 
+\td{celui qui} / \td{celui qui \dots ne \dots pas}.
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    n:tyw-Z3-i-m
+  \end{hieroglyph}
+
+  \tl{nty.w im}
+  \infos{\cite[\pno200, §\,1]{Gardiner}}
+
+  \td{ceux qui sont là-bas} (les morts)
+\end{example}
+
+Notez les expressions particulières : 
+\begin{quote}
+  \tl{nty nb} : \td{tout homme qui}
+\end{quote}
+
+\begin{remarque}
+  Dans l'évolution du moyen égyptien vers le néo-égyptien, l'article 
+  \tl{pA} est ajouté systématiquement : 
+  \begin{quote}
+    \tl{pA nty} : \td{celui qui}.
+  \end{quote}
+\end{remarque}
+
+
+\chapter{Emplois~(2) : proposition subordonnées relatives indirectes}
+% =====================================================================
+
+Tout comme le participe passif (ou encore les formes relatives), 
+la proposition subordonnée relative peut être employée dans une 
+\clef{construction indirecte}, c'est-à-dire quand l'antécédent 
+\emph{n'est pas} le sujet grammatical de la proposition. 
+Le pronom relatif sert alors à introduire la proposition subordonnée 
+et l'antécédent est rappelé par un pronom suffixe dit \frquote{pronom 
+de rappel}.
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    nTr p:n nty Hr-1-f m T:z-m-E17
+  \end{hieroglyph}
+
+  \tl{nTr pn nty Hr=f m Tsm}
+  \infos{\LdM 17}
+
+  \td{\litt ce dieu que son visage est un chien.}\\
+  = \td{Ce dieu dont la tête est (celle d'un) chien.}
+\end{example}
+
+Généralement, quand le pronom de rappel suit la préposition \tl{im}, 
+il n'est pas noté.
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    b-W nty nTr-\!nTr-\!nTr i-m
+  \end{hieroglyph}
+
+  \tl{bw nty nTr.w im(=f)}
+  \infos{\source{CG\,20485}, B4}
+
+  \td{\litt le lieu que les dieux sont dedans}\\
+  = \td{Le lieu dans lequel se trouvent les dieux.}
+
+  \bigskip
+
+  \begin{hieroglyph}
+    nty nb r:n:f Hr:1 wD-w-O26 p:n
+  \end{hieroglyph}
+
+  \tl{nty nb rn=f Hr wD pn}
+  \infos{\cite[§\,199]{Gardiner}}
+
+  \td{\litt chaque personne que son nom est sur cette stèle}\\
+  = \td{chaque personne dont le nom est sur cette stèle}
+\end{example}
+
+Quand le sujet de la proposition relative indirecte est un pronom, 
+on utilise soit le pronom suffixe, soit le pronom dépendant:
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    jw A50 r:x-Y2:k'-A50 niwt:niwt*niwt spAt:spAt*spAt S:S*S 
+    Xn-w sxt-t:N23-Htp:t*p-A40 ntyt w-A50 i-m -s
+  \end{hieroglyph}
+
+  \tl{iw=i rx.k(w)i niw.wt spAw.t S.w Xn(y).w \%x.t-Htp 
+      nt(y).t wi im=s}
+  \infos{\cite[§\,43.4]{GM}}
+
+  \td{Je connais les villes, les nomes, les bassins qui sont à 
+      l'intérieur de la campagne d'Hotep dans laquelle je suis 
+      (\litt que je suis dans elle).}
+
+  \tg{1\iere~personne sujet de la relative = pronom dépendant}
+
+  \bigskip
+
+  \begin{hieroglyph}
+    b-W nty-f i-m
+  \end{hieroglyph}
+
+  \tl{bw nty=f im(=f)}
+
+  \td{\litt le lieu qu'il est dedans}\\
+  = \td{Le lieu dans lequel il se trouve.}
+
+  \tg{sujet 2\ieme et 3\ieme~personnes = pronom suffixe}
+\end{example}
+
+
+\chapter{Emplois~(3) : syntaxe}
+% =====================================================================
+
+Derrière les pronoms relatifs les constructions suivantes sont 
+particulièrement attestées :
+
+\paragraph{Après \tl{nty} :}
+\begin{itemize}
+  \item \PPA[s] ou constructions pseudo-verbales ;
+  \item plus rarement les formes de la conjugaison suffixale puisqu'il 
+        est possible de recourir aux participes et formes relatives.
+\end{itemize}
+
+\paragraph{Après \tl{iwty} :}
+\begin{itemize}
+  \item \PPA[s] ;
+  \item formes de la conjugaison suffixales (négations de propositions 
+        indépendantes) et en particulier 
+        \begin{itemize}
+          \item \tl{iwty sDm=f}, \td{qui n'écoute pas}
+          \item \tl{n sp sDm=f} \flech{} \tl{jwty sp sDm=f}, 
+                \td{qui n'a jamais écouté}
+        \end{itemize}
+\end{itemize}
+
+Avec les deux pronoms relatifs, on trouve fréquemment la proposition 
+d'existence :
+\begin{quote}
+  \tl{nty wn} + nom indéfini : \td{qu'il y a un(e) \dots} ou \\
+  \tl{iwty} + nom et pronom suffixe
+\end{quote}
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    Y1:t*1-V12:1 jwty-G37 zS-Y1:3 -s
+  \end{hieroglyph}
+
+  \tl{mDA.t iwty sS.w=s}
+  \infos{\cite{Gardiner}}
+
+  \td{un livre que pas ses écrits}\\
+  = \td{un livre sans écrit dessus}
+
+  \bigskip
+
+  \begin{hieroglyph}
+    jw di':n N41:t-B1 n n':t N41:t-B1
+  \end{hieroglyph}
+
+  \tl{iw di.n(=i) Hm.t n iwty Hm.t(=f)}
+  \infos{\cite[§\,43.9]{GM}}
+
+  \td{J'ai donné une femme à celui sans femme / à celui qui n'avait 
+      pas de femme}
+\end{example}
+
+\begin{aparte}[title={Quelques expressions}]
+  \begin{itemize}
+    \item \begin{hieroglyph}ntyt jwtyt\end{hieroglyph}
+          \tl{nt(y).t iwt(y).t}, \td{ce qui est et ce qui n'est pas}
+    \item \begin{hieroglyph}jwty-n:f-A1\end{hieroglyph}
+          \tl{iwty n=f}, \td{le démuni} 
+          (forme abrégée de \tl{iwty wn n=f})
+  \end{itemize}
+\end{aparte}
+
+\bigskip
+
+\begin{exercice}[before upper={\centering}]
+  Faire \textbf{l'exercice~7}.
+\end{exercice}

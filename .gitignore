@@ -1,10 +1,15 @@
+_TBC/
 ori/*
+misc/
+Exos/scan/
+Exos/stuff/
 Exos/*.pdf
 Exos/*.CR2
 Exos/*.jpg
 Exos/*.dop
 Docs/*.pdf
 img/tmp/
+img/unused/
 *.sublime-workspace
 
 ## Core latex/pdflatex auxiliary files:

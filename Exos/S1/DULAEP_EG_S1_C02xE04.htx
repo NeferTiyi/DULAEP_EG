@@ -1,0 +1,147 @@
+%!TEX root = DULAEP_EG.htx
+%##HieroDef.txt
+
+\chapter*{Exercice~4 --- Le système graphique}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{En utilisant le tableau des unilitères et la liste 
+  des plurilitères, translittérer les mots suivants}
+
+  \begin{multicols}{2}
+  \begin{parts}
+    \part
+    \begin{hieroglyph}bA:k-A1\end{hieroglyph}
+    \td{serviteur}
+    \begin{solution}
+      \tl{bAk}
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}n:xt:x*t-A24\end{hieroglyph}
+    \td{fort}
+    \begin{solution}
+      \tl{nxt}
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}t-U30-A-S:N21\end{hieroglyph}
+    \td{frontière}
+    \begin{solution}
+      \tl{tAS}
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}Xn:n-nw-W-pr\end{hieroglyph}
+    \td{résidence}
+    \begin{solution}
+      \tl{Xnw}
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}s-sn-T:r-N33A\end{hieroglyph}
+    \td{encens}
+    \begin{solution}
+      \tl{snTr}
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}d:S:r-dSr\end{hieroglyph}
+    \td{rouge}
+    \begin{solution}
+      \tl{dSr}
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}wAD-D:\!\!Y1\s2\end{hieroglyph}
+    \td{vert}
+    \begin{solution}
+      \tl{wAD}
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}km-m-Y1\end{hieroglyph}
+    \td{noir}
+    \begin{solution}
+      \tl{km}
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}HD-D-ra\end{hieroglyph}
+    \td{blanc}, \td{lumineux}
+    \begin{solution}
+      \tl{HD}
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}Ax-\!\!x:.-Y1v\end{hieroglyph}
+    \td{utile}, \td{efficace}
+    \begin{solution}
+      \tl{Ax}
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}i-in:n-t:xAst\end{hieroglyph}
+    \td{vallée}
+    \begin{solution}
+      \tl{in.t}
+    \end{solution}
+  \end{parts}
+  \end{multicols}
+
+  \question\qfmt{Quelle est, à votre avis, la valeur des signes 
+  suivants dans les mots ci-dessus}
+
+  \begin{multicols}{2}
+  \begin{parts}
+    \part
+    \begin{hieroglyph}A1\end{hieroglyph}
+    \begin{solution}
+      déterminatif (personnage)
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}A24\end{hieroglyph}
+    \begin{solution}
+      déterminatif (effort)
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}Y1\end{hieroglyph}
+    \begin{solution}
+      déterminatif (abstraction)
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}xAst\end{hieroglyph}
+    \begin{solution}
+      déterminatif (désert, contrée étrangère)
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}ra\end{hieroglyph}
+    \begin{solution}
+      déterminatif (soleil, clarté)
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}N33A\end{hieroglyph}
+    \begin{solution}
+      déterminatif (matière)
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}N21\end{hieroglyph}
+    \begin{solution}
+      déterminatif (toponymes)
+    \end{solution}
+  \end{parts}
+  \end{multicols}
+
+  \question\qfmt{Que remarquez-vous sur la disposition des signes des 
+  mots de la première question ?}
+  \begin{solution}
+    Ils sont disposés en \textbf{cadrats}, et orientés pour une 
+    lecture de gauche à droite.
+  \end{solution}
+\end{questions}

@@ -1,0 +1,72 @@
+%!TEX root = DULAEP_EG.htx
+%##HieroDef.txt
+
+\chapter*{Exercice~10}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{Translittérer et traduire ce panneau d'offrande de 
+  l'\OK, sections~1 à~4}\\
+  Remarquez, en bas du tableau liste de tissu, la mention de céréales 
+  (noms écrits dans des représentations de greniers).
+
+  \begin{center}
+    \includegraphics[width=0.67\linewidth]{Pelizaeus_2145_Iounou}
+  \end{center}
+
+  \begin{solution}
+    \lgn{1} \tl{im(y)-r(A) sA.w \Smaj mAw wr-mDw \Smaj maw sA nsw Iwnw}
+
+    \td{le chef des phylés de \HE, le grand des Dix de \HE, le fils 
+    royal Iounou.}
+
+    \lgn{2-3} \tl{mnx.t xA, Ss xA, t xA, Hnq.t xA, kA xA, nwDw xA}
+
+    \td{pièces de tissu \num{1000}, vases d'albâtre \num{1000}, 
+    pains \num{1000}, bière \num{1000}, taureaux \num{1000}, 
+    antilopes \num{1000}.}
+
+    \lgn{4} \tl{snTr, HAt.t, mrH.t, dbn, irp}
+
+    \td{encens, onguent de première qualité, figues, vin}
+
+    Pour la traduction, voir \cite[\pno~9, catalogue 13]{Manuelian}, 
+    téléchargeable sur le site : \url{www.gizapyramids.org}
+  
+  \end{solution}
+
+  \question\qfmt{Tête de massue du roi Nârmer : lire les indications 
+  numériques en bas à droite (entourées en gris).}\\
+  Nombre de taureaux, nombre de petit bétail, nombre de prisonniers 
+  indiqués dans cette représentation de la fête-\emph{sed} du roi. 
+  Repérer aussi le nom de Nârmer dans le \emph{sérekh} (D'après 
+  \cite[192]{Vercoutter} ; dessin repris dans \cite[24]{Menu_1998}).
+
+  \begin{center}
+    \includegraphics[width=0.9\linewidth]{massue_Narmer}
+  \end{center}
+
+  \begin{solution}
+    \begin{tabular}{@{\quad---\ \ }lS}
+      Bovins : & 400000 \\
+      Petit bétail : & 1422000 \\
+      prisonniers : & 120000 \\
+    \end{tabular}
+  \end{solution}
+\end{questions}
+
+\subsection*{Vocabulaire}
+\begin{multicols}{2}
+  \begin{itemize}
+    \item \begin{hieroglyph}
+            m:r V16\s1:.-\!\!\!.:V16\s1-\!\!\!V16\s1:.
+          \end{hieroglyph} 
+          \tl{im(y)-r(A) sA.w}, \td{chef des phylés}
+    \item \begin{hieroglyph}Sma\end{hieroglyph} 
+          \tl{\Smaj maw}, \td{\HE}
+    \item \begin{hieroglyph}M28-wr\end{hieroglyph} 
+          \tl{wr mD-\Smaj maw}, \td{grand des Dix de \HE}
+    \item \begin{hieroglyph}nTr-s-T:N33\end{hieroglyph} 
+          \tl{snTr}, \td{encens}
+  \end{itemize}
+\end{multicols}

@@ -1,0 +1,336 @@
+%!TEX root = DULAEP_EG.htx
+%##HieroDef.txt
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\part{[Épigraphie] Titulature royale}\label{prt:titulature}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\chapter{Titulature royale en \hiero}
+% =====================================================================
+
+La titulature royale est un élément important de l'idéologie 
+pharaonique. À partir de la \dyn{5}, elle comprend \textbf{cinq noms}, 
+introduits par une désignation spécifique. Cette titulature se 
+fige dans une forme canonique au \MK.
+
+\begin{itemize}
+  \item \raisebox{0.75\depth}{\reflectbox{%
+        \EnColonne[1.2\Htm]{\begin{hieroglyph}G5-O33\end{hieroglyph}}%
+        }} \textbf{Le nom d'Horus} (\tl{@r}) est signalé par le 
+        motif du \emph{sérekh}\footnote{Ce mot est étymologiquement 
+        lié au verbe \tl{srx}, \td{faire connaître}.} (façade du 
+        palais royal) surmonté du faucon Horus, divinité tutélaire de 
+        la royauté pharaonique (ou simplement par le faucon Horus) -- 
+        le nom est généralement écrit dans le \emph{sérekh}. 
+        \raisebox{0.75\depth}{\reflectbox{\EnColonne[1.2\Htm]{%
+        \begin{hieroglyph}<S-D->\end{hieroglyph}}}} : roi l'Horus 
+        Ouadjy de la \dyn{1}. Le nom d'Horus est le nom le plus 
+        anciennement attesté (voir l'Horus Nârmer).
+  \item \reflectbox{\begin{hieroglyph}nbty\end{hieroglyph}} 
+        \textbf{Le nom des Deux Maîtresses} (\tl{nb.ty}) est aussi 
+        attesté dès la \dyn{1}. Il renvoie à deux divinités tutélaires 
+        de la Haute et la \BE, la déesse vautour Nekhbet d'Elkab, et 
+        la déesse cobra Ouadjet de Bouto dans le Delta. Ce nom renvoie 
+        à la conception dualiste du territoire égyptien pour les 
+        pharaons et leurs sujets\footnote{Voir 
+        \begin{hieroglyph}tA:tA\end{hieroglyph} \tl{tA.wy}, 
+        \tl{le Double-Pays}.}.
+  \item \reflectbox{\begin{hieroglyph}G8\end{hieroglyph}} 
+        \textbf{Le nom d'Horus d'or} (\tl{@r (ny) nbw}) est attesté 
+        dès la \dyn{4}. Il est introduit par le faucon Horus juché sur 
+        le collier, signe de l'or, \tl{nbw}.
+  \item \reflectbox{\begin{hieroglyph}nswbjty\end{hieroglyph}} 
+        \textbf{Le nom de roi de \HBE} (\tl{n(y)-sw.t bity}) fait 
+        son apparition pendant la \dyn{5}. Il est écrit dans un 
+        cartouche \begin{hieroglyph}V9\end{hieroglyph} et devient le 
+        nom le plus important de la titulature. Ce nom est appelé 
+        \frquote{nom de couronnement} et renvoie encore une fois à la 
+        conception dualiste du territoire égyptien : \tl{n(y)-sw.t}, 
+        \td{celui-du-roseau}, c'est-à-dire le roi de \HE ; 
+        \tl{bit(y)}, \td{celui de l'abeille}, c'est-à-dire le roi 
+        de \BE.
+  \item \reflectbox{\begin{hieroglyph}sAra\end{hieroglyph}} 
+        \textbf{Le nom de fils de Rê} (\tl{sA Ra}) est aussi écrit 
+        dans un cartouche et correspond au nom personnel du souverain. 
+        Son inscription dans le cartouche est attestée dès la \dyn{4}.
+\end{itemize}
+
+\begin{aparte}
+      [title={Exemple : titulature de Sésostris~III (\dyn{12})}]
+  \RaggedLeft
+  \tl{@r NTr-xprw}, \td{l'Horus Netjer-khépérou}
+    \reflectbox{\begin{hieroglyph}G7 nTr-xpr-w\end{hieroglyph}}
+
+  \tl{nb.ty NTr-msw.t}, \td{les Deux maîtresses Netjer-mésout}
+    \reflectbox{\begin{hieroglyph}nbty nTr-ms-t-w\end{hieroglyph}}
+
+  \tl{nsw-bity \#a-kA.w-Ra}, \td{le roi de \HBE Khâ-kaou-Rê}
+    \reflectbox{%
+      \begin{hieroglyph}sw:t-bit:t <-ra:kA-xa:kA*kA->\end{hieroglyph}%
+    }
+
+  \tl{@r nbw \#pr}, \td{l'Horus d'or Khéper}
+    \reflectbox{\begin{hieroglyph}G8 xpr\end{hieroglyph}}
+
+  \tl{sA Ra \%-n-Wsr.t}, \td{le fils de Rê Sénousret}
+    \reflectbox{%
+      \begin{hieroglyph}
+        zA-\!\!\!ra:. <-wsr-s-r:t:z:n->
+      \end{hieroglyph}%
+    }
+\end{aparte}
+
+Plusieurs choses sont à noter :
+\begin{enumerate}
+  \item Pour les anciens Égyptiens, Sésostris~III n'est pas 
+        Sésostris~III, mais Sésostris Khâkaourê (c'est le reste de 
+        sa titulature qui le distingue des autres rois dont le nom 
+        de naissance est aussi Sésostris.
+  \item Notez aussi que la transcription la plus proche du nom 
+        personnel de Sésostris est Sénousret. Sésostris est la 
+        forme qui nous a été livré par la tradition classique.
+  \item Remarquez enfin la disposition des signes dans les cartouches. 
+        Le principe de l'antéposition honorifique fonctionne ici. Si 
+        le nom royal est théophore (avec un nom de dieu), le nom de 
+        dieu est placé en tête, quel que soit sa position dans la 
+        séquence : Khâ-kaou-Rê : Le disque solaire est en antéposition 
+        honorifique.
+  \item En effet, les noms égyptiens signifient quelque chose. 
+        Il s'agit souvent de phrases, d'énoncés qui peuvent être 
+        traduits. Il n'est pas nécessaire de le faire dans une 
+        traduction de texte. Il est en revanche intéressant, pour 
+        connaître l'idéologie d'un règne, de traduire les noms du 
+        protocole. Le nom Khâkaourê met l'accent sur la divinité 
+        solaire héliopolitaine. Le nom personnel \emph{Sénousret} 
+        renvoie à une divinité féminine : \td{l'homme-de-la-Puissante}.
+\end{enumerate}
+
+À ces cinq titres s'ajoutent souvent, dans le protocole royal complet, 
+les épithètes secondaires suivantes :
+
+\noindent\uline{Accompagnant le nom de \td{roi de \HBE}} :
+
+{\renewcommand\tabularxcolumn[1]{p{#1}}%
+\begin{tabularx}{\textwidth-\parindent}{lX}
+    \reflectbox{\begin{hieroglyph}nb:tA:tA\end{hieroglyph}} 
+    \tl{nb tA.wy} & 
+    \td{seigneur du Double-Pays}
+  \tabularnewline
+    \reflectbox{\begin{hieroglyph}nTr nfr\end{hieroglyph}} 
+    \tl{nTr nfr} &
+    \td{dieu parfait}
+  \tabularnewline
+    \reflectbox{\begin{hieroglyph}nb:ir:x*t\end{hieroglyph}} 
+    \tl{nb ir(.t) x.t} &
+    \td{seigneur de l'accomplissement des rites (\litt des choses)}
+  \tabularnewline
+\end{tabularx}}
+
+\noindent\uline{Accompagnant le nom de \td{fils de Rê}} :
+
+{\renewcommand\tabularxcolumn[1]{p{#1}}%
+\begin{tabularx}{\textwidth-\parindent}{lX}
+    \reflectbox{\begin{hieroglyph}nb:xA*3\end{hieroglyph}} 
+    \tl{nb xa.w} &
+    \td{seigneur des couronnes} ou \td{seigneur des apparitions}
+  \tabularnewline
+    \reflectbox{\begin{hieroglyph}sAra-n-X:t*1-f\end{hieroglyph}} 
+    \tl{sA Ra n(y) X.t=f} &
+    \td{fils charnel de Rê} (\litt \td{fils de Rê de son corps})
+  \tabularnewline
+\end{tabularx}}
+
+\noindent\uline{Les noms du roi sont généralement suivis de 
+bénédictions (formules d'eulogie)} :
+
+{\renewcommand\tabularxcolumn[1]{p{#1}}%
+\begin{tabularx}{\textwidth-\parindent}{lX}
+    \reflectbox{\begin{hieroglyph}anx-DA-s\end{hieroglyph}}, 
+    version abrégée de \tl{anx wDA snb} &
+    \td{qu'il vive, intact et en bonne santé} (traduit 
+    conventionnellement par \td{vie, santé, force} ou \td{V.S.F.})
+  \tabularnewline
+    \reflectbox{\begin{hieroglyph}anx-Dt\end{hieroglyph}} 
+    \tl{anx D.t} &
+    \td{qu'il vive éternellement}
+  \tabularnewline
+    \reflectbox{\begin{hieroglyph}di-anx-ra-mi\end{hieroglyph}} 
+    \tl{di anx mi Ra}\footnote{Noter l'antéposition honorifique.} &
+    \td{doué\footnote{L'explication grammaticale de cette 
+    traduction sera donnée au semestre prochain.} de vie comme Rê}
+  \tabularnewline
+\end{tabularx}}
+
+
+\noindent\uline{La titulature royale comprend aussi fréquemment 
+mention de l'élection du roi par les dieux} :
+\begin{itemize}
+  \item le roi est dit \td{aimé} d'une divinité. 
+        Ex. \begin{hieroglyph}i-mn:n-A40-mr-i-i\end{hieroglyph} ou 
+        \begin{hieroglyph}C12-N36\end{hieroglyph} 
+        \tl{mry\footnote{L'analyse grammaticale de cette forme 
+        verbale sera faite en 2\ieme~année.} imn}, 
+        \td{aimé d'Amon} (noter l'antéposition honorifique)
+  \item ou \td{choisi} par la divinité. 
+        Ex. \begin{hieroglyph}ra-s-t:p-stp-Y1:n\end{hieroglyph} 
+        \tl{stp.n\footnote{L'analyse grammaticale de cette forme 
+        verbale sera faite en 2\ieme~année.} Ra}, 
+        \td{qu'a élu Rê, élu de Rê} (noter l'antéposition honorifique).
+\end{itemize}
+
+\noindent\uline{Rappel sur quelques désignations} :
+
+\begin{tabular}{ll}
+  \begin{hieroglyph}Hm-1-f\end{hieroglyph} \tl{Hm=f} & 
+    \td{sa Majesté} \\
+  \begin{hieroglyph}sw-t:n\end{hieroglyph} \tl{nsw} &
+    \td{roi} \\
+  \begin{hieroglyph}i-ti-i-i-A23\end{hieroglyph} ou 
+  \begin{hieroglyph}mzH:mzH-G8\end{hieroglyph} \tl{ity} &
+    \td{souverain} \\
+\end{tabular}
+
+\bigskip
+
+\begin{aparte}[before upper={\centering}]
+  \donc{} Faire \textbf{l'exercice~18} (à rendre par email).
+\end{aparte}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\chapter{Titulature royale en hiératique (facultatif)}
+% =====================================================================
+
+La titulature royale peut évidemment être écrite en hiératique. 
+Voici à titre d'exemple la titulature de Sésostris~III.
+
+\begin{aparte}
+      [title={Rappel : titulature de Sésostris~III (\dyn{12})}, 
+       breakable]
+  \RaggedLeft
+  \tl{@r NTr-xprw}, \td{l'Horus Netjer-khépérou}
+  \reflectbox{\begin{hieroglyph}G7 nTr-xpr-w\end{hieroglyph}}
+
+  \tl{nb.ty NTr-msw.t}, \td{les Deux maîtresses Netjer-mésout}
+  \reflectbox{\begin{hieroglyph}nbty nTr-ms-t-w\end{hieroglyph}}
+
+  \tl{nsw-bity \#a-kA.w-Ra}, \td{le roi de \HBE Khâ-kaou-Rê}
+  \reflectbox{%
+    \begin{hieroglyph}sw:t-bit:t <-ra:kA-xa:kA*kA->\end{hieroglyph}%
+  }
+
+  \tl{@r nbw \#pr}, \td{l'Horus d'or Khéper}
+  \reflectbox{\begin{hieroglyph}G8 xpr\end{hieroglyph}}
+
+  \tl{sA Ra \%-n-Wsr.t}, \td{le fils de Rê Sénousret}
+  \reflectbox{%
+    \begin{hieroglyph}
+      zA-\!\!\!ra:. <-wsr-s-r:t:z:n->
+    \end{hieroglyph}%
+  }
+\end{aparte}
+
+\CaptionPetit
+\setlength{\graphicwidth}{6cm}
+\begin{figure}[hbt]
+  \RaggedLeft
+  \setsidecappos{b}
+  \renewcommand*{\sidecapfloatwidth}{\graphicwidth}
+  \setsidecaps{\sidecapsep}{\textwidth-\graphicwidth}
+  \begin{sidecaption}[%
+    Titulature de Sésostris~III en hiératique.%
+  ]{%
+    Titulature de Sésostris~III en hiératique.\newline
+    D'après \cite[4]{HL2} (extrait d'un papyrus de Lahoun/Kahoun, 
+    portant des hymnes à Sésostris~III). Papyrus \inv{UC\,32157}.
+    \newline
+    Cf.~\cite[16]{Collier_2004}.%
+  }[fig:SIII_hiera]
+    \centering
+    \includegraphics[height=13cm]{SesostrisIII_hieratique}
+  \end{sidecaption}
+\end{figure}
+\CaptionNormal
+
+En comparant la \fref{fig:SIII_hiera} avec la titulature du 
+roi, page précédente, essayez de reconnaître la valeur des signes 
+hiératiques. Remarquez que le cartouche est simplement noté par ses 
+deux extrémités (ouverture du cartouche et fermeture du cartouche).
+
+Solution à la page suivante.
+
+\newpage
+
+\begin{figure}[p]
+  \begin{minipage}[t]{6cm}
+    \RaggedLeft
+    \vspace*{10.5cm}
+    Cartouche~1 : 
+    \scalebox{-1.4}[1.4]{%
+      \begin{hieroglyph}ra:xa-kA*kA:kA\end{hieroglyph}%
+    }
+
+    \vspace{1.3cm}
+    Cartouche~2 : 
+    \scalebox{-1.4}[1.4]{%
+      \begin{hieroglyph}wsr-s-r:t-z:n\end{hieroglyph}%
+    }
+  \end{minipage}%
+  \hfill%
+  \begin{minipage}[t]{3cm}
+    \vspace*{0cm}
+    \DisplayHieroglyphs
+    \centering
+    \scalebox{-1.8}[1.8]{%
+      \begin{hieroglyph}G5\end{hieroglyph}%
+    }\\
+    \scalebox{-1.7}[1.7]{%
+      \begin{hieroglyph}#-nTr-xpr-#\end{hieroglyph}%
+    }\\
+    \scalebox{-1.7}[1.7]{%
+      \EnColonne[1.2\Htm]{%
+      \begin{hieroglyph}w-Y1-3\end{hieroglyph}%
+      }%
+    }\\
+    \scalebox{-2.3}[2.3]{%
+      \begin{hieroglyph}nbty\end{hieroglyph}%
+    }\\[-0.8\baselineskip]
+    \scalebox{-2}[2]{%
+      \begin{hieroglyph}nTr-ms\end{hieroglyph}%
+    }\\[-1.2\baselineskip]
+    \scalebox{-1.7}[1.7]{%
+      \begin{hieroglyph}w-t:3\end{hieroglyph}%
+    }\\[-0.8\baselineskip]
+    \scalebox{-2.5}[2.5]{%
+      \begin{hieroglyph}G8\end{hieroglyph}%
+    }%
+    \scalebox{-1.7}[1.7]{%
+      \begin{hieroglyph}xpr\end{hieroglyph}%
+    }\\[-1.0\baselineskip]
+    \scalebox{-2}[2]{%
+      \begin{hieroglyph}nswbjty\end{hieroglyph}%
+    }\\[-1.5\baselineskip]
+    \scalebox{-2}[2]{%
+      \begin{hieroglyph}V10\end{hieroglyph}%
+    }\\[-0.8\baselineskip]
+    \scalebox{-1.5}[1.5]{%
+      \EnColonne[1.2\Htm]{%
+        \begin{hieroglyph}r-\!a-ra\end{hieroglyph}%
+      }%
+    }\\[-0.8\baselineskip]
+    \scalebox{-1.4}[1.4]{%
+      \begin{hieroglyph}zA\end{hieroglyph}%
+    }\\[-1.5\baselineskip]
+    \scalebox{-2}[2]{%
+      \begin{hieroglyph}V10\end{hieroglyph}%
+    }%
+  \end{minipage}%
+  \hfill%
+  \begin{minipage}[t]{4cm}
+    \vspace*{0cm}
+    \includegraphics[height=14cm]{SesostrisIII_hieratique}
+  \end{minipage}%
+    \caption{Titulature de Sésostris~III : Fac-similé du texte 
+             hiératique et transcription \hiero}
+    \label{fig:SIII_titulature}
+\end{figure}

@@ -1,0 +1,115 @@
+%!TEX root = DULAEP_EG.htx
+%##HieroDef.txt
+
+\chapter*{Exercice~5}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{Translittérer, analyser (grammaticalement) et 
+  traduire les propositions suivantes}
+
+  \begin{parts}
+    \part Extraits de la Stèle de Semna (an~16, Sésostris~III)
+
+    \begin{subparts}
+      \subpart
+      \frquote{%
+        Quant à, de plus, tout mien fils qui renforcera cette 
+        frontière que ma Majesté a faite,\\
+        \dots
+        \begin{center}
+          \reflectbox{\begin{hieroglyph}zA-A1 A1 p-w\end{hieroglyph}}
+        \end{center}
+      }
+      \begin{solution}
+        \tl{sA=i pw} ---
+        \td{c'est mon fils} ---
+        proposition à prédicat nominal avec \tl{pw}
+      \end{solution}
+
+      \subpart
+      \frquote{%
+        Quant à, de plus, tout mien fils, qui l'abandonnera, qui ne se 
+        battra pas pour elle,\\
+        \begin{center}
+          \reflectbox{%
+            \begin{hieroglyph}n' zA-A1 A1 i-s\end{hieroglyph}%
+          }
+        \end{center}
+      }
+      \begin{solution}
+        \tl{n sA=i is} ---
+        \td{ce n'est pas mon fils} ---
+        proposition à prédicat nominal négative
+      \end{solution}
+    \end{subparts}
+
+    \part Grande inscription autobiographie de Khnoumhotep~II à 
+    Béni Hassan\\
+    \begin{center}
+      \reflectbox{%
+        \EnColonne[1.1\Htm]{%
+          \begin{hieroglyph}
+            i*s-T zA-A1 p-w ! 
+            mn-n-x-mnx r-r-d-rwd-Y1 r-n n tp !
+            p-w-a-A1-3
+          \end{hieroglyph}%
+        }%
+      }
+    \end{center}
+    \begin{solution}
+      \tl{isT, sA pw mnx srwD rn n(y) tp(y).w-a}
+
+      \td{Or, c'est le fils efficient renforçant le nom des 
+      prédécesseurs}\\
+      Proposition à prédicat nominal type \tll{A \tl{pw}, suite de A} 
+      avec adjectif épithète + participe avec fonction adjectif 
+      épithète du nom
+
+      ou
+
+      \td{Or, c'est le fils efficient, celui qui renforce le nom des 
+      prédécesseurs}\\
+      Proposition à prédicat nominal type \tll{A \tl{pw}, B} avec 
+      participe substantivé
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}
+      jw i-A1 r:r-w-t:D54 r Abd:dwA-d:X4 !
+      wnn i-A1 ii-k-i-A1 r T8-rnp-X4 rnp-n:p-M5-k-i-A1
+    \end{hieroglyph}
+    \begin{solution}
+      \tl{iw=i r rw.t r Abd, wnn=i ii.kwi r tpy-rnp.t, rnp.kwi}\\
+      \td{Je partirai à la fête du mois ; je serai revenu au 
+      Nouvel An, étant rajeuni.}\\
+      Proposition avec prédicat pseudo-verbal \tl{r} + infinitif 
+      \incise{futur} ; proposition à prédicat pseudo-verbal au parfait 
+      ancien, et parfait ancien séquentiel
+    \end{solution}
+  \end{parts}
+\end{questions}
+
+\subsection*{Vocabulaire}
+\begin{multicols}{2}
+  \begin{itemize}
+    \item \begin{hieroglyph}Abd:dwA-d:X4\end{hieroglyph}
+          \tl{Abd}, \td{fête du mois}
+    \item \begin{hieroglyph}i-s-T\end{hieroglyph}
+          \tl{isT}, \td{or}
+    \item \begin{hieroglyph}mn:n-x-mnx\end{hieroglyph}
+          \tl{mnx}, \td{efficace}, \td{efficient}
+    \item \begin{hieroglyph}r:W-i-D54\end{hieroglyph}
+          \tl{rwi} \vi{3}, \td{s'en aller}
+    \item \begin{hieroglyph}r:n:p-M5\end{hieroglyph}
+          \tl{rnpi} \vi{4}, \td{(re)devenir jeune}
+    \item \begin{hieroglyph}s-r:d-rwd-Y1\end{hieroglyph}
+          \tl{srwd}, \td{qui renforce}, \td{renforçant} 
+          (participe d'un verbe -- voir cours de l'an prochain)
+    \item \begin{hieroglyph}T8-rnp-X4\end{hieroglyph}
+          \tl{tpy-rnp.t}, \td{fête du premier de l'an}
+    \item \begin{hieroglyph}tp:p-a:1-A1:3\end{hieroglyph}
+          \tl{tpy.w-a}, \td{ceux qui sont avant}, 
+          \td{les prédécesseurs}
+  \end{itemize}
+\end{multicols}

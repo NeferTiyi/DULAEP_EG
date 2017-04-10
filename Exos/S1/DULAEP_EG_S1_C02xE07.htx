@@ -1,0 +1,166 @@
+%!TEX root = DULAEP_EG.htx
+%##HieroDef.txt
+
+\chapter*{Exercice~7 (à rendre par email)}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{Translittérer les mots suivants}
+
+  \begin{multicols}{2}
+  \begin{parts}
+    \part
+    \begin{hieroglyph}h:r-w-ra\end{hieroglyph} \td{jour}
+    \begin{solution}
+      \tl{hrw}
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}g:r-H-N2\end{hieroglyph} \td{nuit}
+    \begin{solution}
+      \tl{grH}
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}A-p:d-zA\end{hieroglyph} \td{oiseau}
+    \begin{solution}
+      \tl{Apd}
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}r-m-in\end{hieroglyph} \td{poisson}
+    \begin{solution}
+      \tl{rm}
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}i-in:n-t:xAst\end{hieroglyph} \td{vallée}
+    \begin{solution}
+      \tl{in.t}
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}Dw-1\end{hieroglyph} \td{montagne}
+    \begin{solution}
+      \tl{Dw}
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}A-H-t:N23\end{hieroglyph} \td{champ}
+    \begin{solution}
+      \tl{AH.t}
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}i-iz-z:pr\end{hieroglyph} \td{tombe}
+    \begin{solution}
+      \tl{is}
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}s-n:b-Y1v\end{hieroglyph} \td{sain}
+    \begin{solution}
+      \tl{snb}
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}s-b-H-bH-A2\end{hieroglyph} \td{crier}
+    \begin{solution}
+      \tl{sbH}
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}i-s-f:t-G37\end{hieroglyph} \td{désordre}
+    \begin{solution}
+      \tl{isf.t}
+    \end{solution}
+  \end{parts}
+  \end{multicols}
+
+  \question\qfmt{écrire en hiéroglyphes les mots donnés en 
+  translittération en utilisant les bons déterminatifs (en souligné, 
+  les mots contenant des plurilitères)}
+
+  \begin{solution}
+    À partir du moment où vous avez choisi le bon bi- ou trilitère, 
+    l'exercice est juste. Ici sont données les graphies les plus 
+    courantes (c'est-à-dire l'association plurilitère/complément 
+    phonétique la plus usitée). Attention, à respecter la disposition 
+    des signes en cadrats. Voir cours.
+  \end{solution}
+
+  \begin{multicols}{2}
+  \begin{parts}
+    \part\tl{HfAw}, \td{serpent}
+    \begin{solution}
+      \begin{hieroglyph}H-f-A-w-I15\end{hieroglyph}
+    \end{solution}
+
+    \part\uline{\tl{Sd}}, \td{lire}
+    \begin{solution}
+      \begin{hieroglyph}Sd:d-A2\end{hieroglyph}
+    \end{solution}
+
+    \part\uline{\tl{ao}}, \td{entrer}
+    \begin{solution}
+      \begin{hieroglyph}aq-\!\!q:.-D54\end{hieroglyph}
+    \end{solution}
+
+    \part\uline{\tl{Htp}}, \td{paix}
+    \begin{solution}
+      \begin{hieroglyph}Htp:t*p-Y1v\end{hieroglyph}
+    \end{solution}
+
+    \part\tl{dp.t}, \td{bateau}
+    \begin{solution}
+      \begin{hieroglyph}d:p*t-P1\end{hieroglyph}
+    \end{solution}
+
+    \part\tl{oaH}, \td{coude}, \td{épaule}
+    \begin{solution}
+      \begin{hieroglyph}q:a-H-D41\end{hieroglyph}
+    \end{solution}
+
+    \part\tl{bin}, \td{mauvais}
+    \begin{solution}
+      \begin{hieroglyph}b-i-n:G37\end{hieroglyph}
+    \end{solution}
+
+    \part\tl{a.t}, \td{pièce}, \td{chambre}
+    \begin{solution}
+      \begin{hieroglyph}a:t-pr\end{hieroglyph}
+    \end{solution}
+
+    \part\tl{iAw}, \td{vieillard}
+    \begin{solution}
+      \begin{hieroglyph}i-A-W-A19\end{hieroglyph}
+    \end{solution}
+
+    \part\tl{iAw}, \td{adorations}
+    \begin{solution}
+      \begin{hieroglyph}i-A-W-A30\end{hieroglyph}
+    \end{solution}
+  \end{parts}
+  \end{multicols}
+
+  Dét. : 
+  \begin{hieroglyph}pr P1 A2 I15 A30 D41 A19 Y1 D54 G37\end{hieroglyph}
+\end{questions}
+
+\subsection*{Vocabulaire (à apprendre)}
+\begin{multicols}{2}
+\begin{itemize}
+  \item \begin{hieroglyph}i-t:f-A1\end{hieroglyph} 
+        \tl{it}, \td{père}
+  \item \begin{hieroglyph}mwt-\!\!t:.-B1\end{hieroglyph} 
+        \tl{mw.t}, \td{mère}
+  \item \begin{hieroglyph}z:A1*1\end{hieroglyph} 
+        \tl{s}, \td{homme}
+  \item \begin{hieroglyph}z:t*B1\end{hieroglyph} 
+        \tl{s.t}, \td{femme}
+  \item \begin{hieroglyph}zA-1\end{hieroglyph} 
+        \tl{sA}, \td{fils}
+  \item \begin{hieroglyph}km-m-t:niwt\end{hieroglyph} 
+        \tl{Km.t}, \td{l'\kmt (la terre noire)}
+\end{itemize}
+\end{multicols}

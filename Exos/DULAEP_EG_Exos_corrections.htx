@@ -1,0 +1,57 @@
+%!TEX root = DULAEP_EG_Exos.htx
+
+% \phantomsection
+% \addcontentsline{toc}{book}{Solutions des exercices}
+% \book*{Solutions des exercices}
+
+% \printanswers
+
+% \part*{Semestre~1}\markright{Semestre~1}
+\book{Semestre~1}\label{bk:exo_S1}
+\input{DULAEP_EG_S1_C00xE00a}
+\input{DULAEP_EG_S1_C00xE00b}
+\input{DULAEP_EG_S1_C00xE01}
+\input{DULAEP_EG_S1_C01xE02}
+\input{DULAEP_EG_S1_C01xE03}
+\input{DULAEP_EG_S1_C02xE04}
+\input{DULAEP_EG_S1_C02xE05}
+\input{DULAEP_EG_S1_C02xE06}
+\input{DULAEP_EG_S1_C02xE07}
+\input{DULAEP_EG_S1_C02xE08}
+\input{DULAEP_EG_S1_C03xE09}
+\input{DULAEP_EG_S1_C03xE10}
+\input{DULAEP_EG_S1_C04xE11}
+\input{DULAEP_EG_S1_C05xE12a}
+\input{DULAEP_EG_S1_C05xE12b}
+\input{DULAEP_EG_S1_C06xE13}
+\input{DULAEP_EG_S1_C06xE14}
+\input{DULAEP_EG_S1_C07xE15}
+\input{DULAEP_EG_S1_C08xE16}
+\input{DULAEP_EG_S1_C08xE17}
+\input{DULAEP_EG_S1_C09xE18}
+\input{DULAEP_EG_S1_C10xE19}
+\input{DULAEP_EG_S1_C10xE20}
+\input{DULAEP_EG_S1_C11xE21}
+\input{DULAEP_EG_S1_C12xE22}
+
+\input{DULAEP_EG_S1_Exam}
+
+% \part*{Semestre~2}\markright{Semestre~2}
+\book{Semestre~2}\label{bk:exo_S2}
+\input{DULAEP_EG_S2_C01xE01}
+\input{DULAEP_EG_S2_C02xE02}
+\input{DULAEP_EG_S2_C03xE03}
+\input{DULAEP_EG_S2_C04xE04}
+\input{DULAEP_EG_S2_C05xE05}
+\input{DULAEP_EG_S2_C06xE06}
+\input{DULAEP_EG_S2_C07xE07}
+\input{DULAEP_EG_S2_C08xE08}
+\input{DULAEP_EG_S2_C09xE09}
+\input{DULAEP_EG_S2_C10xE10}
+\input{DULAEP_EG_S2_C11xE11}
+\input{DULAEP_EG_S2_C12xE12}
+
+\input{DULAEP_EG_S2_Exam}
+
+\book{Semestre~3}\label{bk:exo_S3}
+\book{Semestre~4}\label{bk:exo_S4}

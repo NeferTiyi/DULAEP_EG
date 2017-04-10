@@ -1,0 +1,306 @@
+%!TEX root = DULAEP_EG.htx
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\part{La syntaxe du participe passif}
+\label{prt:S4_prtcp_pass}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\chapter{Introduction}
+% =====================================================================
+
+Dans les \Pref{prt:S4_prtcp} et \ref{prt:S4_prtcp_pro}, nous avons 
+abordé les participes du verbe égyptien. Il est important à présent de 
+revenir sur le cas du participe passif, en particulier sur sa syntaxe. 
+Le participe passif peut être accompagné par un complément d'agent qui 
+explicite l'agent de l'action. C'est un premier point, assez simple. 
+Le second point est plus complexe, car il concerne une structure qu'il 
+n'est pas possible de transposer directement en français. C'est ce que 
+l'on appelle \frquote{la construction indirecte du participe passif}. 
+Soyez bien attentif à ce second point. Il vous faudra probablement 
+plusieurs lectures pour l'intégrer et surtout des exercices 
+d'application pour que la syntaxe vous paraisse aller de soi. 
+Une fois l'habitude prise, vous serez préparés pour le cours suivant 
+et les \frquote{formes relatives}, qui vont demander une gymnastique 
+mentale comparable.
+
+Nous allons donc voir successivement ces deux points de syntaxe.
+
+
+\chapter{Le complément d'agent}
+% =====================================================================
+
+Le participe, actif ou passif, est une forme du verbe qui permet 
+d'exprimer l'action verbale dans la catégorie grammaticale de 
+l'adjectif.
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    bA:k-A1 sDm-m wD-w-Y1v i-mn:n-A40
+  \end{hieroglyph}
+
+  \tl{bAk \clel{sDm(w) wD Imn}}
+
+  \td{le serviteur \clel{qui écoute l'ordre d'Amon}} = 
+  \td{le serviteur \clel{pieux}}
+\end{example}
+
+
+\begin{remarque}[Rappels]
+  \begin{itemize}
+    \item En raison de sa nature verbale, le participe conserve la 
+          possibilité d'être construit avec des compléments d'objet 
+          directs ou indirects.
+    \item S'il qualifie un nom, le participe se place après lui.
+  \end{itemize}
+\end{remarque}
+
+Il n'y a pas de difficulté majeure dans la syntaxe du participe actif 
+(le nom qu'il complète est le sujet du participe).
+
+Pour le participe passif, il y a des spécificités, et en particulier 
+la possibilité d'expliciter l'agent.
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    +l(\dots) +s
+    zS-Y1:3 p:n ini-i-i n bA:k-A1 i-m
+  \end{hieroglyph}
+
+  \tl{(\dots) sS pn iny n bAk-im(y)}
+  \infos{\source{Kahun}, 35, 38}
+
+  \td{(\dots) cette lettre qui a été apportée au serviteur 
+  que je suis.}
+\end{example}
+
+Le nom que complète un participe passif n'est pas le sujet, mais le 
+patient de l'action verbale. Quand il est exprimé, l'agent est alors 
+placé \textbf{après le participe passif}, selon trois constructions 
+principales :
+
+\paragraph{Si l'agent est un substantif, il peut être :}
+\begin{enumerate}
+  \item introduit par les \clef{prépositions 
+        \begin{hieroglyph}i-n\end{hieroglyph} \tl[ClefCol]{in} ou 
+        \begin{hieroglyph}x:r\end{hieroglyph} \tl[ClefCol]{xr}}\\
+        \begin{example}[title={}]
+          \begin{hieroglyph}
+            Dw-w-t-G37:3 ir-i-i-t:3 r:f i-n sn-n-A40 f E20-A40
+          \end{hieroglyph}
+
+          \tl{Dw.t iry.t r=f in sn=f \%tX}
+          \infos{\source{P.~Ebers}, 2, 12--13}
+
+
+          \td{Le mal fait contre lui par son frère Seth.}
+        \end{example}
+  \item Construit au moyen d'un \clef{génitif direct ou indirect}\\
+        \begin{example}[title={}]
+          \begin{hieroglyph}
+            ink mr-i-i nb:f
+          \end{hieroglyph}
+
+          \tl{ink mry nb=f}
+          \infos{\musee{\BM}, \inv{EA\,614}, 3}
+
+          \td{Je suis quelqu'un aimé de son maître.}
+        \end{example}
+\end{enumerate}
+
+\paragraph{Si l'agent est pronominal :}
+
+\begin{enumerate}[resume]
+  \item c'est le \clef{pronom suffixe} qui est utilisé\\
+        \begin{example}[title={}]
+          \begin{hieroglyph}
+            N41*t:f mr-r:t:\!f
+          \end{hieroglyph}
+
+          \tl{Hm.t=f mr.t=f}
+
+          \td{Son épouse aimée de lui.}
+        \end{example}
+\end{enumerate}
+
+
+\chapter{Relation indirecte entre le participe et le nom qu'il 
+qualifie}\label{cha:S4_C05_part_indirect}
+% =====================================================================
+
+C'est le gros morceau. Soyez attentifs.
+
+On a dit en introduction que les participes en égyptien ancien 
+équivalent à des propositions subordonnées relatives ayant en 
+français un sujet \emph{grammatical} (agent ou patient) identique à 
+l'antécédent, c'est-à-dire introduites par le \clef{pronom relatif 
+\frquote{qui}}.
+
+Toutefois, le participe passif peut servir à construire l'équivalent 
+d'une \textbf{proposition subordonnée relative introduite par d'autres 
+pronoms relatifs (que, lequel, dont, etc.)}, c'est-à-dire exprimant 
+une relation indirecte entre l'antécédent et la relative. 
+Autrement dit : une proposition subordonnée relative dont le sujet 
+\emph{grammatical} (donc le patient pour les passifs) diffère de 
+l'antécédent.
+
+En français, la fonction de l'antécédent par rapport à la relative 
+est précisée par le pronom relatif. Si l'antécédent n'est pas le 
+sujet de la relative, on utilise un pronom différent de \frquote{qui}.
+Par exemple : 
+
+\begin{quote}
+  \frquote{l'homme \red{dont} l'enseignement est écouté}\\
+  \smaller%
+  Antécédent / pronom relatif indirect / sujet logique / verbe
+\end{quote}
+
+En égyptien, il n'y a pas une telle variété de pronoms relatifs. 
+La même idée peut donc être exprimée par un participe passif en 
+\textbf{construction indirecte}.
+
+Par exemple :\quad%
+\td{\red{l'homme} écouté l'enseignement \red{\uline{de lui}}}%
+\quad=\quad%
+\tl{\red{s} sDm sbAy.t\red{=f}}
+
+\donc{} La relation entre le substantif et le participe passif en 
+construction indirecte est explicitée par un \textbf{pronom de rappel} 
+qui renvoie au substantif.
+
+\bigskip
+
+{\renewcommand\tabularxcolumn[1]{p{#1}}
+\noindent%
+\begin{tabularx}{\textwidth}{lX}
+    Français : &
+    \td{\red{l'homme} \red{\uline{à qui}} le tribunal reproche 
+    une faute}.\newline
+    \smaller Antécédent / pronom relatif indirect / sujet logique / 
+    verbe / objet
+  \tabularnewline
+    Égyptien : &
+    \td{\red{l'homme} reproché une faute \red{\uline{de lui}} par 
+    le tribunal}.\newline
+    \smaller Antécédent / participe / objet logique / pronom de 
+    rappel / agent logique
+  \tabularnewline
+\end{tabularx}%
+}
+
+\bigskip
+
+On va voir des exemples précis de cette construction indirecte 
+du participe passif en égyptien ancien. En français, on traduira 
+\emph{toujours} par une proposition subordonnée relative (avec verbe 
+au passif). Retenez tout de suite la méthode de traduction à adopter :
+\begin{enumerate}
+  \item dans un premier temps, analyser indépendamment le nom, 
+  \item puis le participe avec ses compléments/arguments,
+  \item et focalisez-vous sur le pronom de rappel pour choisir
+\end{enumerate}
+
+
+\section*{Principales fonctions assumées par le pronom de rappel}
+% ---------------------------------------------------------------------
+\begin{example}[title={CO indirect}]
+  \begin{hieroglyph}
+    +l(\dots) +s
+    mi-i Sms-W-A1 nb n:nb-A1 anx-DA-s a:a-W n:f s-W-DA-Y2:ib*1
+  \end{hieroglyph}
+
+  \tl{(\dots) mi sSmw nb n(y) nb=j, anx wDA snb, ddw n=f swDA-ib}
+
+  \td{(\dots) comme tout suivant de mon maître, V.S.F., à qui un 
+      message est donné / à qui on donne un message.}
+\end{example}
+
+\begin{example}[title={Déterminant d'un nom}]
+  \begin{hieroglyph}
+    xAst:t*1 HA-A-q:t-D40 mn:n-mn:n-t-E1 s
+  \end{hieroglyph}
+
+  \tl{xAs.t HAo.t mnmn.t=s}
+
+  \td{Le pays dont le bétail a été pillé}
+\end{example}
+
+\section*{Le participe peut être substantivé et donc sans antécédent}
+% ---------------------------------------------------------------------
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    ir:n A1 h-A-b-t:D54 w-i r-s
+  \end{hieroglyph}
+
+  \tl{ir.n=i hAb.t wi r=s}
+
+  \td{J'ai fait ce pourquoi j'ai été envoyé.}
+\end{example}
+
+
+\chapter{Construction indirecte sans pronom de rappel}
+% =====================================================================
+
+Il est à noter que le pronom de rappel est généralement omis après la 
+préposition \tl{m} / \tl{im} :
+
+\tl{bw irrw im(=f)} = \td{le lieu fait cela dedans} = 
+\td{le lieu dans lequel cela est fait}
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    n' gm-m n:z b-W ir:r-W s-t i-m
+  \end{hieroglyph}
+
+  \tl{n gm.n=s bw irw s.t im}
+
+  \td{Elle ne peut trouver le lieu fait cela dedans.} = 
+  \td{Elle ne peut trouver le lieu où on fait cela.}
+\end{example}
+
+
+\chapter{Excursus : remarques sur la terminologie}
+% =====================================================================
+
+\citeauthor{GM} (\citetitle[leçon~47]{GM}) utilisent une terminologie 
+spécifique pour parler de la construction particulière du participe 
+passif avec pronom de rappel :
+\begin{itemize}
+  \item nom de circonstant 
+        (\td{celui sous lequel le serviteur mange des figues}) ;
+  \item nom du possesseur du patient 
+        (\td{celui dont le serviteur mange des figues}) ;
+  \item nom du possesseur du circonstant 
+        (\td{celui sous le sycomore duquel le serviteur mange des 
+        figues}).
+\end{itemize}
+
+\bigskip
+
+\citeauthor{Allen} (\citetitle[\nopp23.15]{Allen}) décrit cette 
+construction indirecte du participe passif en présentant le fait 
+que l'anglais autorise des constructions similaires avec un nombre 
+\emph{très réduit} de verbes : 
+\td{\frquote{\texten{the student \clel{given encouragment} learns 
+quickly}}} 
+(notez avec \citeauthor{Allen} qu'un pronom de rappel n'est pas 
+nécessaire en anglais ici) 
+= \td{\frquote{\texten{the student \clel{to whom encouragment is 
+given} learns quickly}}}. 
+En français, aucun verbe ne permet une telle construction : 
+\td{\frquote{l'étudiant donné encouragement à lui apprend vite}} 
+est totalement incorrect ; seule la construction 
+\td{\frquote{l'étudiant à qui est donné un encouragement apprend 
+vite}} est acceptable (bien que un peu laborieuse et je pense qu'on 
+préférera une formulation à l'actif avec \frquote{on}).
+
+Vous voyez donc que cette construction indirecte du participe passif 
+avec pronom de rappel est une caractéristique syntaxique propre à 
+l'égyptien qui n'a pas d'équivalent direct en français, d'où la 
+difficulté à intégrer le principe. Mais vous trouverez toujours un 
+point de repère en cherchant le \clef{pronom de rappel}.
+
+\bigskip
+
+\begin{exercice}[before upper={\centering}]
+  Faire \textbf{l'exercice~5}.
+\end{exercice}

@@ -1,0 +1,55 @@
+%!TEX root = DULAEP_EG.htx
+%##HieroDef.txt
+
+\chapter*{Exercice~17 --- Épigraphie}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{Translittérer et traduire le cintre de cette stèle de 
+  Turin représentant différentes formes de la déesse Hathor (sistre et 
+  contrepoids de collier-\emph{ménat}). Le texte hiéroglyphique donne 
+  une légende identifiant la divinité représentée.}
+  \begin{center}
+    \includegraphics[width=0.5\linewidth]{Turin_50027_BSFE95_fig4}%
+    \includegraphics[width=0.5\linewidth]{Turin_50027_BSFE95_fig5}\\
+    % \includegraphics[width=8cm]{Turin_50027_BSFE95_fig4}\\
+    % \includegraphics[width=8cm]{Turin_50027_BSFE95_fig5}\\
+    Planche tirée de J. Yoyotte, \emph{BSFE}~95 (1982), fig.~4 et~5\\
+    À droite : photographie de la stèle. À gauche : dessin publié dans 
+    \emph{Panthéon égyptien} (Champollion).
+  \end{center}
+
+  \begin{solution}
+    \lgn{1-2} \tl{@w.t-@r, nb.t-Htp.t, ir.t Ra,}
+    \lgn{3-4} \tl{imy.t itn=f, nb.t p.t, Hnw.t nTr.w nb.w}
+
+    \lgn{1-2} \td{Hathor, Nebet-hetepet, {\oe}il de Rê}
+    \lgn{3-4} \td{qui est dans son disque solaire, maîtresse du ciel, 
+    souveraine de tous les dieux}
+
+    Inscription sur le contrepoids du collier-ménat
+
+    \tl{@w.t-@r, nb.t-Htp.t, Hnw.t nTr.w nb.w}
+    \td{Hathor, Nebet-Hetepet, souveraine de tous les dieux}
+  \end{solution}
+\end{questions}
+
+\subsection*{Vocabulaire}
+\begin{multicols}{2}
+\begin{itemize}
+  \item \begin{hieroglyph}i-t:n-ra\end{hieroglyph} 
+        \tl{itn}, \td{disque solaire}
+  \item \begin{hieroglyph}
+          nb:t-Htp:t*p-N41:niwt +l\ ou\ +s nb:t-Htp:t*p-t:H8
+        \end{hieroglyph} 
+        \tl{nb.t-Htp.t}, \td{Nébet-hetepet} (nom d'une forme d'Hathor)
+  \item \begin{hieroglyph}
+          O10 +l\ ou\ +s Hwt-t:Hr +l\ ou\ +s Hwt-Hr:r-C9
+        \end{hieroglyph} 
+        \tl{@w.t-@r}, \td{Hathor}
+  \item \begin{hieroglyph}
+          H-W10:t-B1 +l\ ou\ +s H-nw:t-B1
+        \end{hieroglyph} 
+        \tl{Hnw.t}, \td{souveraine}, \td{maîtresse}
+\end{itemize}
+\end{multicols}

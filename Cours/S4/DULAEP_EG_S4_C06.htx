@@ -1,0 +1,334 @@
+%!TEX root = DULAEP_EG.htx
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\part[Les formes adjectivales du verbe~2 --- formes relatives 
+\tl{sDm.n=f} / \tl{sDm.t.n=f}]
+{Les formes adjectivales du verbe~2 --- formes relatives 
+\tl{sDm.n=f} / \tl{sDm.t.n=f} (qu'il a écouté / qu'il a écoutée)}
+\label{prt:S4_forme_rel}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\chapter{Introduction --- Première approche}
+% =====================================================================
+
+Les \frquote{formes relatives} sont d'autres formes adjectivales du 
+verbe. Leurs caractéristiques sont :
+\begin{itemize}
+  \item ce sont des formes \emph{toujours} à la voix active ;
+  \item elles ne peuvent se traduire que par des propositions 
+        subordonnées relatives ;
+  \item ces propositions subordonnées relatives ne sont \emph{jamais} 
+        introduites par le pronom relatif \frquote{qui}.
+\end{itemize}
+
+En d'autres termes, la \frquote{forme relative} est en quelque sorte 
+l'équivalent pour l'actif de la relation indirecte du participe passif 
+vue dans le cours précédent.
+
+En fait, vous connaissez déjà des formes relatives (à l'accompli). 
+L'an dernier, dans le cours sur l'expression de la filiation, nous 
+avons vu que le nom de la mère était introduit par :
+
+\begin{quote}
+  \tll{X} \begin{hieroglyph}ms-s-Z5:n\end{hieroglyph} 
+  \tl{ms.n} \tll{Y} 
+  = \td{X qu'a mis au monde Y}
+
+  \tll{X} \begin{hieroglyph}ms-s-Z5*t:n\end{hieroglyph} 
+  \tl{ms.t.n} \tll{Y} 
+  = \td{X qu'a mise au monde Y}
+
+  (Voir \titleref{bk:semestre2}, \Pref{prt:filiation})
+\end{quote}
+
+De la même manière, dans le cours sur la titulature royale, une des 
+épithètes du roi est exprimée au moyen d'une forme relative accomplie :
+
+\begin{quote}
+  Ramsès \begin{hieroglyph}stp:n-ra\end{hieroglyph} \tl{stp.n Ra},
+  \td{qu'a élu Rê} 
+
+  (Voir \titleref{bk:semestre1}, \Pref{prt:titulature})
+\end{quote}
+
+La forme relative est donc une forme adjectivale du verbe, qui 
+exprime l'action à la \clef{voix active}, mais qui entretient une 
+\clef{relation indirecte} avec le nom qu'elle qualifie ; le sujet 
+de l'action est donc toujours exprimé.
+
+
+\chapter{Présentation}
+% =====================================================================
+
+\paragraph{Pour rappel :} les participes actifs ou passifs égyptiens 
+correspondent à des \emph{propositions relatives françaises qui ont 
+une relation directe avec l'antécédent}, c'est-à-dire dont 
+l'antécédent est le sujet grammatical du verbe (sujet logique pour 
+les participes actifs, patient pour les passifs).
+
+\begin{quote}
+  \tl{bAk sDm(w)} (participe actif), 
+  \td{le serviteur \clel{qui} entend}
+
+  \tl{bAk sDm(w)} (participe passif), 
+  \td{le serviteur \clel{qui} est entendu} 
+  (avec possibilité d'exprimer l'agent \tl{in nb=f}).
+\end{quote}
+
+Il existe aussi une \emph{proposition relative indirecte du français} 
+à laquelle peut correspondre en égyptien la \emph{construction 
+complexe du participe passif} vu précédemment 
+(\Pref{prt:S4_prtcp_pass}).
+
+\begin{quote}
+  \tll{*}\tl{bAk sDm mdw=f in nb=f}, 
+  \td{*Le serviteur dont la parole est écoutée par le maître}
+
+  \tg{Antécédent / participe / CO et pronom de rappel / agent}
+
+  \td{\litt : Serviteur écouté sa parole par le maître}
+\end{quote}
+
+En français, la fonction de l'antécédent par rapport à la relative est 
+précisée par le pronom relatif alors qu'en égyptien elle est précisée 
+par le \emph{pronom de rappel} (voir \Pref{prt:S4_prtcp_pass}).
+
+L'égyptien peut également utiliser une \clef{tournure active} en 
+utilisant la forme adjectivale du verbe appelée \clef{\frquote{forme 
+relative}}, qui s'accorde en genre avec son antécédent. Dans ce cas, 
+le sujet logique est toujours exprimé et suit la forme relative sans 
+être introduit par \tl{in} ou \tl{xr}. La nature de la relation entre 
+l'antécédent et la forme relative peut (comme dans le cas de la 
+construction indirecte du participe passif) être exprimée par un 
+\clef{pronom de rappel}.
+
+\begin{quote}
+  \tl{bAk sDm nb mdw=f}, 
+  \td{Le serviteur dont le maître écoute la parole}
+
+  \tg{Antécédent / forme relative et sujet / CO et pronom de rappel}
+
+  \td{\litt : serviteur que écoute le maître sa parole}
+\end{quote}
+
+\begin{example}[title={Texte de l'expédition de Pount d'Hatchepsout}]
+  \begin{hieroglyph}
+    x:t nb:t nfr-r:t n:t nTr-tA:N21*1-xAst 
+    h-A-b-t:D54 z:n:3 Hm-t-A42 r:z
+  \end{hieroglyph}
+
+  \tl{(in.n.sn) x.t nb.t nfr.t n(y).t \&A-nTr hAb.t sn Hm.t r=s}
+
+  \td{(ils ont apporté) toutes les bonnes choses de Ta-netjer pour 
+      lesquelles la (=ta) Majesté les envoie}
+
+  \tg{Antécédent féminin : \tl[Gramm]{x.t nb.t} / forme relative au 
+      féminin s'accordant avec l'antécédent / pronom dépendant COD / 
+      sujet / pronom de rappel}
+\end{example}
+
+\paragraph{Méthode de traduction :} pour traduire une forme relative, 
+vous pouvez procéder de la manière suivante : 
+\begin{enumerate*}
+  \item traduisez la forme relative au moyen d'une proposition 
+        subordonnée relative, en utilisant dans un premier temps 
+        par défaut le pronom relatif \frquote{que} ;
+  \item modifier le pronom relatif une fois le sens compris pour 
+        faire une phrase correcte en français.
+\end{enumerate*}
+
+
+\chapter{Morphologie}
+% =====================================================================
+
+Comme on l'a dit, la forme relative est nécessairement active et 
+a un sujet exprimé. Il existe trois types de formes relatives qui 
+correspondent aux trois aspects principaux :
+\begin{itemize}
+  \item l'inaccompli
+  \item l'accompli
+  \item le prospectif
+\end{itemize}
+
+
+\begin{table}
+  \caption{Tableau des formes relatives, 
+           d'après \cite[§\,878--880]{MW}}
+  \label{tbl:form_rel}
+  \begin{tabularx}{0.66\textwidth}{M{0.8cm}XX}
+    \toprule
+       & \textbf{Masculin} & \textbf{Féminin}
+    \tabularnewline
+    \otoprule
+      \multirow{4}{*}[-2.5em]{\rotatebox{90}{\textbf{ACCOMPLI}}} &
+      \tl{sDm(w).n=f}\\(\td{qu'il a écouté}) &
+      \tl{sDm(w).t.n=f}\\(\td{qu'il a écoutée})
+    \tabularnewline
+      &
+      \tl{mr(w).n=f}\\(\td{qu'il a aimé}) &
+      \tl{mr(w).t.n=f}\\(\td{qu'il a aimée})
+    \tabularnewline
+      &
+      \tl{mA(w).n=f}\\(\td{qu'il a vu}) &
+      \tl{mA(w).t.n=f}\\(\td{qu'il a vue})
+    \tabularnewline
+      &
+      \tl{rdi(w).n=f}\\(\td{qu'il a placé}) &
+      \tl{rdi(w).t.n=f}\\(\td{qu'il a placée})
+    \tabularnewline
+    \midrule
+      \multirow{4}{*}[-2.5em]{\rotatebox{90}{\textbf{INACCOMPLI}}} &
+      \tl{sDm(w)=f}\\(\td{qu'il écoute}) &
+      \tl{sDm(w).t=f}\\(\td{qu'il écoute})
+    \tabularnewline
+      &
+      \tl{mrr(w)=f}\\(\td{qu'il aime}) &
+      \tl{mrr(w).t=f}\\(\td{qu'il aime})
+    \tabularnewline
+      &
+      \tl{mAA(w)=f}\\(\td{qu'il voit}) &
+      \tl{mAA(w).t=f}\\(\td{qu'il voit})
+    \tabularnewline
+      &
+      \tl{didi(w)=f}\\(\td{qu'il place}) &
+      \tl{didi(w).t=f}\\(\td{qu'il place})
+    \tabularnewline
+    \midrule
+      \multirow{4}{*}[-2.5em]{\rotatebox{90}{\textbf{PROSPECTIF}}} &
+      \tl{sDm(y)=f}\\(\td{qu'il écoutera}) &
+      \tl{sDm.ti=f}\\(\td{qu'il écoutera})
+    \tabularnewline
+      &
+      \tl{mry=f}\\(\td{qu'il aimera}) &
+      \tl{mr.ti=f}\\(\td{qu'il aimera})
+    \tabularnewline
+      &
+      \tl{mAy=f}\\(\td{qu'il verra}) &
+      \tl{mA.ti=f}\\(\td{qu'il verra})
+    \tabularnewline
+      &
+      \tl{dy=f}\\(\td{qu'il placera}) &
+      \tl{di.ti=f}\\(\td{qu'il placera})
+    \tabularnewline
+    \bottomrule
+  \end{tabularx}
+\end{table}
+
+\section{La forme relative inaccomplie}
+% ---------------------------------------------------------------------
+La morphologie de la forme verbale est proche de celle du participe 
+inaccompli passif. Les verbes faibles, géminés et les irréguliers 
+présentent la gémination.
+
+Au masculin, on trouve parfois désinence \tl{–w} avant le déterminatif.
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    m-x-xA-t-mxAt t-\!w n:t ra-A40 f-A-A-t:D40-f U2:mAa-a:t-mAat i-m-s
+  \end{hieroglyph}
+
+  \tl{mxA.t tw n(y).t Ra fAA.t=f mAa.t im=s}
+
+  \td{cette balance de Rê au moyen de laquelle il pèse la Maât}
+  (\td{\litt cette balance de Rê qu'il pèse Maât au moyen d'elle})
+\end{example}
+
+\section{La forme relative accomplie}
+% ---------------------------------------------------------------------
+Elle se signale par son suffixe \tl{.n} (à ne pas confondre avec la 
+forme verbale \tl{sDm.n=f}).
+
+Les verbes faibles et les géminés ne présentent pas la gémination.
+
+\begin{example}[title={}]
+  \begin{flushright}
+    \includegraphics[height=0.8cm]{Semna_an16_3}
+    \includegraphics[height=0.8cm]{Semna_an16_4}
+  \end{flushright}
+
+  \tl{ir gr.t sA=i nb srwd.ty=fy tAS pn ir.n Hm(=i), sA=i pw}
+
+  \td{Quant à, de plus, tout mien fils qui renforcera cette frontière 
+      que (ma) Majesté a faite, c'est mon fils.}
+\end{example}
+
+\section{La forme relative prospective}
+% ---------------------------------------------------------------------
+Il n'y a pas de gémination.
+
+Au masculin, elle présente de manière facultative une désinence 
+\begin{hieroglyph}y\end{hieroglyph} \tl{.y}.
+
+Au féminin, elle présente une désinence 
+\begin{hieroglyph}ti-i\end{hieroglyph} \tl{.ti} ou 
+\begin{hieroglyph}t\end{hieroglyph} \tl{t(i)}.
+
+Quand cette désinence est réduite graphiquement à un \tl{.t}, il se 
+place avant le déterminatif.
+
+\begin{example}[title={Stèle d'Imaounefer}]
+  \includegraphics[height=1cm]{Imaounefer_extrait2}
+  \includegraphics[height=1cm]{Imaounefer_extrait1}
+
+  \reflectbox{%
+    \begin{hieroglyph}
+      x*t:nb:t nfr-t wab-+l$\big<$+s-t-+l$\big>$+s anx-ti nTr-A40 i-m
+    \end{hieroglyph}%
+  }
+
+  \tl{x.t nb.t nfr.t wab.t anx.ti nTr im}
+
+  \td{toute chose parfaite et pure dont vivra un dieu}
+  (= \td{que un dieu vivre au moyen de})
+\end{example}
+
+
+\chapter{Fonctions}
+% =====================================================================
+
+Les formes relatives, comme les participes, peuvent assumer deux types 
+de fonctions : 
+\begin{itemize}
+  \item fonction d'épithètes du nom (dans le groupe nominal) ;
+  \item fonction de substantif, si elles sont substantivées.
+\end{itemize}
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    nfr-f:r ir:r*t A1 n:k
+  \end{hieroglyph}
+
+  \tl{nfr ir.t(i)=i n=k}
+  \infos{\CdS B\,77}
+
+  \td{Ce que je ferai pour toi est bon}
+\end{example}
+
+
+\chapter{Remarques sur la terminologie}
+% =====================================================================
+
+Les formes relatives sont des formes adjectivales du verbe que l'on 
+peut donc classer avec les participes. D'ailleurs du point de vue de 
+la morphologie, elles sont proches du participe passif dont elles 
+dérivent (cf. mêmes formes à duplication, mêmes formes brèves). 
+La différence majeure est que cette forme relative est suivie d'un 
+véritable sujet (nom ou pronom suffixe) et non d'un complément d'agent 
+introduit par \tl{in} ou \tl{xr} (elle est en outre attestée avec les 
+verbes intransitifs).
+
+\citeauthor{GM} (\citetitle[§\,46.3]{GM}) ne font d'ailleurs pas 
+de distinction entre \frquote{forme relative} et participe passif. 
+Pour la forme relative, ils parlent de \frquote{participe passif en 
+construction agentielle} : l'agent serait soit juxtaposé à la forme 
+verbale (inaccompli, prospectif), soit introduite par le suffixe 
+\tl{.n} (accompli), compris comme une abréviation de \tl{in}.
+
+L'expression de l'agent au moyen de \tl{in} et de \tl{xr} est alors 
+interprété comme une simple variante.
+
+\bigskip
+
+\begin{exercice}[before upper={\centering}]
+  Faire \textbf{l'exercice~6}.
+\end{exercice}

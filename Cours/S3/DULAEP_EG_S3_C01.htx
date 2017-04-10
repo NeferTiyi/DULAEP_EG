@@ -1,0 +1,897 @@
+%!TEX root = DULAEP_EG.htx
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\part*{Introduction générale}\label{prt:S3_intro}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Vous connaissez à présent le système d'écriture hiéroglyphique et 
+vous maîtrisez les premières constructions simples de phrases en 
+égyptien ancien classique. Nous allons cette année \frquote{monter 
+en puissance}, en abordant le système verbal et les phrases complexes. 
+Vous serez ainsi armés pour aborder les textes en égyptien classique 
+et en égyptien de tradition !
+
+\paragraph{Petits rappels}
+
+L'an dernier, nous avons abordé quatre grands types de phrases :
+\begin{itemize}
+  \item Les \PPA[s] : \tl{iw} + Sujet + Prédicat 
+        (adverbe ou groupe prépositionnel)
+  \item Les \PPP[s] : \tl{iw} + Sujet + Prédicat 
+        (\tl{Hr}/\tl{m}/\tl{r} + infinitif ou parfait ancien)
+  \item Les \PPN[s], type \tll{AB} ou type \tll{A \tl{pw}, B}
+  \item Les \PPJ[s] : Prédicat + Sujet.
+\end{itemize}
+
+N'hésitez pas à parcourir à nouveau le cours de l'an dernier pour 
+vous rafraîchir la mémoire, car le savoir (en langue ancienne comme 
+ailleurs) est cumulatif.
+
+Nous avions laissé de côté les phrases à prédicats verbaux. C'est ce 
+que nous allons aborder ce semestre, en étudiant les formes verbales 
+égyptiennes, la conjugaisons dite \frquote{suffixale}. Avant d'entrer 
+dans le vif du sujet, et d'étudier notre première phrase verbale avec 
+une première forme verbale conjuguée, voici quelques remarques 
+générales en préalables.
+
+
+\chapter{Le verbe égyptien (rappel)}
+% =====================================================================
+
+Dans le \Pref{prt:ppp} du \titleref{bk:semestre1}, l'an passé, le 
+verbe égyptien et sa classification ont été présentés. Relisez si 
+nécessaire cette partie qui définit le vocabulaire que nous utilisons 
+et pose les bases de l'analyse du système verbal.
+
+Vous vous souvenez que l'on parle de \textbf{racine du verbe} (forme 
+abstraite du verbe, citée dans les dictionnaires) et de \textbf{thème 
+verbal} (la réalisation concrète de la racine dans une forme verbale 
+donnée). La racine du verbe permet de classer les verbe en quatre 
+groupes : verbes forts, verbes faibles, verbes géminés et verbes 
+irréguliers. Selon le groupe auquel il appartient, un verbe se 
+modifiera d'une certaine manière à une forme verbale donnée.
+
+Vous connaissez déjà deux formes verbales (considérées comme 
+\frquote{pseudo-verbales}) : \clef{l'infinitif} et \clef{le parfait 
+ancien}. Vous savez donc déjà qu'une forme verbale se caractérise par :
+\begin{itemize}
+  \item une \clef{valeur} (surtout aspectuelle, et dans une moindre 
+        mesure temporelle)
+  \item une \clef{morphologie}, caractérisée par l'aspect du thème 
+        verbal (bref ou long) et la présence éventuelle de désinences.
+\end{itemize}
+
+\section*{Une complexité et une simplicité de la \frquote{conjugaison} 
+égyptienne}
+% ---------------------------------------------------------------------
+Tout ceci sera à apprendre pour chaque forme verbale de la conjugaison 
+suffixale (dix formes à connaître, nous allons y revenir). En raison 
+de la caractéristique de l'écriture pharaonique, qui est une écriture 
+consonantique, l'apprentissage de ces formes verbales est à la fois 
+simple et complexe.
+
+\begin{table}
+  \caption{Thèmes verbaux}
+  \label{tbl:themes}
+  \begin{tabularx}{\textwidth}{+X*{3}{^M{.22\textwidth}}}
+    \toprule
+    \rowstyle{\bfseries}
+      Racine & Thème verbal bref & Thème verbal géminé & Infinitif
+    \tabularnewline
+    \otoprule
+      \begin{hieroglyph}sDm-m\end{hieroglyph} \\
+      \tl{sDm}, \td{écouter} \vl{3} &
+      \begin{hieroglyph}sDm-m\end{hieroglyph} \tl{sDm} &
+      \texttimes &
+      \begin{hieroglyph}sDm-m\end{hieroglyph} \tl{sDm}
+    \tabularnewline
+    \midrule
+      \begin{hieroglyph}pr:r-D54\end{hieroglyph} \\
+      \tl{pri}, \td{sortir} \vi{3} &
+      \begin{hieroglyph}pr:r-D54\end{hieroglyph} \tl{pr} &
+      \begin{hieroglyph}pr:r:r-D54\end{hieroglyph} \tl{prr} &
+      \begin{hieroglyph}pr:r-t:D54\end{hieroglyph} \tl{pr.t}
+    \tabularnewline
+    \midrule
+      \begin{hieroglyph}U2:ir-A-A\end{hieroglyph} \\
+      \tl{mAA}, \td{voir} \vg{2} &
+      \begin{hieroglyph}U2:ir-A\end{hieroglyph} \tl{mA} &
+      \begin{hieroglyph}U2:ir-A-A\end{hieroglyph} \tl{mAA} &
+      \begin{hieroglyph}U2:ir-A-A\end{hieroglyph} \tl{mAA}
+    \tabularnewline
+    \midrule
+      \begin{hieroglyph}r:di'\end{hieroglyph} \\
+      \tl{rdi}, \td{donner}, \td{placer}, 
+      \td{faire en sorte que} \va{} &
+      \begin{hieroglyph}r:di'\end{hieroglyph} \tl{rd} ou 
+      \begin{hieroglyph}di'\end{hieroglyph} \tl{di} &
+      \begin{hieroglyph}di':di'\end{hieroglyph} \tl{didi} ou 
+      \begin{hieroglyph}di-di\end{hieroglyph} \tl{didi} &
+      \begin{hieroglyph}r:di':t\end{hieroglyph} \tl{rd.t}
+    \tabularnewline
+    \bottomrule
+  \end{tabularx}
+\end{table}
+
+\paragraph{Simple :}
+il n'y a pas de tableaux de conjugaison avec des série de désinences 
+spécifiques pour chaque personne à apprendre (le parfait ancien est 
+une exception en la matière). Vraisemblablement, une large partie 
+des désinences se réalisait au moyen de voyelles. Il s'agira donc 
+d'apprendre simplement la \clef{forme du thème verbal} (bref ou long) 
+et éventuellement les \clef{infixes} ou \clef{suffixes} qui seraient 
+caractéristiques d'une forme verbale. Par exemple, la forme de 
+l'accompli \tl{sDm.n=f} (\td{il a écouté}), que nous avons vu 
+rapidement lors du dernier cours, est facilement reconnaissable par 
+le \tl{n}, qui s'ajoute au thème verbal, toujours bref. À retenir 
+pour l'accompli \tl{sDm.n=f}, \clef{morphologie = thème verbal bref + 
+suffixe \tl[orange]{n}}, à toutes les personnes. \emph{C'est une bonne 
+nouvelle.}
+
+Mais il y a un revers à la médaille.
+
+\paragraph{Complexe :}
+en l'absence de désinences caractéristiques, et pour chaque personne 
+(comme au parfait ancien), l'analyse des formes verbales peut parfois 
+être délicate. Par exemple, si, hors de tout contexte, je vous dis 
+que la forme de l'aoriste (inaccompli général) est \tl{sDm=f} (\td{il 
+écoute}) et que, de même, le subjonctif (\td{qu'il écoute}) se 
+caractérise par la forme \tl{sDm=f}, vous resterez probablement 
+perplexes. Ce qui différencie ces deux \tl{sDm=f}, c'est, par exemple, 
+la morphologie de la forme pour les verbes géminés (\tl{mAA=f} à 
+l'aoriste, mais \tl{mA=f} au subjonctif), mais aussi les constructions 
+dans lesquelles se trouveront ces formes verbales. Cela peut vous 
+paraître obscur, mais vous verrez, nous apprendrons à analyser les 
+formes verbales méthodiquement, en observant leur morphologie et leur 
+syntaxe.
+
+La procédure d'analyse des formes verbales (une fois toutes les formes 
+connues) sera la suivante : 
+\begin{enumerate*}[label=\arabic*\degre]
+  \item analyser la morphologie du verbe et éliminer les formes 
+        verbales qui ne lui correspondent pas ;
+  \item analyser la syntaxe pour éliminer les formes verbales 
+        restantes qui ne correspondent pas à la construction.
+\end{enumerate*}
+Nous verrons cela en temps et en heure.
+
+
+\chapter{Les formes de la conjugaison suffixale (aperçu général)}
+% =====================================================================
+
+Il y a \clef{dix formes verbales} à apprendre, c'est-à-dire qu'il 
+faudra apprendre leur morphologie et leurs emplois. Nous le ferons 
+pas à pas, mais voici un tableau synthétique pour vous donner un 
+aperçu d'ensemble (voir aussi le document Tableau des formes de 
+la conjugaison suffixale dans la rubrique Documents de cours).
+
+
+\begin{table}
+  \caption[Conjugaison suffixale, classement syntaxique]
+          {Conjugaison suffixale, classement syntaxique 
+           (\colorbox{fvinit}{verbes principaux} ; 
+            \colorbox{fvdepd}{verbes en dépendance} ; 
+            \colorbox{fvmisc}{formes rares})}
+  \label{tbl:conj_suff}
+  \renewcommand\tabularxcolumn[1]{A{#1}}
+  \begin{tabularx}{\textwidth}{|>{\bfseries}X|*{6}{X|}}
+    \cline{2-7}
+      \multicolumn{1}{c|}{~} &
+      \multirow{2}{*}{\bfseries\vl{3}} &
+      \multirow{2}{*}{\bfseries\vg{2}} &
+      \multirow{2}{*}{\bfseries\vi{3}} &
+      \multicolumn{3}{c|}{\bfseries\va{}}
+    \tabularnewline
+      \multicolumn{1}{c|}{~} &
+      ~ & ~ & ~ & 
+      \bfseries\td{donner} & 
+      \bfseries\td{venir} & 
+      \bfseries\td{apporter}
+    \tabularnewline
+    \hline
+      \cellcolor{fvinit}Perfectif \tl{sDm=f} &
+      \tl{sDm} & \tl{mA} & \tl{mr} & \tl{rdi} & 
+      \tl{ii}/\tl{iw} & \tl{in}
+    \tabularnewline
+    \hline
+      \cellcolor{fvinit}Accompli \tl{sDm.n=f} &
+      \tl{sDm.n} & \tl{mA.n} & \tl{mr.n} & \tl{rdi.n}/\tl{di.n} & 
+      \tl{ii.n}/\tl{iw.n} & \tl{in.n}
+    \tabularnewline
+    \hline
+      \cellcolor{fvinit}Aoriste \tl{sDm=f} & \tl{sDm} & \tl{mAA} & 
+      \tl{mr} & \tl{di} & \tl{iw}  & \tl{in}
+    \tabularnewline
+    \hline
+      \cellcolor{fvinit}Prospectif \tl{sDm(w)=f} & \tl{sDm(w/y)} & 
+      \tl{mAA} & \tl{mr(w/y)} & \tl{rdi} & \tl{iw} & \tl{in}
+    \tabularnewline
+    \hline
+      \cellcolor{fvinit}Subjonctif \tl{sDm=f} & \tl{sDm} & 
+      \tl{mA}/\tl{mAn} & \tl{mr(y)} & \tl{di} & \tl{iwt} & \tl{int}
+    \tabularnewline
+    \hline
+      \cellcolor{fvdepd}\tl{sDmt=f} & \tl{sDmt} & \tl{mAA} & 
+      \tl{mrt} & \tl{rdit} & \tl{iit} & \tl{int}
+    \tabularnewline
+    \hline
+      \cellcolor{fvdepd}Forme nominale \tl{mrr=f} & \tl{sDm} & 
+      \tl{mAA} & \tl{mrr} & \tl{didi} & \tl{iw(w)} & \tl{inn}
+    \tabularnewline
+    \hline
+      \cellcolor{fvmisc}\tl{sDm.xr=f} & \tl{sDm.xr} & 
+      \tl{mAA.xr} & \tl{mr.xr} & \tl{(r)di.xr} &  & \tl{in.xr}
+    \tabularnewline
+    \hline
+      \cellcolor{fvmisc}\tl{sDm.kA=f} & \tl{sDm.kA} & 
+      \tl{mAA.kA} & \tl{mr.kA} & \tl{(r)di.kA} & \tl{iw.kA} & 
+      \tl{in.kA}
+    \tabularnewline
+    \hline
+      \cellcolor{fvmisc}\tl{sDm.in=f} & \tl{sDm.in} & 
+      \tl{mAA.in} & \tl{mr.in} & \tl{(r)di.in} & \tl{ii.in} & 
+      \tl{in.in}
+    \tabularnewline
+    \hline
+  \end{tabularx}
+\end{table}
+
+Le \tref{tbl:conj_suff} s'inspire du tableau présenté dans la 
+grammaire de \cite[\pno~343, §\,547]{MW}, ci-dessous 
+\tref{tbl:conj_suff_MW}.
+
+Ce tableau propose un classement des formes verbales prioritairement 
+selon le critère de la syntaxe :
+\begin{itemize}
+  \item les formes sur \colorbox{fvinit}{fond orangé} peuvent être 
+        utilisées comme verbes principaux d'une phrase
+  \item les formes sur \colorbox{fvdepd}{fond bleu} ne sont jamais 
+        utilisées comme verbes principaux d'une phrase
+  \item (les formes sur \colorbox{fvmisc}{fond vert} sont des formes 
+        particulières plus rares.)
+\end{itemize}
+
+\bigskip
+
+On peut aussi reclasser les formes verbales selon leur valeur 
+aspectuelle (et temporelle), voir \tref{tbl:conj_suff_aspect}.
+
+
+\begin{table}
+  \caption[Conjugaison suffixale, classement aspectuel]
+          {Conjugaison suffixale, classement aspectuel 
+           (\colorbox{fvinit}{verbes principaux} ; 
+            \colorbox{fvdepd}{verbes en dépendance} ; 
+            \colorbox{fvmisc}{formes rares})}
+  \label{tbl:conj_suff_aspect}
+  \renewcommand\tabularxcolumn[1]{A{#1}}
+  \begin{tabularx}{\textwidth}{|>{\bfseries}X|*{6}{X|}}
+    \cline{2-7}
+      \multicolumn{1}{c|}{~} &
+      \multirow{2}{*}{\bfseries\vl{3}} &
+      \multirow{2}{*}{\bfseries\vg{2}} &
+      \multirow{2}{*}{\bfseries\vi{3}} &
+      \multicolumn{3}{c|}{\bfseries\va{}}
+    \tabularnewline
+      \multicolumn{1}{c|}{~} &
+      ~ & ~ & ~ & 
+      \bfseries\td{donner} & 
+      \bfseries\td{venir} & 
+      \bfseries\td{apporter}
+    \tabularnewline
+    \hline
+
+      \multicolumn{7}{|l|}{%
+        \cellcolor{fvtype}\bfseries Aspect accompli%
+      }
+    \tabularnewline
+    \hline
+      \cellcolor{fvinit}Perfectif \tl{sDm=f} &
+      \tl{sDm} & \tl{mA} & \tl{mr} & \tl{rdi} & 
+      \tl{ii}/\tl{iw} & \tl{in}
+    \tabularnewline
+    \hline
+      \cellcolor{fvinit}Accompli \tl{sDm.n=f} &
+      \tl{sDm.n} & \tl{mA.n} & \tl{mr.n} & \tl{rdi.n}/\tl{di.n} & 
+      \tl{ii.n}/\tl{iw.n} & \tl{in.n}
+    \tabularnewline
+    \hline
+      \cellcolor{fvdepd}\tl{sDmt=f} & \tl{sDmt} & \tl{mAA} & 
+      \tl{mrt} & \tl{rdit} & \tl{iit} & \tl{int}
+    \tabularnewline
+    \hline
+
+      \multicolumn{7}{|l|}{%
+        \cellcolor{fvtype}\bfseries Aspect inaccompli%
+      }
+    \tabularnewline
+    \hline
+      \cellcolor{fvinit}Aoriste \tl{sDm=f} & \tl{sDm} & \tl{mAA} & 
+      \tl{mr} & \tl{di} & \tl{iw}  & \tl{in}
+    \tabularnewline
+    \hline
+      \cellcolor{fvdepd}Forme nominale \tl{mrr=f} & \tl{sDm} & 
+      \tl{mAA} & \tl{mrr} & \tl{didi} & \tl{iw(w)} & \tl{inn}
+    \tabularnewline
+    \hline
+
+      \multicolumn{7}{|l|}{%
+        \cellcolor{fvtype}\bfseries%
+        Formes prospectives (modalités de futur)%
+      }
+    \tabularnewline
+    \hline
+      \cellcolor{fvinit}Prospectif \tl{sDm(w)=f} & \tl{sDm(w/y)} & 
+      \tl{mAA} & \tl{mr(w/y)} & \tl{rdi} & \tl{iw} & \tl{in}
+    \tabularnewline
+    \hline
+      \cellcolor{fvinit}Subjonctif \tl{sDm=f} & \tl{sDm} & 
+      \tl{mA}/\tl{mAn} & \tl{mr(y)} & \tl{di} & \tl{iwt} & \tl{int}
+    \tabularnewline
+    \hline
+
+      \multicolumn{7}{|l|}{%
+        \cellcolor{fvtype}\bfseries%
+        Formes plus rares (valeurs précisées ultérieurement)%
+      }
+    \tabularnewline
+    \hline
+      \cellcolor{fvmisc}\tl{sDm.xr=f} & \tl{sDm.xr} & 
+      \tl{mAA.xr} & \tl{mr.xr} & \tl{(r)di.xr} &  & \tl{in.xr}
+    \tabularnewline
+    \hline
+      \cellcolor{fvmisc}\tl{sDm.kA=f} & \tl{sDm.kA} & 
+      \tl{mAA.kA} & \tl{mr.kA} & \tl{(r)di.kA} & \tl{iw.kA} & 
+      \tl{in.kA}
+    \tabularnewline
+    \hline
+      \cellcolor{fvmisc}\tl{sDm.in=f} & \tl{sDm.in} & 
+      \tl{mAA.in} & \tl{mr.in} & \tl{(r)di.in} & \tl{ii.in} & 
+      \tl{in.in}
+    \tabularnewline
+    \hline
+  \end{tabularx}
+\end{table}
+
+Le \tref{tbl:conj_suff} s'inspire du tableau présenté dans la 
+grammaire de \cite[\pno~343, §\,547]{MW}, ci-dessous 
+\tref{tbl:conj_suff_MW}.
+
+Le tableau de \cite[\pno~343, §\,547]{MW}, se présente ainsi 
+(\tref{tbl:conj_suff_MW}), avec des menus différences dans les 
+conventions de translittération.
+
+\begin{table}
+  \caption{Conjugaison suffixale, \cite[\pno~343, §\,547]{MW}}
+  \label{tbl:conj_suff_MW}
+  \includegraphics[width=.75\textwidth]{conj_suff_MW}
+\end{table}
+
+
+Il n'est évidemment pas question d'apprendre de manière abrupte 
+ce tableau. Nous allons aborder chaque forme verbale, l'une après 
+l'autre. Il est toutefois conseillé d'imprimer le tableau des formes 
+verbales postées dans la rubrique Documents de cours (ou tout autre 
+tableau synthétique des formes verbales) et de l'avoir avec soi lors 
+de l'apprentissage et des exercices, car nous nous référerons 
+systématiquement à lui.
+
+\begin{center}
+  \begin{hieroglyph}jw-sDm-m-n-T:n:3\end{hieroglyph}\\
+  \tl{iw sDm.n=Tn}\\
+  \td{Vous avez écouté.}
+\end{center}
+
+
+\chapter{Les phrases verbales (présentation très générale)}
+% =====================================================================
+
+Les phrases verbales sont des propositions dont \clef{le 
+prédicat est assumé par un verbe à une forme de la conjugaison dite 
+\frquote{suffixale}}. Si, en français, l'ordre des mots normal est 
+Sujet + Verbe + Complément, l'ordre des mots est différents dans 
+les propositions à prédicat verbal égyptiennes.
+
+En français : Paul écoute son frère.
+\donc{} ordre des mots = S + V/P + COD
+
+En égyptien ancien, la proposition verbale a la construction de base 
+suivante :\\
+Prédicat + Sujet, c'est-à-dire Verbe + Sujet.
+
+Certaines formes verbales se construisent avec \tl{iw} :
+
+\donc{} \tl{iw} + prédicat + sujet, par exemple le \tl{sDm.n.f} 
+accompli.
+
+
+\begin{example}[title={}]
+  \begin{hieroglyph}jw sDm-m n:f\end{hieroglyph}
+
+  \tl{iw sDm.n=f}
+
+  \td{il a écouté}
+\end{example}
+
+D'autres ne se construisent \textbf{jamais} avec \tl{iw}, comme le 
+subjonctif \tl{sDm=f} par exemple :
+
+\begin{example}[title={}]
+  \begin{hieroglyph}sDm-m f\end{hieroglyph}
+
+  \tl{sDm=f}
+
+  \td{Puisse-t-il écouter !} / \td{Qu'il écoute !}
+\end{example}
+
+L'aoriste a, pour sa part, comme on le verra, une construction 
+particulière avec sujet antéposé :
+
+\begin{example}[title={}]
+  \begin{hieroglyph}jw-f sDm-m f\end{hieroglyph}
+
+  \tl{iw=f sDm=f}
+
+  \td{il écoute (régulièrement).}
+\end{example}
+
+
+Nous allons étudier tout cela progressivement.
+
+\begin{aparte}[title={Dernière remarque}]
+  Vous le savez, en français, il y a des propositions principales 
+  et des propositions subordonnées. Jusqu'à présent, nous avons vu 
+  en égyptien essentiellement des phrases simples. Nous allons aussi 
+  progressivement aborder d'avantage les phrases complexes, avec des 
+  verbes en position principale (verbe principal) et des verbes dans 
+  des propositions complétives, circonstancielles, relatives\dots 
+  Nous verrons donc, pour chaque forme verbale, ses emplois possibles, 
+  en tant que verbes de propositions principales ou dépendantes.
+\end{aparte}
+
+\bigskip
+
+\begin{RaggedLeft}
+  \larger\em\bfseries%
+  Nous sommes prêts pour le premier cours !\par
+\end{RaggedLeft}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\part[L'accompli \tl{sDm.n=f} (1)]{L'accompli \tl{sDm.n=f} (1) 
+(\td{il a écouté} -- \td{ayant écouté})}
+\label{prt:S3_accompli}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\chapter{Introduction}
+% =====================================================================
+
+Dans le \Pref{prt:formule_offrande} du \titleref{bk:semestre2}, nous 
+avons étudié un formulaire de légende des scènes dans les temples (se 
+reporter au cours).
+
+\medskip
+
+\noindent%
+\begin{minipage}{5.5cm}
+  \includegraphics[width=5cm, trim=0 11cm 0 0, clip]
+                  {Allen_AmenhotepIII}
+\end{minipage}%
+\hfill%
+\begin{minipage}{\textwidth-5.5cm}
+  \begin{hieroglyph}di':n-n:k\end{hieroglyph} ou 
+  \begin{hieroglyph}di-n:n:k\end{hieroglyph} 
+
+  \tl{di.n(=i) n=k}
+
+  \td{je t'ai donné} 
+
+  (verbe \tl{rdi} à l'accompli \tl{sDm.n=f} + sujet pronominal + 
+  complément d'attribution). 
+
+  \bigskip
+  Nous allons reprendre cette forme dans le détail.
+\end{minipage}%
+
+\medskip
+
+C'est une forme verbale qui se caractérise par un thème verbal bref 
+et un suffixe \tl{n}. La forme est ainsi facilement identifiable. 
+Sa valeur aspectuelle est celle d'un accompli perfectif, un accompli 
+ponctuel ou résultatif. Il peut marquer une antériorité. Il est le 
+plus souvent traduit en français par un passé simple ou un passé 
+composé (voire un-plus-que-parfait ou futur antérieur).
+
+\begin{aparte}[title={Appellations modernes}]
+  \begin{itemize}
+    \item \citeauthor{MW} : accompli \tl{sDm.n=f}
+    \item \citeauthor{Obsomer} : \tl{sDm.n=f}
+    \item \citeauthor{GM} : accompli agentiel\footnotemark{} (leçon~31)
+    \item \citeauthor{Allen} : \emph{perfect} (leçon~18)
+  \end{itemize}
+\end{aparte}
+\footnotetext{\cite{GM}, expose les formes accomplies des verbes 
+égyptiens Leçons~30--34. Leur système de présentation du système 
+des accomplis (incluant le parfait ancien) diffère beaucoup des 
+autres manuels. Le parfait ancien est appelé \frquote{parfait} 
+et la construction pseudo-verbale qui l'utilise \frquote{accompli 
+non-agentiel} (leçon~30) et \frquote{accompli des intransitifs} 
+(Leçon~33). L'accompli \tl{sDm.n=f} est appelé \frquote{accompli 
+agentiel} (leçon~31) car il est interprété comme suit : \td{cela 
+a été mangé par (\tl{(i)n}) lui} = \td{il a mangé}.}
+
+
+\chapter{Valeurs}
+% =====================================================================
+
+\section{Accompli : \td{il a écouté}, \td{lui ayant écouté}}
+% ---------------------------------------------------------------------
+Il faut retenir prioritairement sa \clef{valeur aspectuelle 
+d'accompli}. On le rencontre dans la narration et dans le discours. 
+Le choix du temps en français (très souvent le passé simple ou 
+le passé composé) dépendra du contexte d'énonciation et de la 
+construction, mais les temps composés en français seront souvent 
+privilégiés, puisqu'ils rendent compte de l'aspect accompli.
+
+Si vous souhaitez lire des détails sur la valeur de cette forme, 
+voir \cite[§\,558-561]{MW}.
+
+\begin{aparte}[title={Les notions d'aspect de de temps --- Rappels}]
+  Quand une proposition utilise un verbe pour exprimer un procès, 
+  ce procès est déterminé de deux façons :
+  \begin{itemize}
+    \item en \textbf{aspect} : le verbe exprime-t-il un \textbf{procès 
+          révolu, accompli} (le serviteur a mangé, avait mangé, aura 
+          mangé) ou \textbf{non révolu, non accompli} (le serviteur 
+          est en train de manger, mangeait, mangera).
+    \item En \textbf{temps} : présent, passé ou futur.
+  \end{itemize}
+
+  \bigskip
+
+  \begin{tabular}{ccc}
+  \toprule
+            & Accompli                 & Non accompli \\
+    \otoprule
+    Présent & Le serviteur a mangé     & Le serviteur mange \\
+    Passé   & Le serviteur avait mangé & Le serviteur mangeait \\
+    Futur   & Le serviteur aura mangé  & Le serviteur mangera \\
+    \bottomrule
+  \end{tabular}
+\end{aparte}
+
+\section{\frquote{Présent performatif}}
+% ---------------------------------------------------------------------
+Dans le \Pref{prt:formule_offrande} du \titleref{bk:semestre2}, nous 
+avons abordé l'accompli \tl{sDm.n=f} dans le cadre de la légende des 
+scènes d'offrande dans les temples.
+
+\begin{hieroglyph}di-n:n:k anx\end{hieroglyph} 
+\tl{di.n(=i) n=k anx}, \td{je t'ai donné la vie}
+
+Dans ce cadre épigraphique, \tl{iw} n'est jamais présent.
+
+Certains auteurs considèrent par ailleurs, qu'en ce contexte 
+\tl{sDm.n=f} est un emploi formulaire (figé) (voir \cite[§\,563]{MW}).
+
+Il s'agirait d'un discours performatif (l'acte est accompli par 
+l'énonciation comme dans l'exemple souvent cité \frquote{j'ouvre 
+la séance}).
+
+Dans cette optique, les légendes des temples, explicitant les actions 
+des divinités, l'accompli \tl{sdm.n=f} serait utilisé dans ce sens. 
+Ainsi quand le dieu représenté face au pharaon dit à celui-ci \td{je 
+te donne la vie}, la forme utilisée est l'accompli, car en prononçant 
+la parole, l'action serait déjà réalisée.
+Cet emploi, appelé \frquote{présent performatif}, est aussi désigné 
+sous l'expression \frquote{accompli rituel}.
+
+Si le sujet vous intéresse, vous trouverez une bibliographie ici :
+\fullcite[en particulier \ppno~199--200]{Guermeur}.
+
+Tous les auteurs ne traduisent pas le \tl{sDm.n=f} en ce contexte 
+comme un présent performatif. Vous pouvez très bien conserver 
+l'accompli si vous le souhaitez dans la traduction, en ayant en 
+tête la valeur particulière de ce type d'inscriptions.
+
+
+\chapter{Morphologie}
+% =====================================================================
+
+L'accompli \tl{sDm.n=f} est la forme la plus facilement reconnaissable 
+en raison du \clef{suffixe \tl[ClefCol]{n}} qui se greffe au thème 
+verbal, graphie \begin{hieroglyph}n\end{hieroglyph} (ou, plus rare, 
+\begin{hieroglyph}N\end{hieroglyph}).
+
+Le thème verbal est normalement bref, mais les verbes géminés 
+présentent normalement un thème bref, mais il est parfois géminé.
+
+Les verbes irréguliers \tl{rdi} et \tl{iwi}/\tl{iii} ont deux thèmes 
+verbaux possibles.
+
+{
+\renewcommand\tabularxcolumn[1]{A{#1}}
+\noindent%
+\begin{tabularx}{\textwidth}{|>{\bfseries}X|*{6}{X|}}
+  \cline{2-7}
+    \multicolumn{1}{c|}{~} &
+    \multirow{2}{*}{\bfseries\vl{3}} &
+    \multirow{2}{*}{\bfseries\vg{2}} &
+    \multirow{2}{*}{\bfseries\vi{3}} &
+    \multicolumn{3}{c|}{\bfseries\va{}}
+  \tabularnewline
+    \multicolumn{1}{c|}{~} &
+    ~ & ~ & ~ & 
+    \bfseries\td{donner} & 
+    \bfseries\td{venir} & 
+    \bfseries\td{apporter}
+  \tabularnewline
+  \hline
+    \cellcolor{fvinit}Accompli \tl{sDm.n=f} &
+    \tl{sDm.n} & 
+    \tl{mA.n}\\{\smaller parfois gémination \tl{sobb.n}} & 
+    \tl{mr.n} & \tl{rdi.n}/\tl{di.n} & \tl{ii.n}/\tl{iw.n} & \tl{in.n}
+  \tabularnewline
+  \hline
+\end{tabularx}
+}
+
+\begin{remarque}[Important]
+  Si le sujet est nominal, il se place aussi après le verbe :
+
+  \begin{hieroglyph}
+    sDm-m-n bA:k-A1
+  \end{hieroglyph}
+
+  \tl{(iw) sDm.n bAk}
+
+  \td{Le serviteur a écouté.}
+\end{remarque}
+
+
+\chapter{Les emplois}
+% =====================================================================
+
+\section{Prédicat principal (position autonome ou initiale)}
+% ---------------------------------------------------------------------
+\begin{aparte}[title={Remarques préalables sur le vocabulaire utilisé}]
+  Les formes verbales peuvent être employées comme verbe principal 
+  ou verbe dépendant (subordonné).
+
+  Observez ces phrases en français :
+  \begin{itemize}
+    \item \td{Je l'ai appelé.}
+          Verbe principal seul.
+    \item \td{Je l'ai appelé et nous sommes allés au cinéma.}
+          Deux verbes coordonnés.
+    \item \td{Nous étions au cinéma, quand il a appelé.}
+          Verbe principal et verbe dans une subordonnée.
+  \end{itemize}
+
+  Dans la grammaire de l'égyptien ancien, nous parlerons de :
+  \begin{itemize}
+    \item \td{Je l'ai appelé.}
+          \textbf{Fonction prédicative du verbe (position autonome)}.
+    \item \td{Je l'ai appelé et nous sommes allés au cinéma.}
+          \textbf{Fonction prédicative du verbe} : 
+          \textbf{position initiale} (le 1\ier~verbe) et 
+          \textbf{séquentielle} (le~2\ieme).
+  \end{itemize}
+
+  Pour le 3\ieme~cas (verbes subordonnés), le vocabulaire est plus 
+  complexe :
+  \begin{itemize}
+    \item \td{Nous étions au cinéma, quand il a appelé.}
+          \textbf{Verbe initial}, et, selon la construction 
+          égyptienne, verbe dans une subordonnée 
+          \textbf{circonstancielle \frquote{véritable}} 
+          (introduite par une conjonction de subordination en 
+          égyptien) ou en \textbf{\emph{fonction circonstancielle}} 
+          (circonstancielle \frquote{virtuelle} construction sans 
+          conjonction du subordination).
+  \end{itemize}
+
+  Dans un premier temps, nous n'allons aborder, pour les premières 
+  formes verbales que nous étudions (l'accompli \tl{sDm.n=f}, 
+  l'aoriste \tl{sDm=f}, et les formes prospectives), que les 
+  \textbf{\emph{fonctions prédicatives}} du verbe (la forme verbale 
+  comme prédicat de la proposition), d'abord en \textbf{position 
+  autonome ou initiale} (verbe principal en gros), puis en 
+  \textbf{position séquentielle} (2\ieme~verbe coordonné). 
+  Nous n'aborderons les emplois dans les subordonnées 
+  (\frquote{virtuelles} et \frquote{véritables} que dans un 
+  second temps.\par
+\end{aparte}
+
+L'accompli \tl{sDm.n=f} peut ainsi constituer le prédicat d'une 
+proposition autonome. En ce cas, il est normalement précédé de 
+l'auxiliaire d'énonciation \tl{iw} (ou d'autres auxiliaires avec 
+des sens différents, qui peuvent se substituer à lui).
+
+\begin{example}[title={}]
+  \begin{hieroglyph}jw ini-n:A1 Dd-Dd-i-Y1:A1\end{hieroglyph}
+
+  \tl{iw in.n=i +di.}
+  \infos{\cite[ex~794]{MW}, \source{P. Westcar}, 8, 8}
+
+  \td{Je suis allé chercher Djédi}
+  = \td{J'ai amené Djédi}
+\end{example}
+
+\begin{example}[title={}]
+  \begin{hieroglyph}m-a:k pH-D54:n n:3 Xn:n-nw-w-pr\end{hieroglyph}
+
+  \tl{mk, pH.n=n Xnw}
+  \infos{\cite[ex~796]{MW}, \CdN, 2--3}
+
+  \td{Vois, nous avons atteint le pays.} 
+\end{example}
+
+\begin{example}[title={}]
+  \begin{hieroglyph}aHa-a:n r:a:n f:n nn'\end{hieroglyph}
+
+  \tl{aHa.n rdi.n=f n(=i) nn}
+  \infos{\cite[18.11]{Allen}, \source{TPPI}, 15, §\,20, 6}
+
+  \td{Alors, il m'a donné cela.}
+
+  \tg{L'élément introducteur est l'auxiliaire de la narration 
+      \tl[Gramm]{aHa.n}.}
+\end{example}
+
+
+\chapter{Les emplois (2), en fonction séquentielle}
+% =====================================================================
+
+L'accompli \tl{sDm.n=f} peut être employée en position séquentielle, 
+c'est-à-dire dans une proposition qui fait suite (de manière 
+coordonnée) à une proposition initiale. Il marque alors simplement 
+une \textbf{nouvelle phase dans le récit}.
+
+En français, on peut séparer les propositions par des virgules ou 
+les coordonner avec \frquote{et}. La proposition séquentielle n'est 
+normalement pas introduite par \tl{iw} (sauf éventuellement en cas de 
+sujet pronominal). Nous avons déjà vu ce phénomène avec les phrases 
+présentant une proposition initiale type prédicat adverbial, suivis de 
+proposition à prédicat adverbial séquentielles.
+
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    jw h-A-b-D54:n w m-\!\!r:. nTr-Hm D-f-i r:iw*1 Sn:n-Sn:n-niwt
+    gm-m n:s x-\!b-A-\!\!t:. g*r:grg n:s
+  \end{hieroglyph}
+
+  \tl{iw \red{hAb.n} w(i) (i)m(y)-r(A) Hm-nTr +f(A)i r Iw-\Smaj nSn, 
+      \red{gm.n(=i)} s(y) xbA.t, \red{grg.n(=i)} s(y)}\\
+  \infos{\cite[ex~801]{MW}, \source{St. Chicago OIM\,12105}}
+
+  \td{Le chef des prêtres Djefai m'a envoyé dans (la ville 
+  d')Ioushenshen, je l'ai trouvée dévastée et je l'ai refondée.} 
+
+  \tg{Trois verbes à l'accomplis \tl[Gramm]{sDm.n=f} : le premier est 
+      le verbe \textbf{initial}, les deux autres des \textbf{verbes en 
+      fonction séquentielle}}
+\end{example}
+
+
+\chapter{La négation : \tl{n sDm=f}, \td{il n'a pas écouté}}
+% =====================================================================
+
+L'accompli \tl{sDm.n=f} en fonction prédicative est nié au moyen 
+de la négation \tl{n} suivi du verbe conjugué à une autre forme de 
+l'accompli = \textbf{le \tl{sDm=f} perfectif (\td{il écouta})}.
+Nous aborderons dans le détail cette forme verbale plus tard, avec ses 
+emplois, mais son emploi le fréquent est dans cette forme négative. En 
+attendant le cours sur cette forme verbale (\Pref{prt:S3_perfectif}), 
+voici le tableau de sa morphologie :
+
+{%
+\renewcommand\tabularxcolumn[1]{A{#1}}
+\noindent%
+\begin{tabularx}{\textwidth}{|>{\bfseries}X|*{6}{X|}}
+  \cline{2-7}
+    \multicolumn{1}{c|}{~} &
+    \multirow{2}{*}{\bfseries\vl{3}} &
+    \multirow{2}{*}{\bfseries\vg{2}} &
+    \multirow{2}{*}{\bfseries\vi{3}} &
+    \multicolumn{3}{c|}{\bfseries\va{}}
+  \tabularnewline
+    \multicolumn{1}{c|}{~} &
+    ~ & ~ & ~ & 
+    \bfseries\td{donner} & 
+    \bfseries\td{venir} & 
+    \bfseries\td{apporter}
+  \tabularnewline
+  \hline
+    \cellcolor{fvinit}Perfectif \tl{sDm=f} &
+    \tl{sDm} & \tl{mA} & \tl{mr} & \tl{rdi} & 
+    \tl{ii}/\tl{iw} & \tl{in}
+  \tabularnewline
+  \hline
+\end{tabularx}
+}
+
+\begin{notabene}
+  La négation \tl{n sDm=f} n'est pas précédée de \tl{iw}.
+\end{notabene}
+
+\begin{example}[title={}]
+  \begin{hieroglyph}D35 U2:ir A1 mi-t:y z:r-w p:n\end{hieroglyph}
+
+  \tl{n mA=i mity srw pn}
+  \infos{\citeauthor[ex~944]{MW}, \source{Meir}~III, 23}
+
+  \td{Je n'ai pas vu de semblable à cette oie.} 
+\end{example}
+
+
+\chapter{Les équivalents passifs}
+% =====================================================================
+
+Toutes les formes de la conjugaison suffixale ont une forme au 
+passif. Le passif de la conjugaison suffixal constitue \frquote{un 
+des problèmes les plus épineux de la grammaire égyptienne} 
+(\cite[§\,661]{MW}). Pour chaque forme verbale, le cours indiquera 
+l'équivalent au passif. Vous pouvez aussi trouver un tableau 
+synthétique des passifs dans la Rubrique Documents.
+
+Pour résumé, sachez qu'il existe deux types de construction du passif 
+selon les formes verbales :
+\begin{itemize}
+  \item un passif avec suffixe \tl{-w}, \tl{-(w)}
+  \item un passif avec suffixe \tl{-tw}, \tl{-t(w)}
+\end{itemize}
+
+L'accompli \tl{sDm.n=f} a un passif \tl{sDm(w)=f} (éventuellement 
+suffixe \tl{-y} pour les verbes faibles, \tl{mr(y)=f})
+\begin{itemize}
+  \item \tl{iw sDm.n=f} = \td{il a écouté}
+  \item \tl{iw sDm(w)=f} = \td{il a été écouté}
+\end{itemize}
+
+
+\chapter{Excursus --- Pour rappel : le parfait ancien face à 
+l'accompli \tl{sDm.n=f}}
+% =====================================================================
+
+{\bfseries Avant ce cours, vous connaissiez déjà une forme à 
+l'accompli : le parfait ancien dans une \PPP. Ne l'oubliez pas !}
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    i-W s-X:r-Xkr 
+    n:\!A1 S:n-b-t :nb
+     Ab-Dw:niwt-A40
+  \end{hieroglyph}
+
+  \tl{iw sXkr.n=i Snb.t nb AbDw}
+  \infos{\cite[§\,317]{Obsomer_2003}, \source{St. Berlin~1204}}
+
+  \td{J'ai orné la poitrine du maître d'Abydos.}
+
+  \tg{\tl[Gramm]{sDm.n=f}.}
+
+
+  \begin{hieroglyph}
+    i-W t:t-W-A53-A1 
+    s-X:r-sXr:D40 
+    m nbw:N33:3
+  \end{hieroglyph}
+
+  \tl{iw twt=i sxr m nbw}
+  \infos{\cite[§\,426]{Obsomer_2003}, \CdS B\,307}
+
+  \td{Ma statue est recouverte d'or.}
+
+  \tg{Parfait ancien dans une construction pseudo-verbale.}
+\end{example}
+
+\bigskip
+
+\begin{exercice}[before upper={\centering}]
+  Nous pouvons à présent aborder les exercices !
+\end{exercice}
+

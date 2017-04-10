@@ -1,0 +1,52 @@
+%!TEX root = DULAEP_EG.htx
+%##HieroDef.txt
+
+\chapter*{Exercice~14 --- Épigraphie}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{Détail de l'intérieur du sarcophage de l'intendant 
+  Sopi, musée du Louvre \inv{E\,10779B} (\MK) :} Translittérer et 
+  traduire les deux premières lignes.\\
+  \includegraphics[width=\linewidth]{Louvre_E10779B_Sopi}%
+  \begin{solution}
+    \lgn{1} Deux analyses recevables pour la première ligne :
+    \begin{itemize}
+      \item \tl{Dd mdw in Nw.t : di.n(=i) n=k s.t Xr rd.wy=k},
+            \td{Paroles à dire par Nout : (je) t'ai donné la place 
+            sous tes pieds}
+      \item \tl{Dd mdw in Nw.t : di.n(=i) n=k (A)s.t Xr rd.wy=k}, 
+            \td{Paroles à dire par Nout : (j')ai placé pour toi Isis 
+            sous tes pieds}
+    \end{itemize}
+    Comparer avec la paroi en face. Le sarcophage extérieur de Sopi 
+    (visible sur la base Atlas du musée du Louvre) donne pour la paroi 
+    de tête la variante avec \tl{Nb.t-Hw.t}, \td{Nephthys}).
+
+    \lgn{2} \tl{imAxy xr nTr-niwty=f im(y)-r(A)-pr Sp mAa-xrw}, 
+    \td{Le vénérable auprès de son dieu local, l'intendant Sopi, 
+    juste-de-voix}
+  \end{solution}
+\end{questions}
+
+\subsection*{Vocabulaire}
+\begin{itemize}
+  \item \begin{hieroglyph}md-d-w-A2\end{hieroglyph} 
+        \tl{mdw}, \td{parole}, \td{discours}
+  \item \begin{hieroglyph}Dd' md-1:3\end{hieroglyph} 
+        \tl{Dd mdw.w}, \td{prononcer}, \td{dire des paroles / formules}
+  \item \begin{hieroglyph}.:\!\!md-\!\!D-i-n\end{hieroglyph} 
+        \tl{Dd mdw in}, \td{prononcer une parole par (suit 
+        le nom d'une divinité)} (dans une légende). Souvent abrégé 
+        \begin{hieroglyph}.:\!\!md-\!\!D\end{hieroglyph} 
+  \item \begin{hieroglyph}ns:\!\!\!pr\s2\end{hieroglyph} 
+        \tl{(i)m(y)-r(A) pr}, \td{intendant} (titre, \litt 
+        \td{directeur de la maison}).
+        Variante de \begin{hieroglyph}m:r\end{hieroglyph} 
+        \tl{(i)m(y)-r(A)}, \tl{mr}
+  \item \begin{hieroglyph}di-n:n:k\end{hieroglyph} 
+        \tl{di.n(=i) n=k} (forme verbale), \td{je t'ai donné}, 
+        \td{je te donne}
+  \item \begin{hieroglyph}nw*t:pt-B1\end{hieroglyph} 
+        \tl{Nw.t}, \td{Nout}, déesse du ciel
+\end{itemize}

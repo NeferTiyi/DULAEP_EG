@@ -1,0 +1,118 @@
+%!TEX root = DULAEP_EG.htx
+%##HieroDef.txt
+
+\chapter*{Exercice~3 (exercice à envoyer par email à l'enseignant)}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{En utilisant le tableau des unilitères, translittérez 
+  les mots suivants}
+
+  \begin{multicols}{2}
+  \begin{parts}
+    \part 
+    \begin{hieroglyph}H-n:a\end{hieroglyph}
+    \td{avec}
+    \begin{solution}
+      \tl{Hna} \quad%
+      \reflectbox{\begin{hieroglyph}H-n:a\end{hieroglyph}}%
+    \end{solution}
+
+    \part 
+    \begin{hieroglyph}m\end{hieroglyph}
+    \td{dans}
+    \begin{solution}
+      \tl{m}\quad%
+      \reflectbox{\begin{hieroglyph}m\end{hieroglyph}}%
+    \end{solution}
+
+    \part 
+    \begin{hieroglyph}i-m\end{hieroglyph}
+    \td{là}, \td{dedans}
+    \begin{solution}
+      \tl{im} \quad%
+      \reflectbox{\begin{hieroglyph}i-m\end{hieroglyph}}%
+    \end{solution}
+
+    \part 
+    \begin{hieroglyph}n\end{hieroglyph}
+    \td{pour}, \td{à}
+    \begin{solution}
+      \tl{n} \quad%
+      \reflectbox{\begin{hieroglyph}n\end{hieroglyph}}%
+    \end{solution}
+
+    \part 
+    \begin{hieroglyph}r:n-A2\end{hieroglyph}
+    \td{nom}
+    \begin{solution}
+      \tl{rn} \quad%
+      \reflectbox{\begin{hieroglyph}r:n-A2\end{hieroglyph}}%
+    \end{solution}
+
+    \part 
+    \begin{hieroglyph}s-Dd'-A2\end{hieroglyph}
+    \td{raconter}
+    \begin{solution}
+      \tl{sDd} \quad%
+      \reflectbox{\begin{hieroglyph}s-Dd'-A2\end{hieroglyph}}%
+    \end{solution}
+
+    \part 
+    \begin{hieroglyph}Dd'\end{hieroglyph}
+    \td{dire}
+    \begin{solution}
+      \tl{Dd} \quad%
+      \reflectbox{\begin{hieroglyph}Dd'\end{hieroglyph}}%
+    \end{solution}
+
+    \part 
+    \begin{hieroglyph}r\end{hieroglyph}
+    \td{contre}, \td{vers}
+    \begin{solution}
+      \tl{r} \quad%
+      \reflectbox{\begin{hieroglyph}r\end{hieroglyph}}%
+    \end{solution}
+
+    \part 
+    \begin{hieroglyph}jw\end{hieroglyph}
+    (particule grammaticale qui sera expliquée plus tard)
+    \begin{solution}
+      \tl{iw} \quad%
+      \reflectbox{\begin{hieroglyph}jw\end{hieroglyph}}%
+    \end{solution}
+
+    \part 
+    \begin{hieroglyph}p:n\end{hieroglyph}
+    \td{ce} (démonstratif masculin)
+    \begin{solution}
+      \tl{pn} \quad%
+      \reflectbox{\begin{hieroglyph}p:n\end{hieroglyph}}%
+    \end{solution}
+
+    \part 
+    \begin{hieroglyph}t:n\end{hieroglyph}
+    \td{cette} (démonstratif féminin)
+    \begin{solution}
+      \tl{tn} \quad%
+      \reflectbox{\begin{hieroglyph}t:n\end{hieroglyph}}%
+    \end{solution}
+
+    \part 
+    \begin{hieroglyph}n:h*t-M1\end{hieroglyph}
+    \td{arbre}, \td{sycomore} --- 
+    Quelle est la valeur du dernier signe à votre avis ?
+    \begin{solution}
+      \tl{nh.t}, déterminatif \quad%
+      \reflectbox{\begin{hieroglyph}n:h*t-M1\end{hieroglyph}}%
+    \end{solution}
+  \end{parts}
+  \end{multicols}
+
+  \question\qfmt{Réécrire les \hiero[es] des mots précédents pour une 
+  lecture de droite à gauche.}
+
+  \begin{solution}
+    Voir ci-dessus.
+  \end{solution}
+\end{questions}

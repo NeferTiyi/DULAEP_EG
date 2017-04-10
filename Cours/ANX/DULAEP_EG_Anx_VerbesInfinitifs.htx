@@ -1,0 +1,138 @@
+%!TEX root = DULAEP_EG.htx
+%##HieroDef.txt
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\chapter[Infinitif (forme verbale)]
+        {Infinitif (forme verbale)\footcites(Voir)()[429--430]{MW}
+         [73--74]{Obsomer}[leçon~14]{GM}[§\,278--289]{Gardiner}}
+\label{anx:infinitif}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+{
+\renewcommand\tabularxcolumn[1]{m{#1}}
+\noindent%
+\begin{tabularx}{\textwidth}{>{\bfseries}M{4cm}X}
+  \toprule
+    \scshape Verbes forts & 
+  \tabularnewline
+  \midrule
+    \multicolumn{2}{c}{\bfseries Infinitif masculin}
+  \tabularnewline
+    \vl{2} & 
+    \begin{hieroglyph}mn:n:Y1\end{hieroglyph} 
+    \tl{mn}, \td{être stable}, \quad
+    \begin{hieroglyph}r:x-Y1v\end{hieroglyph} 
+    \tl{rx}, \td{savoir}, 
+    \begin{hieroglyph}Dd'\end{hieroglyph} 
+    \tl{Dd}, \td{dire}, 
+  \tabularnewline
+    \vl{3} & 
+    \begin{hieroglyph}imi-m-A2\end{hieroglyph} 
+    \tl{wnm}, \td{manger}, \quad
+    \begin{hieroglyph}sDm-m\end{hieroglyph} 
+    \tl{sDm}, \td{entendre}, \td{écouter}
+  \tabularnewline
+    \vl{4} & 
+    \begin{hieroglyph}w-s-T:n-D54\end{hieroglyph} 
+    \tl{wsTn}, \td{marcher à grandes enjambées}
+  \tabularnewline
+    \multicolumn{2}{c}{\textbf{Infinitif féminin} (\tl{.t})}
+  \tabularnewline
+    \vcl{2} & 
+    \begin{hieroglyph}s-mn:n-t:Y1\end{hieroglyph} 
+    \tl{smn.t}, \td{affermir}, \td{rendre stable}, \td{établir}
+  \tabularnewline
+  \midrule
+    \scshape Verbes faibles & 
+  \tabularnewline
+  \midrule
+    \multicolumn{2}{c}{\textbf{Infinitif féminin} (\tl{.t})}
+  \tabularnewline
+    \vi{3} & 
+    \begin{hieroglyph}U6:r-t-A2\end{hieroglyph} 
+    \tl{mr.t}, \td{aimer}, \quad
+    \begin{hieroglyph}pr:r-t:D54\end{hieroglyph} 
+    \tl{pr.t}, \td{sortir}
+  \tabularnewline
+    \multicolumn{2}{c}{\textbf{Infinitif féminin} (\tl{.t} ou \tl{.y})}
+  \tabularnewline
+    \vi{4} & 
+    \begin{hieroglyph}H-N41-s-t-A3\end{hieroglyph} 
+    \tl{Hms.t}, \td{être assis}
+    \begin{hieroglyph}mA-A-w-y:Y1\end{hieroglyph} 
+    \tl{mAw.y}, \td{être neuf}
+  \tabularnewline
+    \vci{3} & 
+    \begin{hieroglyph}s-ms-s-y:Z5\end{hieroglyph} 
+    \tl{sms.y}, \td{faire enfanter}
+  \tabularnewline
+    \vci{4} & 
+    \begin{hieroglyph}s-mA-A-w-y:Y1\end{hieroglyph} 
+    \tl{smAw.y}, \td{renouveler}, \td{rendre neuf}
+  \tabularnewline
+  \midrule
+    \scshape Verbes géminés & 
+  \tabularnewline
+  \midrule
+    \multicolumn{2}{c}{\bfseries Infinitif masculin et géminé}
+  \tabularnewline
+    \vg{2} & 
+    \begin{hieroglyph}wnn\end{hieroglyph} 
+    \tl{wnn}, \td{exister}, \quad
+    \begin{hieroglyph}U2:ir-A-A\end{hieroglyph} 
+    \tl{mAA} (parfois 
+    \begin{hieroglyph}U2:ir-A-n\end{hieroglyph} 
+    \tl{mAn}), \td{voir}
+  \tabularnewline
+    \vg{3} / \vcg{2} & 
+    \begin{hieroglyph}s-q-b-b-W15\end{hieroglyph} 
+    \tl{sobb}, \td{rafraîchir}
+  \tabularnewline
+  \midrule
+    \scshape Verbes irréguliers & 
+  \tabularnewline
+  \midrule
+    \multicolumn{2}{c}{\bfseries Infinitif féminin}
+  \tabularnewline
+     & 
+    \begin{hieroglyph}r:\!di':t\end{hieroglyph} 
+    \tl{rd.t}, 
+    plus rarement 
+    \begin{hieroglyph}di':t\end{hieroglyph} 
+    \tl{d.t}, \td{donner},
+  \tabularnewline
+    \va{} / \vi{3} & 
+    \begin{hieroglyph}ii-i-t:D54\end{hieroglyph} 
+    \tl{ii.t}, 
+    \begin{hieroglyph}D54-w-\!t:.\end{hieroglyph} 
+    \tl{iw.t}, \td{venir},
+  \tabularnewline
+     & 
+    \begin{hieroglyph}ini-n:t\end{hieroglyph} 
+    \tl{in.t}, \td{amener}, \td{aller chercher}
+  \tabularnewline
+  \bottomrule
+\end{tabularx}
+}
+
+\newpage
+\textbf{Exceptions :}
+\begin{itemize}
+  \item \begin{hieroglyph}Sm-m\end{hieroglyph}
+        \tl{Sm} \vl{2}, \td{aller} \quad\donc\quad infinitif
+        \begin{hieroglyph}Sm-m-\!\!t:.\end{hieroglyph} \tl{Sm.t}
+
+  \item Infinitif masculin en apparence pour les \vi{3} et \vi{4} 
+        suivants :
+        \begin{itemize}
+          \item \begin{hieroglyph}x:d-P1\end{hieroglyph}
+                \tl{xdi}, \td{naviguer vers le nord (en descendant 
+                le courant)}
+          \item \begin{hieroglyph}xnt-n:t-P1\end{hieroglyph}
+                \tl{xnti}, \td{naviguer vers le sud (en remontant 
+                le courant)}
+        \end{itemize}
+        La désinence \tl{.t} du féminin a peut-être, dans les deux 
+        cas, été assimilée à la dernière radicale forte (consonne 
+        dentale).
+\end{itemize}

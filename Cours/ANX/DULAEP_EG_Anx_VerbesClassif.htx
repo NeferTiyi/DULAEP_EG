@@ -1,0 +1,114 @@
+%!TEX root = DULAEP_EG.htx
+%##HieroDef.txt
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\chapter[Classification des verbes]
+        {Classification des verbes\footcites(Voir)()[189--199]{MW}
+         [72]{Obsomer}[leçon~14]{GM}[§\,278--289]{Gardiner}}
+\label{anx:verbes_classif}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% {
+\renewcommand\tabularxcolumn[1]{m{#1}}
+\noindent%
+\begin{tabularx}{\textwidth}{>{\bfseries}M{4cm}X}
+  \toprule
+    \scshape Verbes forts & 
+  \tabularnewline
+  \midrule
+    \vl{2} & 
+    \begin{hieroglyph}mn:n:Y1\end{hieroglyph} 
+    \tl{mn}, \td{être stable}, \quad
+    \begin{hieroglyph}r:x-Y1v\end{hieroglyph} 
+    \tl{rx}, \td{savoir}, \td{apprendre à connaître}
+  \tabularnewline
+    \vl{3} & 
+    \begin{hieroglyph}imi-m-A2\end{hieroglyph} 
+    \tl{wnm}, \td{manger}, \quad
+    \begin{hieroglyph}sDm-m\end{hieroglyph} 
+    \tl{sDm}, \td{entendre}, \td{écouter}
+  \tabularnewline
+    \vl{4} & 
+    \begin{hieroglyph}w-s-T:n-D54\end{hieroglyph} 
+    \tl{wsTn}, \td{marcher à grandes enjambées}
+  \tabularnewline
+    \vl{5} & 
+    \begin{hieroglyph}n:\!i*t-i-t-A2\end{hieroglyph} 
+    \tl{nitit}, \td{bafouiller}
+  \tabularnewline
+    \vl{6} & 
+    \begin{hieroglyph}n-H-Hr:r-n-H-Hr:r\end{hieroglyph} 
+    \tl{nHrnHr}, \td{se réjouir}
+  \tabularnewline
+    \vcl{2} & 
+    \begin{hieroglyph}s-mn:n:Y1\end{hieroglyph} 
+    \tl{smn}, \td{affermir}, \td{rendre stable}, \td{établir}
+  \tabularnewline
+    \vcl{3} & 
+    \begin{hieroglyph}s-Htp:t*p-Y1v\end{hieroglyph} 
+    \tl{sHtp}, \td{rendre paisible}, \td{apaiser}
+  \tabularnewline
+  \midrule
+    \scshape Verbes faibles & 
+  \tabularnewline
+  \midrule
+    \vi{3} & 
+    \begin{hieroglyph}U6:r-A2\end{hieroglyph} 
+    \tl{mri}, \td{aimer}, \quad
+    \begin{hieroglyph}pr:r-D54\end{hieroglyph} 
+    \tl{pri}, \td{sortir}, \quad
+    \begin{hieroglyph}ms-s-msi\end{hieroglyph} 
+    \tl{msi}, \td{enfanter}
+  \tabularnewline
+    \vi{4} & 
+    \begin{hieroglyph}ms-s-D-A2\end{hieroglyph} 
+    \tl{msDi}, \td{haïr}, \quad
+    \begin{hieroglyph}H-N41-s-A3\end{hieroglyph} 
+    \tl{Hmsi}, \td{être assis}
+  \tabularnewline
+    \vci{3} & 
+    \begin{hieroglyph}s-ms-s-Z5\end{hieroglyph} 
+    \tl{smsi}, \td{faire enfanter}
+  \tabularnewline
+    \vci{4} & 
+    \begin{hieroglyph}s-mA-A-w-Y1v\end{hieroglyph} 
+    \tl{smAwi}, \td{renouveler}, \td{rendre neuf}
+  \tabularnewline
+  \midrule
+    \scshape Verbes géminés & 
+  \tabularnewline
+  \midrule
+    \vg{2} & 
+    \begin{hieroglyph}wnn\end{hieroglyph} 
+    \tl{wnn}, \td{exister}, \quad
+    \begin{hieroglyph}U2:ir-A-A\end{hieroglyph} 
+    \tl{mAA}, \td{voir}
+  \tabularnewline
+    \vg{3} / \vcg{2} & 
+    \begin{hieroglyph}s-q-b-b-W15\end{hieroglyph} 
+    \tl{sobb}, \td{rafraîchir}
+  \tabularnewline
+  \midrule
+    \scshape Verbes irréguliers & 
+  \tabularnewline
+  \midrule
+     & 
+    \begin{hieroglyph}r:di'-+l, +s-r:a-+l, +s-r:\!di\end{hieroglyph} 
+    \tl{rdi}, 
+    parfois thème verbal en 
+    \begin{hieroglyph}di-+l, +s-di'-+l, +s-a\end{hieroglyph} 
+    \tl{di}, \td{donner}, \quad
+  \tabularnewline
+    \va{} / \vi{3} & 
+    \begin{hieroglyph}ii-i-D54\end{hieroglyph} 
+    \tl{iii}, 
+    \begin{hieroglyph}D54-w\end{hieroglyph} 
+    \tl{iwi}, \td{venir}, \quad
+  \tabularnewline
+     &
+    \begin{hieroglyph}ini\end{hieroglyph} 
+    \tl{ini}, \td{amener}, \td{aller chercher}
+  \tabularnewline
+  \bottomrule
+\end{tabularx}
+% }

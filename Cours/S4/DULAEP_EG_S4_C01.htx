@@ -1,0 +1,296 @@
+%!TEX root = DULAEP_EG.htx
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\part{Les propositions subordonnées complétives}
+\label{prt:S4_completives}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\chapter{Introduction}
+% =====================================================================
+
+Dans une phrase, le rôle de \textbf{complément d'objet} d'un verbe 
+est d'ordinaire assumé par un \textbf{substantif} ou un \textbf{groupe 
+nominal} : \td{il attend \emph{le train}}. Toutefois, avec certains 
+verbes, des propositions peuvent assumer le rôle d'objet du verbe de 
+la proposition principale : \td{il attend \emph{que tu viennes}}. 
+C'est ce qu'on appelle une \clef{proposition subordonnée complétive} 
+(\emph{\texten{complement clause}} en anglais).
+
+Autrement dit, une proposition complétive est une proposition verbale 
+qui est le complément d'objet d'un verbe (prédicat de la proposition 
+principale). Cela signifie que les formes verbales utilisées dans 
+des propositions subordonnées complétives sont considérées dans un 
+\textbf{emploi substantival} (puisqu'elle assume le même rôle qu'un 
+groupe nominal). Seules les formes verbales attestées dans des emplois 
+dits substantivaux peuvent se rencontrer dans des complétives.
+Les verbes qui sont susceptibles d'introduire une proposition 
+complétive relèvent des catégories suivantes :
+
+\begin{enumerate}
+  \item Les verbes \textbf{déclaratifs}, par exemple 
+        \begin{hieroglyph}Dd'\end{hieroglyph}
+        \tl{Dd}, \td{dire} (\td{dire que}) ;
+  \item Les verbes de \textbf{connaissance}, par exemple 
+        \begin{hieroglyph}r:x-Y1v\end{hieroglyph}
+        \tl{rx}, \td{apprendre à connaître}, \td{savoir}, 
+        \begin{hieroglyph}siA-A-A2\end{hieroglyph}
+        \tl{siA}, \td{savoir}, \td{percevoir}, \td{reconnaître} ;
+  \item Les verbes de \textbf{perception} : 
+        \begin{hieroglyph}U3-\!A-A\end{hieroglyph}
+        \tl{mAA}, \td{voir}, \td{constater}, 
+        \begin{hieroglyph}sDm-\!m\end{hieroglyph}
+        \tl{sDm}, \td{entendre}, 
+        \begin{hieroglyph}gm-m\end{hieroglyph}
+        \tl{gmi}, \td{trouver}, \td{s'apercevoir}, \td{constater} ;
+  \item Les verbes \textbf{jussifs} : 
+        \begin{hieroglyph}wD-w-Y1v\end{hieroglyph}
+        \tl{wD}, \td{ordonner}, 
+        \begin{hieroglyph}r:di'\end{hieroglyph}
+        \tl{rdi} \td{faire en sorte que}, 
+        \begin{hieroglyph}mr:r-A2\end{hieroglyph}
+        \tl{mri} \td{souhaiter}, \td{désirer}.
+\end{enumerate}
+
+À la suite de ces types de verbes, on trouve deux types possibles de 
+propositions complétives :
+\begin{itemize}
+  \item celles introduites par une conjonction ;
+  \item celles qui ne sont pas introduites par une conjonction.
+\end{itemize}
+
+
+\chapter{Complétives sans conjonction}
+% =====================================================================
+
+C'est la construction la plus simple et la plus courante : 
+juxtaposition simple (parataxe) entre la principale et la 
+subordonnée. Là, on peut encore distinguer entre \textbf{deux 
+types de verbes introducteurs} : les verbes qui présentent des 
+\textbf{faits objectifs} (les trois premières catégories : les 
+verbes déclaratifs, de connaissance et de perception) et les verbes 
+qui expriment \textbf{l'intention du locuteur} (les jussifs, verbes 
+exprimant une opinion, une crainte).
+
+\section{Verbes objectifs}
+% ---------------------------------------------------------------------
+Après ces verbes, on peut trouver en fonction de complétive tout type 
+de construction.
+
+\subsection{\PPN}
+% ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+\begin{example}[title={}, breakable]
+  \begin{hieroglyph}
+    +l(\dots) +s
+    gm-m n:\!\!A1\s1 H-f-A-w-I15 pw jw f:m ii-i-t:D54
+  \end{hieroglyph}
+
+  \tl{(\dots) gm.n=i \red{HfAw pw iw=f m ii.t}}
+  \infos{\CdN, 61--62}
+
+  \td{(\dots) j'ai constaté \red{que c'était un serpent, qui venait}.}
+
+  \tg{La complétive est une \PPN (à noter que \tl[Gramm]{jw=f m ii.t} 
+      est à l'intérieur d'une \PPA, séquentielle)}
+\end{example}
+
+\subsection{\PPJ}
+% ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+\begin{example}[title={}, breakable]
+  \begin{hieroglyph}
+    i-t-s gm:\!n Hm-A42 nfr-f:r wr:r:t s-kA-U13 S:r:t-U9:3
+  \end{hieroglyph}
+
+  \tl{ist gm.n Hm \red{nfr wr.t skA Sr.t}}
+  \infos{\urk{IV}, 747, 9}
+
+  \td{Or, sa Majesté s'est aperçu \red{que ce serait très bien de 
+      cultiver des céréales}.}
+\end{example}
+
+\subsection{\PPA}
+% ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+% \begin{example}[title={}, breakable]
+%   \tl{}
+%   \infos{}
+
+%   \td{}
+
+%   \tg{}
+% \end{example}
+
+\subsection{Proposition avec pour prédicat la forme substantive 
+\tl{mrr=f}}
+% ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+\begin{example}[title={}, breakable]
+  \begin{hieroglyph}
+    +l(\dots) +s
+    U3 n Hm-1:f q:n-n:D40-A1
+  \end{hieroglyph}
+
+  \tl{(\dots) mA.n Hm=f \red{onn=i}}
+  \infos{\urk{IV}, 9, 16}
+
+  \td{(\dots) Sa Majesté constata \red{que je suis vaillant}/ma 
+      vaillance.}
+\end{example}
+
+\subsection{Discours indirect}
+% ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Après le verbe déclaratif \tl{Dd}, on peut trouver un discours direct 
+ou indirect. Le discours indirect est exprimé par une complétive.
+
+\begin{example}[title={}, breakable]
+  \begin{hieroglyph}
+    +l(\dots) +s
+    Dd' n:f aHA-A24 f H-n:a:A1
+  \end{hieroglyph}
+
+  \tl{(\dots) Dd.n=f n=i \red{aHA=f Hna=i}}
+  \infos{\CdS, B\,111}
+
+  \td{(\dots) Il me dit \red{qu'il voulait se battre avec moi}.}
+\end{example}
+
+\section{verbe exprimant une intention, une opinion, une crainte}
+% ---------------------------------------------------------------------
+Après un tel verbe, on trouve le \textbf{subjonctif}.
+Si le sujet de la complétive est identique au sujet de la principale, 
+l'infinitif peut, comme ne français, être simplement utilisé.
+
+\begin{example}[title={}, breakable]
+  \begin{hieroglyph}
+    wD-w Hm-1 f s-aHa-a wD-w Y1:p:n
+  \end{hieroglyph}
+
+  \tl{WD Hm=f \red{saHa} wDw pn}
+  \infos{\source{Hammâmât}, 192, 3}
+
+  \td{Sa Majesté ordonna \red{d'ériger} cette stèle.}
+
+  \tg{Initiale au perfectif}
+\end{example}
+
+Autrement, quand le sujet de la complétive est différent de celui 
+de la principale, on recourt \emph{exclusivement} au subjonctif 
+\tl{sDm=f}. Vous pouvez, du reste, comparer avec le français : les 
+verbes opérateurs avec un sens objectif sont suivis d'une complétive 
+à l'indicatif (\td{je constate que tu viens}) ; les verbes opérateurs 
+avec un sens subjectif sont suivis d'une complétive au subjonctif 
+(\td{je souhaite que tu viennes}).
+
+\begin{example}[title={}, breakable]
+  \begin{hieroglyph}
+    +l(\dots) +s
+    mr:r n:f wn:n A1 m U2:d-w-\!\!niwt\s2:. Hr-1 ir:t x*t:Y1
+  \end{hieroglyph}
+
+  \tl{(\dots) mr.n=f \red{wn=i m MAdw} Hr ir.t x.t}
+  \infos{\inv{CGC\,20712}, a10--11}
+
+  \td{(\dots) Il a désiré \red{que je sois à Médamoud} pour accomplir 
+      les rites.}
+\end{example}
+
+Dans ce cas, le convertisseur du subjonctif \tl{wn} (du verbe 
+\tl{wnn}) a été utilisé, pour transposer au subjonctif une \PPA 
+(\tl{iw=i m mAdw} = \td{je suis à Médamoud}).
+
+\begin{example}[title={}, breakable]
+  \begin{hieroglyph}
+    di' A1 sDm-m T:n:3
+  \end{hieroglyph}
+
+  \tl{di=i \red{sDm=tn}}
+  \infos{\inv{Caire 20538}, Iib9}
+
+  \td{Je veux faire en sorte \red{que vous entendiez}.}
+
+  \tg{Subjonctif en position initiale + subjonctif dans une complétive}
+\end{example}
+
+\section{Négation de la complétive}
+% ---------------------------------------------------------------------
+Elle se fait évidemment avec \tl{tm}.
+
+\begin{example}[title={}, breakable]
+  \begin{hieroglyph}
+    jw wD-w-D:\!Y1 n zA-b-A40 t:f-A40 st-ir t:tm-m A1 imi-m-A2 
+    H-s-Aa3:3
+  \end{hieroglyph}
+
+  \tl{iw wD.n Gb it Wsir, \red{tm=i wnm Hs.w}}
+  \infos{\source{Harhotep}, 396--397}
+
+  \td{Geb, le père d'Osiris, a ordonné \red{que je ne mange pas 
+      d'excréments}.}
+
+  \tg{Subjonctif dans la complétive}
+\end{example}
+
+
+\chapter{Complétives avec conjonction}
+% =====================================================================
+
+Les complétives qui suivent les verbes de perception ou de 
+connaissance sont plus généralement introduite par une conjonction , 
+\clef{la conjonction \begin{hieroglyph}ntyt\end{hieroglyph} 
+\tl[ClefCol]{nt(y).t}, \td[ClefCol]{que}}.
+Tous les types de constructions sont attestés après cette conjonction, 
+puisqu'en quelque sorte elle opère une nominalisation :
+
+\begin{example}[title={}, breakable]
+  \begin{hieroglyph}
+    jw-A42 r:x:Y1-k-w-A42 ntyt Axt-t:pr pw 
+    i-p:t-st-t:3-niwt tp:1 tA:1*N21
+  \end{hieroglyph}
+
+  \tl{iw=i rx.kw \red{nt(y).t Ax.t pw Ip.t-sw.t tp-tA}}
+  \infos{\urk{IV}, 364, 1--2}
+
+  \td{Je sais \red{que Ipet-sout\footnotemark{} est l'horizon sur 
+      terre.}}
+
+  \tg{\PPP avec parfait ancien + complétive introduite par 
+      \tl[Gramm]{nty.t} suivi d'une phrase nominale}
+\end{example}
+\footnotetext{Ipet-sout = Karnak.}
+
+À la place de la conjonction \tl{nt(y).t}, on peut trouver l'ancien 
+\begin{hieroglyph}wn:n:t\end{hieroglyph} \tl{wnt}, sans doute une 
+forme substantivée de \tl{wnn} signifiant \td{le fait que}. Son emploi 
+est obsolète dès le \MK. En général, elle est suivi de propositions 
+qui se rencontrent avec l'indicateur d'énonciation \tl{iw} (donc pas 
+de \PPJ[s], ni de \PPN[s]).
+
+Des conjonctions spécifiques peuvent par ailleurs introduire le 
+contenu d'un discours :
+Après un verbe déclaratif, on peut trouver 
+\begin{hieroglyph}r-\!Dd'\end{hieroglyph}, que l'on peut considérer 
+comme l'équivalent de \emph{\frquote{deux points, ouvrez les 
+guillemets}}.
+
+\begin{example}[title={}, breakable]
+  \begin{hieroglyph}
+    aHa-a:n Dd' n:f n s-n r-\!Dd' m-a:T:n r:di n:\!\!A1\s1 n:T:n
+    +l (\dots)+s
+  \end{hieroglyph}
+
+  \tl{aHa.n Dd.n=f n=sn r-Dd : \frquote{mTn, rd.n=i n=Tn (\dots)}}
+  \infos{\source{Siout}~I, 275}
+
+  \td{Alors il leur dit : \frquote{voyez, je vous ai donné (\dots)}.}
+\end{example}
+
+\begin{remarque}
+  Dans ce cours, nous ne faisons pas de distinction particulière 
+  entre les complétives construites avec une conjonction et celles 
+  construites sans conjonction. Sachez toutefois que certains 
+  égyptologues perçoivent des nuances sémantiques.\\
+  Voir les travaux de \citeauthor{Uljas} : \fullcite{Uljas}.
+\end{remarque}
+
+\bigskip
+
+\begin{exercice}[before upper={\centering}]
+  \donc{} Vous pouvez faire \textbf{l'exercice~1}.
+\end{exercice}

@@ -1,0 +1,515 @@
+%!TEX root = DULAEP_EG.htx
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\part{Les circonstancielles véritables (1)}
+\label{pt:S3_circonst_vrai}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Les propositions subordonnées circonstancielles peuvent être exprimées 
+de deux manières :
+\begin{itemize}
+  \item par la juxtaposition d'une proposition à la proposition 
+        principale (proposition dite en fonction de circonstancielle, 
+        les \frquote{circonstancielles virtuelles} déjà étudiées).
+  \item par des propositions subordonnées introduites par une 
+        \textbf{préposition-conjonction} 
+        (les \frquote{circonstancielles réelles}) ;
+\end{itemize}
+
+C'est sur ces dernières que nous allons nous arrêter pour le dernier 
+cours du semestre.
+
+
+\chapter{Les circonstancielles véritables , première approche}
+% =====================================================================
+
+Les propositions subordonnées circonstancielles 
+\frquote{véritables} sont des propositions introduites par 
+une \clef{préposition-conjonction}. Cette subordonnée se place 
+généralement après la principale. Plus rarement, elle se place 
+avant (on parle de protase), notamment dans le cas des subordonnées 
+temporelles et conditionnelles ; en ce cas, elles sont introduites 
+par \tl{ir} ou 
+\begin{hieroglyph}x:r-xr\end{hieroglyph}, 
+\begin{hieroglyph}x:r\end{hieroglyph}, 
+\begin{hieroglyph}i-x:r-xr\end{hieroglyph} 
+\tl{xr}.
+
+\bigskip
+
+Du point de vue du sens, il existe cinq groupes de propositions 
+circonstancielles (régime de la préposition conjonction) :
+\begin{itemize}
+  \item temporelles,
+  \item causales,
+  \item comparatives,
+  \item finales et consécutives,
+  \item conditionnelles
+\end{itemize}
+
+\bigskip
+
+Nous allons aborder les quatre premières. Elles fonctionnent toutes 
+sur un principe commun :
+\begin{itemize}
+  \item elles se placent normalement après la principale ;
+  \item elles sont introduites par une préposition-conjonction ;
+  \item la forme verbale est une forme qui peut avoir une fonction 
+        nominale ;
+  \item à l'accompli on peut trouver \tl{sDm.n=f} ou \tl{sDmt=f} ;
+  \item à l'inaccompli, on peut trouver le \tl{mrr=f} ;
+  \item au prospectif, les formes prospectives.
+\end{itemize}
+
+
+\chapter{Les temporelles}
+% =====================================================================
+
+Introduites par différentes conjonctions, elles peuvent exprimer 
+l'antériorité (\begin{hieroglyph}tp*1:a*1\end{hieroglyph} \tl{tp-a}), 
+la concomitance (\tl{m}, \begin{hieroglyph}x*t:f\end{hieroglyph} 
+\tl{xft} ), 
+la postérité (\begin{hieroglyph}m-xt:x*t-D54\end{hieroglyph} 
+\tl{m-xt}, \begin{hieroglyph}r-sA-1\end{hieroglyph} \tl{r-sA}), 
+l'origine (\begin{hieroglyph}Dr:r\end{hieroglyph} \tl{Dr}), 
+l'aboutissement (\tl{r}).
+
+Après ces conjonctions, on trouve diverses formes suffixales qui 
+permettent d'exprimer un accompli, un non-accompli ou une éventualité.
+
+
+\begin{enumerate}
+  \item \textbf{Accompli :}
+        \begin{itemize}
+          \item forme \tl{sDm.n=f}
+          \item forme \tl{sDmt=f} et son passif \tl{sDmyt=f}
+        \end{itemize}
+  \item \textbf{Non-accompli :}
+        \begin{itemize}
+          \item forme nominale \tl{mrr=f}
+        \end{itemize}
+  \item \textbf{Éventualité :}
+        \begin{itemize}
+          \item prospectif ou subjonctif
+        \end{itemize}
+\end{enumerate}
+
+
+\section[Conjonction \tl{m}]
+        {Conjonction \begin{hieroglyph}m\end{hieroglyph} \tl{m}}
+% ---------------------------------------------------------------------
+C'est fondamentalement une conjonction temporelle qui exprime la 
+\textbf{concomitance} \td{quand}, \td{lorsque}. En ce sens, elle 
+peut être suivie d'un infinitif, d'un prospectif ou d'un subjonctif. 
+On rencontre aussi le convertisseur \tl{wnn} au subjonctif pour 
+introduire des proposition à prédicat adverbial.
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    i-r m wn:n A1 m X:r:d-G37-A1 !
+    wn:n A1 m s-Ab-r m z:\!A1\s2*1 n Xn-nw*t:pr D35 sn-n:nw*w\s2 f !
+  \end{hieroglyph}
+
+  \tl{ir m wn=i m Xrd, wn=i m smr m s n(y) Xnwti n(n) snw=f}\\
+  \infos{\cite[ex.~1584]{MW}, \source{Hatnoub}, 22, 2--3}
+
+  \td{Quand j'étais enfant, j'étais (déjà) un courtisan et un homme 
+      de la Résidence sans égal.}
+
+  \tg{Circonstancielle en protase (marquée par \tl[Gramm]{ir}) avec 
+      \tl[Gramm]{m} suivi du convertisseur \tl[Gramm]{wn}, puis 
+      principale introduite par le convertisseur passé \tl[Gramm]{wn}.}
+\end{example}
+
+Suivie d'une forme accomplie \tl{sDm.n=f} ou de la forme \tl{sDmt=f}, 
+elle exprime en revanche la \textbf{postérité}.
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    wD-b-D-F47:k a:k m s-r-E27-D54:n A1 n:k qd-d:nw-A35
+  \end{hieroglyph}
+
+  \tl{wDb=k a=k, m sr.n=i n=k od}
+  \infos{\cite[ex.~1585]{MW}, \CTx{VI}, 173\,r}
+
+  \td{Puisses-tu détourner ta main, quand je t'aurai annoncé la 
+      construction.}
+
+  \tg{Principale avec un subjonctif, circonstancielle introduite 
+      par la préposition conjonction \tl[Gramm]{m} suivie d'un 
+      \tl[Gramm]{sDm.n=f}.}
+\end{example}
+
+\section[Conjonction \tl{r}]
+        {Conjonction \begin{hieroglyph}r\end{hieroglyph} \tl{r}}
+% ---------------------------------------------------------------------
+La conjonction \tl{r} suivie de la forme \tl{sDmt=f} exprime la limite 
+\td{jusqu'à ce que}, voir \Pref{prt:S3_sdmtf}.
+
+
+\section[Conjonction \tl{m-xt}]
+        {Conjonction \begin{hieroglyph}m-xt:x*t-D54\end{hieroglyph} 
+         \tl{m-xt}}
+% ---------------------------------------------------------------------
+Elle exprime la \textbf{postérité}, \td{après que} et peut être 
+suivie d'un subjonctif, du prospectif de la forme \tl{sDm.n=f}, 
+son équivalent passif \tl{sDmw=f}, de la forme \tl{sDmt=f}, d'une 
+construction pseudo-verbale avec convertisseur au subjonctif, voire 
+d'un infinitif, rarement de la forme \tl{mrr=f}.
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    i-r m\s2:\!x*t-D54 i-a:mw s Hr-1 s ra:nb
+    x:r s gs:z-nw:\!D40 s Hr:1 s i-m
+  \end{hieroglyph}
+
+  \tl{ir m-xt ia=s Hr=s ra-nb, xr=s gs=s Hr=s im}\\
+  \infos{\cite[ex.~1603]{MW}, \source{P.~Ebers}, 87, 9--10}
+
+  \td{Après qu'elle se sera lavé le visage chaque jour, elle s'en 
+      oindra.}
+
+  \tg{Circonstancielle en protase avec un subjonctif, et principale 
+  avec la forme \tl[Gramm]{sDm.xr=f}}
+\end{example}
+
+\section[Conjonction \tl{r-sA}]
+        {Conjonction \begin{hieroglyph}r-Aa18-1\end{hieroglyph} 
+         \tl{r-sA}}
+% ---------------------------------------------------------------------
+Elle exprime la \textbf{postérité}, \td{après que} et est suivie de 
+la forme \tl{mrr=f}, de l'infinitif, et sans doute du prospectif.
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    Dd' z:\!A1\s2 r-1 p:n aq-\!\!q\s1:.-D54 :f imnt-t:1 
+    r:sA*1 pr:r:r-D54 :f
+  \end{hieroglyph}
+
+  \tl{Dd s r(A) pn ao=f imn.t r-sA prr=f}
+  \infos{\cite[ex.~1642]{MW}, \CTx{IV}, 326\,j}
+
+  \td{Qu'un homme dise cette formule pour entrer\footnotemark{} dans 
+      l'Occident après en être sorti.}
+
+  \tg{Principale avec un subjonctif, puis circonstancielle introduite 
+      par \tl[Gramm]{r-sA} suivie du \tl[Gramm]{mrr=f}.}
+\end{example}
+\footnotetext{Circonstancielle virtuelle, but ou conséquence 
+(subjonctif).}
+
+\section[Conjonction \tl{r-Tnw}]
+        {Conjonction \begin{hieroglyph}r:T:n-nw-\!w-Y1\end{hieroglyph} 
+         \tl{r-Tnw}}
+% ---------------------------------------------------------------------
+Elle exprime la \textbf{répétition} du procès, \td{chaque fois que}, 
+et peut-être suivie du subjonctif ou de la forme substantive 
+\tl{mrr=f}.
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    s-a:r-t:wAt n:f r-T:n-nw:Y1 i-b-b-mw f
+  \end{hieroglyph}
+
+  \tl{Sar=t(w)\footnotemark{} n=f r-Tnw ibb\footnotemark{}}
+  \infos{\cite[ex.~1644]{MW}, \CTx{V}, 11\,c}
+
+  \td{On fera s'élever pour lui (quelque chose), chaque fois qu'il 
+      aura soif.}
+\end{example}
+\addtocounter{footnote}{-1}
+\footnotetext{\vcl{2} \td{faire se lever}.}
+\addtocounter{footnote}{1}
+\footnotetext{\tl{ibi}, \td{avoir soif}.}
+
+\section[Conjonction \tl{xft}]
+        {Conjonction \begin{hieroglyph}x*t:f\end{hieroglyph} \tl{xft}}
+% ---------------------------------------------------------------------
+Elle exprime la \textbf{coïncidence}, logique (\td{conformément à}, 
+\td{comme}) ou chronologique (\td{au moment où}, \td{lorsque}, \td{dès 
+que}) et est suivie de l'infinitif, de constructions pseudo-verbales 
+avec un convertisseur au subjonctif et des prospectifs ou subjonctifs, 
+de la forme \tl{mrr=f}, de l'accompli \tl{sDm.n=f}.
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    x*t:f wn:n f Ab-m:r-G37
+  \end{hieroglyph}
+
+  \tl{xft wn=f mr(.w)}
+  \infos{\cite[ex.~1654]{MW}, \source{Kahun}, 13, 34}
+
+  \td{Quand il était tombé malade.}
+
+  \tg{Circonstancielle avec un parfait ancien introduit par un 
+      convertisseur.}
+\end{example}
+
+\section[Conjonction \tl{tp-a}]
+        {Conjonction \begin{hieroglyph}tp*1:a*1\end{hieroglyph} 
+         \tl{tp-a}}
+% ---------------------------------------------------------------------
+Elle exprime \textbf{l'antériorité}, \td{avant que}, et elle est 
+suivie d'un infinitif ou d'un subjonctif. Rare.
+
+\section[Conjonction \tl{Dr}]
+        {Conjonction \begin{hieroglyph}Dr:r\end{hieroglyph} \tl{Dr}}
+% ---------------------------------------------------------------------
+Elle exprime \textbf{l'antériorité} (\td{avant que}) ou parfois la 
+\textbf{contiguïté} (\td{dès que}, \td{depuis que}) et est suivie du 
+prospectif, de l'accompli \tl{sDm.n=f}, de la forme \tl{mrr=f}, de la 
+forme \tl{sDmt=f}, et sans doute du subjonctif et d'une construction 
+pseudo-verbale avec convertisseur.
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    Dd' r:n A50 +l(\dots)+s Dr:r x:n:d-t-rd k Hr:r A50
+  \end{hieroglyph}
+
+  \tl{Dd rn=i \tll{(dit le sol)} Dr xndt=k Hr=i}
+
+  \td{Dit mon nom avant que tu n'aies marché sur moi.}
+
+  \tg{Impératif, puis circonstancielle introduite par \tl[Gramm]{Dr} 
+      suivi du \tl[Gramm]{sDmt=f}}
+\end{example}
+
+
+\chapter{Les causales}
+% =====================================================================
+
+\section[Conjonction \tl{n}]
+        {Conjonction \begin{hieroglyph}n\end{hieroglyph} \tl{n}}
+% ---------------------------------------------------------------------
+La conjonction \tl{n}, \td{parce que}, peut être suivie de la forme 
+\tl{mrr=f}, de la forme \tl{sDm.n=f}, ainsi que du prospectif et du 
+subjonctif, mais aussi de construction non verbales (\PPN, \PPJ).
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    U5:a-D54-x:r f s-y q:r-f:V33 x:r f s-y Hr-1 a:1-w-\!\!y:.
+    n qs-n:G37 ir:t f
+  \end{hieroglyph}
+
+  \tl{mAa.xr=f sy orf.xr sy Hr-a.wy n osn ir.t = f}\\
+  \infos{\cite[ex.~1612]{MW}, \source{P.~Smith}, 17, 17}
+
+  \td{Alors, il les étendra (mais) les repliera aussitôt parce que 
+      c'est douloureux de le faire.}
+
+  \tg{Deux formes verbales au \tl[Gramm]{sDm.xr=f}, puis causale 
+      avec une \PPJ (P = \tl[Gramm]{osn} et S = infinitif 
+      \tl[Gramm]{ir.t})}
+\end{example}
+
+
+\section{Conjonctions diverses}
+% ---------------------------------------------------------------------
+\paragraph{Conjonction \tl{n-ior-n}}
+\begin{hieroglyph}n-i-q:r-Y1:n\end{hieroglyph}
+
+\paragraph{Conjonction \tl{n-aA.t-n}}
+\begin{hieroglyph}n-aA:a-A-\!\!t:.-n\end{hieroglyph}
+
+\paragraph{Conjonction \tl{n-wr-n}}
+\begin{hieroglyph}n-wr:r-n\end{hieroglyph}
+
+\paragraph{Conjonction \tl{Hr}}
+\begin{hieroglyph}Hr-1\end{hieroglyph}, suivie d'un prospectif, d'une 
+forme \tl{sDm.n=f}, d'un infinitif.
+
+\begin{example}[title={}]
+  (\dots)
+  \begin{hieroglyph}
+    Hr-1 r:x-Y1:n A1
+  \end{hieroglyph}
+
+  \tl{(\dots) Hr rx.n=i}
+  \infos{\cite[ex.~1646]{MW}, \CTx{III}, 316\,i}
+
+  \td{(Je suis venu) parce que j'ai appris à connaître/je sais.}
+\end{example}
+
+\section{Conjonctions bâties sur \tl{nt(y).t} (\td{le fait que})}
+% ---------------------------------------------------------------------
+\begin{itemize}
+  \item \tl{n-nt(y).t}, \tl{xft-nt(y).t}, \tl{Hr-nt(y).t}, 
+        \td{étant donné que}, \td{parce que}
+  \item \tl{Dr-nt(y).t} \td{puisque}
+  \item \tl{m-a-nt(y).t} \td{vu que}
+  \item \tl{r-nt(y).t} \td{à savoir que\footnote{En contexte 
+        épistolaire, introduit l'objet de la lettre : \td{concernant 
+        le fait que} ou \td{deux points}.}}
+\end{itemize}
+
+Grâce à \tl{nt(y).t}, elles peuvent être suivies de constructions 
+verbales et non verbales. Si le sujet pronominal suit la conjonction, 
+on utilise le pronom dépendant.
+
+\begin{example}[title={}]
+  (\dots)
+  \begin{hieroglyph}
+    x*t:f n:t*t w-A1 A19-k:W-A1
+  \end{hieroglyph}
+
+  \tl{(\dots) xft-nt(y).t wi tn.kwi}
+  \infos{\cite[ex.~1672]{MW}, \source{Kahun}, 11, 19}
+
+  \td{(\dots) parce que je suis devenu vieux.}
+
+  \tg{Circonstancielle avec parfait ancien dans une construction 
+      pseudo-verbale}
+\end{example}
+
+
+\chapter{Les comparatives}
+% =====================================================================
+
+Deux conjonctions introduisent les comparatives : 
+\begin{hieroglyph}mi-i\end{hieroglyph} \tl{mi} et
+\begin{hieroglyph}m\end{hieroglyph} \tl{m}.
+
+Les formes verbales attestées après elles :
+\begin{itemize}
+  \item forme \tl{sDm.n=f}, forme \tl{sDmt=f}
+  \item forme \tl{mrr=f}
+  \item prospectif/subjonctif et infinitif
+\end{itemize}
+
+\paragraph{Conjonction \tl{mi}, \td{comme}} 
+suivie d'une construction à prédicat adverbial avec convertisseur, 
+la forme substantive \tl{mrr=f}, prospectif/subjonctif, infinitif.
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    ir n:f wp-p-w:t-A2 mi-i Dd' f
+  \end{hieroglyph}
+
+  \tl{ir n=f wpw.t mi Dd=f}
+  \infos{\cite[ex.~1593]{MW}, \source{Ptahhotep}, 148}
+
+  \td{Accompli la mission pour lui comme il le dit.}
+
+  \bigskip
+
+  \begin{hieroglyph}
+    jw m-\!\!t:.-Z6 m Hr-1 A1 mi-n:ra +l(\dots)+s !
+    mi-i pr:r*t-D54 r xnt-n:t*W-N23-1 r-sA-1 h-i-mwt-t-G37
+  \end{hieroglyph}
+
+  \tl{iw mwt m-Hr=i min (\dots), mi pr.t r xntw r-sA ihm.t}
+  \infos{\source{Désespéré}, 130--131}
+
+  \td{La mort est aujourd'hui devant moi (\dots) comme sortir à 
+      l'extérieur après la réclusion.}
+\end{example}
+
+Parfois sens dérivé causale \td{dans la mesure où}, \td{vu que}, 
+\td{étant donné que}.
+
+\paragraph{Sens dérivé de la conjonction \tl{m}} 
+lorsqu'elle est suivie de la forme substantive \tl{mrr=f}.
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    r:a s-X:p-A2 f s-t m ms-d:d-G37 f
+  \end{hieroglyph}
+
+  \tl{Rd(.w) sXp=f s.t m msdd=f}
+
+  \td{Il a été fait en sorte qu'il l'ingère, même s'il ne veut pas.}
+\end{example}
+
+
+\chapter{Les finales et les consécutives}
+% =====================================================================
+
+Il existe, comme on l'a vu, des séquentielles avec cette valeur 
+(séquentielles consécutives) avec un subjonctif.
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    D:\!\!d\s2 z:\!A1\s1 r*1 p:n aq-\!\!\!q\s1:.-D54:f imnt-t:1
+    r:sA*1 pr:r:r-D54:f
+  \end{hieroglyph}
+
+  \tl{Dd s r(A) pn ao=f imn.t r-sA prr=f}
+  \infos{\cite[Ex.~1642]{MW}, \CTx{IV}, 326\,j}
+
+  \td{Qu'un homme dise cette formule pour entrer\footnotemark{} dans 
+      l'Occident après en être sorti.}
+\end{example}
+\footnotetext{Circonstancielle virtuelle, but ou conséquence 
+(subjonctif).}
+
+Mais il existe aussi des finales et consécutives introduites par des 
+conjonctions spécifiques, la plus fréquente étant \tl{n-mrw.t}. La 
+temporelle \tl{r} est susceptible aussi d'être traduite par \td{afin 
+que}, \td{de sorte que}.
+
+Dans ces circonstancielles, on ne rencontre que deux formes verbales :
+\begin{itemize}
+  \item prospectif/subjonctif (éventualité) ;
+  \item l'infinitif quand le sujet est identique à celui de la 
+        principale.
+\end{itemize}
+
+\paragraph{La conjonction \tl{r}, \td{pour que},} est suivie d'un 
+subjonctif ou infinitif.
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    nw:k +l(\dots)+s s-g:r-A2 q-A-A28 xrw-w r t:tm-m f md-d-w
+  \end{hieroglyph}
+
+  \tl{ink (\dots) sgr(w) oA-xrw r tm=f mdw}
+
+  \td{Je suis celui qui fait taire le haut-de-voix pour qu'il ne 
+      parle plus.}
+\end{example}
+
+\paragraph{La conjonction \tl{n-mrw.t}, \td{dans le souhait de /que},} 
+suivie de prospectif ou de subjonctif, voire d'une \PPP précédée d'un 
+convertisseur, éventuellement de l'infinitif.
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    m-mr:r-w-\!\!t\s1:.-A2 wn:n f Hr-1 Dd'
+  \end{hieroglyph}
+
+  \tl{n-mrw.t wn=f Hr Dd}
+
+  \td{pour qu'il continue à parler.}
+\end{example}
+
+
+\chapter{Constructions négatives dans les circonstancielles}
+% =====================================================================
+
+\paragraph{Pour les circonstancielles (en particulier les temporelles 
+et les finales),} la négation se fait généralement avec l'auxiliaire 
+négatif \tl{tm}.
+
+\paragraph{Dans les causales introduites par des conjonctions 
+composées avec \tl{nt(y).t} (\tl{Hr-nt(y).t}, \tl{Dr-nt(y).t}),} on 
+rencontre normalement les négations attendues des formes verbales, 
+puisque \tl{nt(y).t} introduit n'importe quel type constructions.
+
+\paragraph{Les constructions négatives \tl{n wnmt=f} et \tl{n wnmyt=f}}
+Il s'agit des contreparties négatives, respectivement de la forme 
+accomplie \tl{sDmt=f} et de son équivalent passif que l'on rencontrent 
+en fonction de subordonnée circonstancielle après des 
+prépositions-conjonctions (voir \Pref{prt:S3_sdmtf}).
+
+\bigskip
+
+\begin{exercice}[before upper={\centering}]
+  \donc{} Faire \textbf{l'exercice~12}.
+\end{exercice}
+
+\filet
+
+\begin{center}
+  \em
+  C'est tout pour ce semestre !
+\end{center}

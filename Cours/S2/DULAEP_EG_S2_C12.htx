@@ -1,0 +1,182 @@
+%!TEX root = DULAEP_EG.htx
+%##HieroDef.txt
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\part{Récapitulatif et compléments}\label{prt:S2_recap}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Ce dernier cours sera l'occasion d'une vision synthétique du 
+programme de grammaire étudié. Nous aborderons aussi certains 
+compléments concernant la phrase interrogative, dont des éléments 
+ont été présentés au dernier cours du \titleref{bk:semestre1} 
+(\Pref{prt:S1_compl}), et nous introduirons des auxiliaires 
+spécifiques à la narration.
+
+
+\chapter{Récapitulatif de l'année}
+% =====================================================================
+
+Cette année, outre l'apprentissage du système d'écriture 
+hiéroglyphique, vous avez appris à connaître les premiers éléments de 
+syntaxe de la langue égyptienne dite \frquote{classique} ou \frquote{
+moyen égyptien}.
+
+Nous avons vu :
+\begin{itemize}
+  \item La \textbf{\PPA} (\tl{iw} + sujet + prédicat = 
+        adverbe ou groupe prépositionnel) ;
+  \item La \textbf{\PPP} (\tl{iw} + sujet + prédicat = 
+        \tl{Hr}/\tl{m} + infinitif, valeur inaccompli progressif -- 
+        \tl{r} + infinitif, valeur futur -- parfait ancien, valeur 
+        accompli résultatif) ;
+  \item La \textbf{\PPN} (\tll{AB}, \tll{A \tl{pw} B}) ;
+  \item La \textbf{\PPJ} (\tll{prédicat + sujet}) ;
+  \item Les \textbf{propositions d'existence} et de 
+        \textbf{non-existence}.
+\end{itemize}
+
+Nous avons aussi étudié trois formes verbales :
+\begin{itemize}
+  \item l'infinitif (\titleref{bk:semestre1}, \Pref{prt:ppp}) ;
+  \item le parfait ancien (\titleref{bk:semestre2}, 
+        \Pref{prt:parfait}) ;
+  \item et l'impératif (\titleref{bk:semestre2}, \Pref{prt:imperatif}).
+\end{itemize}
+
+Lors du \Pref{prt:formule_offrande} du \titleref{bk:semestre2}, vous 
+avez eu aussi un petit aperçu de la conjugaison suffixale (forme 
+verbale utilisée dans les \PPV[s], les phrases verbales). Nous avons 
+vu en particulier un petit aspect du \tl{sDm.n=f} à valeur d'accompli 
+(\td{il a écouté}) : son emploi dans certaines légendes de monuments. 
+Comme vous le savez, l'an prochain sera en grande partie consacré à 
+l'étude de cette conjugaison et donc aux phrases verbales.
+
+Vous connaissez aussi à présent trois types de pronoms personnels et 
+leurs emplois spécifiques : pronoms suffixes, pronoms dépendants et 
+pronom indépendants. Ils sont à connaître par c{\oe}ur.
+
+
+\chapter{Les phrases interrogatives}
+% =====================================================================
+
+Dans le dernier cours (\Pref{prt:S1_compl}) du semestre dernier, nous 
+avons parlé des phrases interrogatives et fait la distinction entre 
+les \textbf{interrogations totales} (réponse oui/non) introduites par 
+\tl{in-iw} et les \textbf{interrogations partielles} utilisant des 
+pronoms interrogatifs (voir liste dans ce cours).
+
+Voici quelques phrases au mode interrogatif pour ne pas oublier ces 
+structures. Entraînez-vous à essayer de les traduire seul, avant de 
+lire la réponse.
+
+
+\begin{example}
+  \begin{hieroglyph}i-n-jw k :Hr mA-A-A\end{hieroglyph}
+
+  \tl{in-iw=k Hr mAA ?} 
+  \infos{\cite[3\up{rd} ed, \pno~204]{Allen}, \source{Meir}~I, pl.~5}
+
+  \td{Es-tu en train de regarder ?}
+
+  \tg{Phrase pseudo-verbale à l'inaccompli progressif}
+
+  \bigskip
+
+  \begin{hieroglyph}i-n-i-W :f t:r-i-tr-A1 s-Dr:r-A55\end{hieroglyph}
+
+  \tl{in-iw=f tri sDr(.w) ?}
+  \infos{\cite[3\up{rd} ed, \pno~237]{Allen}, \CTx{V}, 223\,d--e}
+
+  \td{Est-il réellement endormi ?}
+
+  \tg{Phrase pseudo-verbale au parfait ancien avec particule \tl{tri}}
+
+  \bigskip
+
+  \begin{hieroglyph}p*t:r-tr-A1 r:n :k\end{hieroglyph}
+
+  \tl{ptr rn=k ?}
+  \infos{\cite[3\up{rd} ed, \pno~96]{Allen}, \LdM~125}
+
+  \td{Quel est ton nom ?}
+
+  \tg{\PPN avec pronom interrogatif}
+
+  \bigskip
+
+  \begin{hieroglyph}n-m-a:t:r-tr-A1 T-w\end{hieroglyph}
+
+  \tl{(i)n-mi tr Tw ?}
+  \infos{\cite[3\up{rd} ed, \pno~95]{Allen}, \LdM~122, \source{P.~Nu}}
+
+  \td{Qui es-tu donc ?}
+
+  \tg{\PPN avec pronom interrogatif \tl[Gramm]{in-mi} et particule 
+      \tl[Gramm]{tr}}
+\end{example}
+
+
+\chapter{Les auxiliaires de la narration \tl{aHa.n} et \tl{wn.in}}
+% =====================================================================
+
+L'auxiliaire narratif 
+\begin{hieroglyph}aHa-a:n\end{hieroglyph} \tl{aHa.n} provient du 
+verbe \begin{hieroglyph}aHa-a:D54\end{hieroglyph} \tl{aHa}, \td{être 
+debout}, \td{se trouver}. L'auxiliaire \tl{aHa.n}, qui peut être 
+traduit par \td{alors}, est un auxiliaire qui se trouve exclusivement 
+dans les textes narratifs et qui a une valeur passée.
+
+En remplacement de l'élément introducteur \tl{iw}, on peut notamment 
+le rencontrer dans des phrases pseudo-verbales (avec l'inaccompli 
+progressif, le parfait ancien), plus rarement dans une \PPA.
+
+\begin{example}
+  \begin{hieroglyph}
+    aHa-a:n w\!\!t:. Hr-1 H-a:w-A28-Y1 i-m wr:r r :x*t-Y1 :nb:t
+  \end{hieroglyph}
+
+  \tl{aHa.n=tw Hr Haw im, wr r x.t nb.t}
+  \infos{\source{St. Louvre C\,12}, 17, (Iményséneb, \dyn{13}}
+
+  \td{Alors, on en fut réjoui, plus que (de) toute (autre) chose 
+      (\litt grand par rapport à toute chose).}
+
+  \tg{\PPP{} \incise{parfait ancien} introduite par un auxiliaire 
+      de la narration.}
+\end{example}
+
+L'auxiliaire \begin{hieroglyph}wn:n-i-n\end{hieroglyph} \tl{wn.in} 
+ou \begin{hieroglyph}M42:n-i-n\end{hieroglyph} \tl{wn.in} est aussi 
+un auxiliaire exclusivement utilisé dans la narration qui dérive du 
+verbe géminé \tl{wnn}, \td{exister}. On le rencontre avec des phrases 
+à l'inaccompli progressif et au parfait ancien (\PPP[s]), ainsi que 
+des \PPA[s]. \citeauthor{Allen} signale encore la possibilité pour 
+cet auxiliaire d'introduire une \PPJ\footcite[5\ieme~éd., 
+\pno~203]{Allen}. On traduit cet auxiliaire par \td{puis}, 
+\td{alors}\dots
+
+\begin{example}
+  \begin{hieroglyph}
+    wn:n-i-n Hm-1 f Hr:1 p:g-A-D32:D40 zS-Y1:3
+  \end{hieroglyph}
+
+  \tl{wn.in Hm=f Hr pgA sS.w}
+  \infos{\source{St. Néferhotep} (\dyn{13}}
+
+  \td{Alors, sa Majesté se mit à dérouler les écrits.}
+
+  \tg{Proposition avec un inaccompli progressif introduite par un 
+      auxiliaire narratif.}
+\end{example}
+
+Ces deux auxiliaires de la narration peuvent aussi introduire des 
+phrases dont le prédicat est assumé par certaines formes de la 
+conjugaison suffixale. Nous verrons cela l'an prochain.
+
+\bigskip
+
+\begin{exercice}[before upper={\centering}]
+  Pour le moment, c'est tout pour cette année !
+
+  \donc{} Faites \textbf{L'exercice~12} et bonnes révisions !
+\end{exercice}

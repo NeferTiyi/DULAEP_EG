@@ -1,0 +1,145 @@
+%!TEX root = DULAEP_EG.htx
+%##HieroDef.txt
+
+\chapter*{Exercice~18 --- La titulature royale}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{Translittérer et traduire la titulature royale du 
+  document ci-dessous -- Ramsès II (musée du Louvre \inv{A\,20}). 
+  Inscriptions des côtés latéraux du trône. Observez bien la 
+  disposition des signes}
+  \begin{center}
+    \includegraphics[width=0.48\linewidth]{A20_1}%
+    \includegraphics[width=0.52\linewidth]{A20_2}\\
+    Dessin Chr.~\bsc{Barbotin}, \emph{Les statues égyptiennes du \NK}, 
+    Paris, 2007
+  \end{center}
+
+  \begin{solution}
+    La disposition des signes est le premier point important. 
+    Observez qu'à chaque face vous avez trois colonnes dans le même 
+    sens et une 4\ieme en sens opposé. Ci-dessous quatre colonnes 
+    surmontées par la voûte céleste : \lgn{B1} à \lgn{B3} se lisent 
+    de gauche à droite et \lgn{B5} de droite à gauche. Le dernier 
+    cadrat de chacune des colonnes \lgn{B1-B3} se lit en ligne, 
+    comme en facteur commun aux trois colonnes.
+
+    \bigskip
+
+    \lgn{B1} \tl{KA-nxt mry-mAa.t} 
+    \lgn{B2} \tl{nsw-bity nb tA.wy Wsr-mAa.t-Ra stp.n-Ra} 
+    \lgn{B3} \tl{sA Ra nb xa.w Ra-ms-sw mry-imn} --- 
+    cadrats inférieurs \lgn{B1-B3} : \tl{di anx mi Ra D.t}
+
+    \lgn{B1} \td{Kanakht (taureau-puissant) méry-maât (aimé de maât)} 
+    \lgn{B2} \td{le roi de \HBE, seigneur du double pays Ouser-maât-Rê 
+    setepenrê (qu'a élu Rê)} 
+    \lgn{B3} \td{le fils de Rê, seigneur des apparitions Ramsès 
+    méry-imen (aimé d'Amon)}
+
+    Notez les antépositions honorifiques dans les cartouches et le 
+    \emph{serekh}, mais aussi dans la ligne en facteur commun en 
+    bas des colonnes \lgn{B1-B3}, dans la notation de \tl{mi Ra}, 
+    \td{comme Rê}.
+
+    \bigskip
+
+    \lgn{B5} \tl{mry Nxb.t nb(.t) \Smaj maw}
+
+    \lgn{B5} \td{aimé de Nekhbet, maîtresse de la \HE}
+
+    Là encore, notez l'antéposition honorifique de \td{Nekhbet, 
+    maîtresse de la \HE} par rapport à \tl{mry}, \td{aimé de}.
+
+    \bigskip
+
+    L'organisation est la même sur cette autre face du trône.
+
+    \bigskip
+
+    \lgn{C1} \tl{KA-nxt mry-mAa.t} 
+    \lgn{C2} \tl{nsw-bity nb tA.wy Wsr-mAa.t-Ra stp.n-Ra} 
+    \lgn{C3} \tl{sA Ra nb xa.w Ra-ms-sw mry-imn} --- 
+    cadrats inférieurs \lgn{B1-B3} : \tl{di anx mi Ra D.t}
+
+    \lgn{C1} \td{Kanakht (taureau-puissant) méry-maât (aimé de maât)} 
+    \lgn{C2} \td{le roi de \HBE, seigneur du double pays Ouser-maât-Rê 
+    setepenrê (qu'a élu Rê)} 
+    \lgn{C3} \td{le fils de Rê, seigneur des apparitions Ramsès 
+    méry-imen (aimé d'Amon)}
+
+    Notez les antépositions honorifiques dans les cartouches et le 
+    \emph{serekh}, mais aussi dans la ligne en facteur commun en 
+    bas des colonnes \lgn{C1-C3}, dans la notation de \tl{mi Ra}, 
+    \td{comme Rê}.
+
+    \bigskip
+
+    \lgn{C5} \tl{mry WAD.t nb(.t) MHw}
+
+    \lgn{C5} \td{aimé de Ouadjet, maîtresse de la \BE}
+
+    Là encore, notez l'antéposition honorifique de \td{Ouadjet, 
+    maîtresse de la \BE} par rapport à \tl{mry}, \td{aimé}.
+  \end{solution}
+
+  \question\qfmt{Translittérer et traduire le texte de ce vase en 
+  faïence (Louvre \inv{E\,11094}), Ramsès.}
+  \renewcommand{\insertimg}{%
+    \includegraphics[height=8cm]{E11094a}%
+  }
+  \settowidth{\graphicwidth}{\insertimg}
+  \begin{minipage}[b]{\graphicwidth}
+    \insertimg%
+  \end{minipage}%
+  \hfill%
+  \begin{minipage}[b]{\linewidth-(\graphicwidth+7mm)}
+    Source de la photographie : base atlas du musée du Louvre 
+    (photo \textcopyright~Musée du Louvre/G.~Poncet)
+  \end{minipage}
+
+  \begin{solution}
+    Ici aussi il faut, dans un premier temps, comprendre la structure 
+    du texte. Il y a quatre colonnes, dont deux colonnes centrales 
+    portant des cartouches. Les colonnes de droite et de gauche se 
+    répondent en symétrie. Il faut lire, par exemple : \lgn{1-2} puis 
+    \lgn{3-4}.
+
+    Colonnes \lgn{1-2} : 
+    \lgn{1} lecture de gauche à droite et \lgn{2} inversement (droite 
+    à gauche) ; 
+    \lgn{3} lecture de droite à gauche et \lgn{4} inversement de 
+    gauche à droite. 
+    Attention les derniers cadrats des colonnes \lgn{1} et \lgn{3} 
+    sont à lire ensemble, en ligne, comme en facteur commun.
+
+    \bigskip
+
+    \lgn{1} \tl{nb tA.wy Wsr-mAa.t-Ra \%tpn-Ra di anx (mi Ra)} 
+    \lgn{2} \tl{mry imn-Ra nsw nTr.w nb p.t} 
+
+    \lgn{1} \td{le seigneur du Double-Pays Ouser-maât-Rê setepen-Rê 
+    (qu'a élu Rê) doué de vie (comme Rê), }
+    \lgn{2} \td{aimé d'Amon-Rê, roi des dieux, seigneur du ciel}
+
+    \lgn{3} \tl{nb xa.w Ra-ms-sw mry-imn (di anx) mi Ra} - 
+    \lgn{4} \tl{mry imn nb ns.wt tA.wy} 
+
+    \lgn{3} \td{le seigneur des apparitions Ramsès méry-amon 
+    (aimé de Rê), (doué de vie) comme Rê}
+    \lgn{4} \td{aimé d'Amon seigneur des trônes du Double Pays}
+  \end{solution}
+\end{questions}
+
+\subsection*{Vocabulaire}
+\begin{multicols}{2}
+\begin{itemize}
+  \item \begin{hieroglyph}g:t*1\end{hieroglyph} 
+        \tl{ns.t}, \td{trône}
+  \item \begin{hieroglyph}M22-t-\!b-mwt:\!nb\end{hieroglyph} 
+        \tl{Nxb.t}, \td{Nekhbet}, déesse d'Elkab
+  \item \begin{hieroglyph}wAD-t-I13\end{hieroglyph} 
+        \tl{WADy.t}, \td{Ouadjyt}, déesse de Bouto
+\end{itemize}
+\end{multicols}

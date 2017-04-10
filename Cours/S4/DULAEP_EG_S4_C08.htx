@@ -1,0 +1,232 @@
+%!TEX root = DULAEP_EG.htx
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\part[Procédés rhétoriques 1 --- Les phrases coupées]
+{Procédés rhétoriques 1 --- Les phrases coupées\\\tl{in sA sDmw} 
+(\td{c'est le fils qui écoute})}
+\label{prt:S4_phrase_coupee}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\chapter{Introduction}
+% =====================================================================
+
+Le langage est utilisé pour faire un acte de communication. 
+Si le locuteur est dans la position de chercher à convaincre son 
+interlocuteur, il est amené à utiliser des figures de styles, des 
+tournures propres à retenir l'attention ou à marquer les esprits.
+
+\bigskip
+
+Du point de vue énonciatif, une phrase est constituée de :
+\begin{quote}
+  \begin{tabular}{l@{\ }c@{\ }l}
+    Thème & + & rhème \\
+    (sujet) & & (commentaire, information = prédicat dans les
+    énoncés classiques) \\
+  \end{tabular}
+\end{quote}
+
+\bigskip
+
+Comparez ces deux phrases :
+\begin{enumerate}
+  \item \td{Le paysan laboure le champ.} \label{itm:phr1}
+  \item \td{C'est le paysan qui laboure le champ.} \label{itm:phr2}
+\end{enumerate}
+
+Les informations données par ces deux énoncées sont identiques, mais 
+l'accent n'est pas mis sur le même élément.
+\begin{itemize}
+  \item \clel{dans la phrase~\ref{itm:phr1}}, le sujet (le thème de la 
+        phrase) est \td{le paysan} et le prédicat (l'information 
+        apportée) est le groupe verbal \td{laboure le champ} --- 
+        c'est ce dernier élément qui est plutôt mis en valeur --- 
+        c'est ce que l'on appelle une \textbf{phrase plane} ;
+  \item \clel{dans la phrase~\ref{itm:phr2}}, c'est le thème (paysan) 
+        qui est mis en avant --- c'est un \textbf{énoncé marqué}, 
+        c'est-à-dire qu'en changeant l'ordre des mots on met l'emphase 
+        sur un élément particulier du discours, dans le cas présent on 
+        met en valeur le \emph{sujet} qui accompli l'action de manière 
+        exclusive. C'est le paysan qui laboure et non pas une autre 
+        catégorie de travailleurs.
+\end{itemize}
+
+\bigskip
+
+La construction française \td{c'est \dots que} permet de mettre en 
+valeur différents éléments du discours. Par exemple :
+\begin{quote}
+  \td{C'est \emph{le serviteur} qui dort sous l'arbre.}
+
+  \td{C'est \emph{sous l'arbre} que le serviteur dort.}
+\end{quote}
+
+Nous allons voir dans ce cours, quelle construction égyptienne 
+permet de mettre en valeur le sujet, quelle construction permet 
+de \emph{rhématiser} le sujet pour reprendre un vocabulaire de 
+linguistique. Cette construction est appelée \emph{phrase coupée} 
+ou \emph{cleft sentence} et elle utilise un participe.
+
+\begin{aparte}[title={Références aux manuels}, before upper=\noindent]
+  \noindent%
+  \cite[§\,23.13]{Allen} : 
+  \emph{\texten{participial statement}}
+
+  \noindent%
+  \cite[leçon~50]{GM} : 
+  proposition argumentative à prédicat nominal
+
+  \noindent%
+  \cite[§\,1063--1071]{MW} : 
+  phrase coupée ou \emph{\texten{cleft sentence}}
+\end{aparte}
+
+
+\chapter{La phrase coupée avec participes}
+% =====================================================================
+
+La phrase coupée utilise généralement des participes \emph{toujours 
+actifs}. Il existe deux constructions selon que le sujet mis en valeur 
+est pronominal ou nominal.
+
+\section{\emph{\texten{Cleft sentence}} ou phrase coupée avec sujet 
+nominal}
+% ---------------------------------------------------------------------
+La construction est la suivante :
+
+\begin{quote}
+  \tl{in} + nom ou groupe nominal ou tout élément substantivé + 
+  participe (actif : accompli, inaccompli, ou forme \tl{sDm.ty=fy}) et 
+  compléments éventuels.
+\end{quote}
+
+\begin{description}
+  \item [Phrase non marquée :] \tl{iw bAk sDm=f dAbw}\\
+        \td{Le serviteur mange des figures.}
+         (aoriste)
+  \item [Phrase marquée :] \tl{in bAk sDm dAbw}\\
+        \td{C'est le serviteur qui mange des figues.}
+        (participe actif inaccompli)
+\end{description}
+
+\begin{example}[title={}]
+  \begin{minipage}[b]{2.2cm}
+    \includegraphics[scale=0.66]{CT4_238-239a}%
+    \includegraphics[scale=0.66]{CT4_236-237c}
+  \end{minipage}
+  \begin{minipage}[b]{\linewidth-2.2cm}
+    \tl{in +Hwty ir nn m Dba.w=f}
+
+    \td{C'est Thot qui a fait cela de ces doigts}
+
+    \bigskip
+
+    \hspace{-1em}
+    \infos{\CTx{IV}, 236/237\,c--238/239\,a, \cite[563]{GM}}
+  \end{minipage}
+\end{example}
+
+  % \bigskip
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    i-n w-S:b*Z9-A2 -f di':di' N41-m-D55:f
+  \end{hieroglyph}
+
+  \tl{in wSb=f didi Hm=f}
+  \infos{\source{Stèle de Semna}, l.~9--10}
+
+  \td{\litt C'est répondre (à) lui \remg{(infinitif)} qui fait 
+        en sorte \remg{(participe inaccompli)} qu'il s'enfuit 
+        \remg{(subjonctif dans une complétive)}}\\
+  = \td{C'est lui répondre qui fait qu'il s'enfuit} 
+\end{example}
+
+\begin{notabene}
+  Ne pas confondre avec l'usage de \tl{in} en début de phrase qui 
+  donne un sens interrogatif, notamment dans le groupe \tl{in-iw} 
+  (voir \titleref{bk:semestre2}, \Pref{prt:S2_recap}).
+\end{notabene}
+
+\section{\emph{\texten{Cleft sentence}} ou phrase coupée avec sujet 
+pronominal}
+% ---------------------------------------------------------------------
+\begin{quote}
+  Pronom indépendant + participes actifs et les compléments éventuels.
+\end{quote}
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    ink-A1 ir-w-A1
+  \end{hieroglyph}
+
+  \tl{ink ir(w) wi}
+  \infos{\CTx{VI}, 344\,c}
+
+  \td{C'est moi qui me suis créé.}
+
+  Il est à noter que cette phrase ressemble en tout point à une \PPN 
+  classique (\td{Je suis celui qui m'a créé.}).
+\end{example}
+
+
+\chapter{La phrase coupée au prospectif}
+% =====================================================================
+
+Dans de rares exemples, le subjonctif peut être utilisé à la place de 
+la forme \tl{sDm.ty=fy}.
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    i-n G7AA H-Hz-z:f sw-w
+  \end{hieroglyph}
+
+  \tl{in Nmti Hs=f sw}
+  \infos{\cite[3\up{rd} ed, 25.18]{Allen}}
+
+  \td{C'est Nemti qui le favorisera.}
+\end{example}
+
+
+\chapter{La phrase coupée négative}
+% =====================================================================
+
+La négation de la phrase coupée est celle de la \PPN, la négation 
+bipartite \tl{n \dots is} qui encadre le premier élément de la phrase 
+(le pronom indépendant ou \tl{in}).
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    n' ink i-s Dd' n:k U20:nw-w !
+    i-n gb-b-A40 Dd' n:k U20:nw-w H-n:a st-ir-A40
+  \end{hieroglyph}
+
+  \tl{n ink is Dd(w) n=k nw\\
+      in Gb Dd(w) n=k nw, Hna Wsir}
+  \infos{\CTx{I}, 302\,e--f}
+
+  \td{Ce n'est pas moi qui t'a dit cela,\\
+      c'est Geb qui t'a dit cela, avec Osiris.}
+\end{example}
+
+Nous (re)verrons au cours suivant d'autres procédés rhétoriques, en 
+particulier les constructions emphatiques.
+
+\chapter{Le pronom interrogatif \tl{in-mi}}
+% =====================================================================
+
+Le pronom interrogatif \tl{in-mi} peut être considéré comme relevant 
+de cette construction : \td{c'est qui ?}, \td{c'est quoi ?}.
+
+\begin{hieroglyph}m:D38\end{hieroglyph}
+\tl{mi} = \td{quoi ?}, \td{qui ?}
+
+\begin{hieroglyph}i-n-m:D38\end{hieroglyph} \tl{in-mi}, 
+\begin{hieroglyph}n-m:D38\end{hieroglyph} \tl{(i)n-mi}, 
+\td{quoi ?}, \td{qui ?} = \td{c'est quoi ?}, \td{c'est qui ?}
+
+\bigskip
+
+\begin{exercice}[before upper={\centering}]
+  Faire \textbf{l'exercice~8}.
+\end{exercice}

@@ -10,17 +10,27 @@
 
 @xdata{Liege,
   publisher = {Presses Universitaires de Liège},
+  % location  = {Liège},
 }
-  location  = {Liège},
 
 @book{Obsomer,
   title     = {Grammaire pratique du moyen égyptien},
   shorttitle = {Grammaire pratique},
   author    = {Obsomer, Claude},
   edition   = {2},
+  series    = {Langues et Cultures anciennes},
+  number    = {11},
   publisher = {Safran},
   location  = {Bruxelles},
   date      = {2009},
+  keywords  = {gramm},
+}
+
+@book{Obsomer_2003,
+  crossref  = {Obsomer},
+  edition   = {1},
+  number    = {1},
+  date      = {2003},
 }
 
 @book{MW,
@@ -31,33 +41,42 @@
   number    = {6},
   date      = {1999},
   xdata     = {Liege},
+  keywords  = {gramm},
 }
 
 @book{GM,
-  author  = {Grandet, Pierre and Mathieu, Bernard},
-  title   = {Cours d'égyptien hiéroglyphique},
-  edition = {2},
-  date    = {2003},
-  xdata   = {Kheops},
+  author    = {Grandet, Pierre and Mathieu, Bernard},
+  title     = {Cours d'égyptien hiéroglyphique},
+  shorttitle = {Cours},
+  edition   = {2},
+  date      = {2003},
+  xdata     = {Kheops},
+  keywords  = {gramm},
+  % isbn    = {2-9504368-2-X},
 }
-  isbn    = {2-9504368-2-X},
 
 @book{GM1,
-  author  = {Grandet, Pierre and Mathieu, Bernard},
-  title   = {Cours d'égyptien hiéroglyphique},
+  crossref = {GM},
   edition = {1},
   date    = {1990},
-  xdata   = {Kheops},
 }
 
 @book{Gardiner,
   author    = {Gardiner, Alan H.},
-  title     = {\foreignlanguage{english}{Egyptian Grammar}},
+  title     = {\texten{Egyptian Grammar}},
   edition   = {3},
   date      = {1957},
   xdata     = {Griffith_Institute},
+  keywords  = {gramm},
+  % isbn      = {2-9504368-2-X},
 }
-  isbn      = {2-9504368-2-X},
+
+@book{Neveu,
+  author    = {Neveu, François},
+  title     = {La langue des Ramsès},
+  date      = {1996},
+  keywords  = {gramm},
+}
 
 @book{WinandStella,
   title     = {Lexique du moyen égyptien},
@@ -66,47 +85,40 @@
   number    = {8},
   date      = {2013},
   xdata     = {Liege},
+  keywords  = {dico},
+  % isbn      = {978-2-87562-015-6},
 }
-  isbn      = {978-2-87562-015-6},
 
 @book{Faulkner,
   author    = {Faulkner, Raymond O.},
-  title     = {\foreignlanguage{english}{A concise dictionary of 
+  title     = {\texten{A concise dictionary of 
                middle Egyptian}},
-  shorttitle = {\foreignlanguage{english}{Concise dictionary}},
+  shorttitle = {\texten{Concise dictionary}},
   date      = {1962},
   xdata     = {Griffith_Institute},
+  keywords  = {dico},
+  % isbn      = {978-0-900416-32-3},
 }
-  isbn      = {978-0-900416-32-3},
 
 @book{Hannig,
   author    = {Hannig, Rainer},
-  title     = {\foreignlanguage{ngerman}{Die Sprache des Pharaonen. 
-               Gro"ses Handwörterbuch Ägyptisch-Deutsch 
-               (2800-950 v.Chr.)}},
+  title     = {\textde{Die Sprache des Pharaonen. Gro"ses 
+               Handwörterbuch Ägyptisch-Deutsch (2800-950 v.Chr.)}},
   date      = {1995},
   publisher = {Phillip von Zabern},
   location  = {Mayence},
+  keywords  = {dico},
 }
 
 @book{EG,
   author    = {Erman, Adolf and Grapow, Hermann},
-  title     = {\foreignlanguage{ngerman}{Wörterbuch des äegyptischen 
-               Sprache}},
+  title     = {\textde{Wörterbuch des äegyptischen Sprache}},
   date      = {1971},
   publisher = {Akademie Verlag},
   location  = {Berlin},
   url       = {http://www.egyptology.ru/lang.htm#Woerterbuch},
   addendum  = {consultable  sur  http://aaew.bbaw.de/},
-}
-
-@book{Manuelian,
-  author    = {der Manuelian, Peter},
-  title     = {\foreignlanguage{english}{Slab Stela of the Giza 
-               Necropolis}},
-  date      = {2003},
-  publisher = {New Haven and Philadelphia},
-  url       = {http://www.gizapyramids.org/pdf_library/manuelian_slab_stelae2003.pdf},
+  keywords  = {dico},
 }
 
 @book{BS,
@@ -115,31 +127,55 @@
   date      = {2010},
   publisher = {Actes Sud Histoire},
   location  = {Arles},
+  keywords  = {dico},
+  % isbn      = {ISBN 978-2-7427-8922-1},
 }
-  isbn      = {ISBN 978-2-7427-8922-1},
+
+@book{Manuelian,
+  author    = {der Manuelian, Peter},
+  title     = {\texten{Slab Stela of the Giza Necropolis}},
+  date      = {2003},
+  publisher = {New Haven and Philadelphia},
+  url       = {http://www.gizapyramids.org/pdf_library/manuelian_slab_stelae2003.pdf},
+}
 
 @book{Fischer,
   author    = {Fischer, Henri G.},
-  title     = {\foreignlanguage{english}{Ancient Egyptian Calligraphy. 
-               A Beginner’s Guide to Writing Hieroglyphs}},
+  title     = {\texten{Ancient Egyptian Calligraphy. A Beginner’s 
+               Guide to Writing Hieroglyphs}},
   edition   = {4},
   date      = {1999},
   publisher = {The Metroplitan Museum of Art},
   location  = {New York},
   url       = {http://www.gizapyramids.org/pdf_library/fischer_eg_calligraphy.pdf},
+  keywords  = {dessin},
+  % isbn      = {0-87099-934-6},
 }
-  isbn      = {0-87099-934-6},
 
 @book{Allen,
-  author    = {Allen, J.P.},
-  title     = {\foreignlanguage{english}{Middle Egyptian. 
-               An Introduction to the Langage and Culture of 
-               Hieroglyphs}},
-  shorttitle = {\foreignlanguage{english}{Middle Egyptian}},
+  author    = {Allen, James P.},
+  title     = {\texten{Middle Egyptian. An Introduction to the Langage 
+               and Culture of Hieroglyphs}},
+  shorttitle = {\texten{Middle Egyptian}},
+  edition   = {1},
   date      = {2000},
+  % publisher = {},
   location  = {Cambridge},
 }
-  publisher = {},
+
+@book{Allen_2010,
+  crossref  = {Allen},
+  edition   = {2},
+  date      = {2010},
+}
+
+@book{Heqanakht,
+  author    = {Allen, James P.},
+  title     = {\texten{The Heqanakht Papyri}},
+  date      = {2002},
+  publisher = {The Metroplitan Museum of Art},
+  location  = {New York},
+}
 
 @book{Vernus,
   author    = {Vernus, Pascal},
@@ -147,8 +183,9 @@
   date      = {2009},
   publisher = {Plon},
   location  = {Paris},
+  keywords  = {langue},
+  % isbn      = {978-2-25919091-6},
 }
-  isbn      = {978-2-25919091-6},
 
 @book{Winand,
   author    = {Winand, Jean},
@@ -161,23 +198,24 @@
 
 @book{Loprieno,
   author    = {Loprieno, Antonio},
-  title     = {\foreignlanguage{english}{Ancient Egyptian. 
-               A linguisic introduction}},
-  shorttitle = {\foreignlanguage{english}{Ancient Egyptian}},
+  title     = {\texten{Ancient Egyptian. A linguisic introduction}},
+  shorttitle = {\texten{Ancient Egyptian}},
   date      = {1995},
   publisher = {Cambridge University Press},
+  keywords  = {langue},
+  % location  = {Cambridge},
+  % isbn      = {978-0-52144849-9},
 }
-  location  = {Cambridge},
-  isbn      = {978-0-52144849-9},
+
 
 @book{Darnell,
   author    = {Darnell, John C.},
-  title     = {\foreignlanguage{english}{Wadi el-Hol}},
+  title     = {\texten{Wadi el-Hol}},
   date      = {2013},
   series    = {UCLA Encyclopedia of Egyptology},
   number    = {1(1)},
-  publisher = {UCLA: Department of Near Eastern Languages and 
-               Cultures},
+  publisher = {\texten{UCLA: Department of Near Eastern Languages 
+               and Cultures}},
   url       = {https://escholarship.org/uc/item/1sd2j49d},
   note      = {nelc\_uee\_8547},
 }
@@ -224,6 +262,7 @@
   title     = {Grammaire égyptienne, ou principes généraux de 
                l'écriture sacrée égyptienne appliquée à la 
                représentation de la langue parlée},
+  shorttitle = {Grammaire égyptienne},
   date      = {1836},
   note      = {(ouvrage disponible sur Gallica.fr)},
 }
@@ -248,15 +287,14 @@
 
 @book{Griffith,
   author    = {Griffith, F. Ll.},
-  title     = {\foreignlanguage{english}{Demotic Graffiti of the 
-               Dodecashoenus}},
+  title     = {\texten{Demotic Graffiti of the Dodecashoenus}},
 }
 
 @online{Hieroglyphica,
   title     = {Hieroglyphica},
   url       = {http://gallica.bnf.fr/ark:/12148/bpt6k71415s},
+  % urldate   = {2014-02-27},
 }
-  urldate   = {2014-02-27},
 
 
 @inproceedings{Leclant_1972,
@@ -291,70 +329,140 @@
 
 @mvbook{RK,
   author    = {Ranke, Hermann},
-  title     = {\foreignlanguage{ngerman}{Die ägyptischen 
-               Personennamen}},
-  volumes = {3},
-  year      = {1935/1976},
+  title     = {\textde{Die ägyptischen Personennamen}},
+  volumes   = {3},
+  years     = {1935/1976},
   publisher = {J.J. Augustin},
   location  = {Glückstadt~/ Hamburg~/ New~York},
 }
 
 @mvcollection{LdA,
-  editor = {Helck, Wolfgang and Otto, Eberhard},
-  title = {\foreignlanguage{ngerman}{Lexikon der Ägyptologie}},
-  volumes = {7},
-  year = {1975/1989},
+  editor    = {Helck, Wolfgang and Otto, Eberhard},
+  title     = {\textde{Lexikon der Ägyptologie}},
+  volumes   = {7},
+  years     = {1975/1989},
   publisher = {Harrassowitz},
 }
 
 @mvbook{HL,
   author    = {Möller, Georg},
-  title     = {\foreignlanguage{ngerman}{Hieratische Lesestücke}},
-  number    = {I},
-  year      = {1909},
-  publisher = {},
+  title     = {\textde{Hieratische Lesestücke}},
+  publisher = {Hinrichs},
   location  = {Leipzig},
 }
-  volumes   = {4},
+@mvbook{HL1,
+  crossref  = {HL},
+  number    = {I},
+  year      = {1909},
+}
+@mvbook{HL2,
+  crossref  = {HL},
+  number    = {II},
+  year      = {1927},
+}
 
+@mvbook{HP1,
+  author    = {Möller, Georg},
+  title     = {\textde{Hieratische Paläographie}},
+  number    = {I},
+  year      = {1909},
+  publisher = {Otto Zeller},
+  location  = {Osnabrück},
+}
+@mvbook{HP2,
+  crossref  = {HP1},
+  number    = {II},
+  year      = {1927},
+  % volumes   = {4},
+}
 
-  mvcollection Amulti-volume collection . Forbackwardscompatibility, multi-volumecollections
-are also supported by the entry type collection . However, it is advisable to make
-use of the dedicated entry type mvcollection .
+@book{Collier_2004,
+  author    = {Collier, Mark and Quirke, Stephen},
+  title     = {\texten{The UCL Lahun Papyri: Religious, Literary, 
+               Legal, Mathematical and Medical}},
+  series    = {BAR -- International Series},
+  number    = {1209},
+  date      = {2004},
+  publisher = {Archaeopress},
+  location  = {Oxford},
+}
 
-Required fields: 
-editor
-title
-year/date
+@book{Demotic_Dico,
+  title     = {\texten{Chicago Demotic Dictionary}},
+  pages     = {268-273},
+  url       = {https://oi.uchicago.edu/research/publications/demotic-dictionary-oriental-institute-university-chicago},
+  urldate   = {2015-11},
+}
 
-Optional fields: 
-editora
-editorb
-editorc
-translator
-annotator
-commentator
-introduction
-foreword
-afterword
-subtitle
-titleaddon
-language ,
-origlanguage
-edition
-volumes
-series
-number
-note
-publisher
-location
-isbn
-pagetotal
-addendum
-pubstate
-doi
-eprint
-eprintclass
-eprinttype
-url
-urldate
+@book{Polotsky,
+  author    = {Polotsky, Hans Jacob},
+  title     = {Les transpositions du verbe en égyptien classique},
+  series    = {Israel Oriental Studies},
+  number    = {VI},
+  date      = {1976},
+  publisher = {Tel Aviv University},
+}
+
+@book{Vernus_autopsie,
+  author    = {Vernus, Pascal},
+  title     = {Les parties du discours en moyen égyptien : 
+               autopsie d'une théorie},
+  date      = {1997},
+  publisher = {Société d'égyptologie},
+  location  = {Genève},
+}
+
+@book{Vercoutter,
+  author    = {Vercoutter, Jean},
+  title     = {L'\kmt et la vallée du Nil},
+  % date      = {1997},
+  % publisher = {Société d'égyptologie},
+  % location  = {Genève},
+}
+
+@article{Menu_1998,
+  author    = {Menu, Bernadette},
+  title     = {Le corpus constitutionnel de Nârmer},
+  journaltitle = {\kmt. Afrique \& Orient},
+  volume    = {8},
+  pages     = {22--27},
+  date      = {1998-02},
+}
+
+@book{Lacau_Chevrier,
+  author    = {Lacau, P. and Chevrier, H.},
+  title     = {Une chapelle de Sésostris~Ier à Karnak},
+  date      = {1956},
+  pages     = {44--45},
+  % publisher = {},
+  location  = {Le~Caire},
+}
+
+@book{Uljas,
+  author    = {Uljas, Sami},
+  title     = {\texten{The Modal System of Earlier Egyptian 
+               Complement Clause}},
+  date      = {2007},
+  series    = {\textde{Probleme der Ägyptologie}},
+  number    = {26},
+  publisher = {BRILL},
+  location  = {Leiden},
+  % isbn      = {978-90-04-15831-3},
+}
+
+@article{Guermeur,
+  author = {Guermeur, Ivan},
+  title = {Conférence de M.~\gens[Ivan]{Guermeur}},
+  journal = {École pratique des hautes études, Section des sciences 
+             religieuses.},
+  series = {Annuaire.},
+  % volume = {114},
+  number = {Tome~110, 2001--2002},
+  pages = {197--204},
+  year = {2001},
+  % language = {fre},
+  publisher = {École pratique des hautes études},
+  url = {www.persee.fr/doc/ephe_0000-0002_2001_num_114_110_11924},
+}
+
+Guermeur Ivan. Conférence de M. Ivan Guermeur. In: \emph{École pratique des hautes études, Section des sciences religieuses.} Annuaire. Tome 110, 2001--2002. 2001. pp.~197--204. \url{www.persee.fr/doc/ephe_0000-0002_2001_num_114_110_11924} -- en particulier p.~199--200.

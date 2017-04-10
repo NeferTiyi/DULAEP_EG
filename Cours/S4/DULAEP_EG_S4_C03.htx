@@ -1,0 +1,392 @@
+%!TEX root = DULAEP_EG.htx
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\part[Les participes \tl{sDm(w)}]
+     {Les participes \tl{sDm(w)} (\td{écoutant}, \td{qui écoute})}
+\label{prt:S4_prtcp}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\chapter{Introduction}
+% =====================================================================
+
+Depuis l'an dernier, et surtout au \titleref{bk:semestre3}, cette 
+année, vous avez vu presque toutes les formes verbales : 
+\textbf{infinitif, parfait ancien, impératif, formes de la conjugaison 
+suffixales}. Il ne vous manque qu'à apprendre les \clef{participes} 
+des verbes et une catégorie de forme adjectivale du verbe appelée 
+\clef{forme relative}. C'est ce que nous allons aborder à présent. 
+Nous allons consacrer plusieurs cours à cette question.
+
+Sous un certain angle, l'étude des participes et formes relatives 
+s'inscrit dans notre exploration des propositions subordonnées. On 
+peut en distinguer trois sortes :
+\begin{enumerate}
+  \item \clef{Les circonstancielles}, qui apportent une précision 
+        de circonstance à l'ensemble de la phrase. Ce sont les 
+        \frquote{circonstancielles véritables}, introduites par une 
+        préposition-conjonction comme nous l'avons vu et comportant 
+        des formes de la conjugaison suffixale (voir cours du 
+        \titleref{bk:semestre3} et \Pref{prt:S4_conditionnelles}).
+  \item \clef{Les nominales}, qui sont des propositions complétives 
+        en fonction d'objet du verbe de la proposition principale 
+        (\td{je veux \emph{que tu viennes}}). Elles présentent 
+        différents types de constructions et des formes verbales 
+        non restreintes à cet usage que nous avons vues dans le 
+        \Pref{prt:S4_completives} de ce semestre.
+  \item \clef{Les adjectivales}, enfin, qui modifient le sens d'un 
+        groupe nominal. Ce sont les \textbf{propositions relatives 
+        déterminatives}. En égyptien ancien, elles se rendent par 
+        des formes et des constructions spécifiques : 
+        les \textbf{participes}, les \textbf{formes relatives}, 
+        mais aussi des \textbf{propositions subordonnées relatives} 
+        (véritables si l'on veut) introduites par un relatif \tl{nty} 
+        et son équivalent négatif \tl{iwty}. C'est donc sur ces 
+        adjectivales que nous allons nous attarder à présent.
+\end{enumerate}
+
+\paragraph{Indications bibliographiques :}
+\cites[leçon~40 (participes actifs)]{GM}
+      [§\,23]{Allen}
+      [§\,843--870]{MW}
+      [chapitre sur les participes][]{Obsomer}.
+
+
+\chapter{Généralités}
+% =====================================================================
+
+Les propositions subordonnées relatives jouent le rôle d'un 
+adjectif, c'est-à-dire qu'elles apportent une précision à un groupe 
+nominal ou à un substantif. En français, \td{Pierre \red{qui est 
+mon frère} est là}. Les propositions relatives sont des donc des 
+moyens de transformer une proposition, pour leur faire assumer un 
+rôle équivalent à celui d'un \clef{adjectif qualificatif} : 
+\td{le fidèle \red{qui écoute l'ordre d'Amon}}, rôle similaire à 
+\td{le fidèle \red{pieux}}.
+
+En égyptien ancien, il existe plusieurs façons de rendre une 
+proposition relative déterminative (c'est-à-dire qui sert à spécifier, 
+identifier l'antécédent).
+\begin{itemize}
+  \item Formes adjectivales de la conjugaison :
+        \begin{itemize}
+          \item Les participes actifs,
+          \item Les participes passifs,
+          \item Les formes relatives ;
+        \end{itemize}
+  \item Subordonnées introduites par \tl{nty} ou \tl{iwty}.
+\end{itemize}
+
+Nous allons commencer par voir les participes actifs.
+
+\section*{Approche générale}
+% ---------------------------------------------------------------------
+Le participe est une forme du verbe qui permet d'exprimer l'action 
+verbale dans la catégorie grammaticale de l'adjectif.
+
+\subsection{Actif (le sujet grammatical est le sujet réel – agent de 
+l'action)}
+% ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+\begin{itemize}
+  \item \td{Le chien \clef{qui suit} son maître aboie.}
+  \item \td{Le chien \clef{suivant} son maître aboie.} 
+        (participe présent)
+  \item \td{Le chien \clef{ayant suivi} son maître aboie.}
+\end{itemize}
+
+
+\subsection{Passif (le sujet grammatical subit l'action)}
+% ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+\begin{itemize}
+  \item \td{Le chien \clef{qui est suivi} par le chat aboie.}
+  \item \td{Le chien \clef{suivi} par le chat aboie.} 
+        (participe passé)
+  \item \td{Le chien \clef{ayant été suivi} par le chat aboie.}
+\end{itemize}
+
+\begin{aparte}[title={Important}]
+  Les participes en égyptien ancien peuvent être traduits, en 
+  français, par des participes ou des propositions subordonnées 
+  relatives ayant en français un sujet \emph{grammatical} identique à 
+  l'antécédent, c'est-à-dire le \clef{pronom relatif \frquote{qui}}.
+\end{aparte}
+
+\section*{Remarques préalables}
+% ---------------------------------------------------------------------
+Quand le participe détermine un substantif, qu'il joue donc le rôle 
+d'adjectif épithète, il suit le nom qu'il détermine et il s'accorde 
+avec lui.
+
+Mais le participe peut assumer d'autres fonctions remplies par 
+l'adjectif en égyptien :
+\begin{itemize}
+  \item prédicat d'une \PPA (en ce cas, il est invariable, 
+        voir \Pref{prt:PPJ}, \titleref{bk:semestre2}) ;
+  \item substantif : \tl{nfr.t} \frquote{la belle} ; 
+        \tl{mr(w).t} \frquote{l'aimée}.
+\end{itemize}
+
+Dans la traduction française, les participes peuvent être rendus par 
+des participes passé ou présent, mais ils sont aussi souvent rendus 
+par des propositions subordonnées relatives, si la traduction est 
+ainsi plus élégante.
+
+Par sa nature verbale, le participe conserve la possibilité d'être 
+construit avec des compléments d'objet directs ou indirects.
+
+Les différentes formes de participes \incise{actifs et passifs} ne 
+marquent pas des différences temporelles, mais des \clef{oppositions 
+aspectuelles}, principalement entre accompli et inaccompli, mais aussi 
+prospectif ; ce qui donne théoriquement six formes différentes de 
+participes :
+
+\noindent%
+\begin{tabularx}{\textwidth}{>{\bfseries}+X^X^X^X}
+  \toprule
+  \rowstyle{\bfseries}
+    ~ & Accompli & Inaccompli & Prospectif
+  \tabularnewline
+  \otoprule
+    Voix active                    &
+    participe accompli             &
+    participe inaccompli           &
+    participe prospectif actif
+  \tabularnewline
+  \midrule
+    Voix passive                   &
+    participe accompli passif      &
+    participe inaccompli passif    &
+    participe prospectif passif
+  \tabularnewline
+  \bottomrule
+\end{tabularx}
+
+
+\chapter{Participes actifs accompli et inaccompli --- 
+morphologie et aspect}
+% =====================================================================
+
+\emph{Voir tableau des participes.}
+
+\section{Accompli}
+% ---------------------------------------------------------------------
+\subsection{Participe accompli actif}
+% ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Thème verbal bref, pas de gémination, pas de désinence particulière, 
+sauf parfois un \tl{-w} au masculin : \tl{sDm(w)}, \td{écoutant}.
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    ink r:a-ra pr:r-D54 m nw*\!nw*\!nw:\!pt
+  \end{hieroglyph}
+
+  \tl{ink Ra \red{pr(w)} m Nww}
+  \infos{\CTx{IV}, 62\,c/L1Li}
+
+  \td{Je suis Rê \red{sorti} du Noun.}
+
+  \tg{\PPN}
+\end{example}
+
+\subsection{Participe accompli passif}
+% ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+La forme est généralement identique à la voix active. Parfois, 
+on rencontre une désinence \tl{-y} pour les \vi{3} et les verbes 
+irréguliers.
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+  d-mi-i-idb':3 HA-q:D40 m rnp-t:1 T:n
+  \end{hieroglyph}
+
+  \tl{(\dots) dmi.w \red{HAo(.w)} m rnp.t Tn}
+  \infos{\urk{IV}, 704}
+
+  \td{(\dots) les villes \red{pillées} cette année}
+
+  \begin{notabene}
+    Noter l'absence de marque du pluriel, fréquemment omise.
+  \end{notabene}%
+\end{example}
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    i-1 SA-A-b-t-tyw-xt:N33A ir-i-i n +l\ \emph{N.} +s p:n
+  \end{hieroglyph}
+
+  \tl{i SAbtyw \red{iry} n N pn \ex}
+  \infos{\CTx{VI}, 2\,a/B2L}
+
+  \td{ô chaouabty \red{fait} pour ce \emph{N.} !}
+\end{example}
+
+Les verbes \vl{2} présentent occasionnellement une forme à 
+réduplication, vestiges d'un état archaïque de la langue :
+\begin{itemize}
+  \item \begin{hieroglyph}wD-w-Y1v\end{hieroglyph} : 
+        \begin{hieroglyph}wD-w-d:d\end{hieroglyph} 
+        \tl{wDD}, \td{qui a été ordonné}
+  \item \begin{hieroglyph}r:x:Y1\end{hieroglyph} : 
+        \begin{hieroglyph}r:x*x-y:Y1\end{hieroglyph} 
+        \tl{rxxy}, \td{qui est connu}
+  \item \begin{hieroglyph}Dd'\end{hieroglyph} : 
+        \begin{hieroglyph}Dd'-d\end{hieroglyph} 
+        \tl{Ddd}, \td{qui a été dit}
+\end{itemize}
+
+\begin{remarque}
+  Les participes accomplis sont souvent utilisés pour exprimer 
+  une \textbf{qualité propre à un individu}. On les rencontre donc 
+  fréquemment dans des \clef{contextes biographiques} (autobiographies 
+  funéraires sur les parois des chapelles mémorielles des membres de 
+  l'élite) ou aussi dans les \clef{hymnes royaux ou divins}. Le 
+  participe accompli, bien qu'\emph{accompli}, n'indique pas que 
+  la qualité n'est plus existante ; elle indique le \emph{caractère 
+  avéré} de cette qualité par le passé.
+\end{remarque}
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    n:xt:x*t-A24 p:W g:r:t ir m x:p-S:xpS-A24 f
+  \end{hieroglyph}
+
+  \tl{(\dots) nxt pw gr.t \red{ir} m xpS=f}
+  \infos{\CdS B\,52}
+
+  \td{(\dots) un brave aussi \red{qui agit/agissant} au moyen de son 
+      (propre) bras}
+\end{example}
+
+\section{Inaccompli}
+% ---------------------------------------------------------------------
+\subsection{Participe inaccompli actif}
+% ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pour les verbes forts, l'inaccompli se distingue morphologiquement peu 
+de l'accompli ; simplement on trouve parfois une désinence \tl{-w} ou 
+\tl{-y} notée.
+
+En revanche, les \vi{2}, \vi{3}, \vg{2} et les irréguliers montrent un 
+thème géminé.
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    zA-A1 sDm-m-w
+  \end{hieroglyph}
+
+  \tl{sA \red{sDmw}}
+  \infos{\source{Ptahhotep} 588}
+
+  \td{un fils \red{qui écoute}}
+\end{example}
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    i-A1 anx-w-A1-Z3 tp:p-w-Z3 tA:N23 +l\ (\dots) +s U7:r:r-w anx-n:x 
+    ms-D:\!\!\!\!D\s2-w x*p:t:D54
+  \end{hieroglyph}
+
+  \tl{i anx.w tp(y).w tA (\dots) \red{mrrw} anx, \red{msDDw} xp.t}
+  \infos{\musee{Fitz. Mus.} \inv{E.1922}}
+
+  \td{ô les vivants qui êtes sur terre (\dots) \red{qui aimez} la vie 
+      et \red{qui détestez} la mort\footnotemark{}.}
+
+  \begin{remarque}
+    Retenez bien cet exemple, il s'agit du début du formulaire 
+    appelé \textbf{Appel aux vivants}, inscription hiéroglyphique 
+    par laquelle un défunt interpelle les passants pour leur demander 
+    d'accomplir les rites pour lui. C'est un formulaire épigraphique 
+    à connaître (comme la titulature royale, la formule de dédicace, 
+    la formule \emph{di-nesou-hetep} / \emph{hetep-di-nesou}). 
+    Voir exercice~3.
+  \end{remarque}
+\end{example}
+\footnotetext{\litt \frquote{le départ}, euphémisme pour désigner 
+le décès.}
+
+
+\subsection{Participe inaccompli passif}
+% ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+La forme est identique au précédent.
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    nfr-r:t nb:t ini-n:n:t n Hm-1:n nb-A1
+  \end{hieroglyph}
+
+  \tl{nfr.t nb.t \red{inn.t} n Hm n(y) nb=i}
+  \infos{\inv{BM~614}, 5}
+
+  \td{Toute (chose) parfaite \red{qui est apportée~/ apportée} 
+      (habituellement) pour la Majesté de mon maître.}
+
+  \bigskip
+
+  \begin{hieroglyph}
+    ir:n q:r-s-t*t:nb:t ir:r:t n imAx-w:3
+  \end{hieroglyph}
+
+  \tl{ir(.w) n(=i) orst.t nb.t \red{irr.t} n imAx.w}
+
+  \td{Il a été fait pour moi tout le mobilier funéraire \red{qui est 
+      fait} (habituellement) pour un vénérable.}
+\end{example}
+
+\subsection{Remarques sur l'utilisation de l'inaccompli}
+% ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+\paragraph{Itératif :} Le participe inaccompli peut être utilisé pour 
+exprimer une action, dans toutes ses occurrences, passées, présentes 
+et futures.
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    m tp-t:r-tr-Hb nb ir:r-w m nTr-O7-t:pr t:n
+  \end{hieroglyph}
+
+  \tl{(\dots) m tp-tr nb \red{irrw} m Hw.t-nTr tn}
+  \infos{\source{Siout}~I, 318}
+
+  \td{(\dots) dans chaque fête saisonnière \red{qui est accomplie} 
+      dans ce temple.}
+\end{example}
+
+\paragraph{Intensif :} le choix du participe inaccompli, à côté d'un 
+participe accompli, peut exprimer l'intensité d'un procès.
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    ink mr-i-i i-t:f-A40 f U7:r:r-w i-t:f-A40 f wr-r:t
+  \end{hieroglyph}
+
+  \tl{ink \red{mry} it=f, \red{mrrw} it=f wr.t}
+  \infos{\CTx{V}, 78\,c}
+
+  \td{Je suis quelqu'un \red{aimé} de son père, \red{(très) aimé} de 
+      son père, vraiment.}
+\end{example}
+
+\paragraph{Distributif :} l'emploi de l'inaccompli, à côté du 
+participe accompli, peut être expliqué par le fait que l'action est 
+distribué entre différents acteurs.
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    G26-Htp:t*p mr-i-i sw-t:n U7:r:r-w niwt:t*1-A1-B1-3:f H-Hz-z:z-w 
+    nTr-nTr-nTr s nb-w
+  \end{hieroglyph}
+
+  \tl{+DHwty-Htp \red{mry} n(y)-sw.t, \red{mrrw} niw.t=f, 
+      \red{Hssw} nTr.w=s nb.w}
+  \infos{\urk{VII}, 49, 2--3}
+
+  \td{Djéhoutyhotep, \red{aimé} du roi, \red{aimé} des habitants de 
+      sa ville, \red{loué} de tous ses dieux (de la ville).}
+\end{example}
+
+\bigskip
+
+\begin{exercice}[before upper={\centering}]
+  \donc{} Vous pouvez à ce stade bien vous imprégnez du cours et 
+  faire \textbf{l'exercice~3}.
+
+  N'oubliez pas de consulter le tableau des participes.
+\end{exercice}

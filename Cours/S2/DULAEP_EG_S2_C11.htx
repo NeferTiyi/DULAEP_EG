@@ -1,0 +1,248 @@
+%!TEX root = DULAEP_EG.htx
+%##HieroDef.txt
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\part{Discours épigraphique}\label{prt:formule_offrande}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Dans ce cours, nous allons aborder certaines inscriptions 
+épigraphiques, parmi les plus récurrentes dans le matériel 
+épigraphique égyptien, à côté de : la titulature royale 
+(\Pref{prt:titulature}, \titleref{bk:semestre1}), de la datation 
+(\Pref{prt:num}, \titleref{bk:semestre2}), et de l'expression de 
+la filiation (\Pref{prt:filiation}, \titleref{bk:semestre2}). 
+Si nous ne les avons pas vues jusqu'à présent, c'est qu'elles 
+contiennent des formes verbales appartenant à la \textbf{conjugaison 
+dite \frquote{suffixale}} (constituant le prédicat de la \PPV), que 
+nous étudierons dans le détail l'an prochain.
+
+Nous allons toutefois étudier ces quelques formulaires dans ce 
+cours-ci. Cela permet\-tra d'avoir ac\-cès dès cette année à un type 
+de formulaire que vous aurez l'occasion de reconnaître sur divers 
+monuments, mais aussi de faire une première approche de cette 
+conjugaison suffixale et de la phrase verbale.
+
+Nous allons voir ensemble :
+\begin{enumerate}
+  \item les tableaux d'offrande dans la décoration des temples 
+        égyptiens et les légendes autour de l'interaction roi-dieux ;
+  \item la formule funéraire \emph{dé-nesou-hotep} ou 
+        \emph{hotep-di-nesou}.
+\end{enumerate}
+
+
+\chapter{Scènes dites \frquote{tableaux d'offrande}}
+% =====================================================================
+
+La décoration des temples égyptiens est généralement centrée sur 
+le motif du \frquote{tableau d'offrande}. Le roi fait face au dieu 
+du temple et lui tend une offrande. Autour des personnages des 
+hiéroglyphes indiquent : le nom du roi donateur, le nom et les 
+épithètes du dieu bénéficiaire, une légende précisant la nature 
+du bien offert par le roi, et généralement une légende indiquant 
+la nature du contre-don fait en échange par le dieu en faveur du 
+roi (une longue vie, un long règne, la santé, la prospérité, etc.).
+
+Ce type de légendes comporte, outre la titulature royale et 
+l'expression de l'identité du dieu, une phrase verbale, généralement 
+sur un modèle identique. Le sujet de la phrase est la première 
+personne du singulier \incise{\td{je}} et le prédicat, un verbe suivi 
+d'un complément d'attribution \incise{\td{donne \rem{\normalsize(verbe 
+\begin{hieroglyph}r:di'\end{hieroglyph} \tl{rdi})} à toi}} et de la 
+mention du don ou du bienfait. Le verbe y est à une forme de la 
+conjugaison suffixale appelée \textbf{\tl{sDm.n=f} accompli}. Le 
+pronom suffixe \tl{=f} désigne, dans cette appellation, le sujet. 
+Dans les phrases verbales, le prédicat \incise{le verbe} est 
+généralement en tête et le sujet (pronominal ou nominal) ensuite.
+
+\begin{hieroglyph}i-W di n:\!A1\s1 n:k\end{hieroglyph}
+\tl{iw di.n=i n=k} ou 
+\begin{hieroglyph}i-W r:\!di':n A1 n:k\end{hieroglyph}
+\tl{iw rd.n=i n=k} 
+signifie \td{je t'ai donné} (\PPV introduite par \tl{iw}). Cette 
+forme verbale se caractérise par un suffixe \tl{.n} qui se place 
+à la suite du thème verbal (toujours bref). Sa valeur aspectuelle 
+est celle d'un \textbf{accompli}. La forme verbale exprime une 
+action qui est révolue. Nous étudierons dans le détail cette forme 
+\tl{sDm.n=f} l'an prochain, sa morphologie complète, ses valeurs et 
+ses emplois. Pour le moment, retenez simplement la forme accomplie 
+du verbe \tl{rdi}, \td{donner}, \td{placer} : \tl{rdi.n=f} ou 
+\tl{di.n=f}, \td{il a donné}, \td{il a placé}. C'est ce verbe, à 
+cette forme, qui est utilisé dans les légendes des scènes d'offrande. 
+Dans ce type d'inscription, l'élément introducteur \tl{iw} est absent.
+
+Prenons un exemple (\fref{fig:Amenhotep}) tiré de \citetitle{Allen} 
+de \citeauthor{Allen} (1\iere~édition, p.~244). L'inscription 
+présente cinq colonnes : trois sont orientées de droite à gauche et 
+se rapportent au dieu Amon à gauche ; deux sont orientées de gauche 
+à droite et se rapportent au pharaon à droite. Les deux colonnes de 
+droite donnent la titulature du roi. Vous avez à la lire dans 
+l'exercice~11 à faire et à rendre par email.
+
+\begin{figure}[htb]
+  \begin{tikzpicture}
+    \node [anchor=south west, inner sep=0] (image) at (0,0) 
+          {\includegraphics[width=0.5\textwidth]{Allen_AmenhotepIII}} ;
+    \begin{scope}[
+      x={(image.south east)},
+      y={(image.north west)},
+    ]
+      \node at (0.08, 1.01) {\lgn{3}} ;
+      \node at (0.27, 1.01) {\lgn{2}} ;
+      \node at (0.45, 1.01) {\lgn{1}} ;
+    \end{scope}
+  \end{tikzpicture}
+  \caption[Amenhotep~III recevant la vie d'Amon-Rê]
+          {Amenhotep~III recevant la vie d'Amon-Rê\footnotemark{}}
+  \label{fig:Amenhotep}
+\end{figure}
+\footcitetext[244]{Allen}
+
+\textbf{La colonne~\lgn[enlarge by=0pt]{1}} doit être placée 
+dans la bouche du dieu : \tl{di.n(=i) n=k}. Notez que dans ce type 
+d'inscription le pronom suffixe de la 1\iere~personne du singulier 
+n'est pas noté. Traduction : \td{je t'ai donné}.\\
+\lgn{1} \tl{di.n(=i) n=k anx wAs nb Aw.t-ib nb ra-nb} = \td{Je t'ai 
+donné toute vie, (tout) pouvoir, toute joie, chaque jour.} 
+Certains traducteurs considèrent que, même si \tl{di.n=i} est une 
+forme \textbf{accomplie}, dans le cadre de ces inscriptions, il faut 
+traduire par un présent d'habitude \td{je te donne}. Ils considèrent 
+en effet que, notamment en raison de valeur de l'image qui pérennise 
+une relation entre le roi et le dieu, il faut comprendre d'une 
+certaine façon \td{je te donne}. 
+On parle alors de ce \tl{sDm.n=f} comme d'un \textbf{présent 
+performatif\footnote{\cite[§\,563]{MW} : en français, \td{j'ouvre la 
+séance} (une action qui se fait par un acte d'énonciation. Voir les 
+travaux de \gens[John]{Austin} sur les actes de langage.}}, dans le 
+sens où on considère que, en représentant ce don et en écrivant ces 
+paroles du dieu, l'action bienfaisante du dieu envers le roi se 
+réalise à travers l'énonciation même. Cette analyse n'est pas 
+unanimement acceptée sans réserve. Mais, quoi qu'il en soit, 
+retenez pour \begin{hieroglyph}di n:n:k\end{hieroglyph} ou 
+\begin{hieroglyph}di':n n:k\end{hieroglyph} \tl{di.n(=i) n=k} 
+dans les scènes d'offrande de ce type, le sens : \td{je te donne} 
+ou \td{je t'ai donné}.
+
+\textbf{La colonne 2} donne le nom du dieu : 
+\tl{Jmn-Ra}, \td{Amon-Rê}.
+
+\textbf{La colonne 3} est introduite par 
+\begin{hieroglyph}D-md\end{hieroglyph} , abréviation de 
+\tl{Dd mdw in}, \td{dire les paroles par}, \td{paroles dites par} 
+introduisant souvent le nom de la divinité censée prononcer les 
+paroles qui suivent. Cette séquence est aussi parfois simplement 
+traduite par \td{récitation} ou \td{paroles dites}. Ensuite, une 
+nouvelle séquence introduite par 
+\begin{hieroglyph}di n:n:k\end{hieroglyph} \td{je te donne}. 
+Cette colonne est aussi à traduire dans l'exercice~11, avec un 
+tableau d'offrande complet.
+
+
+\chapter{La formule d'offrande funéraire}
+% =====================================================================
+
+Nous avons déjà eu l'occasion de rencontrer, dans le 
+\Pref{prt:filiation} de ce semestre, une stèle (la stèle d'Imaounefer, 
+\fref{fig:Imaounefer}, \pref{fig:Imaounefer}) avec le formulaire de 
+l'offrande funéraire classique.
+
+Sur de nombreux monuments funéraires égyptiens, on rencontre la 
+formule \begin{hieroglyph}sw-t:Htp-di\end{hieroglyph} ou 
+\begin{hieroglyph}sw-di-Htp:t*p\end{hieroglyph}.
+Il s'agit d'une formule rituelle qui doit assurer l'approvisionnement 
+du défunt en offrandes. 
+Le premier élément \begin{hieroglyph}sw\end{hieroglyph} est une 
+graphie abrégée du mot \tl{n(y)-sw.t}, \td{roi}, placé en antéposition 
+honorifique. Deux interprétations principales existent pour les autres 
+éléments du groupe, selon l'ordre de lecture des mots retenu :
+\begin{enumerate}
+  \item une lecture \tl{Htp di n(y)-sw.t}, \td{offrande que donne le 
+        roi (à) (tel dieu)}.\label{itm:Htpdnyswt}
+  \item une lecture \tl{di n(y)-sw.t Htp}, \td{fasse le roi que 
+        s'apaise(nt) (tel(s) dieu(x))} -- Interprétation 
+        \citeauthor{GM}.\label{itm:dnyswtHtp}
+\end{enumerate}
+
+L'interprétation grammaticale correspondant à ces traductions 
+nécessite d'avoir pris connaissance du système des verbes égyptiens 
+dans son ensemble (conjugaison suffixale + formes adjectivales du 
+verbe, c'est-à-dire les participes et les formes dites relatives). 
+Il suffit pour l'instant, à ce stade, d'apprendre ces deux 
+possibilités comme élément de vocabulaire\footnote{La 
+traduction~\ref{itm:Htpdnyswt} considère \tl{Htp} comme un 
+substantif (\td{offrande}) suivi d'une forme adjectivale du 
+verbe dite \frquote{forme relative} \td{que donne le roi (à)}. 
+La traduction~\ref{itm:dnyswtHtp} considère que \tl{di} est à 
+lire en tête et est un subjonctif \tl{sDm=f} en position initiale 
+\incise{\tl{di nsw}, \td{que le roi fasse en sorte}}, suivi d'un 
+autre subjonctif dans une proposition complétive 
+\tl{Htp \tll{le dieu}}, \td{que s'apaise le dieu X}.}.
+
+La formule funéraire complète comprend trois éléments à retenir :
+
+\begin{enumerate}
+  \item La formule \begin{hieroglyph}sw-t:Htp-di\end{hieroglyph} 
+        ou \begin{hieroglyph}sw-di-Htp:t*p\end{hieroglyph} suivie 
+        du nom d'une ou plusieurs divinités, généralement Osiris ou 
+        Anubis : \tl{di n(y)-sw(.t) Htp Wsir}, \td{fasse le roi que 
+        s'apaise Osiris} -- ou \tl{Htp di nsw Wsir}, \td{offrande que 
+        donne le roi (à) Osiris} ;
+  \item Un subjonctif dans une séquentielle : \tl{di=f} (ou \tl{di=sn} 
+        ou \tl{di=s}), \td{de sorte qu'il donne}, suivi de la mention 
+        d'un bienfait \incise{généralement 
+        \begin{hieroglyph}O3\end{hieroglyph} \tl{pr.t-xrw}, \td{une 
+        offrande invocatoire}} ;
+  \item \tl{n} ou \begin{hieroglyph}n-kA:n\end{hieroglyph} 
+        \tl{n kA n}, \td{pour le \emph{ka} de}, suivi du nom du défunt 
+        bénéficiaire.
+\end{enumerate}
+
+\paragraph{}
+\begin{figure}[htb]
+  \begin{tikzpicture}
+    \node [anchor=south west, inner sep=0] (image) at (0,0) 
+          {\includegraphics[width=0.5\textwidth]{Louvre_C1}} ;
+    \begin{scope}[
+      x={(image.south east)},
+      y={(image.north west)},
+    ]
+      \node [left] at (0.00, 0.10) {\lgn{4}} ;
+      \node [left] at (0.00, 0.35) {\lgn{3}} ;
+      \node [left] at (0.00, 0.63) {\lgn{2}} ;
+      \node [left] at (0.00, 0.90) {\lgn{1}} ;
+    \end{scope}
+  \end{tikzpicture}
+  \caption{Stèle \musee{Louvre} \inv{C\,1}}
+  \label{fig:C1}
+\end{figure}
+
+\begin{example}[title={Exemple : Stèle \musee{Louvre} \inv{C\,1}}]
+  Voici un exemple (\fref{fig:C1}) type tiré du \citetitle{GM1} de 
+  \citeauthor{GM1}.
+
+  \tl{\lgn{1}~Di n(y)-sw(.t) Htp Wsir nb Ddw, nTr aA nb AbDw 
+      \lgn{2}~Di=f pr.t-xrw (m) t Hnq.t @Apd Ss mnx.t 
+      \lgn{3}~x.t nb.t nfr.t wab.t anx.t nTr im 
+      \lgn{4}~n kA n imAxy S-n-wsr.t mAa-xrw}
+
+  \td{\lgn{1}~Fasse le roi que s'apaise Osiris, seigneur de Bousiris, 
+      le grand dieu, seigneur d'Abydos, \lgn{2}~de sorte qu'il donne 
+      une offrande invocatoire (consistant en) pain et bière, b{\oe}uf 
+      et volaille, vase d'albâtre et pièce d'étoffe, \lgn{3}~ainsi que 
+      toutes bonnes choses pures dont vit un dieu\footnotemark{}, 
+      \lgn{4}~pour le \emph{ka} du vénérable Sénousret juste-de-voix.}
+\end{example}
+\footnotetext{Dans \tl{anx.t nTr im}, \td{dont vit un dieu}, 
+\tl{anx.t} est une forme adjectivale du verbe -- une forme relative 
+(voir l'an prochain le cours sur les participes et les formes 
+relatives).}
+
+Si vous avez l'occasion de parcourir un musée avec une collection 
+égyptienne prochainement, vous pourrez repérer ce formulaire (plus 
+ou moins développé, et avec des variantes) sur de nombreuses stèles.
+
+\bigskip
+
+\begin{exercice}[before upper={\centering}]
+  \donc{} \textbf{L'exercice~11} est à faire et à rendre par email.
+\end{exercice}
