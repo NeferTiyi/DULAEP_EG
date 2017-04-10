@@ -2,24 +2,26 @@
   "folders":
   [
     {
+      "path": "../Cours",
+      "name": "Cours (sources)",
       "file_exclude_patterns":
       [
+        "*.tex",
         "*.aux",
+        "*.log",
         "*.bak",
         "*.bbl",
         "*.bcf",
         "*.blg",
         "*.dic",
-        "*.lof",
-        "*.log",
+        "*.toc",
         "*.lot",
+        "*.lof",
         // "*.maf",
         // "*.mtc",
         // "*.mtc0",
         "*.out",
         // "*.pdf",
-        "*.toc",
-        "*.tex",
         // "*_tmp.tex",
         // "*_full.htx",
         "*.run.xml",
@@ -27,8 +29,14 @@
         "*.*~",
         ".git*"
       ],
-      "path": "../Cours",
-      "name": "Sources"
+    },
+    {
+      "path": "../Exos",
+      "name": "Exos (sources)",
+    },
+    {
+      "path": "../Exam",
+      "name": "Exam (sources)",
     },
     {
       "path": "../img",
@@ -36,19 +44,19 @@
     },
     {
       "path": "../../NeferHiero/utils",
-      "name": "Fichiers communs"
+      "name": "Fichiers communs",
     },
     {
       "path": "../../NeferHiero/neferlatex",
-      "name": "Styles LaTeX"
+      "name": "Styles LaTeX",
     },
     {
       "path": "../../NeferHiero/compil",
-      "name": "Compil"
+      "name": "Compil",
     },
     {
       "path": "../",
-      "name": "Root"
+      "name": "Root",
     },
   ],
   "settings":
