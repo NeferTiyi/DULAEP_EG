@@ -1,0 +1,134 @@
+%!TEX root = DULAEP_EG_Exos.htx
+%##HieroDef.txt
+
+\chapter*{Exercice~2a --- Épigraphie}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{Translittérer, analyser les formes verbales et 
+  traduire le document suivant du début de la ligne~1 jusqu'à 
+  \begin{hieroglyph}t:pA-t:X6-tp:p*t\end{hieroglyph}} 
+  (voir transcription)\\
+
+  \begin{center}
+    Dédicace du temple de Montou à Tôd, \dyn{11} (Montouhotep~II 
+    Nebhépetrê)\\musée du Louvre \inv{E\,15106}, \inv{E\,15108}\\ 
+    \includegraphics[width=8cm]{Louvre_E15106_E15108_Tod}\\
+    % \rule{8cm}{3cm}\\
+    {\smaller Photo \textcopyright Musée du Louvre/\gens[C.]{Décamps} 
+    (source : base atlas)}
+  \end{center}
+
+  \bigskip
+
+  \begin{RaggedLeft}
+  \reflectbox{%
+    \begin{hieroglyph}
+      anx G7 zmA-tA:tA nbty zmA-tA:tA mn:n:T-w nb wAs-t:spAt mr-i-i 
+      nswbjty <-ra-nb-xrw-> anx Dt
+    \end{hieroglyph}
+  }\\
+  \reflectbox{%
+    \begin{hieroglyph}
+      ir:n:f m mn:n:nw*nw*nw n:mn:n-T:w Hr:r tp:tA:tA 
+      nTr mn:n:x xnt-n:t nTr-nTr-nTr E9:a-w n pt:t n:\!mi*qd-d:s
+    \end{hieroglyph}
+  }\\
+  \reflectbox{%
+    \begin{hieroglyph}
+      s#//-mA-A-w pr:\!1:f n:D:\!\!t f nTr-Hwt-t:f:n-t:pA-t:X6-tp:p*t
+    \end{hieroglyph}
+  }\par
+  \end{RaggedLeft}
+
+  \begin{solution}
+    ~\\
+    \begin{RaggedLeft}
+      \tl{anx smA-TA.wi,\\ nb.ty smA-TA.wy\\ mry MnTw nb wAs.t\\ 
+          nsw-bity Nb-Hp(.t)-Ra anx D.t\\ 
+          ir.n=f m mnw n mnTw Hr(y)-tp tA.wy, nTr mnx xnt(y) nTr.w 
+          iwaw n(y) p.t n-mi-od=s\\
+          $[$s$]$mAw pr=f-D.t=f Hw.t-nTr=f pAw.t-tp(y).t}
+
+      \medskip
+
+      \td{L'Horus Sémataoui,\\ Les Deux-maîtresses Sémataoui,\\ 
+          aimé de Montou seigneur de la région thébaine,\\ 
+          Le roi de \HBE Nebhépetrê, vivant éternellement.\\ 
+          \red{Il a fait} en tant que monument pour Montou qui 
+          préside au \DP, le dieu efficient qui est à l'avant 
+          des dieux, l'héritier du ciel en entier, \red{l'acte de 
+          renouveler} son domaine d'éternité, son temple des temps 
+          anciens.}
+
+      \medskip
+
+      1. \tl{sDm.n=f} accompli\\
+      2. infinitif (COD)\par
+    \end{RaggedLeft}
+  \end{solution}
+\end{questions}
+
+
+\subsection*{Vocabulaire}
+\begin{multicols}{2}
+  \begin{itemize}
+    \item \begin{hieroglyph}anx\end{hieroglyph}
+          \tl{anx}, \td{que vive}
+    \item \begin{hieroglyph}
+            E9:a-w +l, +s E9:a-w-F44-A1
+          \end{hieroglyph}
+          \tl{iwaw}, \td{héritier}
+    \item \begin{hieroglyph}
+            wAs-t:spAt +l, +s wAs-t:niwt
+          \end{hieroglyph}
+          \tl{WAs.t}, \td{Thèbes}
+    \item \begin{hieroglyph}pt:t +l, +s p*t:pt\end{hieroglyph}
+          \tl{p.t}, \td{ciel}
+    \item \begin{hieroglyph}pr-1-n-Dt\end{hieroglyph}
+          \tl{pr n(y) D.t}, \td{domaine d'éternité}
+    \item \begin{hieroglyph}pA-t:X6-tp:p*t\end{hieroglyph}
+          \tl{pA(w).t tp(y).t}, \td{origines premières}, 
+          \td{temps primordiaux}
+    \item \begin{hieroglyph}
+            mn:n:nw*nw*nw +l, +s mn:n-nw*W:3
+          \end{hieroglyph}
+          \tl{mnw}, \td{monument}, \td{\oe uvre durable}
+  \end{itemize}%
+\end{multicols}%
+\begin{itemize}
+  \item \begin{hieroglyph}n:\!mi*qd-d\end{hieroglyph} + pronom 
+        suffixe (voir WB~V, 76, 4, \NK, \tl{n-mi-od}, 
+        sens \td{pareil}), ou 
+        \begin{hieroglyph}mi-i-qd-d\end{hieroglyph}
+        \tl{mi-od}, \td{selon (sa) nature} = \td{tout entier}
+\end{itemize}%
+\begin{multicols}{2}
+  \begin{itemize}
+    \item \begin{hieroglyph}
+            mn:n:x +l, +s mn:n-x*mnx:Y1
+          \end{hieroglyph}
+          \tl{mnx}, \td{efficient}
+    \item \begin{hieroglyph}
+            mn:n:T-w-+l\Big(+s-A40-+l\Big)+s
+          \end{hieroglyph}
+          \tl{MnTw}, \td{Montou} (dieu thébain)
+    \item \begin{hieroglyph}mr-i-i\end{hieroglyph}
+          \tl{mry}, \td{aimé de} (participe)
+    \item \begin{hieroglyph}nTr-Hwt-t:pr\end{hieroglyph}
+          \tl{Hw.t-nTr}, \td{temple}, \td{sanctuaire}
+    \item \begin{hieroglyph}
+            Hr:r-tp +l, +s Hr:r-y:tp
+          \end{hieroglyph}
+          \tl{Hry-tp}, \td{qui est à la tête}
+    \item \begin{hieroglyph}
+            xnt-n:t +l, +s xnt-n:t*y
+          \end{hieroglyph}
+          \tl{xnt(y)}, \td{qui préside à}
+    \item \begin{hieroglyph}
+            s-mA-A-w +l, +s s-mA-A-w-Y1v
+          \end{hieroglyph}\\
+          \tl{smAwi} \vci{4}, \td{renouveler}, \td{restaurer}, 
+          lire ici \tl{[s]mAw(.t)}, \td{(l'acte de) restaurer}
+  \end{itemize}
+\end{multicols}

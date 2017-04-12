@@ -1,0 +1,99 @@
+%!TEX root = DULAEP_EG_Exos.htx
+%##HieroDef.txt
+
+\chapter*{Exercice~1}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{Translittérer, analyser et traduire}
+
+  \begin{parts}
+    \part
+    \begin{hieroglyph}
+      jw Ab-b-A2:n ib-1 A1 U3-A-A zS-Y1:3 pA-t*pzD:Y1-tp:t
+    \end{hieroglyph}
+
+    \begin{solution}
+      \tl{iw Ab.n ib=i mAA sS.w pAw.t-tp(y).t}
+
+      \td{Mon c\oe ur a désiré voir les écrits des temps anciens.}
+
+      \tl[black]{Ab.n} = \tl[black]{sDm.n=f} accompli autonome\\
+      \tl[black]{mAA} : infinitif COD
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}
+      i-s-t g:r:t xa:a:n Hm-A42 f m sw-t-A42 m H-wn:n-Xrd nfr
+    \end{hieroglyph}
+
+    \begin{solution}
+      \tl{ist grt xa.n Hm=f m n(y)-sw.t m Hwn nfr}
+
+      \td{Or, de plus, sa Majesté est apparue en tant roi, alors 
+          qu'il était un adolescent parfait.}
+
+      \tl{xa.n} = \tl{sDm.n=f} accompli autonome, suivi de deux 
+      groupes prépositionnels circonstanciels
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}
+      jw di n:T-w Hm-A40 r s-Ab-A1 jw k m H-M42-Xrd 
+      n rnp t:10*10-Z3-Z3-Z3
+    \end{hieroglyph}
+
+    \begin{solution}
+      \tl{iw di.n Tw Hm=i r smr, iw=k m Hwn n rnp.t 26}
+
+      \td{Ma Majesté t'a placé comme courtisan, alors que tu étais 
+          un jeune homme de 26 ans.}
+
+      \tl{di.n} = \tl{sDm.n=f} accompli, en position initiale 
+      (prédicat de la phrase principale)\\
+      \tl{iw=k m Hwn n rnp.t 26} = séquentielle en fonction de 
+      circonstancielle (PP adverbiale avec \tl{m} d'état)
+    \end{solution}
+
+    \part Temple de Louqsor : translittérer et traduire la 
+    colonne~\no24 :\\
+    % \rule{0.7\textwidth}{9cm}
+    \includegraphics[width=0.7\textwidth]{Louqsor}
+
+    \begin{solution}
+      \begin{hieroglyph}
+        D:\!\!md-i:n i-mn:n:ra*1 zA-\!\!\!1:.-N36 <-ra-mAat-nb> 
+        a:n n:k anx-Dd-wAs
+      \end{hieroglyph}
+
+      \tl{Dd mdw in Jmn-Ra : sA(=i) mr(y) Nb-MAa.t-Ra, di.n(=i) n=k 
+          anx Dd wAs}
+
+      \td{Paroles dites par Amon-Rê : (mon) fils Nebmaâtrê, je t'ai 
+          donné la vie, la stabilité, le pouvoir.}
+    \end{solution}
+  \end{parts}
+\end{questions}
+
+\subsection*{Vocabulaire}
+\begin{multicols}{2}
+  \begin{itemize}
+    \item \begin{hieroglyph}Ab-b-A2\end{hieroglyph}
+          \tl{Abi}, \td{désirer}
+    \item \begin{hieroglyph}i-s-T\end{hieroglyph}
+          \tl{isT}, \td{or}
+    \item \begin{hieroglyph}pA-t:X6-tp:p*t\end{hieroglyph}
+          \tl{pAw.t tp.t}, \td{temps anciens}
+    \item \begin{hieroglyph}sw-t-A42\end{hieroglyph}
+          graphie de \tl{nsw}, \td{roi}
+    \item \begin{hieroglyph}H-M42-Xrd\end{hieroglyph}
+          \tl{Hwn}, \td{jeune}
+    \item \begin{hieroglyph}xa-a:Y1\end{hieroglyph}
+          \tl{xai}, \td{apparaître}
+    \item \begin{hieroglyph}s-Ab-A1\end{hieroglyph}
+          \tl{smr}, \td{courtisan}
+  \end{itemize}
+\end{multicols}
+
+Pour le reste du vocabulaire, voir en cas de besoin des dictionnaires, 
+notamment :\\ \url{http://aaew.bbaw.de/tla/}

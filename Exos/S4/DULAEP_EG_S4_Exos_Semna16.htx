@@ -27,7 +27,8 @@
 \babeltags{de = ngerman, en = english}
 
 \graphicspath{%
-  {../../img/Exos/},%
+  % {../../img/Utils/},%
+  % {../../img/Exos/},%
   {../../img/Exos/Semna16/},%
 }
 

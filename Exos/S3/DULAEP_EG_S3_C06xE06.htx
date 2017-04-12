@@ -1,0 +1,81 @@
+%!TEX root = DULAEP_EG_Exos.htx
+%##HieroDef.txt
+
+\chapter*{Exercice~6 (à rendre par email)}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{Translittérer, analyser et traduire} 
+  Ligne~1, ligne~3 à partir de \tl{n kA n(y)}, et légende des 
+  personnages féminins
+  (Nous travaillerons sur la ligne~2 au semestre prochain, quand nous 
+  aurons vu les formes adjectivales du verbe --- participes et formes 
+  relatives).
+
+  \includegraphics[width=0.7\textwidth]{BM_EA143_2}\\
+  \source{\BM~EA\,143}
+
+  \begin{solution}
+    \tl{di nsw Htp Wsir nb +DDw, nTr aA, nb AbDw, di=f pr.t-xrw 
+    m t Hno.t kA Apd.w Ss mnx.t x.t nb.t nfr.t wab.t anx.t nTr im\\
+    (\dots)\\
+    n kA n(y) HAty-a nxti mAa-xrw, ms.n nxti mAa.t-xrw}
+
+    \td{Fasse le roi que s'apaise Osiris, seigneur de Bousiris, 
+        le grand dieu, seigneur d'Abydos, de sorte qu'il donne une 
+        offrande invocatoire consistant en pain, bière, taureaux, 
+        oiseaux, albâtre, tissu, toutes choses parfaites et pures 
+        dont vit un dieu.}
+
+    ou
+
+    \tl{Htp di nsw (n) Wsir nb +Dw, nTr aA, nb AbDw, di=f pr.t-xrw 
+    m t Hno.t kA Apd.w Ss mnx.t x.t nb.t nfr.t wab.t anx.t nTr im\\
+    (\dots)\\
+    n kA n(y) HAty-a nxti mAa-xrw, ms.n nxti mAa.t-xrw}
+
+    \td{Offrande que donne le roi (à) Osiris, seigneur de Bousiris, 
+        le grand dieu, seigneur d'Abydos, de sorte qu'il donne une 
+        offrande invocatoire consistant en pain, bière, taureaux, 
+        oiseaux, albâtre, tissu, toutes choses parfaites et pures 
+        dont vit un dieu.}
+  \end{solution}
+
+  \question\qfmt{Translittérer, analyser et traduire 
+  (\source{Hymne à Sésostris~III})}
+
+  \begin{solution}
+    \tl{ii.n=f n=n it=f tA Smaw, Xnm.n sxm.ty m tp=f 
+        (ii.n=f n=n), smA.n=f tA.wi, Abx.n=f sw.t n bi.t}
+
+    \td{il est venu pour nous, s'emparant de la \HE, (il est venu 
+        pour nous), la double couronne ayant été associée sur sa tête, 
+        ayant uni le Double pays, ayant joint le roseau à l'abeille.}
+
+    \tl{ii.n=f} : accompli prédicatif
+
+    \tl{it=f} : aoriste circonstanciel
+
+    \tl{Xnm.n}, \tl{smA.n=f}, \tl{Abx.n=f} : accomplis séquentiels
+
+    \begin{remarque}
+      Si vous consultez l'original hiératique du texte, \tl{ii.n=f} 
+      est disposé en facteur commun (voir ci- dessous, l'extrait de 
+      \cite{HL}).
+
+      Il s'agit d'un texte hymnique, donc avec une certaine puissance 
+      poétique et dynamique de déclamation.
+
+      La répétition d'une même séquence \td{il est venu pour nous !} 
+      en début de chaque ligne
+    \end{remarque}
+  \end{solution}
+\end{questions}
+
+\subsection*{Vocabulaire}
+\begin{multicols}{2}
+  \begin{itemize}
+    \item \begin{hieroglyph}\end{hieroglyph}
+          \tl{}, \td{}
+  \end{itemize}
+\end{multicols}

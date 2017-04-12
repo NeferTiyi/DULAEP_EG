@@ -1,0 +1,178 @@
+%!TEX root = DULAEP_EG_Exos.htx
+%##HieroDef.txt
+
+\chapter*{Exercice~4}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{Questions : à se poser (mais ne faites pas 
+  nécessairement de réponse écrite)}
+
+  \begin{parts}
+    \part Qu'est-ce qu'un emploi prédicatif du verbe ?
+
+    \begin{solution}
+      Cela désigne un usage du verbe comme prédicat d'une proposition
+    \end{solution}
+
+    \part Qu'est-ce qu'un verbe dans une proposition autonome ?
+
+    \begin{solution}
+      Un verbe principal, seul (sans autres formes verbales de la 
+      conjugaison suffixale)
+    \end{solution}
+
+    \part Qu'est-ce qu'un verbe en position initiale ?
+
+    \begin{solution}
+      Un verbe (fonction prédicative), en première position, dans une 
+      phrase ; en général c'est le verbe principal.
+    \end{solution}
+
+    \part Qu'est-ce qu'un verbe en position séquentielle ?
+
+    \begin{solution}
+      Un verbe (fonction prédicative) qui vient après un prédicat 
+      initial. Le sens est généralement : prédicat coordonné.
+    \end{solution}
+
+    \part Qu'est qu'un verbe en fonction de circonstancielle ?
+
+    \begin{solution}
+      Un verbe (fonction prédicative) qui vient après un prédicat 
+      initial, mais qui est traduit comme une circonstancielle. C'est 
+      une circonstancielle virtuelle car elle n'est pas introduit par 
+      une préposition-conjonction.
+    \end{solution}
+
+    \part Quels emplois prédicatifs sont attestés pour 
+    l'accompli \tl{sDm.n=f} ?
+
+    \begin{solution}
+      Initial, séquentiel, circonstanciel.
+    \end{solution}
+
+    \part Quels emplois prédicatifs sont attestés pour 
+    l'aoriste \tl{sDm=f} ?
+
+    \begin{solution}
+      Initial, circonstanciel.
+    \end{solution}
+
+    \part Quels emplois prédicatifs sont attestés pour le 
+    subjonctif \tl{sDm=f} ?
+
+    \begin{solution}
+      Initial, séquentiel, circonstanciel.
+    \end{solution}
+  \end{parts}
+
+  \question\qfmt{Translittérer, analyser les formes verbales et 
+  traduire}
+
+  \begin{parts}
+    \part
+    \begin{hieroglyph}
+      jw
+    \end{hieroglyph}
+    \infos{Stèle d'Ikhernofret décrivant sa participation aux fêtes 
+    d'Abydos en l'honneur d'Osiris}
+
+    \begin{solution}
+      \tl{iw ir.n=i pr.t wp-wA.wt, wDA=f r nD it=f\footnotemark{}}
+
+
+      \td{J'ai accompli (participé à) la procession d'Oupouaout, 
+          lorsqu'il s'avançait pour protéger son père.}
+
+      \tl{ir.n=i} : accompli \tl{sDm.n=f} en position initiale
+
+      \tl{wDA=f} : aoriste en fonction circonstancielle
+
+      \tl{nD} : infinitif
+    \end{solution}
+    \footnotetext{pour \begin{hieroglyph}w\end{hieroglyph}.}
+
+    \part
+    \begin{hieroglyph}
+      +l (\dots) +s
+    \end{hieroglyph}
+    \infos{\CdP}
+
+    \begin{solution}
+      \tl{(\dots) gm.n=f sw Hr pr.t}
+
+      \td{(\dots) je l'ai trouvé, alors qu'il sortait.}
+
+      Accompli \tl{sDm.n=f} dans un emploi prédicatif (\tl{gm.n=f}), 
+      + d'une séquentielle (construction pseudo-verbale, inaccompli 
+      progressif).
+
+      On appelle cette construction une \frquote{construction 
+      enchâssée}, car le COD du verbe est le sujet de la séquentielle.
+    \end{solution}
+
+    \part Début du texte de la stèle de Semna dans lequel le pharaon 
+    Sésostris~III expose son action en Nubie.
+    Traduire de la ligne~4 jusqu'à \begin{hieroglyph}\end{hieroglyph} 
+    (pour le début, voir exercice de l'année précédente).
+
+    \includegraphics[width=8cm]{Berlin_1157_Semna_cintre}
+
+    \begin{hieroglyph}
+      jw
+    \end{hieroglyph}
+
+    \begin{solution}
+      \tl{iw ir.n=i tAS=i, xnt=i it.w=i}
+
+      \td{J'ai établi ma frontière, alors que je naviguais au sud 
+          de mes pères.}
+
+      \tl{ir.n=i} : accompli en position initiale
+
+      \tl{xnt=i} : aoriste en fonction circonstancielle
+    \end{solution}
+  \end{parts}
+\end{questions}
+
+\subsection*{Vocabulaire}
+\begin{multicols}{2}
+  \begin{itemize}
+    \item \begin{hieroglyph}\end{hieroglyph}
+          \tl{iri} \vi{3}, \td{faire}, \td{accomplir}, 
+          \td{passer (du temps)}
+    \item \begin{hieroglyph}\end{hieroglyph}
+          \tl{wai} \vi{3}, \td{être seul}
+    \item \begin{hieroglyph}\end{hieroglyph}
+          \tl{wDA} \vl{3}, \td{s'avancer}
+    \item \begin{hieroglyph}\end{hieroglyph}
+          \tl{pH} \vl{2}, \td{atteindre}
+    \item \begin{hieroglyph}\end{hieroglyph}
+          \tl{nD} \vl{2}, \td{protéger}
+    \item \begin{hieroglyph}\end{hieroglyph}
+          graphie de \tl{wnm}, \td{manger}
+    \item \begin{hieroglyph}\end{hieroglyph}
+          \tl{wD}, \td{ordonner}
+    \item \begin{hieroglyph}\end{hieroglyph}
+          \tl{fnD}, \td{narine}
+    \item \begin{hieroglyph}\end{hieroglyph}
+          \tl{}, \td{Oupouaout}
+    \item \begin{hieroglyph}\end{hieroglyph}
+          \tl{pr.t}, \td{sortie}, \td{procession}
+    \item \begin{hieroglyph}\end{hieroglyph}
+          \tl{nHm} \vl{3}, \td{prendre}, \td{s'emparer de}
+    \item \begin{hieroglyph}\end{hieroglyph}
+          \tl{HH}, \td{Heh} (toponyme)
+    \item \begin{hieroglyph}\end{hieroglyph}
+          \tl{xnti} \vi{4}, \td{naviguer (vers le sud)}
+    \item \begin{hieroglyph}\end{hieroglyph}
+          \tl{snb}, \td{être en bonne santé}
+    \item \begin{hieroglyph}\end{hieroglyph}
+          \tl{Gb}, \td{Geb}
+    \item \begin{hieroglyph}\end{hieroglyph}
+          \tl{gmi} \vi{3}, \td{trouver}
+    \item \begin{hieroglyph}\end{hieroglyph}
+          \tl{tAS}, \td{frontière}
+  \end{itemize}
+\end{multicols}

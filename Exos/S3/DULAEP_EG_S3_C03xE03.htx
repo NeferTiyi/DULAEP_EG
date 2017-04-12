@@ -1,0 +1,117 @@
+%!TEX root = DULAEP_EG_Exos.htx
+%##HieroDef.txt
+
+\chapter*{Exercice~3}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{Translittérer, analyser les formes verbales et 
+  traduire}
+
+  \begin{parts}
+    \part
+    \begin{hieroglyph}
+      ini
+    \end{hieroglyph}
+    \infos{Extrait d'une lettre au mort, Bol de Qaou \no2 : demande 
+    faite par la mère défunte à son fils vivant}
+
+    \begin{solution}
+      \tl{int=k n(=i) pAa.wt, wnm(=i) sn}
+
+      \td{Puisses-tu m'apporter des cailles, que je les mange.}
+
+      \tl{int=k} : subjonctif, position initiale
+
+      \tl{wnm(=i)} : subjonctif, position séquentielle, fonction 
+      circonstancielle virtuelle finale- consécutive
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}
+      S:p
+    \end{hieroglyph}
+    \infos{Extrait d'un recueil de formules de protection : ordre 
+    adressé au mal que le magicien cherche à chasser du corps d'un 
+    enfant}
+
+    \begin{solution}
+      \tl{Sp=k, sA pw}
+
+      \td{Puisses-tu t'écouler, (car) c'est une protection.}
+
+      \tl{Sp=k} : subjonctif, position initiale
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}
+      i-m
+    \end{hieroglyph}
+
+    \begin{solution}
+      \tl{im=k ir x.t r=s}
+
+      \td{Puisses-tu ne rien faire contre elle.}
+
+      \tl{im=k ir} : négation du subjonctif autonome
+    \end{solution}
+  \end{parts}
+
+  \subsection*{Vocabulaire}
+  \begin{multicols}{2}
+    \begin{itemize}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            graphie de \tl{wnm}, \td{manger}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{pAa.wt}, \td{cailles}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{Sp}, \td{s'écouler} (verbe fort)
+    \end{itemize}
+  \end{multicols}
+
+% =====================================================================
+
+  \question\qfmt{Exercice de traduction suivie}\\
+  Translittérer, analyser les formes verbales et traduire la fin de 
+  cette \textbf{lettre au mort}, demandant au défunt de protéger une 
+  femme enceinte des mauvais agissements de deux servantes mortes. Le 
+  texte souhaite et promet une série de bienfaits pour le mort en cas 
+  de soutien (jarre conservée à l'OIM de Chicago (\inv{E\,13945}), 
+  col.~7--8a). \emph{Ce n'est pas si simple au premier abord. 
+  Ne vous découragez pas !}
+
+  \begin{notabene}
+    le début du texte est la colonne de droite. Après le \tl{n} 
+    (5\ieme~signe) restituez entre parenthèse un pronom suffixe 
+    \tl{=i} : \tl{n(=i)} = \td{pour moi}
+  \end{notabene}
+
+  un extrait de l'original en hiératique (col.~A)\\
+  \includegraphics[width=2cm]{Chicago_OIM13945_jarre}
+
+  \subsection*{Vocabulaire}
+  \begin{multicols}{2}
+    \begin{itemize}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{wab}, \td{pur}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{aA.t}, \td{la Grande (déesse)} = Hathor dans le 
+            contexte
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{anx}, \td{vivre}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{nfr-Hr}, \td{le visage-parfait}, expression désignant 
+            la bienveillance d'un dieu
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{Hsi} \vi{3}, \td{favoriser}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{}, \td{de plus}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{t}, \td{pain}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{}, \td{(enfant) mâle}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{} \vl{3}, \td{demander}
+    \end{itemize}
+  \end{multicols}
+\end{questions}

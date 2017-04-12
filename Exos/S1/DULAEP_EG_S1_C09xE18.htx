@@ -10,8 +10,8 @@
   Inscriptions des côtés latéraux du trône. Observez bien la 
   disposition des signes}
   \begin{center}
-    \includegraphics[width=0.48\linewidth]{A20_1}%
-    \includegraphics[width=0.52\linewidth]{A20_2}\\
+    \includegraphics[width=0.48\linewidth]{Louvre_A20_1}%
+    \includegraphics[width=0.52\linewidth]{Louvre_A20_2}\\
     Dessin Chr.~\bsc{Barbotin}, \emph{Les statues égyptiennes du \NK}, 
     Paris, 2007
   \end{center}
@@ -87,7 +87,7 @@
   \question\qfmt{Translittérer et traduire le texte de ce vase en 
   faïence (Louvre \inv{E\,11094}), Ramsès.}
   \renewcommand{\insertimg}{%
-    \includegraphics[height=8cm]{E11094a}%
+    \includegraphics[height=8cm]{Louvre_E11094a}%
   }
   \settowidth{\graphicwidth}{\insertimg}
   \begin{minipage}[b]{\graphicwidth}

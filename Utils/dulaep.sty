@@ -1,0 +1,256 @@
+% .. Identification ..
+% ====================
+\ProvidesPackage{dulaep}[2017/04/11 S.Labetoulle LaTeX package]
+
+% .. Code initial ..
+% ==================
+% .. Declaration options ..
+% =========================
+% .. Execution options ..
+% =======================
+% .. Chargement extensions ..
+% ===========================
+% \usepackage[backend=biber,style=authoryear]{biblatex}
+\usepackage{xfrac}
+\usepackage{multicol}
+\usepackage[inline]{enumitem}
+\usepackage[export]{adjustbox}
+\usepackage{rotating}
+\usepackage{tipa}
+\usepackage[object=vectorian]{pgfornament}
+\usepackage{neferexam}
+
+
+\babeltags{de = ngerman, en = english}
+
+\frenchbsetup{PartNameFull=false}
+
+\aliaspagestyle{part}{empty}
+\aliaspagestyle{chapter}{dulaeplain}
+\counterwithin{part}{book}
+\counterwithin{chapter}{part}
+\counterwithin{footnote}{part}
+% \renewcommand{\thechapter}{\arabic{chapter}}
+\renewcommand{\thefootnote}{\arabic{footnote}}
+
+% Apparence des numéros de divisions
+\renewcommand{\thepart}{\arabic{part}}
+\renewcommand{\thechapter}{\textsc{\roman{chapter}}}
+% \renewcommand{\thepart}{\scshape\roman{part}}
+% \renewcommand{\thepart}{\Roman{part}}
+
+% Numérotation des division et prise en compte dans la TOC
+\maxtocdepth{section}
+
+% Indentation et largeur des numéros dans la TOC
+% Entry         Level        Standard        memoir class
+%                         indent numwidth   indent numwidth 
+% ---------------------------------------------------------
+% book             -2       —      —          0.0    —
+% part             -1       0.0    —          0.0    1.5 
+% chapter           0       0.0    1.5        0.0    1.5
+% section           1       1.5    2.3        1.5    2.3
+% subsection        2       3.8    3.2        3.8    3.2
+% subsubsection     3       7.0    4.1        7.0    4.1
+% paragraph         4      10.0    5.0       10.0    5.0
+% subparagraph      5      12.0    6.0       12.0    6.0
+% figure/table     (1)      1.5    2.3        0.0    1.5
+% subfigure/table  (2)      —      —          1.5    2.3
+\cftsetindents{book}{-2.4em}{\cftsectionnumwidth}
+\cftsetindents{part}{-1.2em}{\cftsectionnumwidth}
+\cftsetindents{chapter}{\cftchapterindent}{2em}
+\cftsetindents{section}{2em}{\cftsectionnumwidth}
+
+% Pointillés dans la TOC
+\renewcommand{\cftpartdotsep}{18}
+\renewcommand{\cftsectiondotsep}{9}
+
+
+% \AtBeginDocument{%
+%   \renewcommand{\partname}{Cours}
+%   \renewcommand{\partrefname}{cours~}
+%   \renewcommand{\bookrefname}{semestre~}
+% }
+
+\AtEndDocument{%
+  \cleardoublepage
+  \pagestyle{empty}
+  ~\newpage
+  \vspace*{\fill}
+  \begin{center}
+    Imprimé en France\\
+    \today, \printtime\par
+  \end{center}
+}
+
+% \babelhyphenation[french]{}
+
+% \tikzset{pgfornamentstyle/.style={%
+%   inner sep=0pt,
+%   red!80!black,
+%   % draw=red!80!black,
+%   % fill=white,
+% %   fill opacity=.5,
+%   % yscale=.8,
+%   % thin,
+% }}%
+
+
+\newcommand{\filet}{%
+  \vspace{3\baselineskip}
+
+  \begin{center}
+    \pgfornament[width=.5\textwidth]{85}
+  \end{center}
+
+  \vspace{3\baselineskip}
+}
+
+
+\newtcolorbox{example}[1][]{%
+  % show bounding box,
+  % breakable,
+  title     = {Exemple :},
+  colframe  = Ivory!80!black,
+  coltitle  = black,
+  colbacktitle = Ivory!95!black,
+  colback   = Ivory!75,
+  parbox    = false,
+  before    = \vspace{1ex plus 1pt minus .4pt}\noindent,
+  after     = \vspace{1ex plus 1pt minus .4pt},
+  before upper = {\DisplayHieroglyphs\setlength{\parindent}{0pt}},
+  fonttitle    = \bfseries,
+  #1, %
+}
+
+\newtcolorbox{exercice}[1][]{%
+  % show bounding box,
+  % breakable,
+  colframe  = LightBlue,
+  colback   = LightBlue!25,
+  parbox    = false,
+  before    = \vspace{1ex plus 1pt minus .4pt}\noindent,
+  after     = \vspace{1ex plus 1pt minus .4pt},
+  before upper = \indent,
+  fonttitle    = \large\bfseries,
+  #1,
+}
+
+\newtcolorbox{cadre}[1][]{%
+  % show bounding box,
+  % breakable,
+  colframe  = black,
+  colback   = white,
+  parbox    = false,
+  before    = \vspace{1ex plus 1pt minus .4pt}\noindent,
+  after     = \vspace{1ex plus 1pt minus .4pt},
+  before upper = \indent,
+  fonttitle    = \large\bfseries,
+  #1,
+}
+
+\newenvironment{notabene}[1][NB]{%
+  \bigskip
+  \begin{list}{#1}{%
+    \renewcommand\makelabel[1]{\bfseries\uline{##1} :}%
+    \settowidth\labelwidth{\makelabel{#1}}%
+    \setlength\leftmargin{\labelwidth + \labelsep}%
+  }%
+  \item\ignorespaces%
+}%
+{%
+  \unskip\end{list}%
+  \bigskip%
+}
+
+\setlist[enumerate,1]{label=\arabic*., ref=\arabic*}
+
+\newcommand{\sectitre}{}
+\newcommand{\insertimg}{}
+
+\newcommand{\addtolof}[1]{%
+  \phantomsection
+  \addcontentsline{lof}{figure}{%
+    \hspace*{\cftfigurenumwidth}%
+    #1%
+  }
+}
+
+\renewcommand{\hiero}[1][ique]{%
+  hiéroglyph#1\xspace%
+}
+\renewcommand{\Hiero}[1][ique]{%
+  Hiéroglyph#1\xspace%
+}
+
+\newcommand{\tll}[2][TlColor]{{%
+  \normalfont\textcolor{#1}{\emph{#2}}%
+}}%
+
+\renewcommand{\td}[2][TdColor]{%
+  \textcolor{#1}{\itshape\sffamily#2}%
+}
+\newcommand{\tdr}[1]{%
+  \textcolor{red}{\td{#1}}%
+}
+
+\renewcommand{\infos}[1]{{\smaller\quad(#1)}}
+
+\newcommand{\doc}[1]{%
+  \textbf{\textcolor{purple}{#1}}%
+}
+\colorlet{ClefCol}{orange}
+\newcommand{\clel}[1]{%
+  \textcolor{ClefCol}{#1}%
+}
+\newcommand{\clef}[1]{%
+  \textbf{\clel{#1}}%
+}
+\newcommand{\info}[1]{%
+  \textcolor{DarkGreen}{#1}%
+}
+
+\colorlet{fvinit}{yellow!33}
+\colorlet{fvmisc}{PaleGreen!67}
+\colorlet{fvdepd}{PaleTurquoise!67}
+\colorlet{fvtype}{LightGray!50}
+
+\renewcommand{\PPA}[1][]{Proposition#1 à prédicat adverbial\xspace}
+\newcommand{\PPN}[1][]{Proposition#1 à prédicat nominal\xspace}
+\newcommand{\PPP}[1][]{Proposition#1 à prédicat pseudo-\-verbal\xspace}
+\newcommand{\PPV}[1][]{Proposition#1 à prédicat verbal\xspace}
+\newcommand{\PPJ}[1][]{Proposition#1 à prédicat adjectival\xspace}
+
+% \newcommand{\citeauthortitle}[2][]{%
+%   \citeauthor{#2}, \citetitle[#1]{#2}%
+% }
+
+\newcolumntype{A}[1]{>{\vspace{2pt}\centering}m{#1}<{\vspace{2pt}}}
+
+\newcolumntype{+}{>{\global\let\currentrowstyle\relax}}
+\newcolumntype{^}{>{\currentrowstyle}}
+\newcommand{\rowstyle}[1]{%
+  \gdef\currentrowstyle{#1}#1\ignorespaces%
+}
+\renewcommand\tabularxcolumn[1]{M{#1}}
+
+\newlength{\graphicwidth}
+
+
+\newcommand{\qfmt}[1]{{\large\bfseries#1}}
+\newcommand{\pfmt}[1]{#1}
+
+\renewcommand{\solutiontitle}{\noindent\textbf{Solution :}\enspace}
+\renewcommand{\thequestion}{\Alph{question}}
+\renewcommand{\thepartno}{\arabic{partno}}
+\renewcommand{\questionlabel}{\qfmt{\thequestion.}}
+\renewcommand{\partlabel}{\pfmt{\thepartno.}}
+\renewcommand{\questionshook}{%
+  \setlength{\itemsep}{\baselineskip}%
+%   \setlength{\leftmargin}{0pt}%
+%   \setlength{\labelwidth}{-\labelsep}%
+}
+
+\input{../Utils/DULAEP_EG_titlepage}
+
+\endinput

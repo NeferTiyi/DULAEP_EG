@@ -1,0 +1,94 @@
+%!TEX root = DULAEP_EG_Exos.htx
+%##HieroDef.txt
+
+\chapter*{Exercice~11 (à rendre par email)}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{Translittérer, analyser les formes verbales ou les 
+  propositions et traduire}
+
+  \begin{parts}
+
+    \part Extrait de la grande inscription autobiographique de Khnoumhotep~II à Béni Hassan,\\
+    commencer à lire à partir de \tl{aHa.n}. Narration de l'action du roi (Amenemhat~I\ier) en faveur de Khnoumhotep~I\ier (le père de Khnoumhotep~II)
+
+    \includegraphics[width=4cm]{KhnoumhotepII_Col46-47}
+
+    \begin{hieroglyph}
+    \end{hieroglyph}
+
+    \begin{solution}
+      \tl{aHa.n rdi.n=f sw r iry-pa.t hAty-a iAm-a Hry-tp aA n mA-HD}
+
+      \td{Alors il (le roi) l'a fait noble, prince local,gracieux de bras et nomarque du nome de l'Oryx.}
+
+      Phrase introduite par un auxiliaire de la narration suivie d'un \tl{sDm.n=f} accompli.
+    \end{solution}
+
+    \subsection*{Vocabulaire}
+    \begin{multicols}{2}
+      \begin{itemize}
+        \item \begin{hieroglyph}\end{hieroglyph}
+              \tl{(i)r(y)-pa.t}, \td{noble}
+        \item \begin{hieroglyph}\end{hieroglyph}
+              \tl{HAty-a}, \td{prince local}
+        \item \begin{hieroglyph}\end{hieroglyph}
+              \tl{Hry-tp}, \td{nomarque}
+        \item \begin{hieroglyph}\end{hieroglyph}
+              \tl{mA-HD}, nome de l'Oryx (16\ieme~nome de \HE)
+        \item \begin{hieroglyph}\end{hieroglyph}
+              \tl{iAm-a}, \td{gracieux de bras}
+      \end{itemize}
+    \end{multicols}
+
+    \part
+2.
+    \begin{hieroglyph}
+    \end{hieroglyph}
+
+    \begin{solution}
+      \tl{rdi.in Hm=f nis=tw n=f rx-nsw.t}
+
+      \td{Alors, sa Majesté a fait qu'on appelle pour lui le connu-du-roi.}
+
+      Phrase avec la forme verbale de la narration \tl{sDm.in=f} suivi d'une proposition complétive au subjonctif.
+    \end{solution}
+
+    \part
+3.
+    \begin{hieroglyph}
+    \end{hieroglyph}
+
+    \begin{solution}
+      \tl{ir rf m tr n(y) mSrw,
+      pna.xr=f ir.t=f r Ra (le 2\ieme \tl{r} est oublié ici) xpr.xr aHa.w m is.wt}
+
+      \td{Donc au moment du soir,
+      Il retournera son \oe il contre Rê,
+      Et un arrêt surviendra dans l'équipage.}
+
+      Circonstancielle en protase, deux phrases avec la forme \tl{sDm.xr=f}
+    \end{solution}
+  \end{parts}
+\end{questions}
+
+\subsection*{Vocabulaire}
+\begin{multicols}{2}
+  \begin{itemize}
+    \item \begin{hieroglyph}\end{hieroglyph}
+          \tl{is.t}, \td{équipe}, \td{équipage}
+    \item \begin{hieroglyph}\end{hieroglyph}
+          \tl{aHaw}, \td{station}, \td{position}, ici \td{arrêt}
+    \item \begin{hieroglyph}\end{hieroglyph}
+          \tl{pna}, \td{retourner}, \td{renverser}
+    \item \begin{hieroglyph}\end{hieroglyph}
+          \tl{mSrw}, \td{soir}
+    \item \begin{hieroglyph}\end{hieroglyph}
+          \tl{nis}, \td{“appeler”} (verbe fort)
+    \item \begin{hieroglyph}\end{hieroglyph}
+          \tl{rx-ny-sw.t}, \td{connu du roi} (titre)
+    \item \begin{hieroglyph}\end{hieroglyph}
+          \tl{tr}, \td{époque}, \td{saison}, \td{moment}
+  \end{itemize}
+\end{multicols}

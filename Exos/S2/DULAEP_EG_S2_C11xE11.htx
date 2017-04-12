@@ -70,7 +70,7 @@
   pointillés).}
 
   \renewcommand{\insertimg}{%
-    \includegraphics[width=8cm]{Louvre_E13983_gauche2}%
+    \includegraphics[width=8cm]{Louvre_E13983_gauche}%
   }
   \settowidth{\graphicwidth}{\insertimg}
   \begin{minipage}[m]{\graphicwidth}

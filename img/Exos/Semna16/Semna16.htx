@@ -1,0 +1,178 @@
+\documentclass[%
+  % draft,
+  french,
+  hiero,
+  kpfonts,
+  dvipsnames,
+  svgnames,
+  a4paper,
+  % twoside,
+  oneside,
+  % openany,
+  10pt,
+  largesmallcaps,
+  oldstyle, %nums,
+  oldfontcommands,
+  article,
+]{nefermemoir}
+
+\usepackage[margin=1cm]{geometry}
+% \usepackage{xfrac}
+% \usepackage{multicol}
+% \usepackage[inline]{enumitem}
+% \usepackage[export]{adjustbox}
+% \usepackage{rotating}
+\usepackage{adjustbox}
+% \usepackage{nefertiyi}
+
+% \graphicspath{%
+%   {../img/}%
+% }
+
+
+
+\newtcolorbox{exercice}[1][]{%
+  % show bounding box,
+  boxrule = 0pt,
+  boxsep  = 0pt,
+  left    = 0pt,
+  right   = 0pt,
+  before  = \noindent,
+  before upper = \centering,
+  % breakable,
+  %
+  colframe  = white,
+  colback   = white,
+  % parbox    = false,
+  % before    = \vspace{1ex plus 1pt minus .4pt}\noindent,
+  % after     = \vspace{1ex plus 1pt minus .4pt},
+  % fonttitle    = \large\bfseries,
+  #1,
+}
+
+
+
+\renewcommand{\lgn}[2][]{{%
+  \tcbox[%
+    sharpish corners,
+    nobeforeafter,
+    boxrule    = 0pt,
+    rightrule  = 1pt,
+    leftrule   = 1pt,
+    boxsep     = 0pt,
+    left       = 1pt,
+    right      = 1pt,
+    top        = 2pt,
+    bottom     = 2pt,
+    enlarge bottom by = 1ex,
+    % enlarge by = 1.5ex,
+    colback    = FireBrick!10!white,
+    colframe   = FireBrick,
+    #1
+  ]%
+  {%
+  \color{FireBrick}
+    \normalfont#2%
+  }%
+}}
+
+
+
+\newcommand{\insertligne}[1]{%
+  \LARGE\lgn{#1}%
+  \reflectbox{%
+    % \includegraphics[scale=1.4, valign=M]{Berlin_1157_Semna16_L#1}%
+    \includegraphics[scale=1.4]{Berlin_1157_Semna16_L#1}%
+  }%
+}
+
+\newcommand{\paraphligne}[1]{%
+  \noindent%
+  \begin{exercice}
+    \insertligne{#1}%
+    \par%
+    \vspace{2.79cm}\par%
+  \end{exercice}%
+  \vfill%
+}
+
+%======================================================================
+% \title{DULAEP --\\Égyptien classique}
+% \short{DULAEP -- EG}
+% % \short{DULAEP -- Égyptien classique}
+% \subtitle{}
+% \lecturer{Sylvie~\bsc{Donnat}}
+% \orga{Faculté des sciences historiques de Strasbourg}
+% \author{\SL}
+% \date{2015-2016}
+
+% \hypersetup{%
+%   pdftitle  = {DULAEP -- Égyptien classique}, 
+%   pdfauthor = {Sonia Labetoulle}
+% }
+% pdfsubject % pdfcreator % pdfproducer % pdfkeywords
+
+%======================================================================
+
+\pagestyle{empty}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+
+% \maketitle
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\centering
+
+% \paraphligne{00}
+% \paraphligne{01}
+\insertligne{00}
+\insertligne{01}
+\paraphligne{02}
+\paraphligne{03}
+% \noindent\rule{\textwidth}{3pt}\par
+\paraphligne{04}
+\paraphligne{05}
+\paraphligne{06}
+\paraphligne{07}
+\paraphligne{08}
+\paraphligne{09}
+\paraphligne{10}
+\paraphligne{11}
+\paraphligne{12}
+\paraphligne{13}
+\paraphligne{14}
+\paraphligne{15}
+\paraphligne{16}
+\paraphligne{17}
+\paraphligne{18}
+\paraphligne{19}
+\paraphligne{20}
+\paraphligne{21}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\end{document}
+
+% \chapter{Syntaxe du parfait ancien}
+% =====================================================================
+
+% \section{Prédicat de construction pseudo-verbale S + P}
+% ---------------------------------------------------------------------
+
+% \subsection{Avec l'indicateur d'énonciation \tl{iw}}
+% ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+\usetikzlibrary{decorations.pathreplacing}
+
+\begin{tikzpicture}[decoration=brace]
+ \node[text width=2cm] (box)
+{\begin{itemize}
+\item blabla
+\item blabla
+\item blabla
+\item blabla
+\end{itemize}
+};
+\draw [decorate] (box.north east) --node[right=10pt]{Texte} (box.south east);
+\end{tikzpicture} 

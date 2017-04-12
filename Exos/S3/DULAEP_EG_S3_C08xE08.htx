@@ -1,0 +1,97 @@
+%!TEX root = DULAEP_EG_Exos.htx
+%##HieroDef.txt
+
+\chapter*{Exercice~8 (à rendre par email)}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{Translittérer, analyser les formes verbales ou les 
+  propositions et traduire}
+
+  \begin{parts}
+
+    \part
+    \begin{hieroglyph}
+    \end{hieroglyph}
+
+    \begin{solution}
+      \tl{dgg=tw=f mi Ra wbn=f}
+
+      \td{Le fait qu'on le regarde est comme Rê, lorsqu'il se lève.}
+
+      \td{Le fait qu'on le cherche du regard est comme Rê, lorsqu'il se lève.}
+
+      \tl{dgg=tw=f} : \tl{mrr=f} en fonction de sujet d'une \PPA 
+
+      \tl{wbn=f} : aoriste circonstanciel
+
+      On verra dans le cours~10 que cette phrase peut être comprise comme une phrase avec construction emphatique \td{si on le cherche du regard, c'est comme Rê quand il se lève}.
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}
+    \end{hieroglyph}
+    \infos{Stèle de Semna à propos de l'ennemi nubien}
+
+    \begin{notabene}
+      Restituer \tl{Ad=t(w)} et analyser comme une phrase balancée.
+    \end{notabene}
+
+    \begin{solution}
+      \tl{Ad=t(w) r=f didi=f sA=f}
+
+      \td{Se montre-t-on agressif envers lui, qu'il montre son dos.}
+
+      Phrase balancée avec \tl{mrr=f}
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}
+    \end{hieroglyph}
+    \includegraphics[width=\linewidth]{ThoutmosisII_Assouan}
+    \infos{\urk{IV}, 135, 9--14, début de l'inscription de l'an~1 de 
+    Thoutmosis~II, entre Assouan et Phil\ae}
+
+    \begin{solution}
+      \tl{rnp.t-sp 1, Abd 2 Ax.t sw 8\\
+      xa.t xr Hm n(y) @r KA-nxt Wsr-pHty, nb.ty nTr-nsy.t, 
+      @r nbw \%xm-xpr.w, nsw-bity aA-xpr-n-Ra, 
+      sA Ra DHwty-ms Nfr-xa.w\\
+      Hr s.t @r n(y).t anx.w\\
+      it=f Ra m sA=f, imn nb ns.wt tA.wy}
+
+      \td{L'an~1, le 2\ieme~mois de la saison akhet, le jour~8,\\
+      Apparition sous la majesté de l'Horus Kanakht Ouserpehty, 
+      les Deux-Maîtresses Netjernésyt, l'Horus d'or Sékhemkhépérou, 
+      le roi de \HBE Âakhéperenrê, 
+      le fils de Rê Thoutmosis Néferkhâou,\\
+      sur la place de l'Horus des vivants,\\
+      son père Rê étant sa protection, et Amon, le seigneur des 
+      trônes des Deux-terres.}
+    \end{solution}
+  \end{parts}
+\end{questions}
+
+\subsection*{Vocabulaire}
+\begin{multicols}{2}
+  \begin{itemize}
+    \item \begin{hieroglyph}\end{hieroglyph}
+          \tl{Ad}, \td{se montrer agressif}
+    \item \begin{hieroglyph}\end{hieroglyph}
+          \tl{wbn}, \td{se lever} (en parlant du soleil)
+    \item \begin{hieroglyph}\end{hieroglyph}
+          \tl{sA}, \td{dos}
+    \item \begin{hieroglyph}\end{hieroglyph}
+          \tl{dgi}, \td{regarder}, \td{chercher des yeux}
+  \end{itemize}
+\end{multicols}
+
+\begin{comment}
+  \subsection*{Vocabulaire}
+  \begin{multicols}{2}
+    \begin{itemize}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{}, \td{}
+    \end{itemize}
+  \end{multicols}
+\end{comment}

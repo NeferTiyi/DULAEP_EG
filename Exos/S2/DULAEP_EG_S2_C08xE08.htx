@@ -71,7 +71,7 @@
 
   % \renewcommand{\insertimg}{%
     \begin{center}
-      \includegraphics[width=0.67\linewidth]{BM_EA586}%
+      \includegraphics[width=0.67\linewidth]{BM_EA586_1}%
     \end{center}
   % }
   % \settowidth{\graphicwidth}{\insertimg}

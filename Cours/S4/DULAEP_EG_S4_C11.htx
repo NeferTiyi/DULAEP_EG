@@ -1,0 +1,168 @@
+%!TEX root = DULAEP_EG.htx
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\part{La narration}
+\label{prt:S4_narration}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\chapter{Introduction}
+% =====================================================================
+
+\noindent%
+\cite[§\,1032--1044 et §\,344 (chap.~\textsc{xlii})]{MW}
+\cite[leçons~46--47]{GM}
+
+Dans cet avant dernier cours, nous allons revenir sur des éléments déjà abordés par petites touches. Nous allons faire un point sur la \textbf{narration} et les \textbf{structures caractéristiques} de ce registre.
+
+La linguistique opère une distinction entre le registre de la \textbf{narration} et le registre du \textbf{discours}, en prenant en compte le point de vue \emph{énonciatif}.
+
+La narration est l'acte de raconter quelque chose. Au sens large, c'est \frquote{la relation détaillée, écrite ou orale (d'un fait, d'un événement)}. Dans un sens plus restreint, c'est en particulier un \frquote{récit développé dans une {\oe}uvre littéraire}\footnote{Définitions reprises au TLF (\url{http://stella.atilf.fr/Dendien/scripts/tlfiv5/showp.exe?43;s=3258806925;p=combi.htm}).}, le récit étant la présentation (orale ou écrite) de faits réels ou imaginaires.
+
+La narration implique en théorie une relation de faits présentés comme \frquote{extérieurs au monde immédiat du locuteur}\footcite[§\,344]{MW}. Le discours est plus directement lié à une interaction locuteur~/ interlocuteur dans le moment même de l'énonciation. Il y a une \frquote{distanciation}\footcite[515]{GM} temporelle dans la narration ; celle-ci se traduit par certaines marques formelles : par exemple, le récit se fait généralement au passé avec un \frquote{effet d'objectivité}\footcite[515]{GM}.
+
+Dans les langues, certaines constructions, certaines expressions appartiennent ainsi plus spécialement au registre de la narration. La narration écrite en français recourt par exemple au \textbf{passé simple}, ainsi qu'à des expressions dédiées (\frquote{il était une fois}, \frquote{en ce temps-là}, \frquote{alors}\footcite[515]{GM})
+
+\begin{quote}
+  \frquote{\textbf{Alors} il \textbf{se replongea} sous la voûte tortueuse de l'escalier en spirale, et \textbf{redescendit}. En passant devant la porte de la sonnerie qui était entr'ouverte, il \textbf{vit} une chose qui le \textbf{frappa}, il \textbf{vit} Quasimodo qui, penché à une ouverture de ces auvents d'ardoises qui ressemblent à d'énormes jalousies, regardait aussi, lui, dans la place.}
+  \sourceatright{\gens[Victor]{Hugo}, \source{Notre Dame de Paris}\footnote{édition Folio Classique de 2002, p.~329.}}
+\end{quote}
+
+Le moyen-égyptien, ou égyptien classique, dispose aussi de structures apparemment spécialisées dans le registre de la narration, et particulièrement présentes dans la littérature de fiction (les contes), les récits mythologiques, mais aussi certains récits de type historique (autobiographie funéraire, \frquote{roman royal}).
+
+On considère ainsi que le \textbf{perfectif \tl{sDm=f}} (voir cours 7 semestre 1, année 2) est spécialisé dans ce registre ; de même, l'emploi en \textbf{position indépendante du parfait ancien à la 1\iere~personne} (voir cours 1 semestre 2, année 1) ; ou encore de la \textbf{forme \tl{sDm.in=f}} (\td{alors, il écouta}) de la conjugaison suffixale (voir cours 11 semestre 1, année 2). S'ajoutent à cela des auxiliaires et d'autres constructions dont nous allons voir quelques exemples.
+
+\chapter{Quelques structures narratives}
+% =====================================================================
+
+Parmi les structures narratives caractéristiques du moyen égyptien, on revient ou expose ici trois cas :
+\begin{enumerate}
+  \item l'auxiliaire de la narration \tl{aHa.n}
+  \item l'auxiliaire narratif \tl{wn.in} et la forme \tl{sDm.in=f}
+  \item La construction \tl{sDm pw ir(w).n=f}
+\end{enumerate}
+
+\section[L'auxiliaire de la narration \tl{aHa.n}, \td{alors, \dots}]
+{L'auxiliaire de la narration 
+\begin{hieroglyph}aHa-a:n\end{hieroglyph} 
+\tl{aHa.n}, \td{alors, \dots}}
+% ---------------------------------------------------------------------
+(\cite[§\,1042--1043]{MW} ; \cite[46.2--4]{GM})
+
+Nous avons déjà eu l'occasion de parler de cet auxiliaire dans le dernier cours de la 1\iere~année (voir cours 12, semestre 2, an 1). Il remplace \tl{iw} et transforme ainsi toute phrase en phrase narrative. On le rencontre particulièrement :
+\begin{itemize}
+  \item avec un parfait ancien \tl{aHa.n=f} + parfait ancien
+  \item avec une construction pseudo-verbale : \tl{aHa.n=f Hr}~/ \tl{m} + infinitif
+  \item \tl{aHa.n} suivi d'un accompli sDm.n=f ou de son équivalent passif 
+\end{itemize}
+
+\begin{example}[title={}]
+  \tl{aHa.n rdi.=f n=i mw}
+  \infos{\cite{MW}}
+
+  \td{Alors il me donna de l'eau.}
+  \remg{(accompli sDm.n=f)} 
+\end{example}
+
+\section[L'auxiliaire de la narration \tl{wn.in}, \td{et\dots}]
+{L'auxiliaire de la narration 
+\begin{hieroglyph}wn:n-i-n\end{hieroglyph} 
+\tl{wn.in}, \td{et\dots}}
+% ---------------------------------------------------------------------
+(\cite[§\,1042--1043]{MW} ; \cite[47.1--3]{GM})
+
+Nous avons déjà eu l'occasion de parler de cet auxiliaire dans le dernier cours de la 1re année (voir cours 12, semestre 2, an 1). Il remplace \tl{iw} et transforme ainsi toute phrase en phrase narrative. On le rencontre particulièrement :
+\begin{itemize}
+  \item avec un parfait ancien \tl{wn.in=f} + parfait ancien
+  \item avec une construction pseudo-verbale : \tl{wn.in=f Hr}~/ \tl{m} + infinitif
+  \item \tl{wn.in(=f)} suivi d'un sDm=f perfectif, aussi un sDm=f aoriste, plus rarement un accompli \tl{sDm.n=f}
+\end{itemize}
+
+\begin{example}[title={}]
+  \tl{}
+  \infos{\cite{MW}}
+
+  \td{Et ils se levèrent et s'assirent conformément}
+\end{example}
+
+\section{La construction \tl{sDm pw ir(w).n=f} (\td{c'est écouter ce qu'il fit})}
+% ---------------------------------------------------------------------
+(\cite[§\,1036 et §\,885]{MW} ; \cite[46.4]{GM})
+
+Cette construction est une \PPN avec comme prédicat un \textbf{infinitif}, et
+comme explicitation du sujet une \textbf{forme relative substantivée au masculin} ; littéralement : \td{c'est écouter ce qu'il fit}. On rencontre aussi un participe passif comme explicitation du sujet. Cette construction, bien attestée avec les verbes de mouvement, marque une grande étape dans le récit.
+
+\begin{example}[title={}]
+  \tl{
+    \blue{xr} m-xt mSrw xpr(w),\\
+    \clel{iw.t pw ir.n} pA nDs mi nt-a=f n(y).t ra-nb\\
+    \green{aHa.n} xAa.n pA Hry pA msH n(y) mnH r-sA=f r mw\\
+    \green{aHa.n} [xpr.n]=f m msH n(y) mH 7\\
+    \green{aHa.n} mH.n=f m pA nDs%
+  }\\
+  \infos{\cite[ex.~1831]{MW}, \source{P.~Westcar}, 3, 10--14}
+
+  \td{
+    \blue{Et}, après que le soir fut venu,\\
+    l'homme~/ le bourgeois \clel{vint} comme à son habitude chaque 
+    jour (\clel{c'est venir ce qu'il fit} comme\dots).\\
+    \green{Alors,} l'intendant jeta le crocodile de cire derrière 
+    lui dans l'eau.\\
+    \green{Alors,} il [se transforma] en crocodile de 7 coudées.\\
+    \green{Alors,} il s'empara du bourgeois.%
+  }
+\end{example}
+
+
+\chapter{Les protases et la progression du récit}
+% =====================================================================
+
+\cite[47.6]{GM}
+
+L'exemple précédent, tiré d'un des contes du \source{Papyrus Westcar} présente une proposition subordonnée véritable \incise{une temporelle introduite par \tl{m-xt}, \td{après que}} placée en tête de phrase (et non en fin de phrase comme la syntaxe égyptienne le recommande), en protase. Cette structure particulière est signalée par l'auxiliaire d'énonciation \tl[bleu]{xr}. En effet, on a vu dans le dernier cours du semestre dernier (cours 12, semestre 1, année 2) que lorsque une subordonnée est placée avant la principale, elle est normalement précédée de \tl{ir} ou de \tl{xr}. Les circonstancielles temporelles en protase (en tête de phrase) sont relativement fréquentes dans la narration, puisque la temporalité est un élément important de la progression du récit.
+
+À noter certaines expressions récurrentes :
+\begin{itemize}
+  \item \tl{HD.n tA}, \td{à l'aube}
+  \item \tl{xpr.n}, \td{au moment de}
+\end{itemize}
+
+
+\chapter{La narration dans les annales royales}
+% =====================================================================
+
+\cite[§\,1037]{MW}
+
+Dans les annales royales (récits des actions du roi affichés au moyen d'inscriptions hiéroglyphiques dans les temples), ou dans les rapports de mission, est parfois utilisé une formulation très synthétique appelée \textbf{infinitif narratif}.
+
+Voir par exemple les \source{Annales de Thoutmosis~III} (blocs du Louvre : \url{http://www.louvre.fr/oeuvre-notices/les-annales-de-thoutmosis-iii})
+
+\includegraphics[width=0.45\textwidth]{Louvre_C5_1}
+\includegraphics[width=0.45\textwidth]{Louvre_C5_2}
+
+\includegraphics[width=0.45\textwidth]{UrkIV_730_8-10}
+
+
+\begin{example}[title={}]
+  \tl{%
+    ii.t m Htp\\
+    spr r w n (y) OdSw\\
+    HAo dmi 3 im%
+  }\\
+  \infos{\cite[ex.~1833]{MW}, \urk{IV}, 730, 8--10}
+
+  \td{%
+    Revenir en paix\\
+    Atteindre le territoire de Qadesh\\
+    Y piller 3 villes%
+  }
+
+  \tg{trois infinitifs narratifs}
+\end{example}
+
+Il se rencontre très rarement dans les contes.
+
+\bigskip
+
+\begin{exercice}[before upper={\centering}]
+  Faire \textbf{l'exercice~11}.
+\end{exercice}

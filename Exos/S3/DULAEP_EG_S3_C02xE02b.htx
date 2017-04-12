@@ -1,0 +1,96 @@
+%!TEX root = DULAEP_EG_Exos.htx
+%##HieroDef.txt
+
+\chapter*{Exercice~2b (à rendre par email)}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{Translittérer, analyser les formes verbales et 
+  traduire}
+
+  \begin{parts}
+    \part
+    \begin{hieroglyph}
+      jw r*1:n z:\!A1\s1*1 n-N42-m
+    \end{hieroglyph}\\
+    \infos{\CdN}
+
+    \begin{solution}
+      \tl{iw r(A) n(y) s nHm=f sw, mdw=f di=f TAm n=f}
+
+      \td{La bouche d'un homme le sauve, alors que sa parole place un 
+          voile pour lui.}
+
+      \tl{nHm=f} : aoriste en position initiale
+
+      \tl{di=f} : aoriste en position séquentielle valeur 
+      circonstancielle virtuelle
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}
+      jw gm
+    \end{hieroglyph}\\
+    \infos{\source{Sagesse de Ptahhotep}}
+
+    \begin{notabene}
+      Le sage (Ptahhotep) évoque « \td{elle} » (cf.~pronom suffixe 
+      féminin) = « \td{la parole sensée} ».
+    \end{notabene}
+
+    \begin{solution}
+      \tl{iw gm=t(w)=s m-a Hm.wt Hr bn.wt}
+
+      \td{On la trouve chez les esclaves à la meule.}
+
+      Verbe à l'aoriste passif, autonome.
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}
+      n'
+    \end{hieroglyph}
+
+    \begin{solution}
+      \tl{n Dd.n=i, n wHm.n=i}
+
+      \td{Je ne peux parler.} ; \td{je ne peux répéter.}
+
+      Deux aoristes négatifs
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}
+      jw
+    \end{hieroglyph}
+
+    \begin{solution}
+      \tl{iw=f Hr aHA}
+
+      \td{Il est en train de combattre.}
+
+      \PPP \tl{Hr} + infinitif = progressif
+    \end{solution}
+  \end{parts}
+\end{questions}
+
+\subsection*{Vocabulaire}
+\begin{multicols}{2}
+  \begin{itemize}
+    \item \begin{hieroglyph}\end{hieroglyph}
+          \tl{wHm}, \td{répéter}, \td{renouveler}
+    \item \begin{hieroglyph}\end{hieroglyph}
+          \tl{bn.wt}, \td{meule}
+    \item \begin{hieroglyph}\end{hieroglyph}
+          \tl{m-a}, préposition \td{avec}, \td{en possession de}, 
+          \td{de la part de}
+    \item \begin{hieroglyph}\end{hieroglyph}
+          \tl{Hm.t}, \td{esclave}, \td{servante}
+    \item \begin{hieroglyph}\end{hieroglyph}
+          \tl{gmi}, \td{trouver}
+    \item \begin{hieroglyph}\end{hieroglyph}
+          \tl{TAm}, \td{voile}
+    \item \begin{hieroglyph}\end{hieroglyph}
+          \tl{Dd}, \td{dire}
+  \end{itemize}
+\end{multicols}

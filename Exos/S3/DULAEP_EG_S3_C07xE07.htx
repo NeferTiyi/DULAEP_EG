@@ -1,0 +1,65 @@
+%!TEX root = DULAEP_EG_Exos.htx
+%##HieroDef.txt
+
+\chapter*{Exercice~7 (à rendre par email)}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{Translittérer, analyser les formes verbales ou les 
+  propositions et traduire}
+
+  \qfmt{Le \CdS (R\,5--9) : passage relatif à la mort du roi 
+  Amenemhat~I}
+
+  \begin{solution}
+
+
+\tl{rnp.t-sp 30 Abd 3 Ax.t sw 7, ar nTr r Ax.t=f}
+\quad (Verbe = perfectif)
+
+\tl{nsw-bity \%Htp-ib-Ra, sHr=f r p.t, Xnm(.w) m itn=f}
+\quad (Verbe = perfectif)
+
+\tl{Ha-nTr Abx(.w) m ir(w) sw}
+\quad (Parfait ancien, séquentiel)
+
+\tl{iw Xnw m sgr, ib.w m gmw}
+\quad (\PPA, initiale et séquentielle)
+
+\tl{rw.ty wr.ty xtm.w}
+\quad (Parfait ancien, séquentiel)
+
+\tl{pa.t m im}
+\quad (\PPA séquentielle)
+
+\td{L'an~30, le 3\ieme~mois de la saison akhet, le jour~7, le dieu s'éleva vers son horizon.\\
+Le roi de \HBE Séhétepibrê, il s'éloigna vers le ciel, s'étant uni au disque, \\
+Le corps divin ayant été associé à celui qui l'avait engendré.}
+
+\td{La Résidence était dans le silence, les c\oe urs dans l'affliction, la double grande porte était scellée et les nobles étaient en deuil.}
+  \end{solution}
+\end{questions}
+
+\begin{remarque}
+  \tl{ir(w) sw}, \td{celui qui l'a fait/engendré}
+  (participe substantivé)
+\end{remarque}
+
+
+  \subsection*{Vocabulaire}
+  \begin{multicols}{2}
+    \begin{itemize}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{ar}, \td{s'élever}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{rw.ty}, \td{porte}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{Ha-nTr}, \td{corps du dieu}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{xtm}, \td{sceller}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{Xnm}, \td{unir}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{sHr} \vcl{2}, \td{s'éloigner}, \td{rendre éloigné}
+    \end{itemize}
+  \end{multicols}

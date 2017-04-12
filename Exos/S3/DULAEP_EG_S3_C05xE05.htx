@@ -1,0 +1,110 @@
+%!TEX root = DULAEP_EG_Exos.htx
+%##HieroDef.txt
+
+\chapter*{Exercice~5 (à rendre par email)}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{Translittérer, analyser les formes verbales et 
+  traduire}
+
+  \begin{parts}
+
+    \part
+    \begin{hieroglyph}
+      Dd'
+    \end{hieroglyph}
+    \infos{extrait de texte rituel}
+
+    \begin{solution}
+
+      \tl{Dd s r(A) pn, wab.n=f sw}
+
+      \td{Qu'un homme dise cette formule, alors qu'il se sera purifié.}
+
+      ou
+
+      \td{Qu'un homme qui se sera purifié dise cette formule.}
+
+      \cite[ex.~806]{MW} : \frquote{fonction de relative déterminative 
+      virtuelle}
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}
+      jw s-aA:a n:f W-+l\Big(+s-A1-+l\Big)+s
+      s-xnt-n:t n:f st-t:pr-+l\Big(+s-A1-+l\Big)+s
+    \end{hieroglyph}
+    \infos{Un thébain parle du roi, cité par \cite{Obsomer}}
+
+    \begin{solution}
+      \tl{iw saA.n=f w(i), sxnt.n=f s.t(=i)}
+
+      \td{Il m'a rendu grand et il a promu ma place.}
+
+      Deux accomplis \tl{sDm.n=f} (initial et séquentiel).
+    \end{solution}
+
+    \part Conclusion à la suite d'un examen médical. Le diagnostic :\\
+    \begin{hieroglyph}
+      anx
+    \end{hieroglyph}
+
+    \begin{solution}
+      \tl{anx=f pw}
+
+      \td{\litt C'est qu'il vivra.} = \td{Cela signifie qu'il vivra.}
+
+      \tl{anx=f} : subjonctif dans une fonction nominale 
+      (prédicat de la \PPN)
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}
+      n'
+    \end{hieroglyph}
+    \infos{\TS, \CTx{I}, 335\,e}
+
+    \begin{solution}
+      \tl{n mA=f xpr.n=i m-Hr=f}
+
+      \td{Il n'a pas vu que j'étais advenu à ses yeux.}
+
+      \tl{n mA=f} : accompli négatif (position initiale)
+
+      \tl{xpr.n=i} : accompli \tl{sDm.n=f} dans une fonction nominale 
+      (COD, c'est-à-dire dans une proposition complétive --- voir plus 
+      de détails au semestre~4)
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}
+      n'
+    \end{hieroglyph}
+    \infos{\TS, \CTx{I}, 389\,c}
+
+    \begin{solution}
+      \tl{n mA.n=sn sw}
+
+      \td{Ils ne l'ont pas vu.}
+
+      Accompli négatif, autonome
+    \end{solution}
+  \end{parts}
+\end{questions}
+
+\subsection*{Vocabulaire}
+\begin{multicols}{2}
+  \begin{itemize}
+    \item \begin{hieroglyph}\end{hieroglyph}
+          \tl{wab}, \td{«être pur}, \td{devenir pur}
+    \item \begin{hieroglyph}\end{hieroglyph}
+          \tl{xpr}, \td{devenir}, \td{advenir}, \td{se transformer}
+    \item \begin{hieroglyph}\end{hieroglyph}
+          \tl{m-Hr}, \td{au yeux de}
+    \item \begin{hieroglyph}\end{hieroglyph}
+          \tl{saA} \vcl{2}, \td{rendre grand}
+    \item \begin{hieroglyph}\end{hieroglyph}
+          \tl{sxnti} \vci{4}, \td{promouvoir}
+  \end{itemize}
+\end{multicols}

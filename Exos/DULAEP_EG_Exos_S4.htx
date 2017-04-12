@@ -1,2 +1,834 @@
 %!TEX root = DULAEP_EG_Exos.htx
 
+\chapter*{Exercice~1}\label{cha:ExoS4x01}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{Translittérer, analyser et traduire les phrases 
+  suivantes}
+
+  \begin{parts}
+    \part
+    \begin{hieroglyph}
+      r:di' n:f h-A-D54-i-i-A1 r O44-t:1 t:n
+    \end{hieroglyph}
+
+    \begin{solution}
+      \tl{rdi.n=f hAy=i r iA.t tn}
+
+      \td{\litt \clel{Le fait qu'il a fait en sorte que tu descendes} 
+          EST \blue{vers cette fonction}.}
+
+      \tg{Proposition avec une construction emphatique 
+          (temps second\footnotemark{})\\
+          \clel{Sujet = \tl[ClefCol]{sDm.n=f} en fonction nominale 
+          emphatique}\\
+          \blue{Prédicat = groupe prépositionnel (prédicat adverbial)}}
+
+      \td{C'est cette fonction qu'il a fait en sorte que j'atteigne.}
+    \end{solution}
+    \footnotetext{Proposition argumentative dans la terminologie de 
+    \citeauthor{GM}}
+
+    \part
+    \begin{hieroglyph}
+      i-m-M:a r:x-Y1:f r:n:k
+    \end{hieroglyph}
+
+    \begin{solution}
+      \tl{im rx=f rn=k}
+
+      \td{Fais en sorte qu'il connaisse ton nom.}
+
+      \tg{Impératif suivi d'une proposition complétive au subjonctif.}
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}
+      di':f ir:i*i A1 rnp-t-1 3 aSA-A-\!3:. m Tz:z-W-D40:\!A1\s1 
+      n mSa-3:f
+    \end{hieroglyph}
+
+    \begin{solution}
+      \tl{di=f iry=i rnp.wt aSA.w(t) m Tsw n mSa=f}
+
+      \td{Puisse-t-il fait en sorte que je passe de nombreuses années 
+          en tant que commandant de l'armée.}
+
+      \tg{Verbe initial = subjonctif ; Suivi d'une complétive au 
+          subjonctif}
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}
+      wD-W-Y1 g-r:t Hm-1:k r:di':t ini-n:t:f m:a-k-i-T14-A1 
+      m qd-d-m-a:xAst
+    \end{hieroglyph}
+
+    \begin{solution}
+      \tl{wD gr.t Hm=k rdi.t int=f Mki m Odm}
+
+      \td{Puisses de plus Ta Majesté ordonner de faire encore qu'il 
+          amène Méki à Qédem.}
+
+      \tg{verbe initial = subjonctif, suivi d'un infinitif 
+          (\tl[Gramm]{rdi.t}), lui-même introduisant une complétive 
+          au subjonctif (\tl[Gramm]{int=f})}
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}
+      i-+l$\Big<$+s-w-+l$\Big>$+s k r:x:t n:t:t Dd' n 
+      +l\ \emph{N.} +s r zA-A1-f
+    \end{hieroglyph}
+    (\emph{N.} indique le nom d'une personne)
+
+    \begin{solution}
+      \tl{i<w>=k rx.t(i) nt(y).t Dd.n N r sA=f}
+
+      \td{Tu sais que/ce que \emph{N.} a dit au sujet de son fils : 
+          \dots}
+
+      \tg{Phrase pseudo-verbale (parfait ancien), avec une complétive 
+          introduite par \tl[Gramm]{nt(y).t}}
+    \end{solution}
+  \end{parts}
+
+  \subsection*{Vocabulaire}
+  \begin{multicols}{2}
+    \begin{itemize}
+      \item \begin{hieroglyph}m:a-k-i-T14-A1\end{hieroglyph}
+            \tl{Mki}, \td{Méki} (anthroponyme)
+      \item \begin{hieroglyph}mSa-Z3A\end{hieroglyph}
+            \tl{mSa}, \td{armée}
+      \item \begin{hieroglyph}qd-d-m-a:xAst\end{hieroglyph}
+            \tl{Odm}, \td{Qédem} (toponyme, région d'Asie)
+      \item \begin{hieroglyph}Tz:z-W-D40:\!A1\s1\end{hieroglyph}
+            \tl{Tsw}, \td{commandant}
+    \end{itemize}
+  \end{multicols}
+\end{questions}
+
+
+\chapter*{Exercice~2}\label{cha:ExoS4x02}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{Translittérer, analyser et traduire}
+
+  \begin{parts}
+    \part
+    \begin{hieroglyph}
+      i-r :D54-w-t p:t-pt:t:n m rsw-w-TAw N41-s-A3 D-H-w-t:n:xt-A50 
+      p:n Hr rsw-s
+    \end{hieroglyph}
+
+    \begin{solution}
+      \tl{ir iwt p.t tn m rsw, Hms +Hwty-nxt pn Hr rsy}
+
+      \td{Si ce ciel vient en tant que vent du sud, ce Djéhoutynakht 
+          s'assiéra au sud.}
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}
+      i-r i-q:r k' g:r-grg:Y1 pr-1 ir:k' zA-A1-1:n 
+      s-i-M1-m-Y1 nTr-G7 !
+      i-r mt:t*y-Dba-Dba-Y1:f pXr:r-D54:f n qd-d:nw-Y1:3 k':sDm-m f:n 
+      s-b-sbA-i-i-t:Y1-3:k' s-i-q:r-Y1 !
+      s-x:r-W-Y1:3-f m Xn:n-nw*W:pr pr*1:k' !
+      n:U19 nw-W-100-D40:f x:t-Y1:3 k' r st-t-pr i-r-y !
+      ir n:f b-W nb nfr-f:r
+    \end{hieroglyph}
+
+    \begin{solution}
+      \tl{\clel{ir ior=k} \blue{grg} pr, ir=k sA=i n(y) simA nTr\\
+          \clel{ir mty=f, pXr=f} n od=k, sDm=f n sbAy.wt=k, 
+          \clel{sior sxr.w=f} m-Xnw pr=k\\
+          \clel{nw=f} x.t=k r s.t iry, \blue{ir} n=f bw-nfr}
+
+      \td{\clel{Si tu es prospère}, \blue{fonde} un foyer, de sorte 
+          que tu engendreras un fils (propre) à rendre bien disposé 
+          le dieu.\\
+          \clel{S'il est droit, s'il sert} ton caractère, s'il écoute 
+          tes enseignements, \clel{si ses desseins sont prospères} 
+          dans ta maison, s'il prend soin de tes affaires à leur 
+          place, \blue{fais} pour lui toute sorte de bien.}
+
+      \tg{Deux phrases conditionnelles, protase/apodose.\\
+          \clel{Protases} : condition(s) au subjonctif\\
+          Apodose : principales à \blue{l'impératif}}
+    \end{solution}
+  \end{parts}
+
+  \subsection*{Vocabulaire}
+  \begin{multicols}{2}
+    \begin{itemize}
+      \item \begin{hieroglyph}i-q:r\end{hieroglyph}
+            \tl{ior}, \td{être excellent}, \td{prospère}
+      \item \begin{hieroglyph}b-W-nfr-f:r\end{hieroglyph}
+            \tl{bw-nfr}, \td{le bien}
+      \item \begin{hieroglyph}pXr:r-D54 n\end{hieroglyph}
+            \tl{pXr n}, \td{servir}
+      \item \begin{hieroglyph}n:U19 nw-W-100-D40\end{hieroglyph}
+            \tl{nwi} \vi{3}, \td{prendre soin}
+      \item \begin{hieroglyph}mt:t*y-Dba-Dba-Y1v\end{hieroglyph}
+            \tl{mty}, \td{être droit}
+      \item \begin{hieroglyph}rsw-s\end{hieroglyph}
+            \tl{rsy}, \td{sud}
+      \item \begin{hieroglyph}rsw-w-TAw\end{hieroglyph}
+            \tl{rsw}, \td{vent du sud}
+      \item \begin{hieroglyph}N41-s-A3\end{hieroglyph}
+            \tl{Hmsi}, \td{être assis}
+      \item \begin{hieroglyph}s-i-q:r-Y1\end{hieroglyph}
+            \tl{sior}, \td{être excellent}, \td{être habile}, 
+            \td{être prospère}
+      \item \begin{hieroglyph}s-b-sbA-i-i-t:Y1\end{hieroglyph}
+            \tl{sbAy.t}, \td{enseignement}
+      \item \begin{hieroglyph}s-i-M1-m-Y1\end{hieroglyph}
+            \tl{simA}, \td{rendre bien disposé}
+      \item \begin{hieroglyph}s-x:r-Y1v\end{hieroglyph}
+            \tl{sxr}, \td{plan}, \td{dessein}
+      \item \begin{hieroglyph}g:r-grg:Y1\end{hieroglyph}
+            \tl{grg}, \td{fonder}
+      \item \begin{hieroglyph}qd-d:nw-Y1v\end{hieroglyph}
+            \tl{od}, \td{forme}, \td{nature}, \td{caractère}
+      \item \begin{hieroglyph}D-H-w-t:n:xt-A50\end{hieroglyph}
+            \tl{+Hwty-nxt}, \td{Djéhouty\-nakht} (anthroponyme)
+    \end{itemize}
+  \end{multicols}
+
+  \question\qfmt{Translittérer et traduire les six colonnes (a et b) 
+  provenant de l'objet ci-dessous (\emph{\texten{birth tusks}})}
+
+  \begin{tikzpicture}
+    \node [anchor=south west, inner sep=0] (image) at (0,0) 
+          {\includegraphics[height=8cm]{Berlin_14207_0}} ;
+    \begin{scope}[
+      x={(image.south east)},
+      y={(image.north west)},
+      DarkRed, thick, 
+    ]
+      % \draw [gray, thin, step=0.05]
+      %       (0.00, 0.00) grid (1.00, 1.00) ;
+      % \draw [blue, ultra thin, step=0.1]
+      %       (0.00, 0.00) grid (1.00, 1.00) ;
+      % \foreach \y in {2, 4, ..., 10} {%
+      %   \node [left] at (0.00, 0.\y) {\small\y} ;
+      % } ;
+      % \foreach \x in {0.2, 0.4, ..., 1.0} {%
+      %   \node [above] at (\x, 1.00) {\small\x} ;
+      % } ;
+
+      \draw [shift={(0.28, 0.837)}, rotate=27]
+            (-0.045, -0.08) rectangle (0.045, 0.09) ;
+      \node at (0.33, 0.74) {\textbf a.} ;
+
+      \draw [shift={(0.55, 0.905)}, rotate=-5]
+            (-0.048, -0.082) rectangle (0.048, 0.09) ;
+      \node at (0.54, 0.79) {\textbf b.} ;
+
+      \node [below right] at (1.20, 1.00) 
+            {\includegraphics[height=3.8cm]{Berlin_14207_1}} ;
+      \node [below left] at (1.20, 1.00) {\textbf a.} ;
+
+      \node [above right] at (1.20, 0.00) 
+            {\includegraphics[height=3.8cm]{Berlin_14207_2}} ;
+      \node [above left] at (1.20, 0.00) {\textbf b.} ;
+    \end{scope}
+  \end{tikzpicture}\\
+  \textbf{Ivoire magique inscrit, \source{Berlin~\inv{14207}}}\\
+  \fullcite{Legge_1905}
+
+  \begin{solution}
+    ~\\
+    \red{\textbf{a.}} 
+    \tl{Dd-mdw in sAw aSA.w : \green{ii.n=n} \blue{stp=n} sA.w aSA.w 
+        Hr \%naa-ib \clel{ms.t.n} nb.t-pr \%nb-s(y)-m-a(=i) wHm-anx}
+
+    \td{Parole à dire par les nombreuses protections : 
+        \green{nous sommes venus} de sorte que \blue{nous exercions} 
+        une protection /pour exercer une protection sur Sénâib 
+        \clel{qu'a mise au monde} la maîtresse de maison Sénebséma, 
+        renouvelée de vie}
+
+    \tg{Accompli \tl[Gramm]{sDm.n=f} / subjonctif séquentiel / 
+        Forme relative (voir \Pref{prt:S3_offrande})}
+
+    \bigskip
+
+    \red{\textbf{b.}} 
+    \tl{Dd-mdw in aHA : \green{ii.n(=i)} \blue{stp=i} sA Hr \%naa-ib 
+        ms.t.n \%nb-s(y)-m-a(=i) wHm.t anx}
+
+    \td{Paroles à dire par Âha : je suis venu de sorte que j'exerce 
+        une protection/pour exercer une protection sur Sénaaib 
+        renouvelée de vie.}
+
+    \tg{Même analyse}
+  \end{solution}
+
+  \subsection*{Vocabulaire}
+  \begin{multicols}{2}
+    \begin{itemize}
+      \item \begin{hieroglyph}ii-i-D54\end{hieroglyph}
+            \tl{iii}, \td{venir}
+      \item \begin{hieroglyph}aHA-A\end{hieroglyph}
+            \tl{aHA}, \td{Âha} (génie)
+      \item \begin{hieroglyph}aSA\end{hieroglyph}
+            \tl{aSA}, \td{nombreux}
+      \item \begin{hieroglyph}wHm-t-anx\end{hieroglyph}
+            \tl{wHm.t anx}, \td{renouvelée de vie}
+      \item \begin{hieroglyph}
+              ms-s-Z5:n +l\ / +s ms-s-t-Z5:n
+            \end{hieroglyph}
+            \tl{ms.n}~/ \tl{ms.t.n}, \\
+            \td{qu'a mis au monde}~/ \td{qu'a mise au monde} \\
+            (forme relative, voir un cours prochain)
+      \item \begin{hieroglyph}V17-1:3\end{hieroglyph}
+            \tl{sAw}, \td{protections}
+      \item \begin{hieroglyph}s-t:p-stp-V16\end{hieroglyph}
+            \tl{stp-sA}, \td{protection}
+    \end{itemize}
+  \end{multicols}
+  \paragraph{Anthroponymes}
+  \begin{itemize}
+    \item \begin{hieroglyph}s-n:a:a-zS-ib-B1\end{hieroglyph}
+          (et variantes)
+          \tl{\%naa-ib}, \td{Sénâib}\\
+          (\cite[\pno332, \no14]{RK})
+    \item \begin{hieroglyph}s-n:b-s-m:a-A1\end{hieroglyph}
+          \tl{Snb-s(y)-m-a(=i)}, \td{Sé\-neb\-sy\-emai}\\
+          (\cite[334, \no21]{RK})
+  \end{itemize}
+\end{questions}
+
+
+\chapter*{Exercice~3}\label{cha:ExoS4x03}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{Stèle de Semna de l'an~8 de Sésostris~III.}
+  Translittérer, analyser les formes verbales et traduire de la 
+  ligne~1 à~3 (jusqu'à \tl{mnmn.t nb.t n(y).t nHs.w}). 
+  La suite de la stèle sera à faire plus tard.
+
+  \bigskip
+
+  \begin{center}
+    \includegraphics[width=0.65\textwidth]{Semna8}\\
+    {\smaller%
+    Dessin Obsomer (source internet, mais voir 
+    \cite[334]{Obsomer_Sesostris} pour cette figure).}
+  \end{center}
+
+  \bigskip
+
+  \begin{solution}
+    \tl{\lgn{1} TAS rsy \green{iry} m rnp.t 8 xr Hm n(y) nsw-bity 
+        \#a-kA.w-Ra di anx D.t r nHH, \lgn{2} r \green{tm rdi sn} 
+        sw \green{nHs} nb \lgn{3} m xd m Hr.t m kAi mnmn.t nb.t 
+        n(y).t \lgn{4} nHs.w}
+
+    \td{Frontière sud établie \remg{(participe passif accompli)} 
+        en l'an~8 de la majesté du roi de \HBE Khâkaourê doué de 
+        vie éternellement et à jamais, pour ne pas faire en sorte 
+        \remg{(infinitif négatif)} qu'aucun nubien ne la franchisse 
+        \remg{(subjonctif dans une complétive)}, en naviguant vers 
+        le nord, à pied, en bateau, ni aucun troupeau des Nubiens}
+  \end{solution}
+
+  \subsection*{Vocabulaire}
+  \begin{multicols}{2}
+    \begin{itemize}
+      \item \begin{hieroglyph}i-A2-q:n:xAst\end{hieroglyph}
+            \tl{Ion}, \td{Mirgissa}
+      \item \begin{hieroglyph}wp:p*t-w-A2\end{hieroglyph}
+            \tl{wpw.t}, \td{mission}
+      \item \begin{hieroglyph}wp:p-w-Z9:Hr\end{hieroglyph}
+            \tl{wpw.t-Hr}, \td{à l'exception de}
+      \item \begin{hieroglyph}r:p*1\end{hieroglyph}
+            \tl{r-pw}, \td{ou}
+      \item \begin{hieroglyph}H-H-xAst\end{hieroglyph}
+            \tl{\@H}, \td{Heh} (Semna)
+      \item \begin{hieroglyph}Hr:r-t:D54\end{hieroglyph}
+            \tl{Hrt(y)}, \td{voyager par la terre}
+      \item \begin{hieroglyph}x:d-P1\end{hieroglyph}
+            \tl{xdi}, \td{naviguer vers le nord}
+      \item \begin{hieroglyph}mn:n-mn:n:t-E1\end{hieroglyph}
+            \tl{mnmn.t}, \td{troupeau}
+      \item \begin{hieroglyph}n:nH-H-s-A13\end{hieroglyph}
+            \tl{nHs}, \td{Nubien}
+      \item \begin{hieroglyph}s-wA-A-D54\end{hieroglyph}
+            \tl{swA}, \td{passer}
+      \item \begin{hieroglyph}s-M42-n:t-Y1\end{hieroglyph}
+            \tl{swn.t}, \td{commerce}
+      \item \begin{hieroglyph}sw-w-t\end{hieroglyph}
+            \tl{swt}, \td{mais} (particule enclitique)
+      \item \begin{hieroglyph}z:n:D54\end{hieroglyph}
+            \tl{sni}, \td{franchir}
+      \item \begin{hieroglyph}k-A-i-P1\end{hieroglyph}
+            \tl{kAi}, \td{bateau}
+    \end{itemize}
+  \end{multicols}
+\end{questions}
+
+
+\chapter*{Exercice~4}\label{cha:ExoS4x04}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{Translittérer, analyser et traduire cette stèle du 
+  \source{Louvre~\inv{C\,196}}.}
+  Lignes~1 et~2, et les colonnes à droite (colonne qui longe le bord 
+  droit + les deux colonnes qui la jouxte à gauche + fin du texte.
+
+  Vous reconnaîtrez la formule d'offrande \emph{hetep-di-nésou} ou 
+  \emph{di-nesou-hetep} (reportez-vous au cours du semestre dernier), 
+  ainsi que le début du formulaire dit \emph{Appel aux vivants}, à 
+  travers lesquels les défunts interpellent les passants (qui aiment 
+  la vie et détestent la mort) et les invitent à accomplir pour eux 
+  les rituels funéraires, en échange de services. Il y a des 
+  participes et formes \tl{sDm.ty.fy}.
+
+  \begin{EnvFullwidth}
+    \includegraphics[width=\textwidth]{Louvre_C196}\\
+    \smaller%
+    \textcopyright RMN-Grand Palais (musée du Louvre) / 
+    \gens[Béatrice]{Hatala}\\
+    Source : \url{http://www.panoramadelart.com/stele-sakherty}%
+    \par%
+  \end{EnvFullwidth}
+
+  \ifprintanswers
+    \bigskip
+  \fi
+
+  \begin{solution}
+    \tl{\lgn{L1} di-nsw-Htp Wsir nb +dw nTr aA nb AbDw, di=f pr.t-xrw 
+    (m) t Hno.t iH Apd x.t nb.t nfr.t wab.t anx.t(i) \lgn{L2} nTr im 
+    n kA n(y) imAx imy-r(A) aXnw.t \%A-Xrti Dd(w)}
+
+    \td{Fasse le roi que s'apaise Osiris, seigneur de Bousiris, 
+    le grand dieu, seigneur d'Abydos, de sorte qu'il accorde 
+    \remg{(subjonctif séquentiel)} des offrandes invocatoires 
+    (consistant en) pain, bière, b{\oe}uf, volaille et toute 
+    chose parfaite et pure dont vivra \remg{(forme relative 
+    prospective)} un dieu, pour le \emph{ka} du vénérable, 
+    le chambellan Sakherti qui dit \remg{(participe)} :}
+
+    \tl{i anx.w tpy.(w)-tA \clel{swAt(y)=s\lgn{C1}n} Hr wD pn 
+        m xd m xsf \blue{m mrr=Tn} anx \blue{m msDD=Tn} m(w)t, 
+        \red{Dd=tn} :}
+
+    \td{Ô vivants qui êtes sur terre \clel{qui passerez} 
+        \remg{(forme \tl[Gramm]{sDm.ty=fy})} près de cette stèle 
+        en naviguant vers le nord, en naviguant vers le sud, alors 
+        que \blue{vous aimez} \remg{(forme \tl[Gramm]{mrr=f} dans 
+        une circonstancielle véritable)} la vie, alors que 
+        \blue{vous détestez} \remg{(idem)} la mort, \red{vous 
+        direz} \remg{(subjonctif verbe principal)} :}
+
+    \tl{xA t Hnq.t xA iH Apd n \lgn{C2} imA xr nTr aA nb imn.t tn 
+        nfr.t xrp pr-HD.wy \clel{irr mrr.t} r(m)T \clel{Hss.t} nTr.w 
+        \%A-Xrti \clel{Dd(w)} :}
+
+    \td{Millier de pain, de bière, millier de bovins, de volailles 
+        pour le vénérable auprès du grand dieu, le seigneur de ce bel 
+        occident, le chef du trésor \clel{qui fait} \remg{(participe 
+        inaccompli actif)}, \clel{ce que les hommes aiment} 
+        \remg{(forme relative inaccomplie)} et \clel{ce que les 
+        dieux louent} \remg{(forme relative inaccomplie)}, Sakherti 
+        \clel{qui dit} \remg{(participe)} :}
+
+    \tl{\blue{iw rdi.n=i} mw n ib, Hbs n HAy, nn wn ir.n(=i) 
+        \lgn{C3} r rmT}
+
+    \td{\blue{J'ai donné} \remg{(accompli \tl[Gramm]{sDm.n=f} 
+        initial)} de l'eau à celui qui avait soif, un vêtement à 
+        celui qui était nu, sans faire quoi que ce soit contre les 
+        hommes \remg{(\litt sans qu'existe le fait que j'ai agi contre 
+        les hommes, avec un \tl[Gramm]{sDm.n=f} accompli en fonction 
+        nominale non emphatique)}}
+  \end{solution}
+
+  \subsection*{Vocabulaire}
+  \begin{multicols}{2}
+    \begin{itemize}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{imy-r(A) aXnwt}, \td{chambellan}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{xrp pr.wi-HD}, \td{chef du trésor}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{\%A-Xrti}, \td{Sakherti} \parencite[284, n.~7]{RK}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{ib}, \td{soif}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{wD}, \td{stèle}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{swA}, \td{passer}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{HAw}, \tl{HAy}, \td{celui qui est nu}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{Hbs}, \td{habit}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{xdi}, \td{naviguer vers le nord}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{xsfi}, \td{naviguer vers le sud}
+    \end{itemize}
+  \end{multicols}
+\end{questions}
+
+
+\chapter*{Exercice~5}\label{cha:ExoS4x05}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{Translittérer, analyser et traduire}
+
+  \begin{parts}
+    \part extrait de la grande inscription de la tombe de 
+    Khnoumhotep~II à Béni Hassan
+
+    \includegraphics[scale=0.75]{KhnoumhotepII_2}
+    \includegraphics[scale=0.75]{KhnoumhotepII_1}
+
+    \begin{solution}
+    \end{solution}
+    
+    \part
+    \begin{hieroglyph}
+      r:S-D19-A2-w-\!y:. Dd'-d:y n:f M22-M22
+    \end{hieroglyph}\\
+    \infos{\cite[exercice~\textsc{xxvi}.1]{Gardiner}}
+
+    \begin{solution}
+    \end{solution}
+  \end{parts}
+
+  \subsection*{Vocabulaire}
+  \begin{multicols}{2}
+    \begin{itemize}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{mnx}, \td{efficace}, \td{efficient}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{srwD}, \td{renforcer}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{tpy.w-a}, \td{ceux qui viennent avant}, 
+            \td{les ancêtres}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{sA NHri \$Xnm-Htp}, \td{le fils de Neheri, Khnoumhotep}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{rSw}, \td{se réjouir}, \td{être réjoui, content}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{}, \td{}
+    \end{itemize}
+  \end{multicols}
+\end{questions}
+
+
+\chapter*{Exercice~6}\label{cha:ExoS4x06}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{Finir la stèle de Sakherti} (\Cref{cha:ExoS4x04}), en 
+  particulier les deux colonnes plus petites et la portion de texte en 
+  colonne hors colonne.
+
+  \begin{solution}
+  \end{solution}
+
+  \question\qfmt{Stèle du \emph{haty-â} (prince local) Nakht 
+  (\source{BM~\inv{EA\,143}})}
+  Translittérer, analyser et traduire la totalité
+
+  \begin{solution}
+  \end{solution}
+
+  \subsection*{Vocabulaire}
+  \begin{multicols}{2}
+    \begin{itemize}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{ini} \va{}, \td{apporter}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{m Htp-di-nsw}, \td{en tant que \emph{hotep-di-nésou}}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{mAa.t-xrw}, \td{justifiée de voix}, \td{juste de voix}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{mw.t}, \td{mère}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{mna.t}, \td{nourrice}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{nb.t-pr}, \td{maîtresse de maison}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{Hâpy}, \td{la crue}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{Hm.t}, \td{épouse}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{snTr}, \td{encens}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{sty}, \td{odeur}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{omA} \vl{3}, \td{créer}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{TAw (n(y) anx)}, \td{le souffle (de vie)}
+    \end{itemize}
+    \paragraph{Noms des personnages féminins}
+    \begin{itemize}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{}, \td{Nakhti}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{}, \td{Isis}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{}, \td{Nébout}
+    \end{itemize}
+  \end{multicols}
+\end{questions}
+
+
+\chapter*{Exercice~7}\label{cha:ExoS4x07}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{Translittérer, analyser et traduire}
+
+  \begin{parts}
+    \part
+    \begin{hieroglyph}
+      i-r ntyt nb:t m zS-Y1 Hr:1 pA-A S:f:d-w-V12 !
+      di':A1 sDm-m T:n:3 s-t
+    \end{hieroglyph}
+
+    \begin{solution}
+    \end{solution}
+    
+    \part
+    \begin{hieroglyph}
+      ink nTr-A40 Sps-s jwty-G37 r:x-Y1v nTr-1:3 r:n:f
+    \end{hieroglyph}
+
+    \begin{solution}
+    \end{solution}
+  \end{parts}
+
+  \subsection*{Vocabulaire}
+  \begin{multicols}{2}
+    \begin{itemize}
+      \item \begin{hieroglyph}S:f:d-V12\end{hieroglyph}
+            \tl{Sfd}, \td{papyrus}, \td{rouleau}
+    \end{itemize}
+  \end{multicols}
+\end{questions}
+
+
+\chapter*{Exercice~8}\label{cha:ExoS4x08}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{Translittérer, analyser et traduire}
+
+  \begin{parts}
+    \part
+    \begin{hieroglyph}
+      
+    \end{hieroglyph}
+    \infos{\cite[§\,227]{Gardiner}}
+
+    \begin{solution}
+    \end{solution}
+    
+    \part
+    \begin{hieroglyph}
+      
+    \end{hieroglyph}
+
+    \begin{solution}
+    \end{solution}
+    
+    \part
+    \TS~335, \CTx{IV}, 244\,a
+
+    \includegraphics[width=1cm]{CT4_335_244a}
+
+    \begin{solution}
+    \end{solution}
+  \end{parts}
+
+  \subsection*{Vocabulaire}
+  \begin{multicols}{2}
+    \begin{itemize}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{IaHmsw}, \td{Iâhmès} (anthroponyme)
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{MH.t-wr.t}, \td{Mehet-ouret} (vache mère du soleil)
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{Hb}, \td{fête}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{xpdw}, \td{partie arrière}, \td{derrière}, 
+            \td{arrière-train}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{spXr}, \td{copier}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{}, \td{document}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{sDfA}, \td{approvisionner en nourriture}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{tr}, \td{saison}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{m sf}, \td{hier}
+    \end{itemize}
+  \end{multicols}
+\end{questions}
+
+
+\chapter*{Exercice~9}\label{cha:ExoS4x09}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{Translittérer, analyser et traduire}
+
+  \begin{parts}
+    \part
+    \begin{hieroglyph}
+      jw k sxm-m-D40-ti-i m-mr:r-r:t-A2-3:k
+    \end{hieroglyph}
+    \infos{d'après \cite[cours~24]{Allen}}
+
+    \begin{solution}
+    \end{solution}
+
+    \part
+    Dans un hymne à un roi : deux phrases, le roi est comparé au 
+    soleil.
+
+    \begin{hieroglyph}
+      r:a:ra*1 p-w U2:ir-mA:ir-A-A-w m s-t:sti-w-t-N8:f !
+      s-HD-w-N8 sw-w tA:tA r i-t:n-ra:1
+    \end{hieroglyph}
+    \infos{d'après \cite[cours~23]{Allen}}
+
+    \begin{solution}
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}
+      n:kA:n nty:nb r:n:f Hr:1 wD-w-O26 p:n
+    \end{hieroglyph}
+
+    \begin{solution}
+    \end{solution}
+  \end{parts}
+
+  \subsection*{Vocabulaire}
+  \begin{multicols}{2}
+    \begin{itemize}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{wD}, \td{stèle}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{itn}, \td{disque solaire}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{sHD}, \td{illuminer}, \td{éclaire}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{sxm}, \td{être puissant}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{st.wt}, \td{rayons (du soleil)}
+    \end{itemize}
+  \end{multicols}
+
+  \question\qfmt{\source{Stèle de Semna}, lignes~3--5}
+
+  \td{Je suis un roi qui parle et qui agit}
+  \tl{ink n(y)-sw.t Ddw irrw}
+  incise
+  suite de \tl{ink n(y)-sw.t}
+
+  \subsection*{Vocabulaire}
+  \begin{multicols}{2}
+    \begin{itemize}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{kAi}, \td{songer}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{Ad}, \td{être agressif}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{sXmw}, \td{impétueux}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{mar}, \td{succès}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{md.t}, \td{parole}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{sDr}, \td{dormir}
+    \end{itemize}
+  \end{multicols}
+\end{questions}
+
+
+\chapter*{Exercice~10}\label{cha:ExoS4x10}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{Translittérer, analyser et traduire}
+
+  \begin{parts}
+    \part
+    \source{Bol de Hou} (lettre au mort, \PPI)
+
+    \begin{solution}
+    \end{solution}
+    
+    \part
+    \infos{\cite[§\,373]{Gardiner}}
+    Principe organisant les relations vivants--esprits des 
+    morts \emph{akhou}.\\
+    Le \tl{n} entre crochets en en trop (dittographie).
+
+    \includegraphics[width=1.5cm]{Hou_2}
+    \includegraphics[width=1.5cm]{Hou_1}
+
+    \begin{solution}
+    \end{solution}
+  \end{parts}
+
+  \subsection*{Vocabulaire}
+  \begin{multicols}{2}
+    \begin{itemize}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            graphie du verbe \tl{rdi}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{sbi}, \td{intercéder}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{tpy-tA}, \td{celui qui est sur terre} (le survivant)
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{}, \td{}
+    \end{itemize}
+  \end{multicols}
+
+  \question\qfmt{Stèle de Semna, lignes~5--6}
+
+  \td{Je suis un roi} \tl{ink n(y)-sw.t}
+
+  \subsection*{Vocabulaire}
+  \begin{multicols}{2}
+    \begin{itemize}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{aha}, \td{se dresser}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{pH}, \td{atteindre}, ici \td{attaquer}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{xmt}, \td{se préoccuper de}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{xry}, \td{ennemi}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{sf}, \td{être doux}, \td{indulgent} 
+            (déterminatif \MdC{D19})
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{sfn}, \td{être clément}
+            (déterminatif \MdC{D19})
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{twA}, \td{un inférieur}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{gr}, \td{se taire}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{}, \td{}
+    \end{itemize}
+  \end{multicols}
+\end{questions}

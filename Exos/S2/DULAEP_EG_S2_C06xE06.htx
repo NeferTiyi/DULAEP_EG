@@ -35,7 +35,8 @@
     et traduire la transcription hiéroglyphique
 
     \begin{center}
-      \includegraphics[width=6.2cm]{Illahoun_hymne_SesostrisIII}\\
+      \includegraphics[width=6.2cm]
+                      {Illahoun_hymne_SesostrisIII_extrait}\\
       \adjustbox{reflect, width=6cm}{%
         \begin{hieroglyph}wr-r-w-y nb:A1*n niwt:t*1 f\end{hieroglyph}%
       }
