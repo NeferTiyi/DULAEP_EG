@@ -2,7 +2,7 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \part{Les circonstancielles véritables (1)}
-\label{pt:S3_circonst_vrai}
+\label{prt:S3_circonst_vrai}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 Les propositions subordonnées circonstancielles peuvent être exprimées 
@@ -10,7 +10,8 @@ de deux manières :
 \begin{itemize}
   \item par la juxtaposition d'une proposition à la proposition 
         principale (proposition dite en fonction de circonstancielle, 
-        les \frquote{circonstancielles virtuelles} déjà étudiées).
+        les \frquote{circonstancielles virtuelles}, 
+        voir \Pref{prt:S3_fct_circ}).
   \item par des propositions subordonnées introduites par une 
         \textbf{préposition-conjonction} 
         (les \frquote{circonstancielles réelles}) ;
@@ -20,7 +21,7 @@ C'est sur ces dernières que nous allons nous arrêter pour le dernier
 cours du semestre.
 
 
-\chapter{Les circonstancielles véritables , première approche}
+\chapter{Les circonstancielles véritables, première approche}
 % =====================================================================
 
 Les propositions subordonnées circonstancielles 
@@ -77,7 +78,6 @@ l'aboutissement (\tl{r}).
 Après ces conjonctions, on trouve diverses formes suffixales qui 
 permettent d'exprimer un accompli, un non-accompli ou une éventualité.
 
-
 \begin{enumerate}
   \item \textbf{Accompli :}
         \begin{itemize}
@@ -93,7 +93,6 @@ permettent d'exprimer un accompli, un non-accompli ou une éventualité.
           \item prospectif ou subjonctif
         \end{itemize}
 \end{enumerate}
-
 
 \section[Conjonction \tl{m}]
         {Conjonction \begin{hieroglyph}m\end{hieroglyph} \tl{m}}
@@ -425,7 +424,8 @@ lorsqu'elle est suivie de la forme substantive \tl{mrr=f}.
 % =====================================================================
 
 Il existe, comme on l'a vu, des séquentielles avec cette valeur 
-(séquentielles consécutives) avec un subjonctif.
+(séquentielles consécutives, voir \Pref{prt:S3_prospectif}, 
+\Sref{sec:S3_prosp_sequ}) avec un subjonctif.
 
 \begin{example}[title={}]
   \begin{hieroglyph}
@@ -468,13 +468,13 @@ subjonctif ou infinitif.
       parle plus.}
 \end{example}
 
-\paragraph{La conjonction \tl{n-mrw.t}, \td{dans le souhait de /que},} 
-suivie de prospectif ou de subjonctif, voire d'une \PPP précédée d'un 
-convertisseur, éventuellement de l'infinitif.
+\paragraph{La conjonction \tl{n-mrw.t}, \td{dans le souhait de~/ 
+que},} suivie de prospectif ou de subjonctif, voire d'une \PPP 
+précédée d'un convertisseur, éventuellement de l'infinitif.
 
 \begin{example}[title={}]
   \begin{hieroglyph}
-    m-mr:r-w-\!\!t\s1:.-A2 wn:n f Hr-1 Dd'
+    n-mr:r-w-\!\!t\s1:.-A2 wn:n f Hr-1 Dd'
   \end{hieroglyph}
 
   \tl{n-mrw.t wn=f Hr Dd}

@@ -1,0 +1,231 @@
+%!TEX root = DULAEP_EG.htx
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\part{L'interrogation}
+\label{prt:S4_interro}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\chapter{Introduction}
+% =====================================================================
+
+\noindent%
+\cite[chap.~interro ???]{MW}
+
+Lors du dernier cours du \titleref{bk:semestre1}, nous avons 
+rapidement abordé la phrase interrogative. Dans son dernier cours, 
+nous allons revoir ces éléments à la lumière des structures abordées 
+cette année.
+
+Pour rappel, on distingue les \textbf{interrogations globales} des 
+\textbf{interrogations partielles}. Les interrogations globales 
+sont des questions auxquelles on répond par \frquote{oui} ou par 
+\frquote{non}. Les interrogations partielles sont des questions plus 
+précises, portant sur un élément de réponse.
+
+
+\section{L'interrogation globale}
+% ---------------------------------------------------------------------
+\textbf{L'interrogation globale} se forme avec un auxiliaire 
+d'énonciation spécifique :\\
+\begin{hieroglyph}i-n-jw\end{hieroglyph} 
+\tl{in} ou \tl{in-iw}, \td{est-ce que ?}.
+
+\section{L'interrogation partielle}
+% ---------------------------------------------------------------------
+\textbf{L'interrogation partielle} se forme avec un pronom ou un 
+adverbe interrogatif, placé à la place adéquate dans la phrase. 
+Voici quelques pronoms/adverbes interrogatifs:
+\begin{multicols}{2}
+  \begin{itemize}
+    \item \begin{hieroglyph}i-x:Y1\end{hieroglyph}
+          \tl{ix}, \td{quoi ?}
+    \item \begin{hieroglyph}i-Ss-z:t-A2\end{hieroglyph}
+          \tl{iSs.t}, \td{quoi ?}
+    \item \begin{hieroglyph}p*t:r-tr\end{hieroglyph}
+          \tl{ptr}, \td{qui ?}, \td{quel ?}, \td{quoi ?}
+    \item \begin{hieroglyph}m:a\end{hieroglyph}
+          \tl{mi}, \td{qui ?}, \td{quoi ?}
+    \item \begin{hieroglyph}zb-i-i-Y1\end{hieroglyph}
+          \tl{sy}, \td{qui ?}, \td{quel ?}, \td{quoi ?}
+    \item \begin{hieroglyph}t:n-nw-w-T14-pA'\end{hieroglyph}
+          \tl{Tnw}, \td{où ?}
+  \end{itemize}
+\end{multicols}
+
+À ces mots interrogatifs, on peut ajouter 
+\begin{hieroglyph}n-m:a\end{hieroglyph} \tl{n-mi}, \td{qui}, 
+qui est en fait le pronom \tl{mi} précédé de l'élément de phrase 
+coupée \tl{(i)n} : \tl{(i)n-mi}, \td{c'est qui qui\dots}
+
+\section{L'interrogation oratoire}
+% ---------------------------------------------------------------------
+À cette distinction entre interrogation partielle et 
+interrogation globale, on peut ajouter une troisième catégorie, 
+\textbf{l'interrogation oratoire}, c'est-à-dire une interrogation de 
+pure forme qui n'appelle pas vraiment de réponse mais est utilisée 
+dans une stratégie discursive. En égyptien ancien, la question
+rhétorique peut se signaler par des particules enclitiques telles 
+que \begin{hieroglyph}r:f\end{hieroglyph} \tl{rf} ou 
+\begin{hieroglyph}t:r-tr\end{hieroglyph} \tl{tr} ou encore 
+\begin{hieroglyph}r:r +l / +s r:r-i\end{hieroglyph} 
+\tl{rr}~/ \tl{rri}, mais cela n'est pas obligatoire. 
+Le contexte permet bien évidemment de comprendre la nature oratoire 
+d'une question.
+
+
+\chapter{Questions globales et formes verbales}
+% =====================================================================
+
+Les phrases verbales sont, comme les phrases non verbales, 
+susceptibles d'être mises à la forme interrogative.
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    n-jw kA-1-E1 mr:r-A2-f aHA-A24
+  \end{hieroglyph}
+
+  \tl{(i)n-iw \blue{kA mr=f} aHA ?}
+  \infos{\cite[§\,58.2]{GM1}, \CdS B\,123}
+
+  \td{Un taureau aime-t-il se battre ?}
+
+  \tg{Phrase interrogative avec un \blue{aoriste}}
+\end{example}
+
+Les constructions emphatiques sont aussi susceptibles d'être 
+transformées en interrogation :
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    i-n r:f wr:r-S:ra A1 r:f
+  \end{hieroglyph}
+
+  \tl{in rf \clel{wrS=i} r=f ?}
+  \infos{\cite[§\,58.2]{GM1}}
+
+  \td{Est-ce donc à cela que je vais passer la journée ?}
+
+  \tg{Construction emphatique avec un une \clel{forme nominale 
+      prospective}}
+
+  \bigskip
+
+  \begin{minipage}[b]{1cm}
+    \centering
+    \includegraphics[width=0.8cm]{Qaou_2}
+  \end{minipage}%
+  \begin{minipage}[b]{1.5cm}
+    \centering
+    \adjustbox{reflect, valign=B}{%
+      \EnColonne[1.2\Htm]{%
+        \begin{hieroglyph}
+          i*n-ir-r-t r i*A1 r-gs*1-k
+        \end{hieroglyph}%
+      }%
+    }%
+  \end{minipage}%
+  \hfill%
+  \begin{minipage}[b]{\textwidth-3cm}
+    \tl{in \clel{irr=t(w) r=i} \blue{r-gs=k} ?}
+    \infos{\source{Bol de Qâou}, intérieur (lettre au mort)}
+
+    \smallskip
+
+    \td{Est-ce \blue{à côté de toi} \clel{qu'on agit contre moi} ?}
+
+    \smallskip
+
+    \tg{Construction emphatique à la forme interrogative avec un 
+        \clel{\tl[ClefCol]{mrr=f} nominal} sujet et un \blue{prédicat 
+        adverbial}.}
+  \end{minipage}%
+\end{example}
+
+
+\chapter{Questions partielles et formes verbales}
+% =====================================================================
+
+Les questions partielles peuvent évidemment se rencontrer avec des 
+phrases verbales :
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    ir-i-i-A1 m:a
+  \end{hieroglyph}
+
+  \tl{\clel{iry=i} mi ?}
+  \infos{\cite[19.12]{Allen}}
+
+  \td{Que dois-je faire ?}
+
+  \tg{\clel{Subjonctif initial} dans phrase interrogative}
+\end{example}
+
+Ou encore des phrases avec des constructions emphatiques :
+
+\begin{example}[title={}]
+  \begin{hieroglyph}
+    di':di' t:n:3 n:f Hr-1 m:a
+  \end{hieroglyph}
+
+  \tl{\clel{didi=tn n=f} \blue{Hr mi} ?}
+  \infos{\cite[25.8]{Allen}}
+
+  \td{Le fait que vous lui donnez est pour quoi ?}\\
+  \td{Pourquoi lui donnez-vous ?}
+
+  \tg{\tl[ClefCol]{mrr=f} dans une construction emphatique et 
+      prédicat de nature adverbiale avec le \blue{pronom interrogatif}}
+
+  \bigskip
+
+
+  \begin{minipage}[b]{1.5cm}
+    \centering
+    \includegraphics[width=1.3cm]{Qaou_1}
+  \end{minipage}%
+  \begin{minipage}[b]{1.5cm}
+    \centering
+    \adjustbox{reflect, valign=B}{%
+      \EnColonne[1.2\Htm]{%
+        \begin{hieroglyph}
+          i*(n:\!m\s1)-a r-f s*t-sti-f n-T mw
+        \end{hieroglyph}%
+      }%
+    }%
+  \end{minipage}%
+  \hfill%
+  \begin{minipage}[b]{\textwidth-3.5cm}
+    \tl{in-mi rf \clel{st=f} n=T mw ?}
+    \infos{\source{Bol de Qâou}, extérieur (lettre au mort)}
+
+    \medskip
+
+    \td{Qui donc te versera une libation ?\\
+        \litt C'est qui qui te versera une libation ?}
+
+    \medskip
+
+    \tg{interrogation de phrase coupée avec un 
+        \clel{\tl[ClefCol]{sDm=f} prospectif}}
+  \end{minipage}%
+\end{example}
+
+\bigskip
+
+\begin{exercice}[before upper={\centering}]
+  Faire \textbf{l'exercice~12}.
+\end{exercice}
+
+\bigskip
+
+\filet
+
+Nous avons vu le programme d'égyptien classique. Il vous reste 
+maintenant à pratiquer en traduisant des textes et, en cas de 
+difficultés, à consulter les manuels de grammaire, pour approfondir 
+les différents points.
+
+\begin{center}
+  \scalebox{2}{\begin{hieroglyph}nfr-f:r-p-W\end{hieroglyph}}
+\end{center}

@@ -39,7 +39,7 @@ Nous avons aussi étudié trois formes verbales :
 \begin{itemize}
   \item l'infinitif (\titleref{bk:semestre1}, \Pref{prt:ppp}) ;
   \item le parfait ancien (\titleref{bk:semestre2}, 
-        \Pref{prt:parfait}) ;
+        \Pref{prt:S2_parfait}) ;
   \item et l'impératif (\titleref{bk:semestre2}, \Pref{prt:imperatif}).
 \end{itemize}
 
@@ -117,6 +117,7 @@ lire la réponse.
 
 
 \chapter{Les auxiliaires de la narration \tl{aHa.n} et \tl{wn.in}}
+\label{cha:S2_narration}
 % =====================================================================
 
 L'auxiliaire narratif 

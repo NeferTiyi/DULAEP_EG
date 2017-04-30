@@ -73,7 +73,7 @@
   S4/DULAEP_EG_S4_C09,
   S4/DULAEP_EG_S4_C10,
   S4/DULAEP_EG_S4_C11,
-  % S4/DULAEP_EG_S4_C12,
+  S4/DULAEP_EG_S4_C12,
   % ========================== Hiératique ========================== %
   Hiera/DULAEP_EG_Hieratique,
   Hiera/DULAEP_EG_Hieratique_lecture_1,
@@ -408,6 +408,7 @@
 
 \cleardoublepage
 \book{Semestre~1}\label{bk:semestre1}
+\cleardoublepage
 \include{S1/DULAEP_EG_S1_C00}
 \include{S1/DULAEP_EG_S1_C01}
 \include{S1/DULAEP_EG_S1_C02}
@@ -424,6 +425,7 @@
 
 \cleardoublepage
 \book{Semestre~2}\label{bk:semestre2}
+\cleardoublepage
 \include{S2/DULAEP_EG_S2_C01}
 \include{S2/DULAEP_EG_S2_C02}
 \include{S2/DULAEP_EG_S2_C03}
@@ -439,6 +441,7 @@
 
 \cleardoublepage
 \book{Semestre~3}\label{bk:semestre3}
+\cleardoublepage
 \include{S3/DULAEP_EG_S3_C00}
 \include{S3/DULAEP_EG_S3_C01}
 \include{S3/DULAEP_EG_S3_C02}
@@ -455,6 +458,7 @@
 
 \cleardoublepage
 \book{Semestre~4}\label{bk:semestre4}
+\cleardoublepage
 \include{S4/DULAEP_EG_S4_C00}
 \include{S4/DULAEP_EG_S4_C01}
 \include{S4/DULAEP_EG_S4_C02}
@@ -467,7 +471,7 @@
 \include{S4/DULAEP_EG_S4_C09}
 \include{S4/DULAEP_EG_S4_C10}
 \include{S4/DULAEP_EG_S4_C11}
-% \include{S4/DULAEP_EG_S4_C12}
+\include{S4/DULAEP_EG_S4_C12}
 
 % \phantomsection
 % \addcontentsline{toc}{book}{Apprentissage du hiératique}
@@ -475,6 +479,7 @@
 \cleardoublepage
 \book{Apprentissage du hiératique} %\label{bk:semestre3}
 \markboth{Apprentissage du hiératique}{}
+\cleardoublepage
 \include{Hiera/DULAEP_EG_Hieratique}
 \include{Hiera/DULAEP_EG_Hieratique_lecture_1}
 \include{Hiera/DULAEP_EG_Hieratique_lecture_2}
@@ -487,6 +492,7 @@
 \markboth{\appendixpagename}{}
 % \appendixpage
 
+\cleardoublepage
 \include{ANX/DULAEP_EG_Anx_Uniliteres}
 \include{ANX/DULAEP_EG_Anx_Prepositions}
 \include{ANX/DULAEP_EG_Anx_Phonologie}
@@ -504,7 +510,8 @@
 \phantomsection
 \addcontentsline{toc}{book}{Tables et bibliographie}
 \book*{Tables et bibliographie}
-\newpage
+\cleardoublepage
+% \newpage
 \listoftables
 \listoffigures
 

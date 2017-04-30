@@ -1,7 +1,7 @@
 %!TEX root = DULAEP_EG.htx
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\part{Formes séquentielles contingentes}
+\part{Formes séquentielles contingentes}\label{prt:S4_sequ_conting}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 Pour clore ce grand volet sur les formes de la conjugaison suffixale, 
@@ -156,7 +156,7 @@ autonomes, et celles qui sont toujours séquentielles.
 % ---------------------------------------------------------------------
 \begin{itemize}
   \item \tl{sDm=f} perfectif (voir \Pref{prt:S3_perfectif})
-  \item le parfait ancien (voir \Pref{prt:parfait}, 
+  \item le parfait ancien (voir \Pref{prt:S2_parfait}, 
         \titleref{bk:semestre2})
   \item \tl{iw sDm.n=f} (voir \Pref{prt:S3_accompli})
 \end{itemize}
