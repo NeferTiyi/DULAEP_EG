@@ -55,9 +55,9 @@
   \end{solution}
 \end{questions}
 
-\subsection*{Vocabulaire}
 \begin{multicols}{2}
-  \begin{itemize}
+\subsection*{Vocabulaire}
+  \begin{itemize}%[nosep]
     \item \begin{hieroglyph}
             m:r V16\s1:.-\!\!\!.:V16\s1-\!\!\!V16\s1:.
           \end{hieroglyph} 

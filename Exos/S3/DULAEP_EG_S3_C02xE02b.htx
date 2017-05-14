@@ -11,8 +11,9 @@
   \begin{parts}
     \part
     \begin{hieroglyph}
-      jw r*1:n z:\!A1\s1*1 n-N42-m
-    \end{hieroglyph}\\
+      jw r*1:n z:\!A1\s1*1 n-N42-m D40=f sw-w
+      md-d-A2-f di':f TA-A-m-S28 n:f
+    \end{hieroglyph}
     \infos{\CdN}
 
     \begin{solution}
@@ -21,21 +22,20 @@
       \td{La bouche d'un homme le sauve, alors que sa parole place un 
           voile pour lui.}
 
-      \tl{nHm=f} : aoriste en position initiale
-
-      \tl{di=f} : aoriste en position séquentielle valeur 
-      circonstancielle virtuelle
+      \tg{\tlg{nHm=f} : aoriste en position initiale\\
+          \tlg{di=f} : aoriste en position séquentielle valeur 
+          circonstancielle virtuelle}
     \end{solution}
 
     \part
     \begin{hieroglyph}
-      jw gm
-    \end{hieroglyph}\\
+      jw gm-m-t-s m:a Hm-t-1-B1:3 Hr-1 b-n:nw-t-inr:3
+    \end{hieroglyph}
     \infos{\source{Sagesse de Ptahhotep}}
 
     \begin{notabene}
-      Le sage (Ptahhotep) évoque « \td{elle} » (cf.~pronom suffixe 
-      féminin) = « \td{la parole sensée} ».
+      Le sage (Ptahhotep) évoque \frquote{\td{elle}} (cf.~pronom 
+      suffixe féminin) = \frquote{\td{la parole sensée}}.
     \end{notabene}
 
     \begin{solution}
@@ -43,12 +43,12 @@
 
       \td{On la trouve chez les esclaves à la meule.}
 
-      Verbe à l'aoriste passif, autonome.
+      \tg{Verbe à l'aoriste passif, autonome.}
     \end{solution}
 
     \part
     \begin{hieroglyph}
-      n'
+      n' Dd'-n-i-A1 n' wHm-m-\!n-i-A1 n nTr-A40:3
     \end{hieroglyph}
 
     \begin{solution}
@@ -56,12 +56,12 @@
 
       \td{Je ne peux parler.} ; \td{je ne peux répéter.}
 
-      Deux aoristes négatifs
+      \tg{Deux aoristes négatifs.}
     \end{solution}
 
     \part
     \begin{hieroglyph}
-      jw
+      jw-f Hr-1 aHA-A-A24
     \end{hieroglyph}
 
     \begin{solution}
@@ -69,7 +69,7 @@
 
       \td{Il est en train de combattre.}
 
-      \PPP \tl{Hr} + infinitif = progressif
+      \tg{\PPP \tlg{Hr} + infinitif = progressif}
     \end{solution}
   \end{parts}
 \end{questions}
@@ -77,20 +77,20 @@
 \subsection*{Vocabulaire}
 \begin{multicols}{2}
   \begin{itemize}
-    \item \begin{hieroglyph}\end{hieroglyph}
+    \item \begin{hieroglyph}wHm-m\end{hieroglyph}
           \tl{wHm}, \td{répéter}, \td{renouveler}
-    \item \begin{hieroglyph}\end{hieroglyph}
+    \item \begin{hieroglyph}b-n:nw-t-inr:3\end{hieroglyph}
           \tl{bn.wt}, \td{meule}
-    \item \begin{hieroglyph}\end{hieroglyph}
+    \item \begin{hieroglyph}m:a\end{hieroglyph}
           \tl{m-a}, préposition \td{avec}, \td{en possession de}, 
           \td{de la part de}
-    \item \begin{hieroglyph}\end{hieroglyph}
+    \item \begin{hieroglyph}Hm-t-B1\end{hieroglyph}
           \tl{Hm.t}, \td{esclave}, \td{servante}
-    \item \begin{hieroglyph}\end{hieroglyph}
+    \item \begin{hieroglyph}gm-m\end{hieroglyph}
           \tl{gmi}, \td{trouver}
-    \item \begin{hieroglyph}\end{hieroglyph}
+    \item \begin{hieroglyph}TA-A-m-S28\end{hieroglyph}
           \tl{TAm}, \td{voile}
-    \item \begin{hieroglyph}\end{hieroglyph}
+    \item \begin{hieroglyph}Dd'\end{hieroglyph}
           \tl{Dd}, \td{dire}
   \end{itemize}
 \end{multicols}

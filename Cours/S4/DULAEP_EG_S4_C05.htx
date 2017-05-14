@@ -1,7 +1,7 @@
 %!TEX root = DULAEP_EG.htx
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\part{La syntaxe du participe passif}
+\part{Participe passif : syntaxe}
 \label{prt:S4_prtcp_pass}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -159,7 +159,7 @@ La même idée peut donc être exprimée par un participe passif en
 \textbf{construction indirecte}.
 
 Par exemple :\quad%
-\td{\red{l'homme} écouté l'enseignement \red{\uline{de lui}}}%
+\td{\red{l'homme} écouté l'enseignement \red{\ul{de lui}}}%
 \quad=\quad%
 \tl{\red{s} sDm sbAy.t\red{=f}}
 
@@ -173,14 +173,14 @@ qui renvoie au substantif.
 \noindent%
 \begin{tabularx}{\textwidth}{lX}
     Français : &
-    \td{\red{l'homme} \red{\uline{à qui}} le tribunal reproche 
+    \td{\red{l'homme} \red{\ul{à qui}} le tribunal reproche 
     une faute}.\newline
     \smaller Antécédent / pronom relatif indirect / sujet logique / 
     verbe / objet
   \tabularnewline
     Égyptien : &
-    \td{\red{l'homme} reproché une faute \red{\uline{de lui}} par 
-    le tribunal}.\newline
+    \td{\red{l'homme} reproché une faute \red{\ul{de lui}} par le 
+    tribunal}.\newline
     \smaller Antécédent / participe / objet logique / pronom de 
     rappel / agent logique
   \tabularnewline

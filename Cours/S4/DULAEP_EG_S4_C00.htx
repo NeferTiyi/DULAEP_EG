@@ -1,8 +1,11 @@
 %!TEX root = DULAEP_EG.htx
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\part*{Pour se remettre dans le bain}
-\markboth{Pour se remettre dans le bain}{}
+\renewcommand{\sectitre}{Pour se remettre dans le bain}
+\phantomsection
+\addcontentsline{toc}{part}{\sectitre}
+\part*{\sectitre}
+\markboth{\sectitre}{}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 Tout d'abord :

@@ -19,66 +19,75 @@
   \begin{solution}
     La disposition des signes est le premier point important. 
     Observez qu'à chaque face vous avez trois colonnes dans le même 
-    sens et une 4\ieme en sens opposé. Ci-dessous quatre colonnes 
-    surmontées par la voûte céleste : \lgn{B1} à \lgn{B3} se lisent 
-    de gauche à droite et \lgn{B5} de droite à gauche. Le dernier 
-    cadrat de chacune des colonnes \lgn{B1-B3} se lit en ligne, 
-    comme en facteur commun aux trois colonnes.
+    sens et une 4\ieme en sens opposé.
 
     \bigskip
 
-    \lgn{B1} \tl{KA-nxt mry-mAa.t} 
-    \lgn{B2} \tl{nsw-bity nb tA.wy Wsr-mAa.t-Ra stp.n-Ra} 
-    \lgn{B3} \tl{sA Ra nb xa.w Ra-ms-sw mry-imn} --- 
-    cadrats inférieurs \lgn{B1-B3} : \tl{di anx mi Ra D.t}
+    Côté gauche, quatre colonnes surmontées par la voûte céleste : 
+    \lgn[enlarge bottom by=0ex]{B1} à \lgn[enlarge bottom by=0ex]{B3} 
+    se lisent de gauche à droite et \lgn[enlarge bottom by=0ex]{B5} 
+    de droite à gauche. Le dernier cadrat de chacune des colonnes 
+    \lgn[enlarge bottom by=0ex]{B1-B3} se lit en ligne, comme en 
+    facteur commun aux trois colonnes.
 
-    \lgn{B1} \td{Kanakht (taureau-puissant) méry-maât (aimé de maât)} 
-    \lgn{B2} \td{le roi de \HBE, seigneur du double pays Ouser-maât-Rê 
-    setepenrê (qu'a élu Rê)} 
-    \lgn{B3} \td{le fils de Rê, seigneur des apparitions Ramsès 
-    méry-imen (aimé d'Amon)}
+    \bigskip
+
+    \tl{\lgn{B1} KA-nxt mry-mAa.t} 
+    \tl{\lgn{B2} nsw-bity nb tA.wy Wsr-mAa.t-Ra stp.n-Ra} 
+    \tl{\lgn{B3} sA Ra nb xa.w Ra-ms-sw mry-imn}
+
+    cadrats inférieurs \lgn[enlarge bottom by=0ex]{B1-B3} :
+    \tl{di anx mi Ra D.t}
+
+    \td{\lgn{B1} Kanakht (taureau-puissant) méry-maât (aimé de maât)} 
+    \td{\lgn{B2} le roi de \HBE, seigneur du double pays Ouser-maât-Rê 
+        setepenrê (qu'a élu Rê)} 
+    \td{\lgn{B3} le fils de Rê, seigneur des apparitions Ramsès 
+        méry-imen (aimé d'Amon)}
 
     Notez les antépositions honorifiques dans les cartouches et le 
     \emph{serekh}, mais aussi dans la ligne en facteur commun en 
-    bas des colonnes \lgn{B1-B3}, dans la notation de \tl{mi Ra}, 
-    \td{comme Rê}.
+    bas des colonnes \lgn[enlarge bottom by=0ex]{B1-B3}, dans la 
+    notation de \tl{mi Ra}, \td{comme Rê}.
 
     \bigskip
 
-    \lgn{B5} \tl{mry Nxb.t nb(.t) \Smaj maw}
+    \tl{\lgn{B5} mry Nxb.t nb(.t) \Smaj maw}
 
-    \lgn{B5} \td{aimé de Nekhbet, maîtresse de la \HE}
+    \td{\lgn{B5} aimé de Nekhbet, maîtresse de la \HE}
 
     Là encore, notez l'antéposition honorifique de \td{Nekhbet, 
     maîtresse de la \HE} par rapport à \tl{mry}, \td{aimé de}.
 
     \bigskip
 
-    L'organisation est la même sur cette autre face du trône.
+    L'organisation est la même sur la face droite du trône.
 
     \bigskip
 
-    \lgn{C1} \tl{KA-nxt mry-mAa.t} 
-    \lgn{C2} \tl{nsw-bity nb tA.wy Wsr-mAa.t-Ra stp.n-Ra} 
-    \lgn{C3} \tl{sA Ra nb xa.w Ra-ms-sw mry-imn} --- 
-    cadrats inférieurs \lgn{B1-B3} : \tl{di anx mi Ra D.t}
+    \tl{\lgn{C1} KA-nxt mry-mAa.t} 
+    \tl{\lgn{C2} nsw-bity nb tA.wy Wsr-mAa.t-Ra stp.n-Ra} 
+    \tl{\lgn{C3} sA Ra nb xa.w Ra-ms-sw mry-imn}
 
-    \lgn{C1} \td{Kanakht (taureau-puissant) méry-maât (aimé de maât)} 
-    \lgn{C2} \td{le roi de \HBE, seigneur du double pays Ouser-maât-Rê 
-    setepenrê (qu'a élu Rê)} 
-    \lgn{C3} \td{le fils de Rê, seigneur des apparitions Ramsès 
-    méry-imen (aimé d'Amon)}
+    cadrats inférieurs \lgn[enlarge bottom by=0ex]{B1-B3} :
+    \tl{di anx mi Ra D.t}
+
+    \td{\lgn{C1} Kanakht (taureau-puissant) méry-maât (aimé de maât)} 
+    \td{\lgn{C2} le roi de \HBE, seigneur du double pays Ouser-maât-Rê 
+        setepenrê (qu'a élu Rê)} 
+    \td{\lgn{C3} le fils de Rê, seigneur des apparitions Ramsès 
+        méry-imen (aimé d'Amon)}
 
     Notez les antépositions honorifiques dans les cartouches et le 
     \emph{serekh}, mais aussi dans la ligne en facteur commun en 
-    bas des colonnes \lgn{C1-C3}, dans la notation de \tl{mi Ra}, 
-    \td{comme Rê}.
+    bas des colonnes \lgn[enlarge bottom by=0ex]{C1-C3}, dans la 
+    notation de \tl{mi Ra}, \td{comme Rê}.
 
     \bigskip
 
-    \lgn{C5} \tl{mry WAD.t nb(.t) MHw}
+    \tl{\lgn{C5} mry WAD.t nb(.t) MHw}
 
-    \lgn{C5} \td{aimé de Ouadjet, maîtresse de la \BE}
+    \td{\lgn{C5} aimé de Ouadjet, maîtresse de la \BE}
 
     Là encore, notez l'antéposition honorifique de \td{Ouadjet, 
     maîtresse de la \BE} par rapport à \tl{mry}, \td{aimé}.
@@ -103,32 +112,41 @@
     Ici aussi il faut, dans un premier temps, comprendre la structure 
     du texte. Il y a quatre colonnes, dont deux colonnes centrales 
     portant des cartouches. Les colonnes de droite et de gauche se 
-    répondent en symétrie. Il faut lire, par exemple : \lgn{1-2} puis 
-    \lgn{3-4}.
+    répondent en symétrie. Il faut lire, par exemple :
+    \lgn[enlarge bottom by=0ex]{1-2} puis 
+    \lgn[enlarge bottom by=0ex]{3-4}.
 
-    Colonnes \lgn{1-2} : 
-    \lgn{1} lecture de gauche à droite et \lgn{2} inversement (droite 
-    à gauche) ; 
-    \lgn{3} lecture de droite à gauche et \lgn{4} inversement de 
-    gauche à droite. 
-    Attention les derniers cadrats des colonnes \lgn{1} et \lgn{3} 
+    Colonnes \lgn[enlarge bottom by=0ex]{1-2} : 
+    \begin{itemize}
+      \item \lgn[enlarge bottom by=0ex]{1} : 
+            lecture de gauche à droite et 
+      \item \lgn[enlarge bottom by=0ex]{2} 
+            inversement (droite à gauche) ;
+      \item \lgn[enlarge bottom by=0ex]{3} 
+            lecture de droite à gauche et
+      \item \lgn[enlarge bottom by=0ex]{4} 
+            inversement de gauche à droite.
+    \end{itemize}
+
+    Attention les derniers cadrats des colonnes 
+    \lgn[enlarge bottom by=0ex]{1} et \lgn[enlarge bottom by=0ex]{3} 
     sont à lire ensemble, en ligne, comme en facteur commun.
 
     \bigskip
 
-    \lgn{1} \tl{nb tA.wy Wsr-mAa.t-Ra \%tpn-Ra di anx (mi Ra)} 
-    \lgn{2} \tl{mry imn-Ra nsw nTr.w nb p.t} 
+    \tl{\lgn{1} nb tA.wy Wsr-mAa.t-Ra \%tpn-Ra di anx (mi Ra)} 
+    \tl{\lgn{2} mry imn-Ra nsw nTr.w nb p.t} 
 
-    \lgn{1} \td{le seigneur du Double-Pays Ouser-maât-Rê setepen-Rê 
-    (qu'a élu Rê) doué de vie (comme Rê), }
-    \lgn{2} \td{aimé d'Amon-Rê, roi des dieux, seigneur du ciel}
+    \td{\lgn{1} le seigneur du Double-Pays Ouser-Maât-Rê Setepen-Rê 
+        (qu'a élu Rê) doué de vie (comme Rê), }
+    \td{\lgn{2} aimé d'Amon-Rê, roi des dieux, seigneur du ciel}
 
-    \lgn{3} \tl{nb xa.w Ra-ms-sw mry-imn (di anx) mi Ra} - 
-    \lgn{4} \tl{mry imn nb ns.wt tA.wy} 
+    \tl{\lgn{3} nb xa.w Ra-ms-sw mry-imn (di anx) mi Ra} 
+    \tl{\lgn{4} mry imn nb ns.wt tA.wy} 
 
-    \lgn{3} \td{le seigneur des apparitions Ramsès méry-amon 
-    (aimé de Rê), (doué de vie) comme Rê}
-    \lgn{4} \td{aimé d'Amon seigneur des trônes du Double Pays}
+    \td{\lgn{3} le seigneur des apparitions Ramsès Méry-Amon 
+        (aimé de Rê), (doué de vie) comme Rê}
+    \td{\lgn{4} aimé d'Amon seigneur des trônes du Double Pays}
   \end{solution}
 \end{questions}
 

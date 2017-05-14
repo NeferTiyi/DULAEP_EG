@@ -1,8 +1,8 @@
 %!TEX root = DULAEP_EG.htx
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\part[La forme \tl{sDm.ty=fy}]
-     {La forme \tl{sDm.ty=fy} (\td{celui qui écoutera})}
+\renewcommand{\sectitre}{Forme \tl{sDm.ty=fy}}
+\part[\sectitre]{\sectitre{} \smaller(\td{celui qui écoutera})}
 \label{prt:S4_prtcp_pro}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -18,7 +18,7 @@ assumé par une forme particulière, appelée la forme \tl{sDm.ty=fy},
 surtout attesté à la voix passive.
 
 
-\chapter{La forme \tl{sDm.ty=fy}, morphologie}
+\chapter{Morphologie}
 % =====================================================================
 
 Cette forme se caractérise par une désinence particulière, qui varie 
@@ -71,7 +71,7 @@ indiqués en hiéroglyphes. En ce cas, le \tl{t} (non suivi du
 \emph{yod}) de la désinence peut se trouver avant le déterminatif.
 
 
-\chapter{La forme \tl{sDm.ty=fy}, fonction et syntaxe}
+\chapter{Fonction et syntaxe}
 % =====================================================================
 
 Comme les participes, cette forme peut être épithète d'un nom ou être 

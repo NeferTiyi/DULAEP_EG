@@ -1,0 +1,70 @@
+%!TEX root = DULAEP_EG_Exos.htx
+
+\chapter*{Exercice~3}\label{cha:ExoS4x03}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{Stèle de Semna de l'an~8 de Sésostris~III.}
+  Translittérer, analyser les formes verbales et traduire de la 
+  ligne~1 à~3 (jusqu'à \tl{mnmn.t nb.t n(y).t nHs.w}). 
+  La suite de la stèle sera à faire plus tard.
+
+  \bigskip
+
+  \begin{center}
+    \includegraphics[width=0.65\textwidth]{Semna8}\\
+    {\smaller%
+    Dessin Obsomer (source internet, mais voir 
+    \cite[334]{Obsomer_Sesostris} pour cette figure).}
+  \end{center}
+
+  \bigskip
+
+  \begin{solution}
+    \tl{\lgn{1} TAS rsy \green{iry} m rnp.t 8 xr Hm n(y) nsw-bity 
+        \#a-kA.w-Ra di anx D.t r nHH, \lgn{2} r \green{tm rdi sn} 
+        sw \green{nHs} nb \lgn{3} m xd m Hr.t m kAi mnmn.t nb.t 
+        n(y).t \lgn{4} nHs.w}
+
+    \td{Frontière sud établie \remg{(participe passif accompli)} 
+        en l'an~8 de la majesté du roi de \HBE Khâkaourê doué de 
+        vie éternellement et à jamais, pour ne pas faire en sorte 
+        \remg{(infinitif négatif)} qu'aucun nubien ne la franchisse 
+        \remg{(subjonctif dans une complétive)}, en naviguant vers 
+        le nord, à pied, en bateau, ni aucun troupeau des Nubiens}
+  \end{solution}
+
+  \subsection*{Vocabulaire}
+  \begin{multicols}{2}
+    \begin{itemize}
+      \item \begin{hieroglyph}i-A2-q:n:xAst\end{hieroglyph}
+            \tl{Ion}, \td{Mirgissa}
+      \item \begin{hieroglyph}wp:p*t-w-A2\end{hieroglyph}
+            \tl{wpw.t}, \td{mission}
+      \item \begin{hieroglyph}wp:p-w-Z9:Hr\end{hieroglyph}
+            \tl{wpw.t-Hr}, \td{à l'exception de}
+      \item \begin{hieroglyph}r:p*1\end{hieroglyph}
+            \tl{r-pw}, \td{ou}
+      \item \begin{hieroglyph}H-H-xAst\end{hieroglyph}
+            \tl{\@H}, \td{Heh} (Semna)
+      \item \begin{hieroglyph}Hr:r-t:D54\end{hieroglyph}
+            \tl{Hrt(y)}, \td{voyager par la terre}
+      \item \begin{hieroglyph}x:d-P1\end{hieroglyph}
+            \tl{xdi}, \td{naviguer vers le nord}
+      \item \begin{hieroglyph}mn:n-mn:n:t-E1\end{hieroglyph}
+            \tl{mnmn.t}, \td{troupeau}
+      \item \begin{hieroglyph}n:nH-H-s-A13\end{hieroglyph}
+            \tl{nHs}, \td{Nubien}
+      \item \begin{hieroglyph}s-wA-A-D54\end{hieroglyph}
+            \tl{swA}, \td{passer}
+      \item \begin{hieroglyph}s-M42-n:t-Y1\end{hieroglyph}
+            \tl{swn.t}, \td{commerce}
+      \item \begin{hieroglyph}sw-w-t\end{hieroglyph}
+            \tl{swt}, \td{mais} (particule enclitique)
+      \item \begin{hieroglyph}z:n:D54\end{hieroglyph}
+            \tl{sni}, \td{franchir}
+      \item \begin{hieroglyph}k-A-i-P1\end{hieroglyph}
+            \tl{kAi}, \td{bateau}
+    \end{itemize}
+  \end{multicols}
+\end{questions}

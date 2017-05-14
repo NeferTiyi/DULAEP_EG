@@ -262,7 +262,7 @@ encore. Observez les exem\-ples ci-dessous :
   \begin{hieroglyph}niwt:t*1\end{hieroglyph} 
     \tl{niw.t}, \td{ville}%
   \hfill%
-  \begin{hieroglyph}N31:t*1\end{hieroglyph} 
+  \begin{hieroglyph}wAt:t*1\end{hieroglyph} 
     \tl{wA.t}, \td{chemin}%
   \hfill%
   \begin{hieroglyph}Axt:t*1\end{hieroglyph} 
@@ -557,7 +557,7 @@ le nom du roi Ramsès de la liste de Manéthon et traduit ce nom
 % ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 \gens[J.-Fr.]{Champollion} a ouvert la voie à la compréhension du 
 système \hiero égyptien. Sur le plan théorique une de ses avancées 
-majeures a été de \uline{démontrer} le caractère \textbf{à la fois 
+majeures a été de \ul{démontrer} le caractère \textbf{à la fois 
 idéographique et phonétique du système}.
 
 \begin{displayquote}

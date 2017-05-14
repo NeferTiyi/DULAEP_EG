@@ -14,11 +14,12 @@
       \begin{hieroglyph}m-a:k w-A1 m n:h-w-G37\end{hieroglyph}%
     }
     \begin{solution}
-      \tl{mk, wi m nhw}, \td{Vois, je suis dans le besoin}
+      \tl{mk, wi m nhw}
 
-      Proposition à prédicat adverbial : auxiliaire présentatif + 
-      sujet (pronom dépendant) + prédicat (groupe prépositionnel 
-      avec \tl{m} d'état)
+      \td{Vois, je suis dans le besoin.}
+
+      \tg{\PPA : auxiliaire présentatif + sujet (pronom dépendant) + 
+          prédicat (groupe prépositionnel avec \tlg{m} d'état)}
     \end{solution}
 
     \part
@@ -26,10 +27,12 @@
       \begin{hieroglyph}nn' sw-W m st-t:pr f\end{hieroglyph}%
     }
     \begin{solution}
-      \tl{nn sw m s.t=f}, \td{Il n'est pas à sa place.}
+      \tl{nn sw m s.t=f}
 
-      Proposition à prédicat adverbial : auxiliaire + sujet (pronom 
-      dépendant) + prédicat (groupe prépositionnel)
+      \td{Il n'est pas à sa place.}
+
+      \tg{\PPA : auxiliaire + sujet (pronom dépendant) + prédicat 
+          (groupe prépositionnel)}
     \end{solution}
 
     \renewcommand{\insertimg}{%
@@ -50,25 +53,28 @@
       }\\
       \reflectbox{%
         \begin{hieroglyph}
-          p:a-t-A1-B1:3 m i-+l$\Big[$+s-M-+l$\Big]$+s-m-A2
+          p:a-t-A1-B1:3 m i-+l$\big[$+s-M-+l$\big]$+s-m-A2
         \end{hieroglyph}%
       }%
     \end{minipage}
 
     \begin{solution}
-      \tl{iw Xnw m sgr, ib.w m gmw (\dots) pa.t m i[m]w},
+      \tl{iw Xnw m sgr, ib.w m gmw (\dots) pa.t m i[m]w}
+
       \td{La Résidence est dans le silence, les c{\oe}urs dans 
       l'affliction (\dots) et les nobles dans le gémissement.}
 
-      Trois propositions à prédicat adverbial :
-      \begin{enumerate}
-        \item Proposition initiale : Auxiliaire + sujet + prédicat 
-              (groupe prépositionnel)
-        \item Proposition séquentielle : sujet + prédicat 
-              (groupe prépositionnel)
-        \item Proposition séquentielle : sujet + prédicat 
-              (groupe prépositionnel)
-      \end{enumerate}
+      \tg{%
+        Trois \PPA :
+        \begin{enumerate}
+          \item Proposition initiale : Auxiliaire + sujet + prédicat 
+                (groupe prépositionnel)
+          \item Proposition séquentielle : sujet + prédicat 
+                (groupe prépositionnel)
+          \item Proposition séquentielle : sujet + prédicat 
+                (groupe prépositionnel)
+        \end{enumerate}%
+      }
     \end{solution}
   \end{parts}
 
@@ -95,7 +101,7 @@
   \item \begin{hieroglyph}n:h-w-G37\end{hieroglyph} 
         \tl{nhw}, \td{besoin}
   \item \begin{hieroglyph}
-          i-+l$\Big[$+s-M-+l$\Big]$+s-m-A2
+          i-+l$\big[$+s-M-+l$\big]$+s-m-A2
         \end{hieroglyph} 
         \tl{i[m]w}, \td{gémissement}
 \end{itemize}

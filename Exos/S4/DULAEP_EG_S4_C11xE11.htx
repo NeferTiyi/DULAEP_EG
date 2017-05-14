@@ -1,0 +1,235 @@
+%!TEX root = DULAEP_EG_Exos.htx
+
+\chapter*{Exercice~11}
+% =====================================================================
+
+\newcommand{\echelle}{0.67}
+\newcommand{\insertvachea}{%
+  \includegraphics[scale=\echelle]{VacheCeleste_1a}%
+}
+\newcommand{\insertvacheb}{%
+  \includegraphics[scale=\echelle]{VacheCeleste_1b}%
+}
+\newcommand{\insertvachec}{%
+  \includegraphics[scale=\echelle]{VacheCeleste_1c}%
+}
+\newcommand{\insertvached}{%
+  \includegraphics[scale=\echelle]{VacheCeleste_2}%
+}
+\newcommand{\insertvachee}{%
+  \includegraphics[scale=\echelle]{VacheCeleste_3a}%
+}
+\newcommand{\insertvachef}{%
+  \includegraphics[scale=\echelle]{VacheCeleste_3b}%
+}
+
+\newlength{\vachea}\settowidth{\vachea}{\insertvachea}
+\newlength{\vacheb}\settowidth{\vacheb}{\insertvacheb}
+\newlength{\vachec}\settowidth{\vachec}{\insertvachec}
+\newlength{\vached}\settowidth{\vached}{\insertvached}
+\newlength{\vachee}\settowidth{\vachee}{\insertvachee}
+\newlength{\vachef}\settowidth{\vachef}{\insertvachef}
+
+% \newcommand{notetexte}{%
+%   Ne tenez pas compte du découpage à l'intérieur des colonnes. 
+%   Il n'a rien à voir avec le découpage des phrases.
+% }
+
+\begin{questions}
+  \question\qfmt{Le \source{livre de la vache céleste}, 
+  extraits de la version Séthi~I\ier} (\fullcite{Hornung}).\\
+  Le dieu solaire envoie la déesse châtier les humains, mais de peur 
+  qu'ils disparaissent tous, souhaite ensuite clamer la fureur de la 
+  déesse par de la bière rouge, couleur sang. Les trois extraits 
+  proposés ci-dessous sont relatifs aux trois moments suivant :
+  \begin{enumerate}
+    \item De la bière a été préparée pour apaiser la déesse qui 
+          projette de massacrer les hommes ;
+    \item La bière est répandue sur la terre ;
+    \item La déesse boit la bière.
+  \end{enumerate}
+
+  \ifprintanswers
+    \begin{notabene}
+      % \notetexte
+      Ne tenez pas compte du découpage à l'intérieur des colonnes. 
+      Il n'a rien à voir avec le découpage des phrases.
+    \end{notabene}
+
+    \begin{parts}
+      \part
+      Extrait~1
+
+      \begin{minipage}[t]{\vachea}
+        \vspace{0pt}%
+        \insertvachea%
+      \end{minipage}%
+      \hspace{1em}%
+      \begin{minipage}[t]{\vachec}
+        \vspace{0pt}%
+        \insertvacheb\\%
+        \insertvachec%
+      \end{minipage}%
+      \hfill%
+      \begin{minipage}[t]{\linewidth-(\vachea+\vachec+1cm)}
+        \begin{solution}
+          % ~\\
+
+          \tl{iw.in rf Hm n(y) n(y)-sw.t-bity Ra Hna nTr.w ipn 
+              r mAA nn n(y) Hno.t}
+
+          \td{Alors sa Majesté Rê vint avec ces dieux pour voir 
+              cette bière.}
+
+          \tg{forme suffixale \tlg{sDm.in=f}}
+
+          \tl{Dd mdw in Hm n(y) Ra : nfr.wy st, iw=i r mk.t rmT Hr=s}
+
+          \td{Paroles dites par sa Majesté Rê ; comme cela est bon, 
+              je vais protéger les humains d'elle.}
+
+          \tg{\PPJ (avec désinence exclamative) -- allatif}
+        \end{solution}%
+      \end{minipage}%
+
+      \part
+      Extrait~2
+
+      \begin{minipage}[t]{\vached}
+        \vspace{0pt}%
+        \insertvached%
+      \end{minipage}%
+      \hfill%
+      \begin{minipage}[t]{\linewidth-(\vached+1cm)}
+        \begin{solution}
+
+          \tl{wn.in AH.wt nty Ssp 3 Hr mH m mw m bAw n(y) Hm n(y) nTr}
+
+          \td{Alors les champs, de 3 paumes, se remplirent d'eau au 
+              moyen de la puissance de sa Majesté Rê.}
+
+          \tg{progressif}
+        \end{solution}%
+      \end{minipage}%
+
+      \part
+      Extrait~3
+
+      \begin{minipage}[t]{\vachee}
+        \vspace{0pt}%
+        \insertvachee%
+      \end{minipage}%
+      \hspace{1em}%
+      \begin{minipage}[t]{\vachef}
+        \vspace{0pt}%
+        \insertvachef%
+      \end{minipage}%
+      \hfill%
+      \begin{minipage}[t]{\linewidth-(\vachee+\vachef+1cm)}
+        \begin{solution}
+
+          \tl{nfr.in Hr=s im / wn.in st Hr swr / nfr-Hr ib=s}
+
+          \td{Alors, son visage en fut contenté. Alors, elle 
+              se mit à boire, et son c{\oe}ur fut bienveillant 
+              \remg{(\tlg{nfr-Hr})}.}
+
+          \tg{forme suffixale \tlg{sDm.in=f} -- progressif -- 
+              \PPJ}
+
+          \tl{ii.t in=s tx.ti, nn siA.n=s rmT}
+
+          \td{Elle revint, ivre, sans avoir reconnu (sans le fait 
+              qu'elle a reconnu) les humains.}
+
+          \tg{infinitif narratif -- parfait ancien séquentiel -- 
+              \tlg{sDm.n=f} nominal}
+        \end{solution}%
+      \end{minipage}%
+    \end{parts}
+  \else
+    \begin{parts}
+
+      \begin{minipage}[t]{2.5cm}
+        \part Extrait~1
+
+        \begin{minipage}[t]{\vachea}
+          \vspace{0pt}%
+          \insertvachea%
+        \end{minipage}%
+        \hspace{1em}%
+        \begin{minipage}[t]{\vachec}
+          \vspace{0pt}%
+          \insertvacheb\\%
+          \insertvachec%
+        \end{minipage}%
+      \end{minipage}%
+      \quad%
+      \begin{minipage}[t]{2.5cm}
+        \part Extrait~2
+
+      \begin{minipage}[t]{\vached}
+        \vspace{0pt}%
+        \insertvached%
+      \end{minipage}%
+      \end{minipage}%
+      \quad%
+      \begin{minipage}[t]{2.5cm}
+        \part Extrait~3
+
+      \begin{minipage}[t]{\vachee}
+        \vspace{0pt}%
+        \insertvachee%
+      \end{minipage}%
+      \hspace{1em}%
+      \begin{minipage}[t]{\vachef}
+        \vspace{0pt}%
+        \insertvachef%
+      \end{minipage}%
+      \end{minipage}%
+      \hfill%
+      \begin{minipage}[t]{5cm}
+        \begin{notabene}
+          % \notetexte
+          Ne tenez pas compte du découpage à l'intérieur des colonnes. 
+          Il n'a rien à voir avec le découpage des phrases.
+        \end{notabene}
+      \end{minipage}%
+    \end{parts}
+  \fi
+
+  \subsection*{Vocabulaire}
+  \begin{multicols}{2}
+    \begin{itemize}
+      \item \begin{hieroglyph}A-H-t:N21:3\end{hieroglyph}
+            \tl{AH.t}, \td{champ}
+      \item \begin{hieroglyph}bAw-Y1:3\end{hieroglyph}
+            \tl{bAw}, \td{manifestation}
+      \item \begin{hieroglyph}mH:Y1\end{hieroglyph}
+            \tl{mH}, \td{remplir}
+      \item \begin{hieroglyph}siA-A-A2\end{hieroglyph}
+            \tl{siA}, \td{reconnaître}
+      \item \begin{hieroglyph}s-wr:r-i-mw-A2\end{hieroglyph}
+            \tl{swr}, \td{boire}
+      \item \begin{hieroglyph}Abd\end{hieroglyph}
+            \tl{Ssp}, \td{paume} (unité de mesure)
+      \item \begin{hieroglyph}t:x-Hnqt\end{hieroglyph}
+            \tl{tx}, \td{être ivre}
+    \end{itemize}
+  \end{multicols}
+\end{questions}
+
+\let\echelle\relax
+\let\insertvachea\relax
+\let\insertvacheb\relax
+\let\insertvachec\relax
+\let\insertvached\relax
+\let\insertvachee\relax
+\let\insertvachef\relax
+\let\vachea\relax
+\let\vacheb\relax
+\let\vachec\relax
+\let\vached\relax
+\let\vachee\relax
+\let\vachef\relax
+\let\notetexte\relax

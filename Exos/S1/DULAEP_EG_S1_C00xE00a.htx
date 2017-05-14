@@ -1,7 +1,11 @@
 %!TEX root = DULAEP_EG.htx
 %##HieroDef.txt
 
-\chapter*{Avez-vous bien retenu ? Bilan d'étape~1}
+\renewcommand{\sectitre}{Avez-vous bien retenu ? Bilan d'étape~1}
+% \phantomsection
+% \addcontentsline{toc}{part}{\sectitre}
+\chapter*{\sectitre}
+% \chapter*{Avez-vous bien retenu ? Bilan d'étape~1}
 % =====================================================================
 
 Ces questions ont seulement pour but de vous aider à mémoriser le 

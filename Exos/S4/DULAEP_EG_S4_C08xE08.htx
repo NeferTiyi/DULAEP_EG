@@ -1,0 +1,94 @@
+%!TEX root = DULAEP_EG_Exos.htx
+
+\chapter*{Exercice~8}\label{cha:ExoS4x08}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{Translittérer, analyser et traduire}
+
+  \begin{parts}
+    \part
+    \begin{hieroglyph}
+      i-n zS-A1 Abd-ms-s-W-msi-A1 F50 z:n:n-V12:1
+    \end{hieroglyph}
+    \infos{\cite[§\,227]{Gardiner}}
+
+    \begin{solution}
+      \tl{in sS iaHmsw \hl{spX} snn}
+
+      \td{C'est le scribe Iâhmes \hl{qui a copié / copie} le document}
+
+      \tg{Phrase coupée avec un participe accompli ou inaccompli}
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}
+      i-s-t i-A27:n Hm-A42 s-D:\!\!\!f\s1-G42 W4-tp:1-t:r-tr-ra:3
+    \end{hieroglyph}
+
+    \begin{solution}
+      \tl{ist in Hm(=i) \hl{sDfA} Hb tp-tr}
+
+      \td{Or, c'est (ma) Majesté \hl{qui approvisionne} les fêtes 
+          saisonnières}
+
+      \tg{Phrase coupée avec un \hl{participe} (inaccompli)}
+    \end{solution}
+
+    \part \TS~335, \CTx{IV}, 244\,a\\
+    \renewcommand{\insertimg}{%
+      \vspace{0pt}
+      \includegraphics[width=1cm]{CT4_335_244a}%
+    }
+    \settoheight{\graphicwidth}{\insertimg}
+    \begin{minipage}[t][\graphicwidth]{1cm}
+      % \vspace{0pt}
+      % \includegraphics[width=1cm, valign=t]{CT4_335_244a}
+      \insertimg%
+    \end{minipage}%
+    \hfill%
+    \begin{minipage}[t][\graphicwidth]{\linewidth-3cm}
+      \begin{solution}
+        \tl{iw \hla{mA.n=i} Ra \hlb{msy} m sf r xpd.w Mh.t-wr.t}
+
+        \td{\hla{J'ai vu} Rê \hlb{sorti} hier contre l'arrière-train 
+            de Méhet-ouret.}
+
+        \tg{\tlg{\hla{mA.n=i}} : accompli \tlg{sDm.n=f} en position 
+            initiale\\
+            \tlg{\hlb{msy}} : participe accompli passif, épithète du 
+            nom Rê}
+      \end{solution}
+
+      % \vspace{5\baselineskip}
+      % \vspace*{\fill}
+      \vfill
+
+      \subsection*{Vocabulaire}
+      % \begin{multicols}{2}
+        \begin{itemize}
+          \item \begin{hieroglyph}Abd-ms-s-W-msi-A1\end{hieroglyph}
+                \tl{IaHmsw}, \td{Iâhmès} (anthroponyme)
+          \item \begin{hieroglyph}mH:t-mw-wr:r:t-E1\end{hieroglyph}
+                \tl{MH.t-wr.t}, \td{Mehet-ouret} (vache mère du soleil)
+          \item \begin{hieroglyph}W4\end{hieroglyph}
+                \tl{Hb}, \td{fête}
+          \item \begin{hieroglyph}x-p:d-w-F51:3\end{hieroglyph}
+                \tl{xpdw}, \td{partie arrière}, \td{derrière}, 
+                \td{arrière-train}
+          \item \begin{hieroglyph}F50\end{hieroglyph}
+                \tl{spXr}, \td{copier}
+          \item \begin{hieroglyph}z:n:n-V12:1\end{hieroglyph}
+                \tl{snn}, \td{document}
+          \item \begin{hieroglyph}s-D:\!\!\!f\s1-G42\end{hieroglyph}
+                \tl{sDfA}, \td{approvisionner en nourriture}
+          \item \begin{hieroglyph}t:r-tr\end{hieroglyph}
+                \tl{tr}, \td{saison}
+          \item \begin{hieroglyph}m-sf-ra:1\end{hieroglyph}
+                \tl{m sf}, \td{hier}
+        \end{itemize}
+      % \end{multicols}
+    \end{minipage}%
+  \end{parts}
+
+\end{questions}

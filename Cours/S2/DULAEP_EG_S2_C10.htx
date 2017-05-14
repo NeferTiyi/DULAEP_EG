@@ -18,7 +18,7 @@ Ces informations sont à lire, mais elles ne seront pas l'objet d'une
 lecture de tableaux d'offrandes indiquant des quantités sont proposés. 
 Cette partie-là est à revoir pour l'examen.
 
-\uline{Sources utilisées} :
+\ul{Sources utilisées} :
 \begin{itemize}
   \item \fullcite[3rd edition (2014), leçon~9]{Allen}
   \item \fullcite[leçon~28]{GM1}
@@ -222,19 +222,19 @@ des mains}.
 \textbf{Au centre, la table d'offrandes} entourés de hiéroglyphes 
 indiquant des biens offerts. De haut en bas :\\
 %
-\uline{Section du haut} :
+\ul{Section du haut} :
 \lgn{6} \tl{snTr} (\td{encens}), \tl{hAt.t} (\td{onguent}), 
 \tl{wAD} (\td{fard vert}), \tl{smd.t} (\td{fard noir}), 
 \tl{db} (variante de \tl{dAbw} \td{figues}), 
 \tl{iSd} (\td{fruit de l'arbre-\emph{iched}}) ;\\
 %
-\uline{Section en-dessous} :
+\ul{Section en-dessous} :
 \lgn{7} \tl{sxp.t} (\td{bière}), \tl{irp} (\td{vin}), 
 \tl{nbs} (\td{fruit du jujubier}), 
 \tl{t-nbs} (\td{pain de fruit de jujubier}), 
 \tl{waH} (\td{tubercule de souchet}) ;\\
 %
-\uline{À droite de la table et sous la table} :
+\ul{À droite de la table et sous la table} :
 \lgn{2} \tl{mnx.t Ss.t r(A) : xA} 
 (\td{tissu, albâtre, oie-\emph{ro} : mille}), 
 \lgn{3} \tl{t Hno.t : xA} (\td{pain, bière : mille}), 

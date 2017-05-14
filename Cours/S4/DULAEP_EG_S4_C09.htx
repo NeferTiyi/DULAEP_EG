@@ -1,10 +1,11 @@
 %!TEX root = DULAEP_EG.htx
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\part[Propositions subordonnées relatives en égyptien ancien --- 
-récapitulatif]
-{Propositions subordonnées relatives\\en égyptien ancien --- 
-Récapitulatif}
+\renewcommand{\sectitre}[1][ ]{%
+  Propositions subordonnées relatives#1en égyptien ancien --- %
+  récapitulatif%
+}
+\part[\sectitre]{\sectitre[\\]}
 \label{prt:S4_subord_recap}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 

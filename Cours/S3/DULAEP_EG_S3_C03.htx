@@ -1,9 +1,9 @@
 %!TEX root = DULAEP_EG.htx
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\part[Les formes prospectives \tl{sDm(w)=f} / \tl{sDm=f} (1)]
-{Les formes prospectives \tl{sDm(w)=f} / \tl{sDm=f} (1)\\
-(\td{il écoutera}, \td{puisse-t-il écouter})}
+\renewcommand{\sectitre}{Formes prospectives~(1)}
+\part[\sectitre]{\sectitre{} \tl{sDm(w)=f} / \tl{sDm=f}\\
+\smaller(\td{il écoutera}, \td{puisse-t-il écouter})}
 \label{prt:S3_prospectif}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -49,18 +49,18 @@ presque exclusivement à servir de \clef{corrélat négatif à la
 construction \tl[ClefCol]{r} + infinitif}.
 
 Vous vous souvenez que la négation attendue de \tl{iw bAk r pr.t m pr} 
-n'est pas \tll{*}\tl{nn bAk r pr.t m pr}, mais \tl{nn pr(w) bAk m pr} 
+n'est pas \tll{*}\tl{nn bAk r pr.t m pr}, mais \tl{nn pr(w) bAk m pr}, 
 \td{le serviteur ne sortira pas de la maison.} On verra cela à nouveau 
 plus bas.
 
 \section{Subjonctif}
 % ---------------------------------------------------------------------
-Comme son nom l'indique le subjonctif \tl{sDm=f} envisage le futur 
-sous des modalités différentes, une modalité plus subjective. Il 
-n'exprime pas un futur obligatoire, mais un souhait que quelque chose 
-arrive, un ordre, etc. : \tl{pr bAk m pr}, \td{que le serviteur sorte 
-de la maison !}. Notez la traduction en français par un subjonctif 
-justement ! L'équivalence fonctionne très bien.
+Comme son nom l'indique, le subjonctif \tl{sDm=f} envisage le futur 
+sous des modalités différentes, une modalité plus subjective. 
+Il n'exprime pas un futur obligatoire, mais un souhait que quelque 
+chose arrive, un ordre, etc. : \tl{pr bAk m pr\ex}, \td{que le 
+serviteur sorte de la maison !}. Notez la traduction en français 
+par un subjonctif justement ! L'équivalence fonctionne très bien.
 
 
 \chapter{Morphologie}
@@ -139,14 +139,15 @@ est donc précédé de \tl{nn}.
 % ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Le prospectif \tl{sDm(w)=f} n'a donc pas de véritable emploi autonome 
 ou initial, sauf à la forme négative, comme corrélat négatif de 
-\tl{iw=f r sDm} : \tl{nn sDm(w)=f} (cf. plus bas §~négations).
+\tl{iw=f r sDm} : \tl{nn sDm(w)=f} (cf. \Cref{cha:prosp_neg}, sur les 
+négations).
 
 \subsection{Subjonctif}
 % ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 En revanche, le subjonctif \tl{sDm=f} s'emploie de manière autonome 
-très fréquemment, et \textbf{\emph{jamais}} avec \tl{iw}. (Retenez 
-bien ce fait, c'est point important parfois pour déterminer si vous 
-avez à faire ou non à une subjonctif dans une phrase).
+très fréquemment, et \textbf{\emph{jamais}} avec \tl{iw} (retenez 
+bien ce fait, c'est un point important parfois pour déterminer si 
+vous avez à faire ou non à un subjonctif dans une phrase).
 
 \paragraph{À la première personne,} le subjonctif exprime la volonté 
 ou la possibilité du locuteur de faire quelque chose.
@@ -172,7 +173,7 @@ sert à exprimer un ordre poli ou un souhait.
 
   \tl{int=k n=i sw}
 
-  \td{Puisses-tu me l'apporter} 
+  \td{Puisses-tu me l'apporter.}
 
   \tg{Noter le subjonctif irrégulier de ce verbe.}
 \end{example}
@@ -181,7 +182,7 @@ Comme l'impératif, le subjonctif peut être renforcé par des syntagmes
 prépositionnels (\tl{r=k}, \td{donc !}).
 
 \paragraph{On trouve également cet emploi du subjonctif après la 
-particule \tl{HA}} et ses variantes qui renforcent l'idée du souhait 
+particule \tl{HA} et ses variantes} qui renforcent l'idée du souhait 
 (\td{Ah si !}).
 
 \begin{example}[title={}]
@@ -193,7 +194,7 @@ particule \tl{HA}} et ses variantes qui renforcent l'idée du souhait
   \infos{\cite[ex.~884]{MW}, \source{P.~Westcar}, 7, 8--9}
 
   \td{Puissiez-vous donner l'orge !} = 
-  \td{Ah si vous me donniez de l'orge.!}
+  \td{Ah si vous me donniez de l'orge !}
 \end{example}
 
 \begin{aparte}
@@ -201,8 +202,8 @@ particule \tl{HA}} et ses variantes qui renforcent l'idée du souhait
   dans les textes.
 \end{aparte}
 
-\section{Emplois en position séquentielle (verbe qui n'est pas le 
-verbe initial)}\label{sec:S3_prosp_sequ}
+\section{Position séquentielle (verbe qui n'est pas le verbe initial)}
+\label{sec:S3_prosp_sequ}
 % ---------------------------------------------------------------------
 Le subjonctif et le prospectif peuvent se rencontrer aussi 
 fréquemment, en deuxième position dans une séquentielle.
@@ -210,7 +211,7 @@ fréquemment, en deuxième position dans une séquentielle.
 \begin{example}[title={}]
   \begin{hieroglyph}ir U2:ir-A-A k\end{hieroglyph}
 
-  \tl{ir mAA=k \ex}
+  \tl{ir mAA=k\ex}
 
   \td{Agis et tu verras !}
 
@@ -226,7 +227,7 @@ proclitique \begin{hieroglyph}i-x:Y1\end{hieroglyph} \tl{ix}.
     m-D54:3 U3 T:n:3 mn:nw*nw*nw p:n nfr
   \end{hieroglyph}
 
-  \tl{mi mA=Tn mnw pn nfr \ex}
+  \tl{mi mA=Tn mnw pn nfr\ex}
 
   \td{Venez et voyez ce beau monument !} = 
   \td{Venez, que vous voyiez ce beau monument !}
@@ -238,17 +239,17 @@ proclitique \begin{hieroglyph}i-x:Y1\end{hieroglyph} \tl{ix}.
 Vous le voyez que le subjonctif ou le prospectif en position 
 séquentielle peuvent se traduire par une phrase coordonnée. 
 Cette phrase coordonnée énonce en fait une action qui est la 
-\uline{conséquence} (surtout pour le prospectif) ou le \uline{but} 
+\ul{conséquence} (surtout pour le prospectif) ou le \ul{but} 
 (pour le subjonctif) de la première action. Le subjonctif, placé 
-en deuxième position dans la phrase, peut ainsi très facilement 
-se traduire par circonstancielle introduite par \td{de sorte que}.
+en deuxième position dans la phrase, peut ainsi très facilement se 
+traduire par circonstancielle introduite par \td{de sorte que}.
 
 \begin{example}[title={}]
   \begin{hieroglyph}
     m-D54:3 U3 T:n:3 mn:nw*nw*nw p:n nfr
   \end{hieroglyph}
 
-  \tl{mi mA=Tn mnw pn nfr \ex}
+  \tl{mi mA=Tn mnw pn nfr\ex}
 
   \td{Venez, \textbf{de sorte que} vous voyiez ce beau monument !}
 
@@ -285,7 +286,7 @@ Ou après un subjonctif en position initiale !
     D:\!\!d\s2 z:\!A1 r*1 p:n aq-\!\!\!q\s1:.-D54:f imnt-t:1
   \end{hieroglyph}
 
-  \tl{Dd s r(A) pn ao=f imn.t \ex}
+  \tl{Dd s r(A) pn ao=f imn.t\ex}
   \infos{\cite[ex.~1642]{MW}, \CTx{IV}, 326\,j}
 
   \td{Qu'un homme dise cette formule de sorte qu'il entre (dans) 
@@ -315,18 +316,20 @@ que nous verrons plus tard.
   dernier, à propos des séquences de \PPA[s].
   C'est le même principe :
 
-  \tl[ClefCol]{iw bAk Xr nH.t, Hm.t=f r-gs=k, sA=sn Hna=sn}
+  \begin{quote}
+    \tl[ClefCol]{iw bAk Xr nH.t, Hm.t=f r-gs=k, sA=sn Hna=sn}
+  \end{quote}
 
   \begin{description}
-    \item[interprétation 1] proposition initiale (PPA), + deux \PPA[s] 
-          séquentielles : \td{Le serviteur est sous le sycomore, sa 
-          femme à son côté et leur fils avec eux.}
+    \item[interprétation 1 :] proposition initiale (PPA), 
+          + deux \PPA[s] séquentielles : \td{Le serviteur est sous 
+          le sycomore, sa femme à son côté et leur fils avec eux.}
 
-    \item[Interprétation 2] proposition initiale (PPA), + deux \PPA[s] 
-          séquentielles mais interprétées avec une fonction de 
-          circonstancielle : \td{Le serviteur est sous le sycomore, 
-          \uline{alors que} sa femme est à son côté et \uline{que} 
-          leur fils est avec eux.}
+    \item[Interprétation 2 :] proposition initiale (PPA), 
+          + deux \PPA[s] séquentielles mais interprétées avec une 
+          fonction de circonstancielle : \td{Le serviteur est sous 
+          le sycomore, \ul{alors que} sa femme est à son côté et 
+          \ul{que} leur fils est avec eux.}
   \end{description}
 \end{aparte}
 
@@ -362,17 +365,15 @@ aussi remplir une \clef{\frquote{fonction circonstancielle}},
 c'est-à-dire se comprendre et être traduit, selon le contexte, par une
 circonstancielle exprimant l'antériorité.
 
-Pour le moment, pour ce qui concerne le subjonctif, retenez cette 
-semaine :
-
-\begin{aparte}
+\begin{aparte}[title={Pour le moment, pour ce qui concerne le 
+subjonctif, retenez cette semaine :}]
   Le \textbf{subjonctif en position initiale} ou autonome se traduit 
   par un souhait ou un ordre poli le plus souvent :
 
   \begin{example}[title={}]
     \begin{hieroglyph}sDm-m t:n:3\end{hieroglyph}
 
-    \tl{sDm=tn \ex}
+    \tl{sDm=tn\ex}
 
     \td{Que vous écoutiez !}\\
     \td{Puissiez-vous écouter !}
@@ -386,7 +387,7 @@ semaine :
   \begin{example}[title={}]
     \begin{hieroglyph}m-D54:3 sDm-m t:n:3\end{hieroglyph}
 
-    \tl{mi, sDm=tn \ex}
+    \tl{mi, sDm=tn\ex}
 
     \td{Venez, que vous écoutiez !}\\
     \td{Venez, de sorte que vous écoutiez !}
@@ -397,7 +398,7 @@ semaine :
 \end{aparte}
 
 
-\chapter{Les négations}
+\chapter{Les négations}\label{cha:prosp_neg}
 % =====================================================================
 
 Il existe plusieurs négations du subjonctif/prospectif selon leur 
@@ -503,7 +504,7 @@ On connaît deux formes de passif :
   \item La forme passive \tl{sDm(w)=f} (thème verbal bref). 
         On rencontre ce passif surtout de manière impersonnelle 
         dans les prescriptions médicales (\td{cela sera fait})
-  \item La forme passive \tl{sDm=tw=f} (radical bref), 
+  \item La forme passive \tl{sDm.tw=f} (radical bref), 
         \td{qu'il soit écouté}
 \end{itemize}
 

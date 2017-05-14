@@ -1,0 +1,112 @@
+%!TEX root = DULAEP_EG_Exos.htx
+
+\chapter*{Exercice~4}\label{cha:ExoS4x04}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{Translittérer, analyser et traduire cette stèle du 
+  \source{Louvre~\inv{C\,196}}.}
+  Lignes~1 et~2, et les colonnes à droite (colonne qui longe le bord 
+  droit + les deux colonnes qui la jouxte à gauche + fin du texte.
+
+  \bigskip
+
+  Vous reconnaîtrez la formule d'offrande \emph{hetep-di-nésou} ou 
+  \emph{di-nesou-hetep} (reportez-vous au cours du semestre dernier), 
+  ainsi que le début du formulaire dit \emph{Appel aux vivants}, à 
+  travers lesquels les défunts interpellent les passants (qui aiment 
+  la vie et détestent la mort) et les invitent à accomplir pour eux 
+  les rituels funéraires, en échange de services. Il y a des 
+  participes et formes \tl{sDm.ty.fy}.
+
+  \bigskip
+
+  \bgroup
+  % \begin{EnvFullwidth}
+    \includegraphics[width=\linewidth]{Louvre_C196}\\
+    \smaller%
+    \textcopyright RMN-Grand Palais (musée du Louvre) / 
+    \gens[Béatrice]{Hatala}\\
+    Source : \url{http://www.panoramadelart.com/stele-sakherty}%
+    \par%
+  % \end{EnvFullwidth}
+  \egroup
+
+  \ifprintanswers
+    \bigskip
+  \fi
+
+  \begin{solution}
+    \tl{\lgn{L1} di-nsw-Htp Wsir nb +dw nTr aA nb AbDw, di=f pr.t-xrw 
+        (m) t Hno.t iH Apd x.t nb.t nfr.t wab.t anx.t(i) \lgn{L2} nTr 
+        im n kA n(y) imAx imy-r(A) aXnw.t \%A-Xrti Dd(w)}
+
+    \td{Fasse le roi que s'apaise Osiris, seigneur de Bousiris, 
+        le grand dieu, seigneur d'Abydos, de sorte qu'il accorde 
+        \remg{(subjonctif séquentiel)} des offrandes invocatoires 
+        (consistant en) pain, bière, b{\oe}uf, volaille et toute 
+        chose parfaite et pure dont vivra \remg{(forme relative 
+        prospective)} un dieu, pour le \emph{ka} du vénérable, 
+        le chambellan Sakherti qui dit \remg{(participe)} :}
+
+    \tl{i anx.w tpy.(w)-tA \clel{swAt(y)=s\lgn{C1}n} Hr wD pn 
+        m xd m xsf \blue{m mrr=Tn} anx \blue{m msDD=Tn} m(w)t, 
+        \red{Dd=tn} :}
+
+    \td{Ô vivants qui êtes sur terre \clel{qui passerez} 
+        \remg{(forme \tlg{sDm.ty=fy})} près de cette stèle en 
+        naviguant vers le nord, en naviguant vers le sud, alors 
+        que \blue{vous aimez} \remg{(forme \tlg{mrr=f} dans une 
+        circonstancielle véritable)} la vie, alors que 
+        \blue{vous détestez} \remg{(idem)} la mort, \red{vous direz} 
+        \remg{(subjonctif verbe principal)} :}
+
+    \tl{xA t Hnq.t xA iH Apd n \lgn{C2} imA xr nTr aA nb imn.t tn 
+        nfr.t xrp pr-HD.wy \clel{irr mrr.t} r(m)T \clel{Hss.t} nTr.w 
+        \%A-Xrti \clel{Dd(w)} :}
+
+    \td{Millier de pain, de bière, millier de bovins, de volailles 
+        pour le vénérable auprès du grand dieu, le seigneur de ce bel 
+        occident, le chef du trésor \clel{qui fait} \remg{(participe 
+        inaccompli actif)}, \clel{ce que les hommes aiment} 
+        \remg{(forme relative inaccomplie)} et \clel{ce que les 
+        dieux louent} \remg{(forme relative inaccomplie)}, Sakherti 
+        \clel{qui dit} \remg{(participe)} :}
+
+    \tl{\blue{iw rdi.n=i} mw n ib, Hbs n HAy, nn wn ir.n(=i) 
+        \lgn{C3} r rmT}
+
+    \td{\blue{J'ai donné} \remg{(accompli \tlg{sDm.n=f} initial)} 
+        de l'eau à celui qui avait soif, un vêtement à celui qui 
+        était nu, sans faire quoi que ce soit contre les hommes 
+        \remg{(\litt sans qu'existe le fait que j'ai agi contre les 
+        hommes, avec un \tlg{sDm.n=f} accompli en fonction nominale 
+        non emphatique)}}
+  \end{solution}
+
+  \subsection*{Vocabulaire}
+  \begin{multicols}{2}
+    \begin{itemize}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{imy-r(A) aXnwt}, \td{chambellan}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{xrp pr.wi-HD}, \td{chef du trésor}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{\%A-Xrti}, \td{Sakherti} \parencite[\pno~284, n.~7]{RK}
+      \item \begin{hieroglyph}i-b-t:E8-mw\end{hieroglyph}
+            \tl{ib}, \td{soif}
+      \item \begin{hieroglyph}wD-w-O26\end{hieroglyph}
+            \tl{wD}, \td{stèle}
+      \item \begin{hieroglyph}s-wA-A-w-wAt:D54\end{hieroglyph}
+            \tl{swA}, \td{passer}
+      \item \begin{hieroglyph}HA-A-w-S28-A1\end{hieroglyph}
+            \tl{HAw}, \tl{HAy}, \td{celui qui est nu}
+      \item \begin{hieroglyph}H-b-s-S28\end{hieroglyph}
+            \tl{Hbs}, \td{habit}
+      \item \begin{hieroglyph}x-s-U35-P2\end{hieroglyph}
+            \tl{xdi}, \td{naviguer vers le nord}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{xsfi}, \td{naviguer vers le sud}
+    \end{itemize}
+  \end{multicols}
+\end{questions}

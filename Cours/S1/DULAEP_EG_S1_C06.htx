@@ -304,7 +304,7 @@ préposition}.
 % ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 \begin{multicols}{2}
   \noindent%
-  \begin{hieroglyph}aA:a-A-N31\end{hieroglyph}
+  \begin{hieroglyph}aA:a-A-wAt\end{hieroglyph}
   \tl{aA} \td{ici}\\
   \begin{hieroglyph}i-m\end{hieroglyph}
   \tl{im} \td{là}
@@ -468,7 +468,7 @@ suffixe :
     X:r:d-Xrd-A1 H-n:a mwt-\!\!t:.-B1 f
   \end{hieroglyph}
 
-  \tl{Xrd Hna mw.t=f \ex}
+  \tl{Xrd Hna mw.t=f\ex}
 
   \td{L'enfant est avec sa mère !}
 \end{example}
@@ -574,7 +574,7 @@ un sens particulier dans le cadre du groupe prépositionnel.
 \end{example}
 
 On traduira cette phrase par un simple \td{il est un serviteur}, 
-mais ayez toujours en tête le mot à mot \td{il est \uline{en tant que} 
+mais ayez toujours en tête le mot à mot \td{il est \ul{en tant que} 
 serviteur}. Nous verrons au semestre prochain qu'il y a deux 
 possibilités pour traduire en égyptien classique \td{il est un 
 serviteur} : la proposition à prédicat adverbial avec le \tl{m} 

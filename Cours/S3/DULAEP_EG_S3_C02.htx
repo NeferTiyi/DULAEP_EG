@@ -29,7 +29,7 @@ proposent les auteurs (par exemple \cite[ex.~1679]{MW}) qui rendent
 l'absence de \tl{iw}.
 
 \noindent%
-\uline{Voici ce formulaire :}
+\ul{Voici ce formulaire :}
 
 Il est en général précédé du nom d'un roi, puis de :
 \begin{itemize}
@@ -60,9 +60,18 @@ Il est en général précédé du nom d'un roi, puis de :
 
 \begin{example}[title={Exemple 1 : La chapelle blanche de 
                 Sésostris~I à Karnak}]
+  (CFEETK, \url{http://www.cfeetk.cnrs.fr/karnak/?iu=1087})
+
+  \medskip
+
+  \fullcite[Voir][44--45]{Lacau_Chevrier}.
+
+  \bigskip
+
   \begin{hieroglyph}
     nswbjty <-ra-xpr-kA-> ir:n:f m mn:nw*nw*nw:f 
-    n :t:f i-mn:n:ra*1-A40 s-aHa n:f st-t*pr:f :n-t :xa:\!a:t
+    n :t:f i-mn:n:ra*1-A40 s-aHa n:f st-t*pr:f :n-t :xa:\!a:t 
+    m-mA-\!\!.:t-w-Y1v
   \end{hieroglyph}
 
   \tl{nsw-bity \#pr-kA-Ra, ir.n=f m mnw=f n it=f\ \ Imn-Ra saHa n=f 
@@ -71,29 +80,26 @@ Il est en général précédé du nom d'un roi, puis de :
   \td{Le roi de \HBE, Khéperkarê, il a fait comme son monument pour 
       son père Amon-Rê le fait de faire dresser pour lui sa place 
       d'apparition à nouveau.}
-
-  Source : \url{http://www.cfeetk.cnrs.fr/karnak/?iu=1087}
-
-  \cite{Lacau_Chevrier}
-
-  Voir P. LACAU, H. CHEVRIER, Une chapelle de Sésostris Ier à Karnak. Texte, Le Caire, 1956, p. 44-45
 \end{example}
 
 \begin{example}[title={Exemple 2 : Fragment de table d'offrande 
                        au nom de Thoutmosis III, KIU 25}, breakable]
-  \setlength{\graphicwidth}{7cm}
+  \setlength{\graphicwidth}{6.5cm}
   \noindent%
-  \begin{minipage}{\graphicwidth}
+  \begin{minipage}[t]{\graphicwidth}
     \includegraphics[width=\textwidth]{Karnak_KIU_25}
   \end{minipage}%
   \hfill%
-  \begin{minipage}{\textwidth-(\graphicwidth+1cm)}
-    (Cfeetk, source : \url{http://www.cfeetk.cnrs.fr/karnak/?iu=25})
-    P. BARGUET, Le temple d'Amon-Rê à Karnak. Essai d'exégèse, RAPH 21, 1962, p. 202
+  \begin{minipage}[t]{\textwidth-(\graphicwidth+0cm)}
+    (CFEETK, \url{http://www.cfeetk.cnrs.fr/karnak/?iu=25})
+
+    \medskip
+
+    \fullcite[Voir][202]{Barguet_1962}.
   \end{minipage}%
 
-  texte de la colonne à gauche, puis de la ligne en bas :
-
+  \paragraph{Texte de la colonne à gauche, puis de la ligne 
+  en bas :}~\\
   \tll{(le roi Menkhéperrê) }
   \tl{ir.n=f m mnw=f [n] it=f\ \ Imn, nb nsw.wt tA.wy} 
 
@@ -102,8 +108,8 @@ Il est en général précédé du nom d'un roi, puis de :
 
   \tl{xft ir.t=f Hw.t-aA.t m mAw.t Mn-xpr-Ra-Ax-mnw}
 
-  \td{en faisant (\tl{xft}, \td{lorsque} + infinitif \td{son faire}) 
-      un grand-château nouveau}
+  \td{en faisant \remg{(\tl[Gramm]{xft} + infinitif, 
+      \litt \td{lorsque son faire})} un grand-château nouveau}
 
   \tl{m pr n(y) it=f\ \ Imn,}
 
@@ -115,7 +121,8 @@ Il est en général précédé du nom d'un roi, puis de :
 
   \bigskip
 
-  Voici la traduction complète proposée par \gens[P.]{Barguet} :\\
+  \paragraph{Voici la traduction complète proposée par 
+  \gens[P.]{Barguet} :}~\\
   \includegraphics[width=\textwidth]{Karnak_KIU_25_trado}
 \end{example}
 
@@ -128,10 +135,16 @@ Il est en général précédé du nom d'un roi, puis de :
 \end{exercice}
 
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\part[L'aoriste ou inaccompli \tl{sDm=f} (1)]{L'aoriste ou inaccompli 
-\tl{sDm=f} (1) (\td{il écoute})}
+\renewcommand{\sectitre}{L'aoriste ou inaccompli \tl{sDm=f}~(1)}
+\part[\sectitre]{\sectitre{} \smaller(\td{il écoute})}
 \label{prt:S3_aoriste}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -145,7 +158,7 @@ Appellations :
 \begin{itemize}
   \item \textbf{aoriste \tl{sDm=f}} est l'appellation la plus 
         courante en domaine francophone 
-        (\cite[leçon~17]{GM}{Obsomer}[§\,586]{MW}),
+        (\cites[leçon~17]{GM}{Obsomer}[§\,586]{MW}),
   \item \textbf{inaccompli \tl{sDm=f}} est aussi utilisé 
         (\cite[§\,586]{MW})
   \item \textbf{\texten{imperfective} \tl{sDm=f}} 
@@ -217,9 +230,17 @@ verbes géminés.
 
 Une caractéristique particulière de cette forme verbale est le fait 
 qu'il présente, en fonction prédicative, le sujet deux fois : une 
-première fois avant le verbe et une seconde fois, de faon nominal, 
-et après le verbe (sujet pronominal post-posé) : \tl{iw bAk sDm=f} = 
-\td{le serviteur écoute} / \tl{iw=f sDm=f} = \td{il écoute}
+première fois avant le verbe de façon nominale, et une seconde fois, 
+après le verbe (sujet pronominal post-posé) :
+\begin{quote}
+  \begin{minipage}{0.45\linewidth}
+    \tl{iw bAk sDm=f} = \td{le serviteur écoute}
+  \end{minipage}%
+  \hfill%
+  \begin{minipage}{0.45\linewidth}
+    \tl{iw=f sDm=f} = \td{il écoute}
+  \end{minipage}
+\end{quote}
 
 
 \chapter{Emplois (1) : comme prédicat principal}
@@ -257,7 +278,7 @@ monuments) :
 \begin{example}[title={}]
   \begin{hieroglyph}i-mn:n-ra:1 di':f anx\end{hieroglyph}
 
-  \tl{Imn-ra di=f anx \ex}
+  \tl{Imn-ra di=f anx\ex}
   \infos{\cite[ex.~837]{MW}, Chapelle blanche de Sésostris~I\ier}
 
   \td{Amon-Rê donne la vie !}
@@ -312,13 +333,13 @@ c'est-à-dire par la négation \tl{n} suivi de l'accompli \tl{sDm.n=f} !
 Attention de ne pas vous embrouiller :
 \begin{itemize}
   \item l'accompli \tl{sDm.n=f} se nie au moyen de \tl{n} + \tl{sDm=f} 
-        perfectif (sur cette forme voir \Pref{prt:S3_perfectif})
+        perfectif (sur cette forme, voir \Pref{prt:S3_perfectif})
   \item l'aoriste \tl{sDm=f} se nie au moyen de \tl{n} + \tl{sDm.n=f}
 \end{itemize}
 
-La tournure \tl{n sDm.n=f} \td{il n'entend pas} marque en fait 
-\frquote{une nuance d'impossibilité} (\cite[§\,638]{MW}) : 
-\td{il ne peut entendre}
+La tournure \tl{n sDm.n=f}, \td{il n'entend pas}, marque en fait 
+une \frquote{nuance d'impossibilité} (\cite[§\,638]{MW}) : 
+\td{il ne peut entendre}.
 
 \begin{example}[title={}]
   \begin{hieroglyph}
@@ -355,7 +376,9 @@ infixe \tl{-tw} est écrit
 \begin{hieroglyph}t-w\end{hieroglyph} \tl{.tw} ou 
 \begin{hieroglyph}t\end{hieroglyph} \tl{.t(w)}.
 
-\tl{iw sDm.t(w)=f}, \td{Il est entendu.}
+\begin{quote}
+  \tl{iw sDm.t(w)=f}, \td{Il est entendu.}
+\end{quote}
 
 \begin{example}[title={}]
   \begin{hieroglyph}
@@ -369,37 +392,63 @@ infixe \tl{-tw} est écrit
 \end{example}
 
 
-\chapter{Excursus 1 : inaccompli ordinaire / inaccompli progressif}
+\chapter{Excursus}
 % =====================================================================
 
 À présent que nous progressons d'avantage dans la grammaire de 
 l'égyptien classique, n'oubliez pas ce que nous avons vu l'an 
 dernier, et faites des mises en relation pour percevoir le système.
 
+\section{Inaccompli ordinaire et inaccompli progressif}
+% ---------------------------------------------------------------------
 L'aoriste \tl{sDm=f} est un \textbf{inaccompli ordinaire}, qui 
 fonctionne en complément de \textbf{l'inaccompli progressif} que 
 nous avons étudié l'an passé :
 
-\noindent%
-\tl{iw bAk sDm=f}\\
-\td{Le serviteur écoute (habituellement).}
+% \noindent%
+\begin{quote}
+  \fbox{%
+  \begin{minipage}[t]{0.45\linewidth}
+    \tl{iw bAk sDm=f}\\
+    \td{Le serviteur écoute (habituellement).}
+  \end{minipage}%
+  }%
+  \hfill%
+  \fbox{%
+  \begin{minipage}[t]{0.45\linewidth}
+    \tl{iw bAk Hr sDm}\\
+    \begin{gramrule}
+      \td{Le serviteur} %
+      \begin{possib}
+        \td{écoute.}\\
+        \td{est en train d'écouter.}\\
+      \end{possib}
+    \end{gramrule}
+  \end{minipage}%
+  }%
+\end{quote}
 
-\noindent%
-\tl{iw bAk Hr sDm}\\
-\td{Le serviteur écoute / est en train d'écouter.}
-
-
-\chapter{Excursus 2 : aoriste \tl{sDm=f} et accompli \tl{sDm.n=f}}
-% =====================================================================
-
+\section{Aoriste \tl{sDm=f} et accompli \tl{sDm.n=f}}
+% ---------------------------------------------------------------------
 Opérez aussi des mises en relation au sein de la conjugaison 
 suffixale. Du point de vue aspectuel, le système fonctionne sur une 
 opposition entre :
 
-\noindent%
-\tl{iw=f sDm=f}, \td{il écoute}\\
-et\\
-\tl{iw sDm.n=f}, \td{il a écouté}
+% \noindent%
+\begin{quote}
+  \begin{minipage}[t]{0.45\linewidth}
+    \centering
+    \tl{iw=f sDm=f}, \td{il écoute}
+  \end{minipage}%
+  \hfill%
+  et%
+  \hfill%
+  \begin{minipage}[t]{0.45\linewidth}
+    \centering
+    \tl{iw sDm.n=f}, \td{il a écouté}
+  \end{minipage}
+\end{quote}
+
 
 \bigskip
 

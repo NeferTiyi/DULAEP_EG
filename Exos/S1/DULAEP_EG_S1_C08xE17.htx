@@ -7,8 +7,8 @@
 \begin{questions}
   \question\qfmt{Translittérer et traduire le cintre de cette stèle de 
   Turin représentant différentes formes de la déesse Hathor (sistre et 
-  contrepoids de collier-\emph{ménat}). Le texte hiéroglyphique donne 
-  une légende identifiant la divinité représentée.}
+  contrepoids de collier-\emph{ménat}).} Le texte hiéroglyphique donne 
+  une légende identifiant la divinité représentée.
   \begin{center}
     \includegraphics[width=0.5\linewidth]{Turin_50027_BSFE95_fig4}%
     \includegraphics[width=0.5\linewidth]{Turin_50027_BSFE95_fig5}\\
@@ -16,7 +16,7 @@
     % \includegraphics[width=8cm]{Turin_50027_BSFE95_fig5}\\
     Planche tirée de J. Yoyotte, \emph{BSFE}~95 (1982), fig.~4 et~5\\
     À droite : photographie de la stèle. À gauche : dessin publié dans 
-    \emph{Panthéon égyptien} (Champollion).
+    \cite{Champo_Pantheon}.
   \end{center}
 
   \begin{solution}
@@ -27,9 +27,12 @@
     \lgn{3-4} \td{qui est dans son disque solaire, maîtresse du ciel, 
     souveraine de tous les dieux}
 
-    Inscription sur le contrepoids du collier-ménat
+    \bigskip
+
+    Inscription sur le contrepoids du collier-\emph{ménat}
 
     \tl{@w.t-@r, nb.t-Htp.t, Hnw.t nTr.w nb.w}
+
     \td{Hathor, Nebet-Hetepet, souveraine de tous les dieux}
   \end{solution}
 \end{questions}

@@ -1,10 +1,11 @@
 %!TEX root = DULAEP_EG.htx
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\part[{[Épigraphie]} Légendes de scènes d'offrande aux dieux et 
-formule d'offrande funéraire]
-{[Épigraphie] Légendes de scènes d'offrande aux dieux et formule 
-d'offrande funéraire\\ (rappels et approfondissement)}
+\renewcommand{\sectitre}{%
+  [Épigraphie] Légendes de scènes d'offrande aux dieux et formule 
+  d'offrande funéraire%
+}
+\part[\sectitre]{\sectitre\\(rappels et approfondissement)}
 \label{prt:S3_offrande}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 

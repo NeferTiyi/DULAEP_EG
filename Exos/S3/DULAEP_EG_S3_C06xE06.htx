@@ -5,62 +5,86 @@
 % =====================================================================
 
 \begin{questions}
-  \question\qfmt{Translittérer, analyser et traduire} 
+  \question\qfmt{Translittérer, analyser et traduire :} 
   Ligne~1, ligne~3 à partir de \tl{n kA n(y)}, et légende des 
   personnages féminins
   (Nous travaillerons sur la ligne~2 au semestre prochain, quand nous 
   aurons vu les formes adjectivales du verbe --- participes et formes 
   relatives).
 
-  \includegraphics[width=0.7\textwidth]{BM_EA143_2}\\
+  \includegraphics[width=0.67\textwidth, valign=b]{BM_EA143_2}
   \source{\BM~EA\,143}
 
   \begin{solution}
-    \tl{di nsw Htp Wsir nb +DDw, nTr aA, nb AbDw, di=f pr.t-xrw 
-    m t Hno.t kA Apd.w Ss mnx.t x.t nb.t nfr.t wab.t anx.t nTr im\\
-    (\dots)\\
-    n kA n(y) HAty-a nxti mAa-xrw, ms.n nxti mAa.t-xrw}
 
-    \td{Fasse le roi que s'apaise Osiris, seigneur de Bousiris, 
-        le grand dieu, seigneur d'Abydos, de sorte qu'il donne une 
-        offrande invocatoire consistant en pain, bière, taureaux, 
-        oiseaux, albâtre, tissu, toutes choses parfaites et pures 
-        dont vit un dieu.}
+    \begin{minipage}[t]{4cm}
+      \begin{gramrule}
+        ou
+        \begin{possib}
+          \tl{di nsw Htp\dots}\\
+          \tl{Htp di nsw (n)\dots}\\
+        \end{possib}
+      \end{gramrule}
+    \end{minipage}%
+    \qquad%
+    \begin{minipage}[t]{6cm}
+      \begin{gramrule}
+        ou
+        \begin{possib}
+          \td{Fasse le roi que s'apaise\dots}\\
+          \td{Offrande que donne le roi (à)\dots}\\
+        \end{possib}
+      \end{gramrule}
+    \end{minipage}
 
-    ou
+    \medskip
 
-    \tl{Htp di nsw (n) Wsir nb +Dw, nTr aA, nb AbDw, di=f pr.t-xrw 
-    m t Hno.t kA Apd.w Ss mnx.t x.t nb.t nfr.t wab.t anx.t nTr im\\
-    (\dots)\\
-    n kA n(y) HAty-a nxti mAa-xrw, ms.n nxti mAa.t-xrw}
+    \tl{\dots Wsir nb +dw, nTr aA, nb AbDw,\\
+        di=f pr.t-xrw m t Hno.t kA Apd.w Ss mnx.t 
+        x.t nb.t nfr.t wab.t anx.t nTr im\\
+        (\dots) n kA n(y) HAty-a nxti mAa-xrw, ms.n nxti mAa.t-xrw}
 
-    \td{Offrande que donne le roi (à) Osiris, seigneur de Bousiris, 
-        le grand dieu, seigneur d'Abydos, de sorte qu'il donne une 
-        offrande invocatoire consistant en pain, bière, taureaux, 
-        oiseaux, albâtre, tissu, toutes choses parfaites et pures 
-        dont vit un dieu.}
+    \medskip
+
+    \td{\dots Osiris, seigneur de Bousiris, le grand dieu, seigneur 
+        d'Abydos, de sorte qu'il donne une offrande invocatoire 
+        consistant en pain, bière, taureaux, oiseaux, albâtre, tissu, 
+        toutes choses parfaites et pures dont vit un dieu\\
+        (\dots) pour le \emph{ka} du gouverneur Nakht juste de voix 
+        qu'a mis au monde Nakht juste de voix.}
   \end{solution}
 
   \question\qfmt{Translittérer, analyser et traduire 
   (\source{Hymne à Sésostris~III})}
 
+  \begin{tabular}{@{}l@{}l@{}}
+    \begin{hieroglyph}ii-i-D54:n-f\end{hieroglyph} &
+    \begin{hieroglyph}
+      n:n:3 iTi:t-A24-f tA:1*N23 Sma-a:spAt 
+      Xnm-\!m-Y1:n sxm-x:t*y-S5 m tp-1:f
+    \end{hieroglyph}\\
+    &
+    \begin{hieroglyph}
+      zmA-A-Y1:n-f tA:tA-N23-N23 Ab-b-x:a-n:f sw-t:1 n bit-t:1
+    \end{hieroglyph}\\
+  \end{tabular}
+
   \begin{solution}
-    \tl{ii.n=f n=n it=f tA Smaw, Xnm.n sxm.ty m tp=f 
+    \tl{ii.n=f n=n it=f tA \Smaj{}maw, Xnm.n sxm.ty m tp=f 
         (ii.n=f n=n), smA.n=f tA.wi, Abx.n=f sw.t n bi.t}
 
     \td{il est venu pour nous, s'emparant de la \HE, (il est venu 
         pour nous), la double couronne ayant été associée sur sa tête, 
         ayant uni le Double pays, ayant joint le roseau à l'abeille.}
 
-    \tl{ii.n=f} : accompli prédicatif
-
-    \tl{it=f} : aoriste circonstanciel
-
-    \tl{Xnm.n}, \tl{smA.n=f}, \tl{Abx.n=f} : accomplis séquentiels
+    \tg{\tlg{ii.n=f} : accompli prédicatif\\
+        \tlg{it=f} : aoriste circonstanciel\\
+        \tlg{Xnm.n}, \tlg{smA.n=f}, \tlg{Abx.n=f} : accomplis 
+        séquentiels}
 
     \begin{remarque}
       Si vous consultez l'original hiératique du texte, \tl{ii.n=f} 
-      est disposé en facteur commun (voir ci- dessous, l'extrait de 
+      est disposé en facteur commun (voir ci-dessous, l'extrait de 
       \cite{HL}).
 
       Il s'agit d'un texte hymnique, donc avec une certaine puissance 
@@ -69,13 +93,25 @@
       La répétition d'une même séquence \td{il est venu pour nous !} 
       en début de chaque ligne
     \end{remarque}
+
+    \noindent%
+    \includegraphics[width=\linewidth]{Illahoun_hymne_SesostrisIII}
   \end{solution}
 \end{questions}
 
 \subsection*{Vocabulaire}
 \begin{multicols}{2}
   \begin{itemize}
-    \item \begin{hieroglyph}\end{hieroglyph}
-          \tl{}, \td{}
+    \item \begin{hieroglyph}Ab-b-x:a\end{hieroglyph}
+          \tl{Abx} \vl{3}, \td{unir}
+    \item \begin{hieroglyph}Xnm-\!m-Y1v\end{hieroglyph}
+          \tl{Xnm} \vl{3}, \td{joindre}, \td{unir} ; 
+          intransitif : \tl{être uni, associé}
+    \item \begin{hieroglyph}zmA-A-Y1v\end{hieroglyph}
+          \tl{smA} \vl{3}, \td{unir}
+    \item \begin{hieroglyph}sxm-x:t*y-S5\end{hieroglyph}
+          \tl{sxm.ty}, \td{la Double-Couronne}
+    \item \begin{hieroglyph}Sma-a:spAt\end{hieroglyph}
+          \tl{\Smaj{}maw}, \td{\HE}
   \end{itemize}
 \end{multicols}

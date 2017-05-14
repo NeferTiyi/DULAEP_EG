@@ -12,12 +12,11 @@
 
     \part
     \begin{hieroglyph}
-      Dd'
+      Dd' z:\!A1\s2*1 r-1 p:n wab-mw sw-W
     \end{hieroglyph}
     \infos{extrait de texte rituel}
 
     \begin{solution}
-
       \tl{Dd s r(A) pn, wab.n=f sw}
 
       \td{Qu'un homme dise cette formule, alors qu'il se sera purifié.}
@@ -26,15 +25,15 @@
 
       \td{Qu'un homme qui se sera purifié dise cette formule.}
 
-      \cite[ex.~806]{MW} : \frquote{fonction de relative déterminative 
-      virtuelle}
+      \tg{\cite[ex.~806]{MW} :\\
+          \frquote{fonction de relative déterminative virtuelle}}
     \end{solution}
 
     \part
     \begin{hieroglyph}
       jw s-aA:a n:f W-+l\Big(+s-A1-+l\Big)+s
       s-xnt-n:t n:f st-t:pr-+l\Big(+s-A1-+l\Big)+s
-    \end{hieroglyph}
+    \end{hieroglyph}\\
     \infos{Un thébain parle du roi, cité par \cite{Obsomer}}
 
     \begin{solution}
@@ -42,12 +41,12 @@
 
       \td{Il m'a rendu grand et il a promu ma place.}
 
-      Deux accomplis \tl{sDm.n=f} (initial et séquentiel).
+      \tg{Deux accomplis \tlg{sDm.n=f} (initial et séquentiel).}
     \end{solution}
 
     \part Conclusion à la suite d'un examen médical. Le diagnostic :\\
     \begin{hieroglyph}
-      anx
+      anx-n:x-f p-w
     \end{hieroglyph}
 
     \begin{solution}
@@ -55,13 +54,12 @@
 
       \td{\litt C'est qu'il vivra.} = \td{Cela signifie qu'il vivra.}
 
-      \tl{anx=f} : subjonctif dans une fonction nominale 
-      (prédicat de la \PPN)
+      \tg{Subjonctif dans une fonction nominale (prédicat de la \PPN)}
     \end{solution}
 
     \part
     \begin{hieroglyph}
-      n'
+      n' U2:ir-A-f x:p-xpr:r n:\!A1\s1 m Hr*1:f
     \end{hieroglyph}
     \infos{\TS, \CTx{I}, 335\,e}
 
@@ -70,16 +68,15 @@
 
       \td{Il n'a pas vu que j'étais advenu à ses yeux.}
 
-      \tl{n mA=f} : accompli négatif (position initiale)
-
-      \tl{xpr.n=i} : accompli \tl{sDm.n=f} dans une fonction nominale 
-      (COD, c'est-à-dire dans une proposition complétive --- voir plus 
-      de détails au semestre~4)
+      \tg{\tl{n mA=f} : accompli négatif (position initiale)\\
+          \tl{xpr.n=i} : accompli \tlg{sDm.n=f} dans une fonction 
+          nominale (COD, c'est-à-dire dans une proposition complétive 
+          --- voir plus de détails au semestre~4)}
     \end{solution}
 
     \part
     \begin{hieroglyph}
-      n'
+      n' ir:U2-A-n s-n sw-w
     \end{hieroglyph}
     \infos{\TS, \CTx{I}, 389\,c}
 
@@ -88,7 +85,7 @@
 
       \td{Ils ne l'ont pas vu.}
 
-      Accompli négatif, autonome
+      \tg{Accompli négatif, autonome}
     \end{solution}
   \end{parts}
 \end{questions}
@@ -96,15 +93,15 @@
 \subsection*{Vocabulaire}
 \begin{multicols}{2}
   \begin{itemize}
-    \item \begin{hieroglyph}\end{hieroglyph}
-          \tl{wab}, \td{«être pur}, \td{devenir pur}
-    \item \begin{hieroglyph}\end{hieroglyph}
-          \tl{xpr}, \td{devenir}, \td{advenir}, \td{se transformer}
-    \item \begin{hieroglyph}\end{hieroglyph}
+    \item \begin{hieroglyph}wab-mw\end{hieroglyph}
+          \tl{wab}, \td{être pur}, \td{devenir pur}
+    \item \begin{hieroglyph}m-Hr-1\end{hieroglyph}
           \tl{m-Hr}, \td{au yeux de}
-    \item \begin{hieroglyph}\end{hieroglyph}
+    \item \begin{hieroglyph}x:p-xpr:r +l, +s xpr-r\end{hieroglyph}
+          \tl{xpr}, \td{devenir}, \td{advenir}, \td{se transformer}
+    \item \begin{hieroglyph}s-aA=a\end{hieroglyph}
           \tl{saA} \vcl{2}, \td{rendre grand}
-    \item \begin{hieroglyph}\end{hieroglyph}
+    \item \begin{hieroglyph}s-xnt-n:t-D19\end{hieroglyph}
           \tl{sxnti} \vci{4}, \td{promouvoir}
   \end{itemize}
 \end{multicols}

@@ -15,12 +15,14 @@
       \tl{iw=i Hr ssn.t ASr}, 
       \td{Je sens (l'odeur du) rôti.}
 
-      Proposition à prédicat pseudo-verbal (inaccompli progressif) : 
-      \begin{enumerate*}
-        \item auxiliaire indicatif,
-        \item sujet pronom suffixe,
-        \item prédicat \tl{Hr} + infinitif + COD.
-      \end{enumerate*}
+      \tg{%
+        \PPP (inaccompli progressif) : 
+        \begin{enumerate*}
+          \item auxiliaire indicatif,
+          \item sujet pronom suffixe,
+          \item prédicat \tlg{Hr} + infinitif + COD.
+        \end{enumerate*}%
+      }
     \end{solution}
 
     \part
@@ -31,12 +33,14 @@
       \tl{iw Xry-Hb(.t) Hr ir.t x.t}, 
       \td{Le prêtre-lecteur accomplit les rites.}
 
-      Proposition à prédicat pseudo-verbal (inaccompli progressif) : 
-      \begin{enumerate*}
-        \item auxiliaire indicatif,
-        \item sujet pronom suffixe,
-        \item prédicat \tl{Hr} + infinitif + COD.
-      \end{enumerate*}
+      \tg{%
+        \PPP (inaccompli progressif) : 
+        \begin{enumerate*}
+          \item auxiliaire indicatif,
+          \item sujet pronom suffixe,
+          \item prédicat \tlg{Hr} + infinitif + COD.
+        \end{enumerate*}%
+      }
     \end{solution}
 
     \part
@@ -48,12 +52,14 @@
       \tl{iw=n m hA.t r SA}, 
       \td{Nous descendons vers le marais.}
 
-      Proposition à prédicat pseudo-verbal (inaccompli progressif) : 
-      \begin{enumerate*}
-        \item auxiliaire indicatif,
-        \item sujet pronom suffixe,
-        \item prédicat \tl{m} + infinitif + CC de lieu.
-      \end{enumerate*}
+      \tg{%
+        \PPP (inaccompli progressif) : 
+        \begin{enumerate*}
+          \item auxiliaire indicatif,
+          \item sujet pronom suffixe,
+          \item prédicat \tlg{m} + infinitif + CC de lieu.
+        \end{enumerate*}%
+      }
     \end{solution}
   \end{parts}
 
@@ -108,9 +114,13 @@
     \begin{minipage}[m]{\linewidth-(\graphicwidth+3cm)}
       \tl{mk, sw Hna=k m niw.t wa.t}
 
+      \medskip
+
       \td{Vois, il est avec toi dans la cité unique.}
 
-      Prop. à prédicat adverbial
+      \medskip
+
+      \tg{\PPA}
     \end{minipage}
   \end{solution}
 \end{questions}

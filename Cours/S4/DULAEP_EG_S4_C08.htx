@@ -1,9 +1,12 @@
 %!TEX root = DULAEP_EG.htx
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\part[Procédés rhétoriques 1 --- Les phrases coupées]
-{Procédés rhétoriques 1 --- Les phrases coupées\\\tl{in sA sDmw} 
-(\td{c'est le fils qui écoute})}
+\renewcommand{\sectitre}{%
+  Procédés rhétoriques~(1) --- Phrases coupées%
+}
+\part[\sectitre]
+     {\sectitre\\\tl{in sA sDmw} 
+      \smaller(\td{c'est le fils qui écoute})}
 \label{prt:S4_phrase_coupee}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 

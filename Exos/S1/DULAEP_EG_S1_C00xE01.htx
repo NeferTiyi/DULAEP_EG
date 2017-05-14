@@ -1,7 +1,13 @@
 %!TEX root = DULAEP_EG.htx
 %##HieroDef.txt
 
-\chapter*{Exercice~1 --- Familiarisation avec les hiéroglyphes}
+\renewcommand{\sectitre}{%
+  Exercice~1 --- Familiarisation avec les hiéroglyphes%
+}
+% \phantomsection
+% \addcontentsline{toc}{part}{\sectitre}
+\chapter*{\sectitre}
+% \chapter*{Exercice~1 --- Familiarisation avec les hiéroglyphes}
 % =====================================================================
 
 \begin{questions}

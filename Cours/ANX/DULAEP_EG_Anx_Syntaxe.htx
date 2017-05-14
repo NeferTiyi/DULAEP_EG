@@ -2,7 +2,9 @@
 %##HieroDef.txt
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\chapter{Syntaxe de la phrase égyptienne --- \PPA et \PPP}
+\renewcommand{\sectitre}{Syntaxe de la phrase égyptienne ---}
+\chapter[\sectitre{} PPA et PP\,Pseudo-verbal]
+        {\sectitre{} \PPA et \PPP}
 \label{anx:syntaxe}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 

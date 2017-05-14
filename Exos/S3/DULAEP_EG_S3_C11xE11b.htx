@@ -6,22 +6,17 @@
 
 \begin{questions}
   \question\qfmt{Translittérer, analyser les formes verbales et 
-  traduire}
+  traduire}\\
+  Extrait de l'hymne à Sésostris~III (papyrus Lahoun) d'après le 
+  fac-similé de \cite[5]{HL})
 
-  \begin{parts}
+  Comparer les deux premières lignes avec l'exercice~6b et essayez 
+  de repérer les équivalences de signes. Notez bien la disposition 
+  du texte (et lisez les remarques dans le corrigé de l'exercice~6 
+  en ligne). 
+  Je vous proposerai de travailler sur la suite du texte hiératique 
+  plus tard.
 
-  \part
-  \begin{hieroglyph}
-  \end{hieroglyph}
-
-  \begin{solution}
-  \end{solution}
-  \end{parts}
+  \noindent%
+  \includegraphics[width=\linewidth]{Illahoun_hymne_SesostrisIII}
 \end{questions}
-
-Extrait de l'hymne à Sésostris~III (papyrus Lahoun) d'après le fac-similé de \cite[5]{HL})
-
-Comparer les deux premières lignes avec l'exercice~6b et essayez de repérer les équivalences de signes. Notez bien la disposition du texte (et lisez les remarques dans le corrigé de l'exercice~6 en ligne). 
-Je vous proposerai de travailler sur la suite du texte hiératique plus tard.
-
-\includegraphics{Illahoun_hymne_SesostrisIII}

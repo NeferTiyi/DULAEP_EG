@@ -1,0 +1,60 @@
+%!TEX root = DULAEP_EG_Exos.htx
+
+\chapter*{Exercice~7}\label{cha:ExoS4x07}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{Translittérer, analyser et traduire}
+
+  \begin{parts}
+    \part
+    \begin{hieroglyph}
+      i-r ntyt nb:t m zS-Y1 Hr:1 pA-A S:f:d-w-V12 !
+      di':A1\s1 sDm-m T:n:3 s-t
+    \end{hieroglyph}
+
+    \begin{solution}
+      \tl{ir \ul{nt(y).t nb.t} m sS Hr pA Sfd, 
+          \ul{di=i} \ul{sDm=Tn} s.t}
+
+      \td{Quant à \ul{tout ce qui est} par écrit sur ce rouleau, 
+          \ul{je ferai en sorte} \ul{que vous l'écoutiez}.}
+
+      \tg{%
+        \begin{itemize}
+          \item \tlg{\ul{ir nt(y).t nb.t m sS Hr pA Sfd}} : 
+                subordonnée relative (véritable), substantivée et 
+                thématisée.
+          \item \tlg{\ul{di=i}} : subjonctif (en position principale)
+          \item \tlg{\ul{sDm=Tn s.t}} : subjonctif complétif
+        \end{itemize}%
+      }%
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}
+      ink nTr-A40 Sps-s jwty-G37 r:x-Y1v nTr-1:3 r:n:f
+    \end{hieroglyph}
+
+    \begin{solution}
+      \tl{ink nTr Sps \ul{iwty} rx nTr.w rn\ul{=f}}
+
+      \td{Je suis un dieu auguste \ul{dont} les dieux ne connaissent 
+          pas le nom.}
+
+      \tg{\PPN avec pour prédicat un groupe nominal comprenant une
+          proposition subordonnée relative véritable introduite par 
+          le pronom relatif négatif \tlg{iwty} en construction 
+          indirecte (voir le pronom de rappel qui permet de choisir 
+          le pronom relatif en français)}
+    \end{solution}
+  \end{parts}
+
+  \subsection*{Vocabulaire}
+  \begin{multicols}{2}
+    \begin{itemize}
+      \item \begin{hieroglyph}S:f:d-V12\end{hieroglyph}
+            \tl{Sfd}, \td{papyrus}, \td{rouleau}
+    \end{itemize}
+  \end{multicols}
+\end{questions}

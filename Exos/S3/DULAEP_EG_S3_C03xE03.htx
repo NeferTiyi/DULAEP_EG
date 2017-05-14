@@ -11,8 +11,9 @@
   \begin{parts}
     \part
     \begin{hieroglyph}
-      ini
-    \end{hieroglyph}
+      ini-n:t:k n-+l$\big($+sA1+l$\big)$+s p-pA:\!a-w-\!t:.-G38:3 
+      M42-A2 +l$\big($+s-A1+l$\big)$+s s-n
+    \end{hieroglyph}\\
     \infos{Extrait d'une lettre au mort, Bol de Qaou \no2 : demande 
     faite par la mère défunte à son fils vivant}
 
@@ -21,16 +22,15 @@
 
       \td{Puisses-tu m'apporter des cailles, que je les mange.}
 
-      \tl{int=k} : subjonctif, position initiale
-
-      \tl{wnm(=i)} : subjonctif, position séquentielle, fonction 
-      circonstancielle virtuelle finale- consécutive
+      \tg{\tlg{int=k} : subjonctif, position initiale
+          \tlg{wnm(=i)} : subjonctif, position séquentielle, fonction 
+            circonstancielle virtuelle finale-consécutive}
     \end{solution}
 
     \part
     \begin{hieroglyph}
-      S:p
-    \end{hieroglyph}
+      S:p-\!D26 k V17-1 p-W
+    \end{hieroglyph}\\
     \infos{Extrait d'un recueil de formules de protection : ordre 
     adressé au mal que le magicien cherche à chasser du corps d'un 
     enfant}
@@ -40,12 +40,12 @@
 
       \td{Puisses-tu t'écouler, (car) c'est une protection.}
 
-      \tl{Sp=k} : subjonctif, position initiale
+      \tg{\tlg{Sp=k} : subjonctif, position initiale}
     \end{solution}
 
     \part
     \begin{hieroglyph}
-      i-m
+      i-m-n':k ir x:t-Y1:3 r:z
     \end{hieroglyph}
 
     \begin{solution}
@@ -53,18 +53,18 @@
 
       \td{Puisses-tu ne rien faire contre elle.}
 
-      \tl{im=k ir} : négation du subjonctif autonome
+      \tg{\tlg{im=k ir} : négation du subjonctif autonome}
     \end{solution}
   \end{parts}
 
   \subsection*{Vocabulaire}
   \begin{multicols}{2}
     \begin{itemize}
-      \item \begin{hieroglyph}\end{hieroglyph}
+      \item \begin{hieroglyph}M42-A2\end{hieroglyph}
             graphie de \tl{wnm}, \td{manger}
-      \item \begin{hieroglyph}\end{hieroglyph}
+      \item \begin{hieroglyph}pA:\!a-w-\!t:.-G38:3\end{hieroglyph}
             \tl{pAa.wt}, \td{cailles}
-      \item \begin{hieroglyph}\end{hieroglyph}
+      \item \begin{hieroglyph}S:p-\!D26\end{hieroglyph}
             \tl{Sp}, \td{s'écouler} (verbe fort)
     \end{itemize}
   \end{multicols}
@@ -77,7 +77,7 @@
   femme enceinte des mauvais agissements de deux servantes mortes. Le 
   texte souhaite et promet une série de bienfaits pour le mort en cas 
   de soutien (jarre conservée à l'OIM de Chicago (\inv{E\,13945}), 
-  col.~7--8a). \emph{Ce n'est pas si simple au premier abord. 
+  col.~7--8a). \emph{\textbf Ce n'est pas si simple au premier abord. 
   Ne vous découragez pas !}
 
   \begin{notabene}
@@ -86,32 +86,106 @@
     \tl{=i} : \tl{n(=i)} = \td{pour moi}
   \end{notabene}
 
-  un extrait de l'original en hiératique (col.~A)\\
-  \includegraphics[width=2cm]{Chicago_OIM13945_jarre}
 
+  \begin{minipage}[t]{1cm}
+    \Centering
+    \lgn[enlarge bottom by=0ex]{C}\\
+    \reflectbox{%
+      \EnColonne[1.5\Htm]{%
+        \begin{hieroglyph}
+          i*A2-d-b*(bH:H)-A2 g-r-t TA-mt-i*i s-n-b sn*\!(n:nw*\!w) 
+          (zA:t)*\!A1-k'
+        \end{hieroglyph}%
+      }%
+    }
+  \end{minipage}
+  \begin{minipage}[t]{1cm}
+    \Centering
+    \lgn[enlarge bottom by=0ex]{B}\\
+    \reflectbox{%
+      \EnColonne[1.5\Htm]{%
+        \begin{hieroglyph}
+          nfr*\!(f:r)-Hr*1-n-nTr*aAv-G7 i*m-k' di'-f n-k' t:X2-X4 
+          A6-mw m-a-y*\!w-f sn*\!(n:nw*\!w)-y
+        \end{hieroglyph}%
+      }%
+    }
+  \end{minipage}
+  \begin{minipage}[t]{1cm}
+    \Centering
+    \lgn[enlarge bottom by=0ex]{A}\\
+    \reflectbox{%
+      \EnColonne[1.5\Htm]{%
+        \begin{hieroglyph}
+          anx*\!(n:x)-k' n H*Hz-z T-w (aA:a)*\!(A:t) G7
+        \end{hieroglyph}%
+      }%
+    }
+  \end{minipage}%
+  \hfill%
+  \begin{minipage}[t]{\linewidth-5cm}
+    \bigskip
+
+    \includegraphics[width=2cm, valign=b]{Chicago_OIM13945_jarre}
+    extrait de l'original en hiératique 
+    (col.~\lgn[enlarge bottom by=0ex]{A})
+  \end{minipage}
+
+  \begin{solution}
+    \rem{(Par \SL)}
+
+    \medskip
+
+    \tl{anx=k n(=i), Hs Tw aA.t\ex}
+
+    \td{Puisses-tu vivre pour moi de sorte que la Grande te favorise !}
+
+    \tg{Subjonctif initial + subjonctif dans une finale-consécutive}
+
+    \medskip
+
+    \tl{nfr-Hr n(y) nTr aA jm=k, d=f n=k t wab m a.wy=f sn.wy\ex}
+
+    \td{Que le visage-parfait du grand dieu soit en toi, de sorte 
+        qu'il te donne du pain pur de ses deux mains !}
+
+    \tg{PPA initiale + subjonctif séquentiel}
+
+    \medskip
+
+    \tl{j, dbH gr.t TAy snb sn-nw (n) sA.t=k\ex}
+
+    \td{Ô, demande de plus un second enfant mâle en bonne santé 
+        pour ta fille !}
+
+    \tg{Impératif}
+  \end{solution}
+
+  \begin{EnvFullwidth}
   \subsection*{Vocabulaire}
   \begin{multicols}{2}
     \begin{itemize}
-      \item \begin{hieroglyph}\end{hieroglyph}
+      \item \begin{hieroglyph}aA:a-A-t-G7\end{hieroglyph}
+            \tl{aA.t}, \td{la Grande (déesse)}\\
+            = Hathor dans le contexte
+      \item \begin{hieroglyph}wab-mw +l, +s A6-mw\end{hieroglyph}
             \tl{wab}, \td{pur}
-      \item \begin{hieroglyph}\end{hieroglyph}
-            \tl{aA.t}, \td{la Grande (déesse)} = Hathor dans le 
-            contexte
-      \item \begin{hieroglyph}\end{hieroglyph}
+      \item \begin{hieroglyph}anx-n:x\end{hieroglyph}
             \tl{anx}, \td{vivre}
-      \item \begin{hieroglyph}\end{hieroglyph}
+      \item \begin{hieroglyph}nfr-f:r-Hr-1\end{hieroglyph}
             \tl{nfr-Hr}, \td{le visage-parfait}, expression désignant 
             la bienveillance d'un dieu
-      \item \begin{hieroglyph}\end{hieroglyph}
+      \item \begin{hieroglyph}H-Hz-z-A2\end{hieroglyph}
             \tl{Hsi} \vi{3}, \td{favoriser}
-      \item \begin{hieroglyph}\end{hieroglyph}
-            \tl{}, \td{de plus}
-      \item \begin{hieroglyph}\end{hieroglyph}
+      \item \begin{hieroglyph}g:r:t\end{hieroglyph}
+            \tl{gr.t}, \td{de plus}
+      \item \begin{hieroglyph}t*X2:X4\end{hieroglyph}
             \tl{t}, \td{pain}
-      \item \begin{hieroglyph}\end{hieroglyph}
-            \tl{}, \td{(enfant) mâle}
-      \item \begin{hieroglyph}\end{hieroglyph}
-            \tl{} \vl{3}, \td{demander}
+      \item \begin{hieroglyph}TA-mt-i-i\end{hieroglyph}
+            \tl{TAy}, \td{(enfant) mâle}
+      \item \begin{hieroglyph}d-b-bH:H\end{hieroglyph}
+            \tl{dbH} \vl{3}, \td{demander}
     \end{itemize}
   \end{multicols}
+  \end{EnvFullwidth}
 \end{questions}

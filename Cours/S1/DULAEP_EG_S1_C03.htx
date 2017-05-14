@@ -261,15 +261,15 @@ La notation du pluriel comprend deux éléments :
 \begin{itemize}
   \item \clef{une notation phonétique}, celle du phonème \tl{w} 
         (unilitère \begin{hieroglyph}w\end{hieroglyph} ou 
-        \begin{hieroglyph}W\end{hieroglyph}), qui est facultative et 
-        qui se place \uline{toujours avant} le ou les déterminatifs 
+        \begin{hieroglyph}W\end{hieroglyph}), qui est facultative 
+        et qui se place \ul{toujours avant} le ou les déterminatifs 
         du mot.
   \item \clef{une notation graphique}, par l'utilisation d'un 
         déterminatif spécifique appelé \frquote{les trois traits 
         du pluriel} \begin{hieroglyph}3\end{hieroglyph} ou 
         \begin{hieroglyph}Z3A\end{hieroglyph} ou 
         \begin{hieroglyph}Z3\end{hieroglyph}. Ces trois traits 
-        du pluriel se placent \uline{systématiquement après} les 
+        du pluriel se placent \ul{systématiquement après} les 
         déterminatifs du mot. Ce déterminatif est toujours le dernier 
         signe d'un mot (sa présence indique donc de façon certaine 
         qu'on est à la fin d'un mot).
@@ -297,10 +297,9 @@ féminin)}. Si le pluriel n'est pas noté par la désinence \tl{.w},
 mais simplement par le déterminatif du pluriel, vous devez 
 translittérer de manière identique. 
 Ainsi : \begin{hieroglyph}W:t\end{hieroglyph} se translittère 
-\tl{bAk.wt} ou \tl{bAk.(w)t}. (et \uline{en aucun cas} 
-\tll{*}\tl{bAk.tw} puisque les traits du pluriel ne sont pas une 
-notation phonétique \tl{.w}, mais une indication d'ordre 
-sémantique -- idée de pluralité).
+\tl{bAk.wt} ou \tl{bAk.(w)t}. (et \ul{en aucun cas} \tll{*}\tl{bAk.tw} 
+puisque les traits du pluriel ne sont pas une notation phonétique 
+\tl{.w}, mais une indication d'ordre sémantique -- idée de pluralité).
 
 \begin{exercice}[title={Exercice :}]
   \label{exo:pluriel}

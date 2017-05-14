@@ -36,8 +36,8 @@ développée de la préposition \begin{hieroglyph}r\end{hieroglyph}
 et placées en tête de phrase.
 
 Étant donné le sens, la forme verbale dans les conditionnelles est 
-essentiellement le \clef{prospectif / subjonctif}, ou des propositions 
-adverbiales ou pseudo-verbale avec convertisseur subjonctif 
+essentiellement le \clef{prospectif~/ subjonctif}, ou des propositions 
+adverbiales ou pseudo-verbales avec convertisseur au subjonctif 
 \begin{hieroglyph}wn:n\end{hieroglyph} \tl{wn} (\td{que soit}) ou 
 au prospectif \begin{hieroglyph}wnn\end{hieroglyph} \tl{wnn}. Plus 
 rarement, on trouve la forme \tl{sDm.n=f} (comme expression d'une 
@@ -125,7 +125,7 @@ préposition-conjonction, assimilables, du point de vue de la syntaxe,
 moyens en égyptien ancien d'exprimer une circonstancielle.
 Bref rappel.
 
-\section{Les proposition circonstancielles consécutives au subjonctif 
+\section{Les propositions circonstancielles consécutives au subjonctif 
 (virtuelles)}
 % ---------------------------------------------------------------------
 Il s'agit de propositions, simplement juxtaposées à la proposition 
@@ -220,11 +220,11 @@ construction enchâssée, quand deux propositions se suivent et que :
 }
 
 Il est alors possible d'enchâsser la seconde dans la première, 
-c'est-à-dire que la proposition pseudo- verbale est intégrée à la 
-structure de la principale. Alors, la proposition enchâssée joue 
-alors le \clef{rôle de circonstancielle (ou de complétive)} de la 
-proposition considérée comme principale. La première est généralement 
-en seconde position, mais elle peut aussi précéder la principale.
+c'est-à-dire que la \PPP est intégrée à la structure de la principale. 
+Alors, la proposition enchâssée joue alors le \clef{rôle de 
+circonstancielle (ou de complétive)} de la proposition considérée 
+comme principale. La première est généralement en seconde position, 
+mais elle peut aussi précéder la principale.
 
 \begin{example}[title={Pseudo-verbale avec \tl{Xr} + infinitif}]
   \emph{Cet oasien vint\dots}

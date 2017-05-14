@@ -76,7 +76,7 @@ l'infinitif.
   \td{Le serviteur mange.}
 
   \tg{Analyse : auxiliaire indicatif + sujet + prédicat 
-      (\emph{\tl[Gramm]{Hr} + infinitif})}
+      (\emph{\tlg{Hr} + infinitif})}
 \end{example}
 
 Suivant les manuels ou grammaires, on appelle cette construction :
@@ -163,7 +163,7 @@ dans le cours de sa réalisation.
 + verbe à l'infinitif). Le temps de référence est donc celui de 
 l'énoncé. Avec l'auxiliaire indicatif \tl{jw} (ou d'autres 
 auxiliaires d'énonciation comme \tl{mk}), on considérera que ce 
-temps de référence est celui du locuteur, donc \uline{le présent}.
+temps de référence est celui du locuteur, donc \ul{le présent}.
 
 \donc{} La construction \tl{Hr} + infinitif correspond donc à notre 
 \textbf{présent de l'indicatif}, avec une restriction cependant. 
@@ -328,7 +328,8 @@ avec réduplication de la dernière radicale.
 (suffixes) et très rarement en moyen égyptien des augments (\emph{yod} 
 prothétique).
 
-\section{Classification des verbes (voir \Aref{anx:verbes_classif})}
+\renewcommand{\sectitre}{Classification des verbes}
+\section[\sectitre]{\sectitre{} (voir \Aref{anx:verbes_classif})}
 % ---------------------------------------------------------------------
 La nature des variations des thèmes verbaux de certains verbes a 
 permis aux grammairiens modernes d'établir une classification des 
@@ -427,7 +428,8 @@ Certains verbes d'emploi très fréquent présentent des caractéristiques
 morphologiques particulières : ils sont rattachés aux verbes faibles 
 \vi{3}, mais sont irréguliers.
 
-\section{L'infinitif (voir \Aref{anx:infinitif})}
+\renewcommand{\sectitre}{L'infinitif}
+\section[\sectitre]{\sectitre{} (voir \Aref{anx:infinitif})}
 % ---------------------------------------------------------------------
 Contrairement à la racine, l'infinitif est une forme du verbe utilisée 
 dans les textes. \frquote{L'infinitif est une forme substantive non 
@@ -521,7 +523,7 @@ d'adverbes ou de syntagmes adverbiaux :
 
 \begin{example}[title={}]
   *\begin{hieroglyph}
-    i-w-bA-k-A1-Hr-1-imi-m-A2-aA:a-A-N31
+    i-w-bA-k-A1-Hr-1-imi-m-A2-aA:a-A-wAt
   \end{hieroglyph}
 
   \tll{*}\tl{iw bAk Hr wnm aA}
@@ -592,7 +594,7 @@ pronom suffixe) :
 
   \begin{hieroglyph}m-D38:k-sw-Hr-1-imi-m-A2\end{hieroglyph}
 
-  \tl{mk sw Hr wnm \ex}
+  \tl{mk sw Hr wnm\ex}
 
   \td{Vois, il mange !}
 

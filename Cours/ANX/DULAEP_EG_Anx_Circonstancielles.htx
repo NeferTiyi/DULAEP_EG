@@ -1,0 +1,300 @@
+%!TEX root = DULAEP_EG.htx
+%##HieroDef.txt
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\chapter{Circonstancielles}
+\label{anx:circons}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\colorlet{temp}{yellow!33}
+\colorlet{caus}{PaleGreen!67}
+\colorlet{comp}{PaleTurquoise!67}
+\colorlet{cons}{LightRed!20}
+
+\newcommand{\temp}{\cellcolor{temp}}
+\newcommand{\caus}{\cellcolor{caus}}
+\newcommand{\comp}{\cellcolor{comp}}
+\newcommand{\cons}{\cellcolor{cons}}
+
+% \vfill
+
+{
+\smaller
+\hfill%
+% \noindent%
+\begin{sideways}
+  \begin{tabularx}{0.93\textheight}{|M{1.15cm}|*{11}{X|}}
+    \cline{2-12}
+        \multicolumn{1}{c|}{~} &
+        \textbf{\tl{sDmt=f} \tl{sDmyt=f}} &
+        \textbf{\tl{sDm.n=f} \tl{sDmw=f}} &
+        \textbf{\tl{mrr=f}} &
+        \textbf{Prosp.} &
+        \textbf{Subj.} &
+        \textbf{Inf.} &
+        \textbf{PPP subj.} &
+        \textbf{PPA subj.} &
+        \textbf{PPA} &
+        \textbf{PPN} &
+        \textbf{PPAdj}
+    \tabularnewline
+    \hline
+      \tl{m} &
+      \multicolumn{2}{c|}{\temp\td{après que}} &            % sDmt=f
+                                                            % acc.
+      \comp\td{comme} &                                     % mrr=f
+      \multicolumn{3}{c|}{\temp\td{quand}, \td{lorsque}} &  % prosp.
+                                                            % subj.
+                                                            % inf.
+      ~ &                                                   % PPP subj.
+      \temp\td{quand}, \td{lorsque} &                       % PPA subj.
+      \multicolumn{3}{c|}{~}                                % PPA
+                                                            % PPN
+                                                            % PPAdj
+    \tabularnewline
+    \hline
+      \tl{r} &
+      \temp\td{jusqu'à ce que} &                            % sDmt=f
+      \multicolumn{3}{c|}{~} &                              % acc.
+                                                            % mrr=f
+                                                            % prosp.
+      \multicolumn{2}{c|}{\cons\td{pour que}} &             % subj.
+                                                            % inf.
+      \multicolumn{5}{c|}{~}                                % PPP subj.
+                                                            % PPA subj.
+                                                            % PPA
+                                                            % PPN
+                                                            % PPAdj
+    \tabularnewline
+    \hline
+      \tl{m-xt} &
+      \multicolumn{7}{c|}{\temp\td{après que}} &            % sDmt=f
+                                                            % acc.
+                                                            % mrr=f
+                                                            % prosp.
+                                                            % subj.
+                                                            % inf.
+                                                            % PPP subj.
+      \multicolumn{4}{c|}{~}                                % PPA subj.
+                                                            % PPA
+                                                            % PPN
+                                                            % PPAdj
+    \tabularnewline
+    \hline
+      \tl{r-sA} &
+      \multicolumn{2}{c|}{~} &                              % sDmt=f
+                                                            % acc.
+      \multicolumn{2}{c|}{\temp\td{après que}} &            % mrr=f
+                                                            % prosp.
+      ~ &                                                   % subj.
+      \temp\td{après que} &                                 % inf.
+      \multicolumn{5}{c|}{~}                                % PPP subj.
+                                                            % PPA subj.
+                                                            % PPA
+                                                            % PPN
+                                                            % PPAdj
+    \tabularnewline
+    \hline
+      \tl{r-Tnw} &
+      \multicolumn{2}{c|}{~} &                              % sDmt=f
+                                                            % acc.
+      \temp\td{chaque fois que} &                           % mrr=f
+      ~ &                                                   % prosp.
+      \temp\td{chaque fois que} &                           % subj.
+      \multicolumn{6}{c|}{~}                                % inf.
+                                                            % PPP subj.
+                                                            % PPA subj.
+                                                            % PPA
+                                                            % PPN
+                                                            % PPAdj
+    \tabularnewline
+    \hline
+      \tl{xft} &
+      ~ &                                                   % sDmt=f
+      \multicolumn{6}{c|}{%                                 % acc.
+        \temp\td{comme}, \td{au moment où},                 % mrr=f
+        \td{lorsque}, \td{dès que}%                         % prosp.
+      } &                                                   % subj.
+                                                            % inf.
+                                                            % PPP subj.
+      \multicolumn{4}{c|}{~}                                % PPA subj.
+                                                            % PPA
+                                                            % PPN
+                                                            % PPAdj
+    \tabularnewline
+    \hline
+      \tl{tp-a} &
+      \multicolumn{4}{c|}{~} &                              % sDmt=f
+                                                            % acc.
+                                                            % mrr=f
+                                                            % prosp.
+      \multicolumn{2}{c|}{\temp\td{avant que}} &            % subj.
+                                                            % inf.
+      \multicolumn{5}{c|}{~}                                % PPP subj.
+                                                            % PPA subj.
+                                                            % PPA
+                                                            % PPN
+                                                            % PPAdj
+    \tabularnewline
+    \hline
+      \tl{Dr} &
+      \multicolumn{5}{c|}{%                                 % sDmt=f
+        \temp\td{avant que}, \td{dès que}, \td{depuis que}% % acc.
+      } &                                                   % mrr=f
+                                                            % prosp.
+                                                            % subj.
+      ~ &                                                   % inf.
+      \temp\td{avant que}, \td{dès que} &                   % PPP subj.
+      \multicolumn{4}{c|}{~}                                % PPA subj.
+                                                            % PPA
+                                                            % PPN
+                                                            % PPAdj
+    \tabularnewline
+    \hline
+      \tl{n} &
+      ~ &                                                   % sDmt=f
+      \multicolumn{4}{c|}{\caus\td{parce que}} &            % acc.
+                                                            % mrr=f
+                                                            % prosp.
+                                                            % subj.
+      \multicolumn{4}{c|}{~} &                              % inf.
+                                                            % PPP subj.
+                                                            % PPA subj.
+                                                            % PPA
+      \multicolumn{2}{c|}{\caus\td{parce que}}              % PPN
+                                                            % PPAdj
+    \tabularnewline
+    \hline
+      \tl{n-ior-n(y)} \tl{n-aA.t-n(y)} \tl{n-wr-n(y)}&
+      \multicolumn{2}{c|}{~} &                              % sDmt=f
+                                                            % acc.
+      \caus\td{tant} &                                      % mrr=f
+      \multicolumn{8}{c|}{~}                                % prosp.
+                                                            % subj.
+                                                            % inf.
+                                                            % PPP subj.
+                                                            % PPA subj.
+                                                            % PPA
+                                                            % PPN
+                                                            % PPAdj
+    \tabularnewline
+    \hline
+      \tl{Hr} &
+      ~ &                                                   % sDmt=f
+      \caus\td{parce que} &                                 % acc.
+      ~ &                                                   % mrr=f
+      \caus\td{parce que} &                                 % prosp.
+      ~ &                                                   % subj.
+      \caus\td{parce que} &                                 % inf.
+      \multicolumn{5}{c|}{~}                                % PPP subj.
+                                                            % PPA subj.
+                                                            % PPA
+                                                            % PPN
+                                                            % PPAdj
+    \tabularnewline
+    \hline
+      \tl{n-n(y).t} \tl{xft-n(y).t} \tl{Hr-n(y).t} &
+      \multicolumn{11}{c|}{\caus%                           % sDmt=f
+        \td{étant donné que}, \td{parce que}%               % acc.
+      }                                                     % mrr=f
+                                                            % prosp.
+                                                            % subj.
+                                                            % inf.
+                                                            % PPP subj.
+                                                            % PPA subj.
+                                                            % PPA
+                                                            % PPN
+                                                            % PPAdj
+    \tabularnewline
+    % \hline
+      \tl{Dr-n(y).t} &
+      \multicolumn{11}{c|}{\caus\td{puisque}}               % sDmt=f
+                                                            % acc.
+                                                            % mrr=f
+                                                            % prosp.
+                                                            % subj.
+                                                            % inf.
+                                                            % PPP subj.
+                                                            % PPA subj.
+                                                            % PPA
+                                                            % PPN
+                                                            % PPAdj
+    \tabularnewline
+    % \hline
+      \tl{m-a-n(y).t} &
+      \multicolumn{11}{c|}{\caus\td{vu que}}                % sDmt=f
+                                                            % acc.
+                                                            % mrr=f
+                                                            % prosp.
+                                                            % subj.
+                                                            % inf.
+                                                            % PPP subj.
+                                                            % PPA subj.
+                                                            % PPA
+                                                            % PPN
+                                                            % PPAdj
+    \tabularnewline
+    % \hline
+      \tl{r-n(y).t} &
+      \multicolumn{11}{c|}{\caus\td{à savoir que}}          % sDmt=f
+                                                            % acc.
+                                                            % mrr=f
+                                                            % prosp.
+                                                            % subj.
+                                                            % inf.
+                                                            % PPP subj.
+                                                            % PPA subj.
+                                                            % PPA
+                                                            % PPN
+                                                            % PPAdj
+    \tabularnewline
+    \hline
+      \tl{mi} &
+      \multicolumn{6}{c|}{\comp\td{comme}} &                % sDmt=f
+                                                            % acc.
+                                                            % mrr=f
+                                                            % prosp.
+                                                            % subj.
+                                                            % inf.
+      ~ &                                                   % PPP subj.
+      \comp\td{comme} &                                     % PPA subj.
+      \multicolumn{3}{c|}{~}                                % PPA
+                                                            % PPN
+                                                            % PPAdj
+    \tabularnewline
+    \hline
+      \tl{n-mrw.t} &
+      \multicolumn{3}{c|}{~} &                              % sDmt=f
+                                                            % acc.
+                                                            % mrr=f
+      \multicolumn{4}{c|}{%
+        \cons\td{dans le souhait de/que}%
+      } &                                                   % prosp.
+                                                            % subj.
+                                                            % inf.
+                                                            % PPP subj.
+      
+      \multicolumn{4}{c|}{~}                                % PPA subj.
+                                                            % PPA
+                                                            % PPN
+                                                            % PPAdj
+    \tabularnewline
+    \hline
+      \textbf{Négation \tl{n}} &
+      \temp\td{avant que} &                                 % sDmt=f
+      \multicolumn{10}{c|}{~}                               % acc.
+                                                            % mrr=f
+                                                            % prosp.
+                                                            % subj.
+                                                            % inf.
+                                                            % PPP subj.
+                                                            % PPA subj.
+                                                            % PPA
+                                                            % PPN
+                                                            % PPAdj
+    \tabularnewline
+    \hline
+  \end{tabularx}
+\end{sideways}
+\hfill%
+}

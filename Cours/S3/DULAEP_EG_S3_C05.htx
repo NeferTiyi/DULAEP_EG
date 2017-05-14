@@ -1,9 +1,9 @@
 %!TEX root = DULAEP_EG.htx
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\part[Fonctions substantives]{Fonctions substantives\\ 
-(\td{le fait qu'il écoute}, \td{le fait qu'il a écoute},\\ 
-\td{le fait qu'il écoutera})}
+\renewcommand{\sectitre}{Fonctions substantives}
+\part[\sectitre]{\sectitre{} \smaller(\td{le fait qu'il écoute}, 
+\td{le fait qu'il a écoute},\\\td{le fait qu'il écoutera})}
 \label{prt:S3_fct_subst}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -64,7 +64,7 @@ maintenant :
         substantives \td{le fait qu'il a écouté}
   \item le subjonctif \tl{sDm=f} aussi, \td{le fait qu'il puisse 
         écouter}
-  \item \emph{mais \uline{jamais} le \tl{sDm=f} aoriste}. Pourquoi ? 
+  \item \emph{mais \ul{jamais} le \tl{sDm=f} aoriste}. Pourquoi ? 
         Réponse tout à l'heure.
 \end{itemize}
 
@@ -86,14 +86,14 @@ mettre \emph{l'emphase} sur un membre de la phrase.
 
 Observez cet exemple en français :
 \begin{itemize}
-  \item phrase plane : \td{Il a accepté \uline{parce que tu es venu}.}
-  \item \td{C'est \uline{parce que tu es venu} qu'il a accepté.} 
+  \item phrase plane : \td{Il a accepté \ul{parce que tu es venu}.}
+  \item \td{C'est \ul{parce que tu es venu} qu'il a accepté.} 
         \quad\reflectbox{\donc} ici une construction que l'on 
         qualifierait d'emphatique.
 \end{itemize}
 
 Mais laissons cela de côté pour l'instant.
-Nous nous occupons des fonctions substantives \uline{simples} pour ce 
+Nous nous occupons des fonctions substantives \ul{simples} pour ce 
 cours. Chaque chose en son temps.
 
 
@@ -178,7 +178,7 @@ peuvent jouer le rôle de sujet, COD, génitif\dots
   \infos{\cite[§\,348]{Obsomer_2003}, \source{Kahun}, 6, 26}
 
   \td{le jour où elle enfantera}\\
-  (\td{\litt Le jour de le fait-qu'elle-enfantera})
+  (\td{\litt le jour de le fait-qu'elle-enfantera})
 \end{example}
 
 Vous percevez la gymnastique mentale à acquérir pour traduire ces 
@@ -208,17 +208,17 @@ En égyptien ancien, ces verbes introducteurs jussifs sont
 \tl{mri}, \td{souhaiter}, \td{désirer (que)}. 
 Si leur COD est une complétive, il n'y a pas d'élément introducteur 
 et le verbe utilisé est toujours le subjonctif (comme en français du 
-reste : \td{je veux \uline{(que) tu viennes}}).
+reste : \td{je veux \ul{(que) tu viennes}}).
 
 \begin{example}[title={}]
   \begin{hieroglyph}
     k:t n:t r:a:t di' z:t-B1 r tA:N23
   \end{hieroglyph}
 
-  \tl{k.t n(y).t rd.t \uline{di s.t} r t(A)}
+  \tl{k.t n(y).t rd.t \ul{di s.t} r t(A)}
 
-  \td{Autre (formule) pour faire en sorte \uline{qu'une femme 
-      mette} au monde.}
+  \td{Autre (formule) pour faire en sorte \ul{qu'une femme mette} 
+      au monde.}
 
   \tg{Subjonctif dans une complétive après un verbe opérateur 
       à l'infinitif, puisque, en fait, la proposition est un 
@@ -233,10 +233,10 @@ complétives au \titleref{bk:semestre4}.
     di' A1 sDm-m T:n:3
   \end{hieroglyph}
 
-  \tl{Di=i \uline{sDm=Tn}}
+  \tl{Di=i \ul{sDm=Tn}}
   \infos{\source{St. Caire~20538}, II, b, 9}
 
-  \td{Je veux faire en sorte \uline{que vous entendiez}.}
+  \td{Je veux faire en sorte \ul{que vous entendiez}.}
 
   \tg{Verbe initial = subjonctif en position initial ; 
       2\ieme~verbe = subjonctif dans une complétive.}
@@ -286,7 +286,7 @@ par une gémination pour les verbes faibles). Nous étudierons cette
 forme verbale plus tard dans le semestre. Comme son nom l'indique, 
 c'est une forme qui ne peut pas être celle d'un verbe en position 
 initiale, ou un verbe autonome. Elle fait en effet partie des formes 
-verbales qui sont \uline{toujours} dans des situations de dépendance 
+verbales qui sont \ul{toujours} dans des situations de dépendance 
 syntaxique (subordonnées).
 
 

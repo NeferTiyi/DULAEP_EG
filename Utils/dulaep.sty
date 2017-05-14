@@ -167,6 +167,7 @@
 
 \newcommand{\sectitre}{}
 \newcommand{\insertimg}{}
+\newcommand{\insertimgb}{}
 
 \newcommand{\addtolof}[1]{%
   \phantomsection
@@ -194,6 +195,8 @@
   \textcolor{red}{\td{#1}}%
 }
 
+\renewcommand{\tlg}[1]{\tl[Gramm]{#1}}
+
 \renewcommand{\infos}[1]{{\smaller\quad(#1)}}
 
 \newcommand{\doc}[1]{%
@@ -215,11 +218,21 @@
 \colorlet{fvdepd}{PaleTurquoise!67}
 \colorlet{fvtype}{LightGray!50}
 
+\colorlet{per}{yellow!33}
+\colorlet{imp}{PaleGreen!67}
+\colorlet{pro}{PaleTurquoise!67}
+
 \renewcommand{\PPA}[1][]{Proposition#1 à prédicat adverbial\xspace}
 \newcommand{\PPN}[1][]{Proposition#1 à prédicat nominal\xspace}
 \newcommand{\PPP}[1][]{Proposition#1 à prédicat pseudo-\-verbal\xspace}
 \newcommand{\PPV}[1][]{Proposition#1 à prédicat verbal\xspace}
 \newcommand{\PPJ}[1][]{Proposition#1 à prédicat adjectival\xspace}
+
+
+\newcommand{\DULA}{%
+  Mondes Antiques et Médiévaux. Langues Anciennes, 
+  Épigraphie, Papyrologie\xspace%
+}
 
 % \newcommand{\citeauthortitle}[2][]{%
 %   \citeauthor{#2}, \citetitle[#1]{#2}%
@@ -235,6 +248,7 @@
 \renewcommand\tabularxcolumn[1]{M{#1}}
 
 \newlength{\graphicwidth}
+\newlength{\graphicwidthb}
 
 
 \newcommand{\qfmt}[1]{{\large\bfseries#1}}

@@ -26,32 +26,33 @@
     \bfseries\td{donner}
   \tabularnewline
   \hline
-    \cellcolor{fvinit} & actif &
+    \cellcolor{per} & actif &
     \tl{sDm(w)} & \tl{mA(w)} & \tl{mr(w)} & \tl{rdi} / \tl{di}
   \tabularnewline
   \cline{2-6}
-    \cellcolor{fvinit}\multirow{-2}{*}{Accompli} & passif & 
+    \cellcolor{per}\multirow{-2}{*}{Accompli} & passif & 
     \tl{sDm}
 
     \smallskip
 
     \footnotesize Formes particulières :\\
-    \tl{wdd} (\tl{wD}) \\
-    \tl{rxxy} (\tl{rx}) \\
-    \tl{Ddd} (\tl{Dd}) &
+    \tl{wdd} (\tl{wD})\\ \tl{rxxy} (\tl{rx})\\ \tl{Ddd} (\tl{Dd}) &
     \tl{mA} & \tl{mry} & \tl{rdy}
   \tabularnewline
   \hline
-    \cellcolor{fvdepd} & actif &
+    \cellcolor{imp} & actif &
     \tl{sDm} & \tl{mAA} & \tl{mrr} & \tl{didi}
   \tabularnewline
   \cline{2-6}
-    \cellcolor{fvdepd}\multirow{-2}{*}{Inaccompli} & passif & 
+    \cellcolor{imp}\multirow{-2}{*}{Inaccompli} & passif & 
     \tl{sDmw} & \tl{mAA} & \tl{mrrw} & \tl{didi}
   \tabularnewline
   \hline
-    \cellcolor{fvmisc}Prospectif & passif & 
-    \tl{sDmy} & \tl{mAy} & \tl{mry} & \tl{dy}
+    \cellcolor{pro}Prospectif & passif & 
+    \tl{sDmy} \rem{(m)}\\ \tl{sDm.ti} \rem{(f)} &
+    \tl{mAy}  \rem{(m)}\\ \tl{mA.ti}  \rem{(f)} &
+    \tl{mry}  \rem{(m)}\\ \tl{mr.ti}  \rem{(f)} &
+    \tl{dy}   \rem{(m)}\\ \tl{di.ti}  \rem{(f)}
   \tabularnewline
   \hline
 \end{tabularx}
@@ -67,8 +68,19 @@
     \bfseries\td{donner}
   \tabularnewline
   \hline
-    \cellcolor{fvmisc}Prospectif & actif & 
-    \tl{sDm.ty=fy} & \tl{mAA.ty=fy} & \tl{mr.ty=fy} & \tl{rd.ty=fy}
+    \cellcolor{pro}Prospectif & actif & 
+    \tl{sDm.ty=fy} \rem{(m)} 
+    \tl{sDm.ty=sy} \rem{(f)} 
+    \tl{sDm.ty=sn} \rem{(p)} &
+    \tl{mAA.ty=fy} \rem{(m)} 
+    \tl{mAA.ty=sy} \rem{(f)} 
+    \tl{mAA.ty=sn} \rem{(p)} &
+    \tl{mr.ty=fy} \rem{(m)} 
+    \tl{mr.ty=sy} \rem{(f)} 
+    \tl{mr.ty=sn} \rem{(p)} &
+    \tl{rd.ty=fy} \rem{(m)} 
+    \tl{rd.ty=sy} \rem{(f)} 
+    \tl{rd.ty=sn} \rem{(p)}
   \tabularnewline
   \hline
 \end{tabularx}
@@ -87,16 +99,19 @@
     \bfseries\td{donner}
   \tabularnewline
   \hline
-    \cellcolor{fvinit}Accompli & \texttimes &
+    \cellcolor{per}Accompli & \texttimes &
     \tl{sDm(w).n=f} & \tl{mA(w).n=f} & \tl{mr(w).n=f} & \tl{rdi(w).n=f}
   \tabularnewline
   \hline
-    \cellcolor{fvdepd}Inaccompli & \texttimes &
+    \cellcolor{imp}Inaccompli & \texttimes &
     \tl{sDm(w)=f} & \tl{mAA(w)=f} & \tl{mrr(w)=f} & \tl{didi(w)=f}
   \tabularnewline
   \hline
     \cellcolor{fvmisc}Prospectif & \texttimes & 
-    \tl{sDmy=f} & \tl{mAy=f} & \tl{mry=f} & \tl{dy=f}
+    \tl{sDmy=f} \rem{(m)}\\ \tl{sDm.ti=f} \rem{(f)} &
+    \tl{mAy=f}  \rem{(m)}\\ \tl{mA.ti=f}  \rem{(f)} &
+    \tl{mry=f}  \rem{(m)}\\ \tl{mr.ti=f}  \rem{(f)} &
+    \tl{dy=f}   \rem{(m)}\\ \tl{di.ti=f}  \rem{(f)}
   \tabularnewline
   \hline
 \end{tabularx}

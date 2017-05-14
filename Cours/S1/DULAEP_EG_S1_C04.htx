@@ -19,8 +19,8 @@ rôle d'épithètes du nom (à l'intérieur du groupe nominal) ou
 \frquote{d'attribut du sujet} dans une phrase. Nous ne verrons 
 cet emploi qu'au \titleref{bk:semestre2}. Pour le moment, nous 
 nous intéressons à l'adjectif, à l'intérieur du groupe nominal 
-comme épithète du nom. Par exemple : \td{la \uline{grande} maison}, 
-\td{le \uline{grand} chapeau}.
+comme épithète du nom. Par exemple : \td{la \ul{grande} maison}, 
+\td{le \ul{grand} chapeau}.
 
 En égyptien ancien, il y a deux grands types d'adjectifs :
 \begin{itemize}
@@ -725,7 +725,7 @@ origine, quantité, caractéristique\dots
 Ex. \begin{hieroglyph}r:n n N36:1 p:n\end{hieroglyph} 
 \tl{rn n(y) mr pn} \td{le nom de ce canal}
 
-Ex. : \begin{hieroglyph}s-b-sbA-pr:3 nw-1 N31:t*1-Z3A\end{hieroglyph} 
+Ex. : \begin{hieroglyph}s-b-sbA-pr:3 nw-1 wAt:t*1-Z3A\end{hieroglyph} 
 \tl{sbA.w n(y).w wA.wt} \td{les portes des chemins}
 
 \bigskip

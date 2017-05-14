@@ -73,29 +73,30 @@
   \begin{parts}
     \part
     \begin{hieroglyph}
-      jw
-    \end{hieroglyph}
+      jw ir:n A1 pr:r:t wp-wAt:t*3-E18 w-DA-D54:f r n:\!nD t:f
+    \end{hieroglyph}\\
     \infos{Stèle d'Ikhernofret décrivant sa participation aux fêtes 
     d'Abydos en l'honneur d'Osiris}
 
-    \begin{solution}
-      \tl{iw ir.n=i pr.t wp-wA.wt, wDA=f r nD it=f\footnotemark{}}
+    \begin{notabene}
+      \begin{hieroglyph}t:f\end{hieroglyph} pour 
+      \begin{hieroglyph}i-t:f-A40-f\end{hieroglyph}
+    \end{notabene}
 
+    \begin{solution}
+      \tl{iw ir.n=i pr.t Wp-wA.wt, wDA=f r nD it=f}
 
       \td{J'ai accompli (participé à) la procession d'Oupouaout, 
           lorsqu'il s'avançait pour protéger son père.}
 
-      \tl{ir.n=i} : accompli \tl{sDm.n=f} en position initiale
-
-      \tl{wDA=f} : aoriste en fonction circonstancielle
-
-      \tl{nD} : infinitif
+      \tg{\tlg{ir.n=i} : accompli \tlg{sDm.n=f} en position initiale\\
+          \tlg{wDA=f} : aoriste en fonction circonstancielle\\
+          \tlg{nD} : infinitif}
     \end{solution}
-    \footnotetext{pour \begin{hieroglyph}w\end{hieroglyph}.}
 
     \part
     \begin{hieroglyph}
-      +l (\dots) +s
+      +l (\dots) +s gm-m-n:f sw-w Hr-1 pr:r-t:D54
     \end{hieroglyph}
     \infos{\CdP}
 
@@ -104,24 +105,24 @@
 
       \td{(\dots) je l'ai trouvé, alors qu'il sortait.}
 
-      Accompli \tl{sDm.n=f} dans un emploi prédicatif (\tl{gm.n=f}), 
-      + d'une séquentielle (construction pseudo-verbale, inaccompli 
-      progressif).
+      \tg{Accompli \tlg{sDm.n=f} dans un emploi prédicatif, suivi 
+          d'une séquentielle (construction pseudo-verbale, inaccompli 
+          progressif).}
 
-      On appelle cette construction une \frquote{construction 
-      enchâssée}, car le COD du verbe est le sujet de la séquentielle.
+      \begin{remarque}
+        On appelle cette construction une \frquote{construction 
+        enchâssée}, car le COD du verbe est le sujet de la 
+        séquentielle.
+      \end{remarque}
     \end{solution}
 
     \part Début du texte de la stèle de Semna dans lequel le pharaon 
     Sésostris~III expose son action en Nubie.
-    Traduire de la ligne~4 jusqu'à \begin{hieroglyph}\end{hieroglyph} 
+    Traduire de la ligne~4 jusqu'à 
+    \begin{hieroglyph}i-t:f-D40-Z3-A1\end{hieroglyph}
     (pour le début, voir exercice de l'année précédente).
 
     \includegraphics[width=8cm]{Berlin_1157_Semna_cintre}
-
-    \begin{hieroglyph}
-      jw
-    \end{hieroglyph}
 
     \begin{solution}
       \tl{iw ir.n=i tAS=i, xnt=i it.w=i}
@@ -129,9 +130,8 @@
       \td{J'ai établi ma frontière, alors que je naviguais au sud 
           de mes pères.}
 
-      \tl{ir.n=i} : accompli en position initiale
-
-      \tl{xnt=i} : aoriste en fonction circonstancielle
+      \tg{\tlg{ir.n=i} : accompli en position initiale\\
+          \tlg{xnt=i} : aoriste en fonction circonstancielle}
     \end{solution}
   \end{parts}
 \end{questions}
@@ -139,40 +139,40 @@
 \subsection*{Vocabulaire}
 \begin{multicols}{2}
   \begin{itemize}
-    \item \begin{hieroglyph}\end{hieroglyph}
+    \item \begin{hieroglyph}ir\end{hieroglyph}
           \tl{iri} \vi{3}, \td{faire}, \td{accomplir}, 
           \td{passer (du temps)}
-    \item \begin{hieroglyph}\end{hieroglyph}
+    \item \begin{hieroglyph}wa:W:\!a-G36\end{hieroglyph}
           \tl{wai} \vi{3}, \td{être seul}
-    \item \begin{hieroglyph}\end{hieroglyph}
-          \tl{wDA} \vl{3}, \td{s'avancer}
-    \item \begin{hieroglyph}\end{hieroglyph}
-          \tl{pH} \vl{2}, \td{atteindre}
-    \item \begin{hieroglyph}\end{hieroglyph}
-          \tl{nD} \vl{2}, \td{protéger}
-    \item \begin{hieroglyph}\end{hieroglyph}
+    \item \begin{hieroglyph}wp-wAt:t*3-E18\end{hieroglyph}
+          \tl{Wp-wA.wt}, \td{Oupouaout}
+    \item \begin{hieroglyph}M42-A2\end{hieroglyph}
           graphie de \tl{wnm}, \td{manger}
-    \item \begin{hieroglyph}\end{hieroglyph}
+    \item \begin{hieroglyph}wD-w-D:\!\!\!Y1\s1\end{hieroglyph}
           \tl{wD}, \td{ordonner}
-    \item \begin{hieroglyph}\end{hieroglyph}
-          \tl{fnD}, \td{narine}
-    \item \begin{hieroglyph}\end{hieroglyph}
-          \tl{}, \td{Oupouaout}
-    \item \begin{hieroglyph}\end{hieroglyph}
+    \item \begin{hieroglyph}w-DA-D54\end{hieroglyph}
+          \tl{wDA} \vl{3}, \td{s'avancer}
+    \item \begin{hieroglyph}pr:r:t-D54:Hb\end{hieroglyph}
           \tl{pr.t}, \td{sortie}, \td{procession}
-    \item \begin{hieroglyph}\end{hieroglyph}
+    \item \begin{hieroglyph}p-H-pH:D54\end{hieroglyph}
+          \tl{pH} \vl{2}, \td{atteindre}
+    \item \begin{hieroglyph}fnd-1\end{hieroglyph}
+          \tl{fnD}, \td{narine}
+    \item \begin{hieroglyph}n:N41-m-D40\end{hieroglyph}
           \tl{nHm} \vl{3}, \td{prendre}, \td{s'emparer de}
-    \item \begin{hieroglyph}\end{hieroglyph}
-          \tl{HH}, \td{Heh} (toponyme)
-    \item \begin{hieroglyph}\end{hieroglyph}
+    \item \begin{hieroglyph}nD-nw:\!D40\end{hieroglyph}
+          \tl{nD} \vl{2}, \td{protéger}
+    \item \begin{hieroglyph}H-H-xAst\end{hieroglyph}
+          \tl{@H}, \td{Heh} (toponyme)
+    \item \begin{hieroglyph}xnt-n:t-P1\end{hieroglyph}
           \tl{xnti} \vi{4}, \td{naviguer (vers le sud)}
-    \item \begin{hieroglyph}\end{hieroglyph}
+    \item \begin{hieroglyph}s-n:\!b-Y1v\end{hieroglyph}
           \tl{snb}, \td{être en bonne santé}
-    \item \begin{hieroglyph}\end{hieroglyph}
+    \item \begin{hieroglyph}gb-b-A40\end{hieroglyph}
           \tl{Gb}, \td{Geb}
-    \item \begin{hieroglyph}\end{hieroglyph}
+    \item \begin{hieroglyph}gm-m\end{hieroglyph}
           \tl{gmi} \vi{3}, \td{trouver}
-    \item \begin{hieroglyph}\end{hieroglyph}
+    \item \begin{hieroglyph}t-U30-A-S:Z9*N23\end{hieroglyph}
           \tl{tAS}, \td{frontière}
   \end{itemize}
 \end{multicols}

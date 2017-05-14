@@ -40,15 +40,15 @@ complexes.
 
 Le génitif est le cas du complément de nom. Un substantif peut être 
 précisé par un autre substantif qui lui sert alors de complément : 
-\td{la maison \textbf{de mon \uline{oncle}}}. Deux constructions 
-sont possibles en égyptien ancien : une construction directe appelée 
+\td{la maison \textbf{de mon \ul{oncle}}}. Deux constructions sont 
+possibles en égyptien ancien : une construction directe appelée 
 \clef{génitif direct}, une construction indirecte appelée 
 \clef{génitif indirect}.
 
 \section{Génitif direct}\label{sec:gen_direct}
 % ---------------------------------------------------------------------
 % \paragraph{Génitif direct :} 
-Cette construction est utilisée en cas de \uline{lien fort} entre 
+Cette construction est utilisée en cas de \ul{lien fort} entre 
 les deux éléments. Elle consiste à simplement juxtaposer les deux 
 substantifs. Cette construction est fréquente dans les titres de 
 fonctionnaires et dans quelques expressions courantes.
@@ -68,7 +68,7 @@ divines ou royales, ainsi que dans la formation de certains titres.
   ou \clef{l'inversion respectueuse}}\\
   Si le complément de nom (construit au génitif direct) est un 
   être royal ou divin, il est d'usage d'écrire le complément de nom 
-  \uline{avant} le substantif qu'il complète, afin de respecter la 
+  \ul{avant} le substantif qu'il complète, afin de respecter la 
   préséance.
 
   \begin{example}[title={Exemples :}]
@@ -83,9 +83,9 @@ divines ou royales, ainsi que dans la formation de certains titres.
   \end{example}
 
   Notez bien que l'antéposition honorifique est un 
-  \uline{\emph{procédé graphique}} et ne renvoie pas à une inversion 
-  des mots dans la prononciation. On translittère donc dans l'ordre 
-  normal commandé par la syntaxe.
+  \ul{\emph{procédé graphique}} et ne renvoie pas à une inversion des 
+  mots dans la prononciation. On translittère donc dans l'ordre normal 
+  commandé par la syntaxe.
 \end{notabene}
 
 \begin{remarque}
@@ -135,7 +135,7 @@ nisbé \tl{n(y)} (\td{qui appartient à}, \td{qui est en relation avec},
   \begin{hieroglyph}r:n n N36:1 p:n\end{hieroglyph} 
   \tl{rn n(y) mr pn}, \td{le nom de ce canal}
 
-  \begin{hieroglyph}s-b-sbA-pr:3 nw-1 N31:t*1-Z3A\end{hieroglyph} 
+  \begin{hieroglyph}s-b-sbA-pr:3 nw-1 wAt:t*1-Z3A\end{hieroglyph} 
   \tl{sbA.w n(y).w wA.wt}, \td{les portes des chemins}
 \end{example}
 
@@ -176,7 +176,7 @@ premier. Cet usage est fréquent dans les épithètes divines.
 \label{cha:coord}
 % =====================================================================
 
-Deux substantifs peuvent être coordonné (\td{mon frère \uline{et} ma 
+Deux substantifs peuvent être coordonné (\td{mon frère \ul{et} ma 
 s{\oe}ur}). En égyptien ancien, la coordination s'exprime le plus 
 souvent par une simple juxtaposition.
 

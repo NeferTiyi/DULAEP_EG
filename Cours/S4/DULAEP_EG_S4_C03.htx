@@ -1,8 +1,11 @@
 %!TEX root = DULAEP_EG.htx
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\part[Les participes \tl{sDm(w)}]
-     {Les participes \tl{sDm(w)} (\td{écoutant}, \td{qui écoute})}
+\renewcommand{\sectitre}{%
+  Formes adjectivales du verbe~(1) --- Participes%
+}
+\part[\sectitre]
+     {\sectitre\\\tl{sDm(w)} \smaller(\td{écoutant}, \td{qui écoute})}
 \label{prt:S4_prtcp}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -40,9 +43,11 @@ peut en distinguer trois sortes :
         les \textbf{participes}, les \textbf{formes relatives}, 
         mais aussi des \textbf{propositions subordonnées relatives} 
         (véritables si l'on veut) introduites par un relatif \tl{nty} 
-        et son équivalent négatif \tl{iwty}. C'est donc sur ces 
-        adjectivales que nous allons nous attarder à présent.
+        et son équivalent négatif \tl{iwty}.
 \end{enumerate}
+
+C'est donc sur ces adjectivales que nous allons nous attarder à 
+présent.
 
 \paragraph{Indications bibliographiques :}
 \cites[leçon~40 (participes actifs)]{GM}
@@ -119,7 +124,7 @@ avec lui.
 Mais le participe peut assumer d'autres fonctions remplies par 
 l'adjectif en égyptien :
 \begin{itemize}
-  \item prédicat d'une \PPA (en ce cas, il est invariable, 
+  \item prédicat d'une \PPJ (en ce cas, il est invariable, 
         voir \Pref{prt:PPJ}, \titleref{bk:semestre2}) ;
   \item substantif : \tl{nfr.t} \frquote{la belle} ; 
         \tl{mr(w).t} \frquote{l'aimée}.
@@ -165,7 +170,7 @@ participes :
 morphologie et aspect}
 % =====================================================================
 
-\emph{Voir tableau des participes.}
+\emph{Voir tableau des participes, en \Aref{anx:participes}.}
 
 \section{Accompli}
 % ---------------------------------------------------------------------
@@ -213,7 +218,7 @@ irréguliers.
     i-1 SA-A-b-t-tyw-xt:N33A ir-i-i n +l\ \emph{N.} +s p:n
   \end{hieroglyph}
 
-  \tl{i SAbtyw \red{iry} n N pn \ex}
+  \tl{i SAbtyw \red{iry} n N pn\ex}
   \infos{\CTx{VI}, 2\,a/B2L}
 
   \td{ô chaouabty \red{fait} pour ce \emph{N.} !}
@@ -374,7 +379,7 @@ distribué entre différents acteurs.
     nTr-nTr-nTr s nb-w
   \end{hieroglyph}
 
-  \tl{+DHwty-Htp \red{mry} n(y)-sw.t, \red{mrrw} niw.t=f, 
+  \tl{+Hwty-Htp \red{mry} n(y)-sw.t, \red{mrrw} niw.t=f, 
       \red{Hssw} nTr.w=s nb.w}
   \infos{\urk{VII}, 49, 2--3}
 

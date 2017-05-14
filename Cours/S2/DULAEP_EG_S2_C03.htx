@@ -391,7 +391,7 @@ verbes faibles et les \vg{2} font la gémination
               imi-m-n':k t:n-nm-m-W-D54
             \end{hieroglyph}
 
-            \tl{im=k tnmw \ex}
+            \tl{im=k tnmw\ex}
 
             \td{Puisses-tu ne pas t'égarer !}\footnotemark{}
           \end{example}
@@ -417,7 +417,7 @@ suivi généralement du subjonctif :
 \begin{example}[title={}, breakable]
   \begin{hieroglyph}i-m-M:di' sDm-m f\end{hieroglyph}
 
-  \tl{imi sDm=f \ex}
+  \tl{imi sDm=f\ex}
 
   \td{Fais qu'il entende !}
 
@@ -425,7 +425,7 @@ suivi généralement du subjonctif :
 
   \begin{hieroglyph}i-m-M:a r:x-Y1 :f r:n k\end{hieroglyph}
 
-  \tl{imi rx=f rn=k \ex}
+  \tl{imi rx=f rn=k\ex}
   \infos{\CdS}
 
   \td{Fais en sorte qu'il connaisse ton nom !}
@@ -438,7 +438,7 @@ La négation de cette tournure s'obtient au moyen du vétitif du verbe
 \begin{example}[title={}, breakable]
   \begin{hieroglyph}i-m-M:di' sDm-m f\end{hieroglyph}
 
-  \tl{m rd(w) sDm=tw n=sn \ex}
+  \tl{m rd(w) sDm=tw n=sn\ex}
 
   \td{Ne fais pas en sorte qu'on les écoute !}
   = \td{Qu'on ne les écoutent pas !}

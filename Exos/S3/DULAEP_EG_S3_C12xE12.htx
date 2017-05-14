@@ -11,27 +11,47 @@
   \begin{parts}
 
     \part
-1.
     \begin{hieroglyph}
+      m-k s-mn:n-x-mnx n +l \tl{(=j)} +s T-w m H-A-t*N23:3 
+      m r:T-A1-B1-Z3 m mn:n-mn:n-t-E1-Z3 +l (\dots) +s-!
+      n-mr-t-\!w ir:k n A1 x-t:Y1
     \end{hieroglyph}
 
     \begin{solution}
+      \tl{mk, smnx.n(=i) \remg{(\tlg{sDm.n=f} accompli initial)} 
+          Tw m Ah.wt, m rmT, m mnmn.t (\dots) m-mrw.t ir=k 
+          \remg{(subjonctif, régime de préposition-conjonction)} 
+          n=i x.t}
+
+      \td{Vois, je t'ai pourvu en champs, personnel, bétail (\dots) 
+          afin que tu fasses pour moi les rites.}
     \end{solution}
 
     \part
-2.
     \begin{hieroglyph}
+      nn h-A-i-i-A1 r w-H-A-w-t:nb:3 Hr:1-ntyt w-i-A1 r:x-Y1-k-w-i 
+      r:n-r:n-r:n T:n:3
     \end{hieroglyph}
 
     \begin{solution}
+      \tl{nn hAy \remg{(prospectif initial)} r wHA.wt nb.w(t) 
+          Hr-nt(y).t wj rx.kwi \remg{(parfait ancien dans 
+          circonstancielle véritable)} rn.w=Tn}
+
+      \td{Je ne tomberai dans aucun chaudron, puisque je connais 
+          vos noms.}
     \end{solution}
 
     \part
-3.
     \begin{hieroglyph}
+      m-D54:3 U3 T:n:3 mn:nw*nw*nw p:n nfr
     \end{hieroglyph}
 
     \begin{solution}
+      \tl{mi \remg{(impératif)}, mA=Tn \remg{(subjonctif séquentiel)} 
+          mnw pn nfr\ex}
+
+      \td{Venez, de sorte que vous voyiez ce monument parfait !}
     \end{solution}
   \end{parts}
 \end{questions}
@@ -39,13 +59,13 @@
 \subsection*{Vocabulaire}
 \begin{multicols}{2}
   \begin{itemize}
-    \item \begin{hieroglyph}\end{hieroglyph}
+    \item \begin{hieroglyph}w-H-A-t:nb\end{hieroglyph}
           \tl{wHA.t}, \td{chaudron}
-    \item \begin{hieroglyph}\end{hieroglyph}
+    \item \begin{hieroglyph}mn:n-mn:n-t-E1:Z3\end{hieroglyph}
           \tl{mnmn.t}, \td{troupeau}, \td{bétail}
-    \item \begin{hieroglyph}\end{hieroglyph}
+    \item \begin{hieroglyph}H-A-t*N23:3\end{hieroglyph}
           graphie de \tl{AH.t}, \td{champs}
-    \item \begin{hieroglyph}\end{hieroglyph}
+    \item \begin{hieroglyph}s-mn:n-x:mnx\end{hieroglyph}
           \tl{smnx}, \td{pourvoir}, \td{rendre excellent}, \td{établir}
   \end{itemize}
 \end{multicols}

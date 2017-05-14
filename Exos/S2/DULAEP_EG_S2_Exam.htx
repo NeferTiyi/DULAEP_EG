@@ -23,11 +23,11 @@ dictionnaires.
   dans les déserts de l'est. Pour faire l'exercice, vous pouvez vous 
   reporter à la transcription hiéroglyphique jointe.
 
-  {\RaggedLeft%
+  \begin{FlushRight}
     fig.~1\quad\includegraphics[width=0.67\linewidth]{Khnoumhotep_1}\\
-    fig.~2\quad\includegraphics[width=0.50\linewidth]{Khnoumhotep_2}
-    \par
-  }
+    fig.~2\quad\includegraphics[width=0.50\linewidth]{Khnoumhotep_2}%
+    \par%
+  \end{FlushRight}
 
   Transcription de la ligne~1 à traduire : 
   \reflectbox{%
@@ -76,7 +76,7 @@ dictionnaires.
     \part Stèle de Ouha (Chicago \inv{OIM\,16956}), ligne~3, extrait 
     de l'inscription autobiographique
 
-    {\RaggedLeft%
+    \begin{FlushRight}
       \includegraphics[width=0.67\linewidth]{Chicago_OIM16956_Ouha}
 
       \reflectbox{%
@@ -84,7 +84,7 @@ dictionnaires.
           nw:k mr-i-i n:t:f-A50:f Hz-i-i n mwt-\!\!t:.-B1:f
         \end{hieroglyph}%
       }\par
-    }
+    \end{FlushRight}
 
     \begin{solution}
       \tl{ink mry n(y) it=f, Hsy n(y) mw.t=f}
@@ -138,7 +138,7 @@ dictionnaires.
     \end{hieroglyph}
 
     \begin{solution}
-      \tl{bin.wi md.wt=k \ex}
+      \tl{bin.wi md.wt=k\ex}
 
       \td{Comme tes paroles sont mauvaises !}
 

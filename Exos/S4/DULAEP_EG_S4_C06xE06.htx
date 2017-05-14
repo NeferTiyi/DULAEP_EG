@@ -1,0 +1,110 @@
+%!TEX root = DULAEP_EG_Exos.htx
+
+\chapter*{Exercice~6}\label{cha:ExoS4x06}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{Finir la stèle de Sakherti} (\Cref{cha:ExoS4x04}), en 
+  particulier les deux colonnes plus petites et la portion de texte en 
+  colonne hors colonne.
+
+  \begin{solution}
+  \end{solution}
+
+  \question\qfmt{Stèle du \emph{haty-â} (prince local) Nakht 
+  (\source{BM~\inv{EA\,143}})}\\
+  Translittérer, analyser et traduire la totalité
+
+  \includegraphics[width=0.75\linewidth]{BM_EA143_2}
+
+  \begin{solution}
+
+    \begin{minipage}[t]{0.33\linewidth}
+      \tl{\lgn{1}Htp-di-nsw (n)}
+
+      \td{Offrande que donne le roi (à)}
+    \end{minipage}%
+    \hfill%
+    ou %
+    \hfill%
+    \begin{minipage}[t]{0.4\linewidth}
+      \tl{\lgn{1}di-nsw-Htp}
+
+      \td{Fasse le roi que s'apaise}
+    \end{minipage}
+
+    \tl{Wsir nb +dw, nTr aA nb AbDw, di=f pr.t-xrw (m) t Hno.t iH Apd 
+        Ss mnx x.t nb.t \lgn{2} nfr.t wab.t anx.t im, didi.t p.t, 
+        omA.t tA, inn.t Hapy m di-nsw-Htp \lgn{3} TAw n(y) anx, 
+        nDm-sty snTr wab, n kA n(y) HAty-a Nxti mAa-xrw, ms.n Nxti 
+        mAa.t-xrw}
+
+    \td{Osiris, seigneur de Bousiris, le grand dieu, seigneur 
+        d'Abydos, de sorte qu'il accorde une offrande invocatoire 
+        (consistant en) pain, bière, b{\oe}uf, oiseau, pièce 
+        d'albâtre, pièce de tissu et toute chose parfaite et pure 
+        dont vit un dieu, ce que le ciel donne, ce que la terre crée, 
+        ce que la crue apporte en tant que \emph{di-nesou-hetep}, le 
+        souffle de vie, doux d'odeur l'encens pur, pour le ka du maire 
+        Nakhti juste de voix, qu'a mis au monde Nakhti juste de voix.}
+
+    \tg{Formule \emph{di-nesou-hotep} ou \emph{hotep-di-nesou} 
+        (voir les deux lectures admises), avec :
+        \begin{itemize}
+          \item \tlg{\ul{di=f}} : subjonctif en position séquentielle 
+                (fonction circonstancielle), finale consécutive
+          \item \tlg{\ul{anx.t im}} : forme relative inaccomplie (ou 
+                \tlg{anx.t(i)} prospective \td{dont vivra un dieu})
+          \item \tlg{\ul{didi.t p.t, omA.t tA, inn.t Hapy}} : 
+                trois formes relatives inaccomplies substantivées 
+                (\td{ce que}) ou épithète de \tlg{x.t} (\td{(toute) 
+                chose \dots que donne le ciel, etc.})
+          \item \tlg{\ul{ms.n}} : forme relative accomplie
+          \item \tlg{\ul{nDm-sty}} : pose une difficulté. 
+                Dans le \citetitle{EG} l'expression est recensée 
+                \td{doux d'odeur}, en particulier avec l'encens 
+                \tlg{snTr}, mais les exemples donnés placent 
+                \tlg{nDm-sty} après \tlg{snTr}
+        \end{itemize}
+        }
+  \end{solution}
+
+  \subsection*{Vocabulaire}
+  \begin{multicols}{2}
+    \begin{itemize}
+      \item \begin{hieroglyph}ini\end{hieroglyph}
+            \tl{ini} \va{}, \td{apporter}
+      \item \begin{hieroglyph}m-sw-t:Htp-di\end{hieroglyph}
+            \tl{m Htp-di-nsw}, \td{en tant que \emph{hotep-di-nésou}}
+      \item \begin{hieroglyph}mAa:t:xrw\R-90\end{hieroglyph}
+            \tl{mAa.t-xrw}, \td{justifiée de voix}, \td{juste de voix}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{mw.t}, \td{mère}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{mna.t}, \td{nourrice}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{nb.t-pr}, \td{maîtresse de maison}
+      \item \begin{hieroglyph}H-a-p:N36\end{hieroglyph}
+            \tl{Hapy}, \td{la crue}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{Hm.t}, \td{épouse}
+      \item \begin{hieroglyph}nTr-sn-n:T:r-N33:N33:N33\end{hieroglyph}
+            \tl{snTr}, \td{encens}
+      \item \begin{hieroglyph}z:t:Aa2\end{hieroglyph}
+            \tl{sty}, \td{odeur}
+      \item \begin{hieroglyph}q-mA-A-T14-Y1v\end{hieroglyph}
+            \tl{omA} \vl{3}, \td{créer}
+      \item \begin{hieroglyph}TAw-w\end{hieroglyph}
+            \tl{TAw (n(y) anx)}, \td{souffle (de vie)}
+    \end{itemize}
+    \paragraph{Noms des personnages féminins}
+    \begin{itemize}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{}, \td{Nakhti}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{}, \td{Isis}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{}, \td{Nébout}
+    \end{itemize}
+  \end{multicols}
+\end{questions}

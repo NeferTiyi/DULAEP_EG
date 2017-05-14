@@ -1,0 +1,66 @@
+%!TEX root = DULAEP_EG_Exos.htx
+
+\chapter*{Exercice~5}\label{cha:ExoS4x05}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{Translittérer, analyser et traduire}
+
+  \begin{parts}
+    \part extrait de la grande inscription de la tombe de 
+    Khnoumhotep~II à Béni Hassan
+
+    \includegraphics[scale=0.75]{KhnoumhotepII_2}
+    \includegraphics[scale=0.75]{KhnoumhotepII_1}
+
+    \begin{solution}
+      \tl{sA nHri \$nm-Htp}
+
+      \td{le fils de Neheri, Khnoumhotep}
+
+      \tl{isT sA pw mnx srwd rn n(y) tp(y).w-a, NHr sA, \$nm-Htp 
+          mAa-xrw nb imAx}
+
+      \td{Or, c’est un fils efficient qui renforce le nom des 
+          ancêtres, le fils de Néhéri, Khnoumhotep.}
+
+      \tg{\PPN, avec un participe épithète du nom \frquote{fils} 
+          (\tlg{sA}).}
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}
+      r:S-D19-A2-w-\!y:. Dd'-d:y n:f M22-M22
+    \end{hieroglyph}\\
+    \infos{\cite[exercice~\textsc{xxvi}.1]{Gardiner}}
+
+    \begin{solution}
+      \tl{rS.wy Dddy n=f nn}
+
+      \td{Combien est content celui à qui cela a été dit !}
+
+      \tg{\PPJ, avec désinence exclamative -- Le sujet est un 
+          participe passif accompli (forme particulière archaïque, 
+          voir cours) en construction indirecte.}
+    \end{solution}
+  \end{parts}
+
+  \subsection*{Vocabulaire}
+  \begin{multicols}{2}
+    \begin{itemize}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{mnx}, \td{efficace}, \td{efficient}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{srwD}, \td{renforcer}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{tpy.w-a}, \td{ceux qui viennent avant}, 
+            \td{les ancêtres}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{sA NHri \$nm-Htp}, \td{le fils de Neheri, Khnoumhotep}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{rSw}, \td{se réjouir}, \td{être réjoui, content}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{}, \td{}
+    \end{itemize}
+  \end{multicols}
+\end{questions}

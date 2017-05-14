@@ -1,0 +1,110 @@
+%!TEX root = DULAEP_EG_Exos.htx
+
+\chapter*{Exercice~1}\label{cha:ExoS4x01}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{Translittérer, analyser et traduire les phrases 
+  suivantes}
+
+  \begin{parts}
+    \part
+    \begin{hieroglyph}
+      r:di' n:f h-A-D54-i-i-A1 r O44-t:1 t:n
+    \end{hieroglyph}
+
+    \begin{solution}
+      \tl{rdi.n=f hAy=i r iA.t tn}
+
+      \td{\litt \clel{Le fait qu'il a fait en sorte que tu descendes} 
+          EST \blue{vers cette fonction}.}
+
+      \tg{Proposition avec une construction emphatique 
+          (temps second\footnotemark{})\\
+          \clel{Sujet = \tl[ClefCol]{sDm.n=f} en fonction nominale 
+          emphatique}\\
+          \blue{Prédicat = groupe prépositionnel (prédicat adverbial)}}
+
+      \td{C'est cette fonction qu'il a fait en sorte que j'atteigne.}
+    \end{solution}
+    \footnotetext{Proposition argumentative dans la terminologie de 
+    \citeauthor{GM}}
+
+    \part
+    \begin{hieroglyph}
+      i-m-M:a r:x-Y1:f r:n:k
+    \end{hieroglyph}
+
+    \begin{solution}
+      \tl{im rx=f rn=k}
+
+      \td{Fais en sorte qu'il connaisse ton nom.}
+
+      \tg{Impératif suivi d'une proposition complétive au subjonctif.}
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}
+      di':f ir:i*i A1 rnp-t-1 3 aSA-A-\!3:. m Tz:z-W-D40:\!A1\s1 
+      n mSa-3:f
+    \end{hieroglyph}
+
+    \begin{solution}
+      \tl{di=f iry=i rnp.wt aSA.w(t) m Tsw n mSa=f}
+
+      \td{Puisse-t-il fait en sorte que je passe de nombreuses années 
+          en tant que commandant de l'armée.}
+
+      \tg{Verbe initial = subjonctif ; Suivi d'une complétive au 
+          subjonctif}
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}
+      wD-W-Y1 g-r:t Hm-1:k r:di':t ini-n:t:f m:a-k-i-T14-A1 
+      m qd-d-m-a:xAst
+    \end{hieroglyph}
+
+    \begin{solution}
+      \tl{wD gr.t Hm=k rdi.t int=f Mki m Odm}
+
+      \td{Puisses de plus Ta Majesté ordonner de faire encore qu'il 
+          amène Méki à Qédem.}
+
+      \tg{verbe initial = subjonctif, suivi d'un infinitif 
+          (\tlg{rdi.t}), lui-même introduisant une complétive 
+          au subjonctif (\tlg{int=f})}
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}
+      i-+l$\Big<$+s-w-+l$\Big>$+s k r:x:t n:t:t Dd' n 
+      +l\ \emph{N.} +s r zA-A1-f
+    \end{hieroglyph}
+    (\emph{N.} indique le nom d'une personne)
+
+    \begin{solution}
+      \tl{i<w>=k rx.t(i) nt(y).t Dd.n N r sA=f}
+
+      \td{Tu sais que/ce que \emph{N.} a dit au sujet de son fils : 
+          \dots}
+
+      \tg{Phrase pseudo-verbale (parfait ancien), avec une complétive 
+          introduite par \tlg{nt(y).t}}
+    \end{solution}
+  \end{parts}
+
+  \subsection*{Vocabulaire}
+  \begin{multicols}{2}
+    \begin{itemize}
+      \item \begin{hieroglyph}m:a-k-i-T14-A1\end{hieroglyph}
+            \tl{Mki}, \td{Méki} (anthroponyme)
+      \item \begin{hieroglyph}mSa-Z3A\end{hieroglyph}
+            \tl{mSa}, \td{armée}
+      \item \begin{hieroglyph}qd-d-m-a:xAst\end{hieroglyph}
+            \tl{Odm}, \td{Qédem} (toponyme, région d'Asie)
+      \item \begin{hieroglyph}Tz:z-W-D40:\!A1\s1\end{hieroglyph}
+            \tl{Tsw}, \td{commandant}
+    \end{itemize}
+  \end{multicols}
+\end{questions}

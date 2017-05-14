@@ -1,29 +1,56 @@
 %!TEX root = DULAEP_EG_Exos.htx
 
+
+\part*{Introduction}
 \input{S1/DULAEP_EG_S1_C00xE00a}
 \input{S1/DULAEP_EG_S1_C00xE00b}
 \input{S1/DULAEP_EG_S1_C00xE01}
+
+\part{[Écriture] Le système graphique~(1)}
 \input{S1/DULAEP_EG_S1_C01xE02}
 \input{S1/DULAEP_EG_S1_C01xE03}
+
+\part{[Écriture] Le système graphique~(2)}
 \input{S1/DULAEP_EG_S1_C02xE04}
 \input{S1/DULAEP_EG_S1_C02xE05}
 \input{S1/DULAEP_EG_S1_C02xE06}
 \input{S1/DULAEP_EG_S1_C02xE07}
 \input{S1/DULAEP_EG_S1_C02xE08}
+
+\part{[Grammaire] Le groupe nominal~(1)}
 \input{S1/DULAEP_EG_S1_C03xE09}
 \input{S1/DULAEP_EG_S1_C03xE10}
+
+\part{[Grammaire] Le groupe nominal~(2)}
 \input{S1/DULAEP_EG_S1_C04xE11}
+
+\part{[Grammaire] Le groupe nominal~(3)}
 \input{S1/DULAEP_EG_S1_C05xE12a}
 \input{S1/DULAEP_EG_S1_C05xE12b}
+
+\part{[Grammaire] La phrase non verbale}
 \input{S1/DULAEP_EG_S1_C06xE13}
 \input{S1/DULAEP_EG_S1_C06xE14}
+
+\part{[Grammaire] La phrase non verbale}
 \input{S1/DULAEP_EG_S1_C07xE15}
+
+\part{[Grammaire] La phrase non verbale}
 \input{S1/DULAEP_EG_S1_C08xE16}
 \input{S1/DULAEP_EG_S1_C08xE17}
+
+\part{[Épigraphie] Titulature royale}
 \input{S1/DULAEP_EG_S1_C09xE18}
+
+\part{\PPV~(1)}
 \input{S1/DULAEP_EG_S1_C10xE19}
 \input{S1/DULAEP_EG_S1_C10xE20}
+
+\part{\PPV~(2)}
 \input{S1/DULAEP_EG_S1_C11xE21}
+
+\part{Récapitulatif et compléments}
 \input{S1/DULAEP_EG_S1_C12xE22}
 
+% \part{Examen}
 \input{S1/DULAEP_EG_S1_Exam}

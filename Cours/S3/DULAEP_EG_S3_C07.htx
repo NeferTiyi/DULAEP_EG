@@ -1,8 +1,8 @@
 %!TEX root = DULAEP_EG.htx
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\part[Le perfectif \tl{sDm=f}]{Le perfectif \tl{sDm=f} 
-(\td{il écouta})}
+\renewcommand{\sectitre}{Le perfectif \tl{sDm=f}}
+\part[\sectitre]{\sectitre{} \smaller(\td{il écouta})}
 \label{prt:S3_perfectif}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 

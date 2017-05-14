@@ -237,7 +237,7 @@
 \vspace*{3\baselineskip}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\DisplayHieroglyphs
+% \DisplayHieroglyphs
 
 
 \chapter{Introduction}
@@ -429,13 +429,12 @@ les deux premières lignes du texte, en vous arrêtant à .
   \tg{%
     Accompli, \ppper dans le C.C.
     \begin{itemize}
-      \item élément introducteur : \tl[Gramm]{jw} 
+      \item élément introducteur : \tlg{jw} 
             \flech{} indicatif + temps du contexte
-      \item sujet : \tl[Gramm]{=j}, pronom suffixe
-      \item prédicat : \tl[Gramm]{rd.n}, accompli de 
-            \tl[Gramm]{rdj} \va{}
-      \item C.O. : \tl[Gramm]{HAw}, substantif
-      \item C.C. : \tl[Gramm]{Hr swDw.t n=j}, syntagme prépositionnel 
+      \item sujet : \tlg{=j}, pronom suffixe
+      \item prédicat : \tlg{rd.n}, accompli de \tlg{rdj} \va{}
+      \item C.O. : \tlg{HAw}, substantif
+      \item C.C. : \tlg{Hr swDw.t n=j}, syntagme prépositionnel 
             avec \ppper + C.A.
     \end{itemize}
   }
@@ -454,8 +453,8 @@ les deux premières lignes du texte, en vous arrêtant à .
   \tg{%
     \PPN à sujet pronominal. Deux \paimp[s]
     \begin{itemize}
-      \item sujet : \tl[Gramm]{jnk}, P.I.
-      \item prédicat : \tl[Gramm]{n(y)-sw.t Dd(w) jrr(w)}, syntagme 
+      \item sujet : \tlg{jnk}, P.I.
+      \item prédicat : \tlg{n(y)-sw.t Dd(w) jrr(w)}, syntagme 
             nominal avec deux \paimp[s] en position d'adjectifs 
             qualificatifs
     \end{itemize}
@@ -838,7 +837,7 @@ les deux premières lignes du texte, en vous arrêtant à .
   \tg{Accompli + complétif à l'infinitif + \ppper agentiel}
 
   \td{Et donc, ma Majesté a fait en sorte de faire une effigie de 
-      ma Majesté sur cette frontière sue ma Majesté a faite}
+      ma Majesté sur cette frontière que ma Majesté a faite}
 
   \insertlignepart[trim=0 0 5.35cm 0]{19}
 

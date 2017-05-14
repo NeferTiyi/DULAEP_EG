@@ -19,16 +19,19 @@
     \end{minipage}%
     \hfill%
     \begin{minipage}[b]{\linewidth-(\graphicwidth+7mm)}
-      D'après Champollion, \emph{Panthéon égyptien}, Paris, 1823.
+      D'après \fullcite{Champo_Pantheon}
+      % Champollion, \emph{Panthéon égyptien}, Paris, 1823.
     \end{minipage}
     \begin{solution}
       \reflectbox{%
         \begin{hieroglyph}
           i-mn:n:ra*1 nb g\s1:g*g tA':tA' nb p*t:pt
-        \end{hieroglyph}%
-      }\quad
-      \tl{Imn-Ra nb ns.wt \&A.wy nb p.t}, \td{Amon-Rê, maître des 
-      trônes du Double-Pays, maître du ciel}
+        \end{hieroglyph}
+      }
+
+      \tl{Imn-Ra nb ns.wt \&A.wy nb p.t}
+
+      \td{Amon-Rê, maître des trônes du Double-Pays, maître du ciel}
     \end{solution}
 
     \part
@@ -41,7 +44,8 @@
     \end{minipage}%
     \hfill%
     \begin{minipage}[b]{\linewidth-(\graphicwidth+7mm)}
-      D'après Champollion, \emph{Panthéon égyptien}, Paris, 1823.
+      D'après \fullcite{Champo_Pantheon}
+      % D'après Champollion, \emph{Panthéon égyptien}, Paris, 1823.
     \end{minipage}
     \begin{solution}
       \reflectbox{%
@@ -61,7 +65,7 @@
         \begin{hieroglyph}i-mn:n-G7\end{hieroglyph}%
       }\quad
       \tl{Imn}, \td{Amon}
-      --- 
+      \qquad---\qquad%
       \reflectbox{%
         \begin{hieroglyph}i-mn:n-G7-ra-G7\end{hieroglyph}%
       }\quad

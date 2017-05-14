@@ -1,0 +1,158 @@
+%!TEX root = DULAEP_EG_Exos.htx
+
+\chapter*{Exercice~10}\label{cha:ExoS4x10}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{Translittérer, analyser et traduire}
+
+  \begin{parts}
+    \part
+    \source{Bol de Hou} (lettre au mort, \PPI)\\
+    Principe organisant les relations vivants--esprits des 
+    morts \emph{akhou}.\\
+    Le \tl{n} entre crochets en en trop (dittographie).
+
+    \medskip
+
+    \renewcommand{\insertimg}{%
+      \includegraphics[width=1cm]{Hou_2}%
+    }
+    \settoheight{\graphicwidth}{\insertimg}
+
+    \begin{minipage}[t][\graphicwidth]{2cm}
+      \vspace*{0pt}
+      \includegraphics[width=1cm]{Hou_2}%
+      \includegraphics[width=1cm]{Hou_1}
+    \end{minipage}%
+    \quad%
+% \fbox{%
+    \begin{minipage}[t][\graphicwidth]{0.7cm}
+      \vfill%
+      \{\begin{hieroglyph}n\end{hieroglyph}\}\\[-2ex]
+      \reflectbox{%
+        \centering%
+        \EnColonne[1.2\Htm]{%
+          \begin{hieroglyph}
+            x\s2*\!\!Ax-A40 Hr zb-t Hr tp*\!1-tA-N23-A40
+          \end{hieroglyph}%
+        }%
+      }%
+    \end{minipage}%
+% }%
+% \fbox{%
+    \begin{minipage}[t][\graphicwidth]{0.5cm}
+      \vfill%
+      % \centering%
+      \hspace{-1ex}%
+      \reflectbox{%
+        \EnColonne[1.2\Htm]{%
+          \begin{hieroglyph}
+            ir-r-t-O3-X4-3 n
+          \end{hieroglyph}%
+        }
+      }%
+    \end{minipage}%
+% }%
+    \hfill%
+    \begin{minipage}[t]{\linewidth-4cm}
+      \begin{solution}
+        \tl{irr=t(w) pr.t-xrw n \{n\} Ax Hr sb.t Hr tpy-tA}
+
+        \td{Le fait qu'on fasse une offrande invocatoire est pour un 
+            \emph{akh} intercédant pour celui qui est sur terre.}\\
+        = 
+        \td{C'est pour un \emph{akh} qui intercède pour celui qui 
+            est sur terre que l'on fait une offrande invocatoire.}
+
+        \tg{%
+          \tlg{\hla{irr=t(w)}} = forme emphatique \tlg{mrr=f} 
+          inaccompli (sujet de la proposition)\\
+          \tlg{\hlb{n {n} Ax}} = prédicat adverbial de la phrase\\
+          \tlg{\hlc{Hr sb.t}} = groupe prépositionnel (progressif) 
+          en position circonstancielle (construction dite enchâssée 
+          puisque un élément du prédicat \tlg{Ax} est aussi le sujet 
+          de cette circonstancielle%
+        }
+      \end{solution}
+    \end{minipage}%
+
+    \part
+    \begin{hieroglyph}
+      i-n Hm-1:f r:a ir:t f
+    \end{hieroglyph}%
+    \infos{\cite[§\,373]{Gardiner}}
+
+    \begin{solution}
+      \begin{gramrule}%
+        \tl{in Hm=f rd(w)}
+        \begin{possib}%
+          \tl{ir.t(w)=f}\\
+          \tl{ir.t=f}\\
+        \end{possib}%
+      \end{gramrule}%
+
+      \td{%
+        \begin{gramrule}%
+          C'est sa Majesté qui a fait en sorte
+          \begin{possib}%
+            qu'il soit accompli.\\
+            de le faire.\\
+          \end{possib}%
+        \end{gramrule}%
+      }
+
+      \tg{%
+        Phrase coupée : \tlg{rd(w)} participe accompli actif,\\
+        \begin{gramrule}%
+          \begin{possib}%
+            \tlg{ir=t(w)=f} : subjonctif complétif passif\\
+            \tlg{ir.t=f} = infinitif complétif + COD\\
+          \end{possib}%
+        \end{gramrule}%
+      }
+    \end{solution}
+  \end{parts}
+
+  \subsection*{Vocabulaire}
+  \begin{multicols}{2}
+    \begin{itemize}
+      \item \begin{hieroglyph}r:a\end{hieroglyph}
+            graphie du verbe \tl{rdi}
+      \item \begin{hieroglyph}zb-b-D54\end{hieroglyph}
+            \tl{sbi}, \td{intercéder}
+      \item \begin{hieroglyph}tp:1-tA:N23\end{hieroglyph}
+            \tl{tpy-tA}, \td{celui qui est sur terre} (le survivant)
+    \end{itemize}
+  \end{multicols}
+
+  \question\qfmt{Stèle de Semna, lignes~5--6}
+
+  \td{Je suis un roi} \tl{ink n(y)-sw.t}
+
+  \subsection*{Vocabulaire}
+  \begin{multicols}{2}
+    \begin{itemize}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{aha}, \td{se dresser}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{pH}, \td{atteindre}, ici \td{attaquer}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{xmt}, \td{se préoccuper de}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{xry}, \td{ennemi}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{sf}, \td{être doux}, \td{indulgent} 
+            (déterminatif \MdC{D19})
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{sfn}, \td{être clément}
+            (déterminatif \MdC{D19})
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{twA}, \td{un inférieur}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{gr}, \td{se taire}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{}, \td{}
+    \end{itemize}
+  \end{multicols}
+\end{questions}

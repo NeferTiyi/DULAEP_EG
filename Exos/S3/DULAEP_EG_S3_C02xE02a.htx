@@ -21,34 +21,34 @@
 
   \bigskip
 
-  \begin{RaggedLeft}
-  \reflectbox{%
-    \begin{hieroglyph}
-      anx G7 zmA-tA:tA nbty zmA-tA:tA mn:n:T-w nb wAs-t:spAt mr-i-i 
-      nswbjty <-ra-nb-xrw-> anx Dt
-    \end{hieroglyph}
-  }\\
-  \reflectbox{%
-    \begin{hieroglyph}
-      ir:n:f m mn:n:nw*nw*nw n:mn:n-T:w Hr:r tp:tA:tA 
-      nTr mn:n:x xnt-n:t nTr-nTr-nTr E9:a-w n pt:t n:\!mi*qd-d:s
-    \end{hieroglyph}
-  }\\
-  \reflectbox{%
-    \begin{hieroglyph}
-      s#//-mA-A-w pr:\!1:f n:D:\!\!t f nTr-Hwt-t:f:n-t:pA-t:X6-tp:p*t
-    \end{hieroglyph}
-  }\par
-  \end{RaggedLeft}
+  \begin{FlushRight}
+    \reflectbox{%
+      \begin{hieroglyph}
+        anx G7 zmA-tA:tA nbty zmA-tA:tA mn:n:T-w nb wAs-t:spAt mr-i-i 
+        nswbjty <-ra-nb-xrw-> anx Dt
+      \end{hieroglyph}%
+    }\\
+    \reflectbox{%
+      \begin{hieroglyph}
+        ir:n:f m mn:n:nw*nw*nw n:mn:n-T:w Hr:r tp:tA:tA 
+        nTr mn:n:x xnt-n:t nTr-nTr-nTr E9:a-w n pt:t n:\!mi*qd-d:s
+      \end{hieroglyph}%
+    }\\
+    \reflectbox{%
+      \begin{hieroglyph}
+        #-s-#-mA-A-w pr:\!1:f n:D:\!\!t f nTr-Hwt-t:f:n-t:pA-t:X6-tp:p*t
+      \end{hieroglyph}%
+    }\par%
+  \end{FlushRight}
 
   \begin{solution}
     ~\\
-    \begin{RaggedLeft}
+    \begin{FlushRight}
       \tl{anx smA-TA.wi,\\ nb.ty smA-TA.wy\\ mry MnTw nb wAs.t\\ 
           nsw-bity Nb-Hp(.t)-Ra anx D.t\\ 
-          ir.n=f m mnw n mnTw Hr(y)-tp tA.wy, nTr mnx xnt(y) nTr.w 
-          iwaw n(y) p.t n-mi-od=s\\
-          $[$s$]$mAw pr=f-D.t=f Hw.t-nTr=f pAw.t-tp(y).t}
+          \red{ir.n=f} m mnw n mnTw Hr(y)-tp tA.wy, nTr mnx xnt(y) 
+          nTr.w iwaw n(y) p.t n-mi-od=s\\
+          \red{[s]mAw} pr=f-D.t=f Hw.t-nTr=f pAw.t-tp(y).t}
 
       \medskip
 
@@ -60,12 +60,11 @@
           des dieux, l'héritier du ciel en entier, \red{l'acte de 
           renouveler} son domaine d'éternité, son temple des temps 
           anciens.}
+    \end{FlushRight}
 
-      \medskip
+    \medskip
 
-      1. \tl{sDm.n=f} accompli\\
-      2. infinitif (COD)\par
-    \end{RaggedLeft}
+    \tg{\tlg{sDm.n=f} accompli / infinitif (COD)}
   \end{solution}
 \end{questions}
 
@@ -99,8 +98,8 @@
 \begin{itemize}
   \item \begin{hieroglyph}n:\!mi*qd-d\end{hieroglyph} + pronom 
         suffixe (voir WB~V, 76, 4, \NK, \tl{n-mi-od}, 
-        sens \td{pareil}), ou 
-        \begin{hieroglyph}mi-i-qd-d\end{hieroglyph}
+        sens \td{pareil}),\\ 
+        ou \begin{hieroglyph}mi-i-qd-d\end{hieroglyph}
         \tl{mi-od}, \td{selon (sa) nature} = \td{tout entier}
 \end{itemize}%
 \begin{multicols}{2}

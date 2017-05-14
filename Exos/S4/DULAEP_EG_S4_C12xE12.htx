@@ -1,0 +1,45 @@
+%!TEX root = DULAEP_EG_Exos.htx
+
+\chapter*{Exercice~12}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{Translittérer, analyser et traduire}
+
+  \begin{minipage}[t][8cm]{3.5cm}
+    \vspace{0pt}
+    \includegraphics[height=8cm]{NadaElDeir_N3500_hiera}%
+    \includegraphics[height=8cm]{NadaElDeir_N3500_hiero}
+  \end{minipage}
+  \hfill%
+  \begin{minipage}[t][8cm]{\linewidth-4.5cm}
+
+    \medskip
+
+    Papyrus Naga el-Deir \inv{N\,3500}\\(lettre au mort, \PPI) 
+
+    \medskip
+
+    {\smaller Source : \fullcite{Simpson}.\par}
+
+    \vfill
+
+    \begin{solution}
+      \tl{in rr iw mA.n=k nn n(y) iww.t ?}
+
+      \td{As-tu constaté ces accusations ?}
+
+      \tg{Question rhétorique avec un \tlg{sDm.n=f}}
+    \end{solution}%
+  \end{minipage}%
+\end{questions}
+
+\subsection*{Vocabulaire}
+\begin{multicols}{2}
+  \begin{itemize}
+    \item \begin{hieroglyph}E9-W*W:t-A2\end{hieroglyph}
+          \tl{iww.t} \td{accusation}
+    \item \begin{hieroglyph}U2:ir-A\end{hieroglyph}
+          \tl{mAA} \td{voir}, \td{constater}
+  \end{itemize}
+\end{multicols}

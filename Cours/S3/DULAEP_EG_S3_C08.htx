@@ -1,8 +1,8 @@
 %!TEX root = DULAEP_EG.htx
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\part[La forme substantive \tl{mrr=f}]{La forme substantive \tl{mrr=f} 
-(\td{le fait qu'il aime})}
+\renewcommand{\sectitre}{La forme substantive \tl{mrr=f}}
+\part[\sectitre]{\sectitre{} \smaller(\td{le fait qu'il aime})}
 \label{prt:S3_nom_imperf}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -78,7 +78,32 @@ verbes faibles \vi{2} (d'où son appellation de \frquote{forme
         verbes faibles \vi{2} ;
   \item Les verbes irréguliers : \tl{rdi} présente le thème verbal 
         \tl{didi}.
-\end{itemize}.
+\end{itemize}
+
+{
+\renewcommand\tabularxcolumn[1]{A{#1}}
+\noindent%
+\begin{tabularx}{\textwidth}{|>{\bfseries}X|*{6}{X|}}
+  \cline{2-7}
+    \multicolumn{1}{c|}{~} &
+    \multirow{2}{*}{\bfseries\vl{3}} &
+    \multirow{2}{*}{\bfseries\vg{2}} &
+    \multirow{2}{*}{\bfseries\vi{3}} &
+    \multicolumn{3}{c|}{\bfseries\va{}}
+  \tabularnewline
+    \multicolumn{1}{c|}{~} &
+    ~ & ~ & ~ & 
+    \bfseries\td{donner} & 
+    \bfseries\td{venir} & 
+    \bfseries\td{apporter}
+  \tabularnewline
+  \hline
+    \cellcolor{fvdepd}Forme nominale \tl{mrr=f} & \tl{sDm} & 
+    \tl{mAA} & \tl{mrr} & \tl{didi} & \tl{iw(w)} & \tl{inn}
+  \tabularnewline
+  \hline
+\end{tabularx}
+}
 
 
 \chapter{Emplois, uniquement substantivaux}
@@ -219,7 +244,6 @@ C'est une tournure qui a une certaine puissance rhétorique et poétique.
 
 Les phrases balancées sont aussi attestées avec trois formes verbales 
 en particulier :
-
 \begin{itemize}
   \item le \tl{mrr=f}
   \item le \tl{sDm.n=f} (\cite[§\,575]{MW})
@@ -285,7 +309,7 @@ exceptionnellement en tête. La suite est la proposition principale.
     anx-n:x-A2 n A1 <-wsr-r:t-z:n-> Dd' A1 m U2:mAa-a:t
   \end{hieroglyph}
 
-  \tl{\red{anx} n=i S-n-wsr.t, Dd=i m-mAa.t \ex}\\
+  \tl{\red{anx} n=i S-n-wsr.t, Dd=i m-mAa.t\ex}\\
   \infos{\cite[ex.\,865]{MW}, \TP~153\,c}
 
   \td{Aussi vrai que Sésostris vit pour moi, c'est en vérité que 
@@ -301,7 +325,7 @@ exceptionnellement en tête. La suite est la proposition principale.
   \end{enumerate}%
   }
 
-  \textbf{}
+  % \textbf{}
 
   Retenez pour l'instant cette formule de serment et revoyez 
   l'exercice de traduction suivie de la \source{lettre au mort}.
@@ -312,7 +336,7 @@ exceptionnellement en tête. La suite est la proposition principale.
     wAH-H-Y1v i-mn:n q:n-A24 nn wAH-H A1 :t-w
   \end{hieroglyph}
 
-  \tl{\red{wAH}\ \ Imn on, nn wAH=i tw \ex}
+  \tl{\red{wAH}\ \ Imn on, nn wAH=i tw\ex}
 
   \td{Aussi vrai qu'Amon le brave perdure, je ne te laisserai pas 
       perdurer !}

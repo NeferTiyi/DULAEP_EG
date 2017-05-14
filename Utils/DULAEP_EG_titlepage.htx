@@ -34,7 +34,7 @@
 
         \vspace*{\fill}%
 
-        {\noindent \@author\par}%
+        {\noindent mise en page par \@author\par}%
         \bigskip%
         {\small\itshape\today, \printtime\par}%
       }%

@@ -12,10 +12,10 @@
   \begin{solution}
     \lgn{1} Deux analyses recevables pour la première ligne :
     \begin{itemize}
-      \item \tl{Dd mdw in Nw.t : di.n(=i) n=k s.t Xr rd.wy=k},
+      \item \tl{Dd mdw in Nw.t : di.n(=i) n=k s.t Xr rd.wy=k}\\
             \td{Paroles à dire par Nout : (je) t'ai donné la place 
             sous tes pieds}
-      \item \tl{Dd mdw in Nw.t : di.n(=i) n=k (A)s.t Xr rd.wy=k}, 
+      \item \tl{Dd mdw in Nw.t : di.n(=i) n=k (A)s.t Xr rd.wy=k}\\
             \td{Paroles à dire par Nout : (j')ai placé pour toi Isis 
             sous tes pieds}
     \end{itemize}
@@ -23,9 +23,10 @@
     (visible sur la base Atlas du musée du Louvre) donne pour la paroi 
     de tête la variante avec \tl{Nb.t-Hw.t}, \td{Nephthys}).
 
-    \lgn{2} \tl{imAxy xr nTr-niwty=f im(y)-r(A)-pr Sp mAa-xrw}, 
+    \lgn{2} \tl{imAxy xr nTr-niwty=f im(y)-r(A)-pr Sp mAa-xrw}
+
     \td{Le vénérable auprès de son dieu local, l'intendant Sopi, 
-    juste-de-voix}
+        juste-de-voix}
   \end{solution}
 \end{questions}
 
@@ -35,13 +36,13 @@
         \tl{mdw}, \td{parole}, \td{discours}
   \item \begin{hieroglyph}Dd' md-1:3\end{hieroglyph} 
         \tl{Dd mdw.w}, \td{prononcer}, \td{dire des paroles / formules}
-  \item \begin{hieroglyph}.:\!\!md-\!\!D-i-n\end{hieroglyph} 
+  \item \begin{hieroglyph}.:md\s1-\!\!D-i-n\end{hieroglyph} 
         \tl{Dd mdw in}, \td{prononcer une parole par (suit 
         le nom d'une divinité)} (dans une légende). Souvent abrégé 
-        \begin{hieroglyph}.:\!\!md-\!\!D\end{hieroglyph} 
+        \begin{hieroglyph}.:md\s1-\!\!D\end{hieroglyph} 
   \item \begin{hieroglyph}ns:\!\!\!pr\s2\end{hieroglyph} 
         \tl{(i)m(y)-r(A) pr}, \td{intendant} (titre, \litt 
-        \td{directeur de la maison}).
+        \td{directeur de la maison}).\\
         Variante de \begin{hieroglyph}m:r\end{hieroglyph} 
         \tl{(i)m(y)-r(A)}, \tl{mr}
   \item \begin{hieroglyph}di-n:n:k\end{hieroglyph} 

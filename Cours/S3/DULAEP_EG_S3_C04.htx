@@ -1,8 +1,9 @@
 %!TEX root = DULAEP_EG.htx
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\part[Fonctions circonstancielles]{Fonctions circonstancielles\\ 
-(\tl{sDm.n=f}, \tl{sDm=f} aoriste et formes prospectives)}
+\renewcommand{\sectitre}{Fonctions circonstancielles}
+\part[\sectitre]{\sectitre\\
+\smaller(\tl{sDm.n=f}, \tl{sDm=f} aoriste et formes prospectives)}
 \label{prt:S3_fct_circ}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -126,7 +127,7 @@ une suite d'événement, à la fois logique et chronologique.
 
 \begin{example}[title={}]
   \begin{hieroglyph}
-    gm-m sw-W wp-p-W-tyw-D54:3 Hr-1 wA-A-t:N31-!
+    gm-m sw-W wp-p-W-tyw-D54:3 Hr-1 wA-A-t:wAt-!
     pH-D54:n s-n:3 sw-W r t:r-tr-ra n xA-A-W:y-N2
   \end{hieroglyph}
 
@@ -207,7 +208,7 @@ Nous venons de voir que trois formes verbales (l'accompli
 \tl{sDm.n=f}, l'aoriste \tl{sDm=f} et le subjonctif \tl{sDm=f}) 
 peuvent, à côté de leur emploi prédicatif comme verbe initial, 
 être utilisé en position séquentielle, mais avec valeur de 
-\frquote{\uline{circonstancielle virtuelle}}. Nous sommes bien 
+\frquote{\ul{circonstancielle virtuelle}}. Nous sommes bien 
 d'accord qu'il n'y a pas de marque grammaticale particulière 
 écrite qui signale cette fonction.
 C'est à vous de la déterminer à l'analyse de la phrase.
@@ -216,7 +217,7 @@ Qu'est-ce qu'alors une \frquote{circonstancielle véritable ou
 réelle} ? Dans les manuels de grammaire égyptienne (par exemple 
 \citeauthor{MW}), une \frquote{circonstancielle véritable} est 
 une proposition (dépendante d'une proposition principale) qui 
-est \uline{introduite} par une conjonction de subordination.
+est \ul{introduite} par une conjonction de subordination.
 
 Il existe toute une série de conjonction de subordination en égyptien 
 ancien. En général, il s'agit de prépositions qui prennent un sens 
@@ -233,7 +234,7 @@ subordination est classé dans les fonctions substantives. Nous verrons
 pourquoi plus tard.)
 
 Nous reviendrons aussi plus longuement que les propositions 
-subordonnées circonstancielles véritables en semestre~2. 
+subordonnées circonstancielles véritables en \titleref{bk:semestre4}. 
 L'apprentissage des circonstancielles véritables est en fait très 
 simple. Il suffit de repérer et connaître quelques conjonctions de 
 subordination, puis de savoir quelles formes verbales sont utilisées 
@@ -256,8 +257,9 @@ de \citeauthor{GM}. Pour les autres, attendons le semestre prochain
 
 \begin{exercice}[before upper={\centering}]
   C'est tout pour aujourd'hui ! Vous pouvez en profiter pour tout 
-  relire depuis le cours~1 et vous faire une synthèse personnelle sur 
-  les emplois possibles des trois formes verbales que nous avons vu.
+  relire depuis le \Pref{prt:S3_accompli}cours~1 et vous faire une 
+  synthèse personnelle sur les emplois possibles des trois formes 
+  verbales que nous avons vu.
 
   Et bien sûr \textbf{les exercices} !
 \end{exercice}

@@ -1,0 +1,125 @@
+%!TEX root = DULAEP_EG_Exos.htx
+
+\chapter*{Exercice~9}\label{cha:ExoS4x09}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{Translittérer, analyser et traduire}
+
+  \begin{parts}
+    \part
+    \begin{hieroglyph}
+      jw k sxm-m-D40-ti-i m-mr:r-r:t-A2-3:k
+    \end{hieroglyph}
+    \infos{d'après \cite[cours~24]{Allen}}
+
+    \begin{solution}
+      \tl{iw=k \hla{sxm.ti} m \hlb{mrr.wt=k}}
+
+      \td{Tu \hla{es puissant} dans \hlb{ce que tu aimes~/ désires}.}\\
+      = \td{Tu as pouvoir sur ce que tu désires.}
+
+      \tg{\tlg{\hla{sxm.ti}} : parfait ancien, prédicat d'une 
+          \PPP\\
+          \tlg{\hla{mrr.wt=k}} : forme relative inaccomplie, 
+          substantivée}
+    \end{solution}
+
+    \part
+    Dans un hymne à un roi : deux phrases, le roi est comparé au 
+    soleil.
+
+    \begin{hieroglyph}
+      r:a:ra*1 p-w U2:ir-mA:ir-A-A-w m s-t:sti-w-t-N8:f !
+      s-HD-w-N8 sw-w tA:tA r i-t:n-ra:1
+    \end{hieroglyph}
+    \infos{d'après \cite[cours~23]{Allen}}
+
+    \begin{solution}
+      \td{%
+        \begin{gramrule}%
+          C'est Rê
+          \begin{possib}%
+            \hla{voyant} au moyen de \hla{ses} rayons.\\
+            au moyen des rayons \hlb{duquel} \hlb{on voit}.\\
+          \end{possib}%
+        \end{gramrule}%
+      }
+
+      \tg{%
+        \begin{gramrule}%
+          PPN avec
+          \begin{possib}
+            \hla{participe inaccompli actif}\\
+            \hlb{forme relative} à sujet indéfini, donc non exprimé, et \hlb{pronom de rappel}\\
+          \end{possib}
+        \end{gramrule}%
+      }
+
+
+      \tl{\hla{sHDw} sw tA.wy r itn}
+
+      \td{Il est \hla{illuminant} le double pays plus que le disque 
+          solaire.}
+
+      \tg{PPAdj avec un \hla{participe inaccompli actif} comme 
+          prédicat}
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}
+      n:kA:n nty:nb r:n:f Hr:1 wD-w-O26 p:n
+    \end{hieroglyph}
+
+    \begin{solution}
+      \tl{(\dots) n kA n(y) nty nb rn=f Hr wD pn}
+
+      \td{(\dots) pour le \emph{ka} de toute personne dont le nom est 
+          sur cette stèle}
+
+      \tg{Complément d'attribution avec un pronom relatif en 
+          construction indirecte (avec pronom de rappel)}
+    \end{solution}
+  \end{parts}
+
+  \subsection*{Vocabulaire}
+  \begin{multicols}{2}
+    \begin{itemize}
+      \item \begin{hieroglyph}wD-w-O26\end{hieroglyph}
+            \tl{wD}, \td{stèle}
+      \item \begin{hieroglyph}i-t:n-ra:1\end{hieroglyph}
+            \tl{itn}, \td{disque solaire}
+      \item \begin{hieroglyph}s-HD-N8\end{hieroglyph}
+            \tl{sHD}, \td{illuminer}, \td{éclaire}
+      \item \begin{hieroglyph}sxm-m-D40\end{hieroglyph}
+            \tl{sxm}, \td{être puissant}
+      \item \begin{hieroglyph}s-t:sti-w-t-N8\end{hieroglyph}
+            \tl{st.wt}, \td{rayons (du soleil)}
+    \end{itemize}
+  \end{multicols}
+
+  \question\qfmt{\source{Stèle de Semna}, lignes~3--5}
+
+  \td{Je suis un roi qui parle et qui agit}
+  \tl{ink n(y)-sw.t Ddw irrw}
+  incise
+  suite de \tl{ink n(y)-sw.t}
+
+  \subsection*{Vocabulaire}
+  \begin{multicols}{2}
+    \begin{itemize}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{kAi}, \td{songer}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{Ad}, \td{être agressif}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{sXmw}, \td{impétueux}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{mar}, \td{succès}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{md.t}, \td{parole}
+      \item \begin{hieroglyph}\end{hieroglyph}
+            \tl{sDr}, \td{dormir}
+    \end{itemize}
+  \end{multicols}
+\end{questions}

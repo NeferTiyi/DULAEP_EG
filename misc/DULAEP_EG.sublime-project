@@ -17,15 +17,17 @@
         "*.toc",
         "*.lot",
         "*.lof",
+        "*.out",
         // "*.maf",
         // "*.mtc",
         // "*.mtc0",
-        "*.out",
         // "*.pdf",
         // "*_tmp.tex",
         // "*_full.htx",
         "*.run.xml",
         "*.fdb_latexmk",
+        "latexmkrc",
+        "*.gz",
         "*.*~",
         ".git*"
       ],
@@ -39,8 +41,12 @@
       "name": "Exam (sources)",
     },
     {
+      "path": "../Utils",
+      "name": "Utils DULA",
+    },
+    {
       "path": "../img",
-      "name": "Images"
+      "name": "Images",
     },
     {
       "path": "../../NeferHiero/utils",
@@ -61,6 +67,5 @@
   ],
   "settings":
   {
-    "dictionary": "Packages/Language - French - Français/fr_FR.dic",
   }
 }

@@ -1,10 +1,14 @@
 %!TEX root = DULAEP_EG.htx
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\part*{Descriptif et programme}
+\renewcommand{\sectitre}{Descriptif et programme}
+\phantomsection
+\addcontentsline{toc}{part}{\sectitre}
+\part*{\sectitre}
+\markboth{\sectitre}{}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-L'Égypte ancienne à l'université de Strasbourg : 
+L'\kmt ancienne à l'université de Strasbourg : 
 \url{http://egypte.unistra.fr/}
 
 
@@ -135,7 +139,8 @@ ouvrages de la bibliographie.
   temps, dans la base de données.
 \end{description}
 
-\noindent\rule{\textwidth}{1pt}
+% \noindent\rule{\textwidth}{1pt}
+\filet
 
 
 \chapter*{Programme du semestre~1 de la 2\ieme~année}
@@ -310,3 +315,471 @@ ouvrages de la bibliographie.
 
   Bon travail !
 \end{center}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\renewcommand{\sectitre}{Introduction générale}
+\phantomsection
+\addcontentsline{toc}{part}{\sectitre}
+\part*{\sectitre}\label{prt:S3_intro}
+\markboth{\sectitre}{}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Vous connaissez à présent le système d'écriture hiéroglyphique et 
+vous maîtrisez les premières constructions simples de phrases en 
+égyptien ancien classique. Nous allons cette année \frquote{monter 
+en puissance}, en abordant le système verbal et les phrases complexes. 
+Vous serez ainsi armés pour aborder les textes en égyptien classique 
+et en égyptien de tradition !
+
+\paragraph{Petits rappels}
+
+L'an dernier, nous avons abordé quatre grands types de phrases :
+\begin{itemize}
+  \item Les \PPA[s] : \tl{iw} + Sujet + Prédicat 
+        (adverbe ou groupe prépositionnel)
+  \item Les \PPP[s] : \tl{iw} + Sujet + Prédicat 
+        (\tl{Hr}/\tl{m}/\tl{r} + infinitif ou parfait ancien)
+  \item Les \PPN[s], type \tll{AB} ou type \tll{A \tl{pw}, B}
+  \item Les \PPJ[s] : Prédicat + Sujet.
+\end{itemize}
+
+N'hésitez pas à parcourir à nouveau le cours de l'an dernier pour 
+vous rafraîchir la mémoire, car le savoir (en langue ancienne comme 
+ailleurs) est cumulatif.
+
+Nous avions laissé de côté les phrases à prédicats verbaux. C'est ce 
+que nous allons aborder ce semestre, en étudiant les formes verbales 
+égyptiennes, la conjugaisons dite \frquote{suffixale}. Avant d'entrer 
+dans le vif du sujet, et d'étudier notre première phrase verbale avec 
+une première forme verbale conjuguée, voici quelques remarques 
+générales en préalables.
+
+
+\chapter{Le verbe égyptien (rappel)}
+% =====================================================================
+
+Dans le \Pref{prt:ppp} du \titleref{bk:semestre1}, l'an passé, le 
+verbe égyptien et sa classification ont été présentés. Relisez si 
+nécessaire cette partie qui définit le vocabulaire que nous utilisons 
+et pose les bases de l'analyse du système verbal.
+
+Vous vous souvenez que l'on parle de \textbf{racine du verbe} (forme 
+abstraite du verbe, citée dans les dictionnaires) et de \textbf{thème 
+verbal} (la réalisation concrète de la racine dans une forme verbale 
+donnée). La racine du verbe permet de classer les verbe en quatre 
+groupes : verbes forts, verbes faibles, verbes géminés et verbes 
+irréguliers. Selon le groupe auquel il appartient, un verbe se 
+modifiera d'une certaine manière à une forme verbale donnée.
+
+Vous connaissez déjà deux formes verbales (considérées comme 
+\frquote{pseudo-verbales}) : \clef{l'infinitif} et \clef{le parfait 
+ancien}. Vous savez donc déjà qu'une forme verbale se caractérise par :
+\begin{itemize}
+  \item une \clef{valeur} (surtout aspectuelle, et dans une moindre 
+        mesure temporelle)
+  \item une \clef{morphologie}, caractérisée par l'aspect du thème 
+        verbal (bref ou long) et la présence éventuelle de désinences.
+\end{itemize}
+
+\section*{Une complexité et une simplicité de la \frquote{conjugaison} 
+égyptienne}
+% ---------------------------------------------------------------------
+Tout ceci sera à apprendre pour chaque forme verbale de la conjugaison 
+suffixale (dix formes à connaître, nous allons y revenir). En raison 
+de la caractéristique de l'écriture pharaonique, qui est une écriture 
+consonantique, l'apprentissage de ces formes verbales est à la fois 
+simple et complexe.
+
+\begin{table}
+  \caption{Thèmes verbaux}
+  \label{tbl:themes}
+  \begin{tabularx}{\textwidth}{+X*{3}{^M{.22\textwidth}}}
+    \toprule
+    \rowstyle{\bfseries}
+      Racine & Thème verbal bref & Thème verbal géminé & Infinitif
+    \tabularnewline
+    \otoprule
+      \begin{hieroglyph}sDm-m\end{hieroglyph} \\
+      \tl{sDm}, \td{écouter} \vl{3} &
+      \begin{hieroglyph}sDm-m\end{hieroglyph} \tl{sDm} &
+      \texttimes &
+      \begin{hieroglyph}sDm-m\end{hieroglyph} \tl{sDm}
+    \tabularnewline
+    \midrule
+      \begin{hieroglyph}pr:r-D54\end{hieroglyph} \\
+      \tl{pri}, \td{sortir} \vi{3} &
+      \begin{hieroglyph}pr:r-D54\end{hieroglyph} \tl{pr} &
+      \begin{hieroglyph}pr:r:r-D54\end{hieroglyph} \tl{prr} &
+      \begin{hieroglyph}pr:r-t:D54\end{hieroglyph} \tl{pr.t}
+    \tabularnewline
+    \midrule
+      \begin{hieroglyph}U2:ir-A-A\end{hieroglyph} \\
+      \tl{mAA}, \td{voir} \vg{2} &
+      \begin{hieroglyph}U2:ir-A\end{hieroglyph} \tl{mA} &
+      \begin{hieroglyph}U2:ir-A-A\end{hieroglyph} \tl{mAA} &
+      \begin{hieroglyph}U2:ir-A-A\end{hieroglyph} \tl{mAA}
+    \tabularnewline
+    \midrule
+      \begin{hieroglyph}r:di'\end{hieroglyph} \\
+      \tl{rdi}, \td{donner}, \td{placer}, 
+      \td{faire en sorte que} \va{} &
+      \begin{hieroglyph}r:di'\end{hieroglyph} \tl{rd} ou 
+      \begin{hieroglyph}di'\end{hieroglyph} \tl{di} &
+      \begin{hieroglyph}di':di'\end{hieroglyph} \tl{didi} ou 
+      \begin{hieroglyph}di-di\end{hieroglyph} \tl{didi} &
+      \begin{hieroglyph}r:di':t\end{hieroglyph} \tl{rd.t}
+    \tabularnewline
+    \bottomrule
+  \end{tabularx}
+\end{table}
+
+\paragraph{Simple :}
+il n'y a pas de tableaux de conjugaison avec des série de désinences 
+spécifiques pour chaque personne à apprendre (le parfait ancien est 
+une exception en la matière). Vraisemblablement, une large partie 
+des désinences se réalisait au moyen de voyelles. Il s'agira donc 
+d'apprendre simplement la \clef{forme du thème verbal} (bref ou long) 
+et éventuellement les \clef{infixes} ou \clef{suffixes} qui seraient 
+caractéristiques d'une forme verbale. Par exemple, la forme de 
+l'accompli \tl{sDm.n=f} (\td{il a écouté}), que nous avons vu 
+rapidement lors du dernier cours, est facilement reconnaissable par 
+le \tl{n}, qui s'ajoute au thème verbal, toujours bref. À retenir 
+pour l'accompli \tl{sDm.n=f}, \clef{morphologie = thème verbal bref + 
+suffixe \tl[orange]{n}}, à toutes les personnes. \emph{C'est une bonne 
+nouvelle.}
+
+Mais il y a un revers à la médaille.
+
+\paragraph{Complexe :}
+en l'absence de désinences caractéristiques, et pour chaque personne 
+(comme au parfait ancien), l'analyse des formes verbales peut parfois 
+être délicate. Par exemple, si, hors de tout contexte, je vous dis 
+que la forme de l'aoriste (inaccompli général) est \tl{sDm=f} (\td{il 
+écoute}) et que, de même, le subjonctif (\td{qu'il écoute}) se 
+caractérise par la forme \tl{sDm=f}, vous resterez probablement 
+perplexes. Ce qui différencie ces deux \tl{sDm=f}, c'est, par exemple, 
+la morphologie de la forme pour les verbes géminés (\tl{mAA=f} à 
+l'aoriste, mais \tl{mA=f} au subjonctif), mais aussi les constructions 
+dans lesquelles se trouveront ces formes verbales. Cela peut vous 
+paraître obscur, mais vous verrez, nous apprendrons à analyser les 
+formes verbales méthodiquement, en observant leur morphologie et leur 
+syntaxe.
+
+La procédure d'analyse des formes verbales (une fois toutes les formes 
+connues) sera la suivante : 
+\begin{enumerate*}[label=\arabic*\degre]
+  \item analyser la morphologie du verbe et éliminer les formes 
+        verbales qui ne lui correspondent pas ;
+  \item analyser la syntaxe pour éliminer les formes verbales 
+        restantes qui ne correspondent pas à la construction.
+\end{enumerate*}
+Nous verrons cela en temps et en heure.
+
+
+\chapter{Les formes de la conjugaison suffixale (aperçu général)}
+% =====================================================================
+
+Il y a \clef{dix formes verbales} à apprendre, c'est-à-dire qu'il 
+faudra apprendre leur morphologie et leurs emplois. Nous le ferons 
+pas à pas, mais voici un tableau synthétique pour vous donner un 
+aperçu d'ensemble (voir aussi le document Tableau des formes de 
+la conjugaison suffixale dans la rubrique Documents de cours).
+
+
+\begin{table}
+  \caption[Conjugaison suffixale, classement syntaxique]
+          {Conjugaison suffixale, classement syntaxique 
+           (\colorbox{fvinit}{verbes principaux} ; 
+            \colorbox{fvdepd}{verbes en dépendance} ; 
+            \colorbox{fvmisc}{formes rares})}
+  \label{tbl:conj_suff}
+  \renewcommand\tabularxcolumn[1]{A{#1}}
+  \begin{tabularx}{\textwidth}{|>{\bfseries}X|*{6}{X|}}
+    \cline{2-7}
+      \multicolumn{1}{c|}{~} &
+      \multirow{2}{*}{\bfseries\vl{3}} &
+      \multirow{2}{*}{\bfseries\vg{2}} &
+      \multirow{2}{*}{\bfseries\vi{3}} &
+      \multicolumn{3}{c|}{\bfseries\va{}}
+    \tabularnewline
+      \multicolumn{1}{c|}{~} &
+      ~ & ~ & ~ & 
+      \bfseries\td{donner} & 
+      \bfseries\td{venir} & 
+      \bfseries\td{apporter}
+    \tabularnewline
+    \hline
+      \cellcolor{fvinit}Perfectif \tl{sDm=f} &
+      \tl{sDm} & \tl{mA} & \tl{mr} & \tl{rdi} & 
+      \tl{ii}/\tl{iw} & \tl{in}
+    \tabularnewline
+    \hline
+      \cellcolor{fvinit}Accompli \tl{sDm.n=f} &
+      \tl{sDm.n} & \tl{mA.n} & \tl{mr.n} & \tl{rdi.n}/\tl{di.n} & 
+      \tl{ii.n}/\tl{iw.n} & \tl{in.n}
+    \tabularnewline
+    \hline
+      \cellcolor{fvinit}Aoriste \tl{sDm=f} & \tl{sDm} & \tl{mAA} & 
+      \tl{mr} & \tl{di} & \tl{iw}  & \tl{in}
+    \tabularnewline
+    \hline
+      \cellcolor{fvinit}Prospectif \tl{sDm(w)=f} & \tl{sDm(w/y)} & 
+      \tl{mAA} & \tl{mr(w/y)} & \tl{rdi} & \tl{iw} & \tl{in}
+    \tabularnewline
+    \hline
+      \cellcolor{fvinit}Subjonctif \tl{sDm=f} & \tl{sDm} & 
+      \tl{mA}/\tl{mAn} & \tl{mr(y)} & \tl{di} & \tl{iwt} & \tl{int}
+    \tabularnewline
+    \hline
+      \cellcolor{fvdepd}\tl{sDmt=f} & \tl{sDmt} & \tl{mAA} & 
+      \tl{mrt} & \tl{rdit} & \tl{iit} & \tl{int}
+    \tabularnewline
+    \hline
+      \cellcolor{fvdepd}Forme nominale \tl{mrr=f} & \tl{sDm} & 
+      \tl{mAA} & \tl{mrr} & \tl{didi} & \tl{iw(w)} & \tl{inn}
+    \tabularnewline
+    \hline
+      \cellcolor{fvmisc}\tl{sDm.xr=f} & \tl{sDm.xr} & 
+      \tl{mAA.xr} & \tl{mr.xr} & \tl{(r)di.xr} &  & \tl{in.xr}
+    \tabularnewline
+    \hline
+      \cellcolor{fvmisc}\tl{sDm.kA=f} & \tl{sDm.kA} & 
+      \tl{mAA.kA} & \tl{mr.kA} & \tl{(r)di.kA} & \tl{iw.kA} & 
+      \tl{in.kA}
+    \tabularnewline
+    \hline
+      \cellcolor{fvmisc}\tl{sDm.in=f} & \tl{sDm.in} & 
+      \tl{mAA.in} & \tl{mr.in} & \tl{(r)di.in} & \tl{ii.in} & 
+      \tl{in.in}
+    \tabularnewline
+    \hline
+  \end{tabularx}
+\end{table}
+
+Le \tref{tbl:conj_suff} s'inspire du tableau présenté dans la 
+grammaire de \cite[\pno~343, §\,547]{MW}, ci-dessous 
+\tref{tbl:conj_suff_MW}.
+
+Ce tableau propose un classement des formes verbales prioritairement 
+selon le critère de la syntaxe :
+\begin{itemize}
+  \item les formes sur \colorbox{fvinit}{fond orangé} peuvent être 
+        utilisées comme verbes principaux d'une phrase
+  \item les formes sur \colorbox{fvdepd}{fond bleu} ne sont jamais 
+        utilisées comme verbes principaux d'une phrase
+  \item (les formes sur \colorbox{fvmisc}{fond vert} sont des formes 
+        particulières plus rares.)
+\end{itemize}
+
+\bigskip
+
+On peut aussi reclasser les formes verbales selon leur valeur 
+aspectuelle (et temporelle), voir \tref{tbl:conj_suff_aspect}.
+
+
+\begin{table}
+  \caption[Conjugaison suffixale, classement aspectuel]
+          {Conjugaison suffixale, classement aspectuel 
+           (\colorbox{fvinit}{verbes principaux} ; 
+            \colorbox{fvdepd}{verbes en dépendance} ; 
+            \colorbox{fvmisc}{formes rares})}
+  \label{tbl:conj_suff_aspect}
+  \renewcommand\tabularxcolumn[1]{A{#1}}
+  \begin{tabularx}{\textwidth}{|>{\bfseries}X|*{6}{X|}}
+    \cline{2-7}
+      \multicolumn{1}{c|}{~} &
+      \multirow{2}{*}{\bfseries\vl{3}} &
+      \multirow{2}{*}{\bfseries\vg{2}} &
+      \multirow{2}{*}{\bfseries\vi{3}} &
+      \multicolumn{3}{c|}{\bfseries\va{}}
+    \tabularnewline
+      \multicolumn{1}{c|}{~} &
+      ~ & ~ & ~ & 
+      \bfseries\td{donner} & 
+      \bfseries\td{venir} & 
+      \bfseries\td{apporter}
+    \tabularnewline
+    \hline
+
+      \multicolumn{7}{|l|}{%
+        \cellcolor{fvtype}\bfseries Aspect accompli%
+      }
+    \tabularnewline
+    \hline
+      \cellcolor{fvinit}Perfectif \tl{sDm=f} &
+      \tl{sDm} & \tl{mA} & \tl{mr} & \tl{rdi} & 
+      \tl{ii}/\tl{iw} & \tl{in}
+    \tabularnewline
+    \hline
+      \cellcolor{fvinit}Accompli \tl{sDm.n=f} &
+      \tl{sDm.n} & \tl{mA.n} & \tl{mr.n} & \tl{rdi.n}/\tl{di.n} & 
+      \tl{ii.n}/\tl{iw.n} & \tl{in.n}
+    \tabularnewline
+    \hline
+      \cellcolor{fvdepd}\tl{sDmt=f} & \tl{sDmt} & \tl{mAA} & 
+      \tl{mrt} & \tl{rdit} & \tl{iit} & \tl{int}
+    \tabularnewline
+    \hline
+
+      \multicolumn{7}{|l|}{%
+        \cellcolor{fvtype}\bfseries Aspect inaccompli%
+      }
+    \tabularnewline
+    \hline
+      \cellcolor{fvinit}Aoriste \tl{sDm=f} & \tl{sDm} & \tl{mAA} & 
+      \tl{mr} & \tl{di} & \tl{iw}  & \tl{in}
+    \tabularnewline
+    \hline
+      \cellcolor{fvdepd}Forme nominale \tl{mrr=f} & \tl{sDm} & 
+      \tl{mAA} & \tl{mrr} & \tl{didi} & \tl{iw(w)} & \tl{inn}
+    \tabularnewline
+    \hline
+
+      \multicolumn{7}{|l|}{%
+        \cellcolor{fvtype}\bfseries%
+        Formes prospectives (modalités de futur)%
+      }
+    \tabularnewline
+    \hline
+      \cellcolor{fvinit}Prospectif \tl{sDm(w)=f} & \tl{sDm(w/y)} & 
+      \tl{mAA} & \tl{mr(w/y)} & \tl{rdi} & \tl{iw} & \tl{in}
+    \tabularnewline
+    \hline
+      \cellcolor{fvinit}Subjonctif \tl{sDm=f} & \tl{sDm} & 
+      \tl{mA}/\tl{mAn} & \tl{mr(y)} & \tl{di} & \tl{iwt} & \tl{int}
+    \tabularnewline
+    \hline
+
+      \multicolumn{7}{|l|}{%
+        \cellcolor{fvtype}\bfseries%
+        Formes plus rares (valeurs précisées ultérieurement)%
+      }
+    \tabularnewline
+    \hline
+      \cellcolor{fvmisc}\tl{sDm.xr=f} & \tl{sDm.xr} & 
+      \tl{mAA.xr} & \tl{mr.xr} & \tl{(r)di.xr} &  & \tl{in.xr}
+    \tabularnewline
+    \hline
+      \cellcolor{fvmisc}\tl{sDm.kA=f} & \tl{sDm.kA} & 
+      \tl{mAA.kA} & \tl{mr.kA} & \tl{(r)di.kA} & \tl{iw.kA} & 
+      \tl{in.kA}
+    \tabularnewline
+    \hline
+      \cellcolor{fvmisc}\tl{sDm.in=f} & \tl{sDm.in} & 
+      \tl{mAA.in} & \tl{mr.in} & \tl{(r)di.in} & \tl{ii.in} & 
+      \tl{in.in}
+    \tabularnewline
+    \hline
+  \end{tabularx}
+\end{table}
+
+Le \tref{tbl:conj_suff} s'inspire du tableau présenté dans la 
+grammaire de \cite[\pno~343, §\,547]{MW} (et reproduit ici, 
+\tref{tbl:conj_suff_MW}), avec des menus différences dans les 
+conventions de translittération.
+
+\begin{table}
+  \caption{Conjugaison suffixale, \cite[\pno~343, §\,547]{MW}}
+  \label{tbl:conj_suff_MW}
+  \includegraphics[width=.75\textwidth]{conj_suff_MW}
+\end{table}
+
+Il n'est évidemment pas question d'apprendre de manière abrupte 
+ce tableau. Nous allons aborder chaque forme verbale, l'une après 
+l'autre. Il est toutefois conseillé d'imprimer le tableau des formes 
+verbales postées dans la rubrique Documents de cours (ou tout autre 
+tableau synthétique des formes verbales) et de l'avoir avec soi lors 
+de l'apprentissage et des exercices, car nous nous référerons 
+systématiquement à lui.
+
+\begin{center}
+  \begin{hieroglyph}jw-sDm-m-n-T:n:3\end{hieroglyph}\\
+  \tl{iw sDm.n=Tn}\\
+  \td{Vous avez écouté.}
+\end{center}
+
+
+\chapter{Les phrases verbales (présentation très générale)}
+% =====================================================================
+
+Les phrases verbales sont des propositions dont \clef{le 
+prédicat est assumé par un verbe à une forme de la conjugaison dite 
+\frquote{suffixale}}. Si, en français, l'ordre des mots normal est 
+Sujet + Verbe + Complément, l'ordre des mots est différents dans 
+les propositions à prédicat verbal égyptiennes.
+
+En français : \td{Paul écoute son frère.}
+\donc{} ordre des mots = S + V/P + COD
+
+En égyptien ancien, la proposition verbale a la construction de base 
+suivante :
+\begin{quote}
+  Prédicat + Sujet, c'est-à-dire Verbe + Sujet.
+\end{quote}
+
+Certaines formes verbales se construisent avec \tl{iw} :
+\begin{quote}
+  \donc{} \tl{iw} + prédicat + sujet, par exemple le \tl{sDm.n.f} 
+  accompli.
+\end{quote}
+
+\begin{example}[title={}]
+  \begin{hieroglyph}jw sDm-m n:f\end{hieroglyph}
+
+  \tl{iw sDm.n=f}
+
+  \td{il a écouté}
+\end{example}
+
+D'autres ne se construisent \textbf{jamais} avec \tl{iw}, comme le 
+subjonctif \tl{sDm=f} par exemple :
+
+\begin{example}[title={}]
+  \begin{hieroglyph}sDm-m f\end{hieroglyph}
+
+  \tl{sDm=f}
+
+  \td{Puisse-t-il écouter !} / \td{Qu'il écoute !}
+\end{example}
+
+L'aoriste a, pour sa part, comme on le verra, une construction 
+particulière avec sujet antéposé :
+
+\begin{example}[title={}]
+  \begin{hieroglyph}jw-f sDm-m f\end{hieroglyph}
+
+  \tl{iw=f sDm=f}
+
+  \td{il écoute (régulièrement).}
+\end{example}
+
+
+Nous allons étudier tout cela progressivement.
+
+\begin{aparte}[title={Dernière remarque}]
+  Vous le savez, en français, il y a des propositions principales 
+  et des propositions subordonnées. Jusqu'à présent, nous avons vu 
+  en égyptien essentiellement des phrases simples. Nous allons aussi 
+  progressivement aborder d'avantage les phrases complexes, avec des 
+  verbes en position principale (verbe principal) et des verbes dans 
+  des propositions complétives, circonstancielles, relatives\dots 
+  Nous verrons donc, pour chaque forme verbale, ses emplois possibles, 
+  en tant que verbes de propositions principales ou dépendantes.
+\end{aparte}
+
+\bigskip
+
+\begin{FlushRight}
+  \larger\em\bfseries%
+  Nous sommes prêts pour le premier cours !\par
+\end{FlushRight}
+
+

@@ -13,9 +13,10 @@
     \part
     \begin{hieroglyph}jw Xn-n:nw*W-niwt m s-g:r-A2\end{hieroglyph}
     \begin{solution}
-      \tl{iw Xnw m sgr}, \td{La Résidence est dans le silence.}\\
-      Proposition à prédicat adverbial. Auxiliaire d'énonciation + 
-      Sujet + groupe prépositionnel prédicat
+      \tl{iw Xnw m sgr}, \td{La Résidence est dans le silence.}
+
+      \tg{\PPA. Auxiliaire d'énonciation + Sujet + 
+          groupe prépositionnel prédicat}
     \end{solution}
 
     \part
@@ -24,9 +25,10 @@
     \end{hieroglyph}
     \begin{solution}
       \tl{iw mwt m-Hr=i min}, 
-      \td{La mort est devant moi aujourd'hui.}\\
-      Proposition à prédicat adverbial. Auxiliaire d'énonciation + 
-      Sujet + groupe prépositionnel prédicat + adverbe CC de temps
+      \td{La mort est devant moi aujourd'hui.}
+
+      \tg{\PPA. Auxiliaire d'énonciation + Sujet + 
+          groupe prépositionnel prédicat + adverbe CC de temps}
     \end{solution}
 
     \part
@@ -34,11 +36,12 @@
       r:1:k m r:a-A40 Hr*1:k m wp:p-wAt:t*3-A40
     \end{hieroglyph}
     \begin{solution}
-      \tl{r(A)=k m Ra ; Hr=k m Wp.wA.wt \ex}, 
-      \td{Ta bouche est Rê ; ton visage est Oupouaout !}\\
-      Deux Propositions à prédicat adverbial, exclamatives 
-      (sans \tl{iw}). Sujet + groupe prépositionnel prédicat ; 
-      Sujet + groupe prépositionnel prédicat
+      \tl{r(A)=k m Ra ; Hr=k m Wp.wA.wt\ex}, 
+      \td{Ta bouche est Rê ; ton visage est Oupouaout !}
+
+      \tg{Deux \PPA[s], exclamatives 
+          (sans \tlg{iw}). Sujet + groupe prépositionnel prédicat ; 
+          Sujet + groupe prépositionnel prédicat}
     \end{solution}
 
     \part
@@ -46,9 +49,10 @@
       jw i-t:f-A1 f m Xn-n:nw*W-pr O12-pr f
     \end{hieroglyph}
     \begin{solution}
-      \tl{iw it=f m-Xnw aH=f}, \td{Son père est dans le palais.}\\
-      Proposition à prédicat adverbial. Auxiliaire d'énonciation + 
-      Sujet + groupe prépositionnel prédicat
+      \tl{iw it=f m-Xnw aH=f}, \td{Son père est dans le palais.}
+
+      \tg{\PPA. Auxiliaire d'énonciation + Sujet + 
+          groupe prépositionnel prédicat}
     \end{solution}
   \end{parts}
 
@@ -60,6 +64,7 @@
     jambes).}
     \begin{solution}
       \begin{hieroglyph}jw xAst:t*3 Xr:r r:d-rd-rd k\end{hieroglyph}
+      \quad
       \tl{iw xAs.wt Xr rd.wy=k}
     \end{solution}
 
@@ -68,18 +73,21 @@
       \begin{hieroglyph}
         jw T:n:3 i-imAx-x-i-i-Z3 x:r nTr-1
       \end{hieroglyph}
+      \quad
       \tl{iw=Tn r imAxy.w xr nTr}
     \end{solution}
 
     \part\td{Ta majesté est Horus.}
     \begin{solution}
       \begin{hieroglyph}jw Hm-1-f m G5-G7\end{hieroglyph}
+      \quad
       \tl{iw Hm=f m @r}
     \end{solution}
 
     \part\td{Son nom est dans mon c{\oe}ur.}
     \begin{solution}
       \begin{hieroglyph}jw r:n-A2-f ib-1-A1\end{hieroglyph}
+      \quad
       \tl{iw rn=f m ib=i}
     \end{solution}
   \end{parts}
@@ -96,9 +104,10 @@
   \item \begin{hieroglyph}O12-pr\end{hieroglyph} 
         \tl{aH}, \td{palais}
   \item \begin{hieroglyph}wp:p-\!wAt:t*3-\!A40\end{hieroglyph} 
-        \tl{Wp-wA.wt}, \td{Oupouaout (\litt l'Ouvreur-des-chemins)}
+        \tl{Wp-wA.wt}, \td{Oupouaout}\\
+        (\litt \td{l'Ouvreur-des-chemins)}
   \item \begin{hieroglyph}m-\!Xn-n:nw*W-pr\end{hieroglyph} 
-        \tl{m-Xnw}, \td{à l'intérieur de} (préposition composée)
+        \tl{m-Xnw}, \td{à l'intérieur de}\\(préposition composée)
   \item \begin{hieroglyph}mi-n:ra\end{hieroglyph} 
         \tl{min}, \td{aujourd'hui}
   \item \begin{hieroglyph}m-t:A14 +l, var.\ +s m-t:Z6\end{hieroglyph} 

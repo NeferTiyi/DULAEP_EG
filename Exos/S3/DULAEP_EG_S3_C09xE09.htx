@@ -11,23 +11,24 @@
   \begin{parts}
 
     \part
-1.
     \begin{hieroglyph}
+      m s-D-Dr:r-Q6 g:r-H-N2 mi-i ra-1 r spr:r-D54*t:k r Ab-b-Dw:niwt
     \end{hieroglyph}
 
     \begin{solution}
       \tl{m sDr grH mi hrw r sprt=k r AbDw}
 
-      \td{Ne te couche, ni la nuit, ni le jour, jusqu'à ce que tu es atteins Abydos.}
+      \td{Ne te couche, ni la nuit, ni le jour, jusqu'à ce que tu es 
+          atteins Abydos.}
 
-      \tl{m sDr} : vétitif
-
-      \tl{sprt=k} : forme \tl{sDmt=f} dans une circonstancielle véritable
+      \tg{\tlg{m sDr} : vétitif\\
+          \tlg{sprt=k} : forme \tlg{sDmt=f} dans une circonstancielle 
+          véritable}
     \end{solution}
 
     \part
-2.
     \begin{hieroglyph}
+      z:r-E27-A2 s-n:3 n:S-n:y-E20 n' xpr-r*t:f
     \end{hieroglyph}
     \infos{\CdN, à propos des marins}
 
@@ -36,40 +37,44 @@
 
       \td{Ils annoncèrent l'orage avant qu'il ne soit advenu.}
 
-      \tl{Sr=sn} : perfectif
-
-      \tl{n xprt=sn} : forme \tl{sDmt=f} dans une circonstancielle
+      \tg{\tlg{sr=sn} : perfectif\\
+          \tlg{n xprt=sn} : forme \tlg{sDmt=f} dans une 
+          circonstancielle}
     \end{solution}
 
     \part
-3. 
     \begin{hieroglyph}
+      m-a:k' t-\!w r ir:t Abd:\!dwA-d:ra*1 Hr-1 Abd:\!dwA-d:ra*1 !
+      r km-m-t:Y1 -k' Abd:\!dwA-d:ra*1*1*1*1 m-Xn:n-nw-\!w-pr:n 
+      iw:N23*1 p:n
     \end{hieroglyph}
     \infos{\CdN}
 
     \begin{solution}
       \tl{mk, tw r ir.t Abd Hr Abd\\ r kmt=k Abd 4 m-Xnw n iw pn}
 
-      \td{Vois, tu passeras mois après mois,\\ jusqu'à ce que tu aies complété 4 mois dans cette île.}
+      \td{Vois, tu passeras mois après mois,\\ jusqu'à ce que tu aies 
+          complété 4 mois dans cette île.}
 
-      \tl{r ir.t} : prédicat initial (pseudo-verbal -- futur)
-
-      \tl{r kmt=k} : \tl{sDmt=f} dans une circonstancielle véritable
+      \tg{\tlg{r ir.t} : prédicat initial (pseudo-verbal -- futur)\\
+          \tlg{r kmt=k} : \tlg{sDmt=f} dans une circonstancielle 
+          véritable}
     \end{solution}
 
     \part
-4.
     \begin{hieroglyph}
+      m-a:k nn di' A1:\!n f:wAt-t*1:r spr:r:t-D54:k
     \end{hieroglyph}
 
     \begin{solution}
       \tl{mk, nn di=i n=f wA.t, r sprt=k}
 
-      \td{Vois, je ne lui montrerai pas le chemin / je ne le laisserai pas partir jusqu'à ce que tu sois arrivé.}
+      \td{Vois, je ne lui montrerai pas le chemin / je ne le laisserai 
+          pas partir jusqu'à ce que tu sois arrivé.}
 
-      \tl{nn di=i} : prospectif, négation du futur
-
-      \tl{sprt=k} : \tl{sDmt=f} dans une circonstancielle véritable
+      \tg{\tlg{nn di=i} : prospectif, négation du futur\\
+          \tlg{sprt=k} : \tlg{sDmt=f} dans une circonstancielle 
+          véritable}
     \end{solution}
   \end{parts}
 \end{questions}
@@ -77,24 +82,24 @@
 \subsection*{Vocabulaire}
 \begin{multicols}{2}
   \begin{itemize}
-    \item \begin{hieroglyph}\end{hieroglyph}
-          \tl{iw}, \td{«île}
-    \item \begin{hieroglyph}\end{hieroglyph}
+    \item \begin{hieroglyph}iw:N23*1\end{hieroglyph}
+          \tl{iw}, \td{île}
+    \item \begin{hieroglyph}ir\end{hieroglyph}
           \tl{iri} + une durée, \td{passer du temps}
-    \item \begin{hieroglyph}\end{hieroglyph}
+    \item \begin{hieroglyph}m-Xn:n-nw-\!w-pr\end{hieroglyph}
           \tl{m-Xnw}, \td{à l'intérieur de}
-    \item \begin{hieroglyph}\end{hieroglyph}
+    \item \begin{hieroglyph}n:S-n:y-E20\end{hieroglyph}
           \tl{nSny}, \td{orage}, \td{tempête}
-    \item \begin{hieroglyph}\end{hieroglyph}
+    \item \begin{hieroglyph}r:di' wAt-t*1\end{hieroglyph}
           \tl{rdi wA.t}, \td{donner le chemin} (dans le sens de 
           \td{laisser partir})
-    \item \begin{hieroglyph}\end{hieroglyph}
+    \item \begin{hieroglyph}m s-D-Dr:r-Q6\end{hieroglyph}
           \tl{sDr}, \td{être allongé}, \td{dormir}
-    \item \begin{hieroglyph}\end{hieroglyph}
+    \item \begin{hieroglyph}spr:r-D54\end{hieroglyph}
           \tl{spr}, \td{atteindre}
-    \item \begin{hieroglyph}\end{hieroglyph}
+    \item \begin{hieroglyph}z:r-E27-A2\end{hieroglyph}
           \tl{sr}, \td{annoncer}
-    \item \begin{hieroglyph}\end{hieroglyph}
+    \item \begin{hieroglyph}km-m-Y1\end{hieroglyph}
           \tl{km}, \td{totaliser}, \td{achever}
   \end{itemize}
 \end{multicols}

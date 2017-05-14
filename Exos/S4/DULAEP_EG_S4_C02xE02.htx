@@ -1,0 +1,194 @@
+%!TEX root = DULAEP_EG_Exos.htx
+
+\chapter*{Exercice~2}\label{cha:ExoS4x02}
+% =====================================================================
+
+\begin{questions}
+  \question\qfmt{Translittérer, analyser et traduire}
+
+  \begin{parts}
+    \part
+    \begin{hieroglyph}
+      i-r :D54-w-t p:t-pt:t:n m rsw-w-TAw N41-s-A3 D-H-w-t:n:xt-A50 
+      p:n Hr rsw-s
+    \end{hieroglyph}
+
+    \begin{solution}
+      \tl{ir iwt p.t tn m rsw, Hms +Hwty-nxt pn Hr rsy}
+
+      \td{Si ce ciel vient en tant que vent du sud, ce Djéhoutynakht 
+          s'assiéra au sud.}
+    \end{solution}
+
+    \part
+    \begin{hieroglyph}
+      i-r i-q:r k' g:r-grg:Y1 pr-1 ir:k' zA-A1-1:n 
+      s-i-M1-m-Y1 nTr-G7 !
+      i-r mt:t*y-Dba-Dba-Y1:f pXr:r-D54:f n qd-d:nw-Y1:3 k':sDm-m f:n 
+      s-b-sbA-i-i-t:Y1-3:k' s-i-q:r-Y1 !
+      s-x:r-W-Y1:3-f m Xn:n-nw*W:pr pr*1:k' !
+      n:U19 nw-W-100-D40:f x:t-Y1:3 k' r st-t-pr i-r-y !
+      ir n:f b-W nb nfr-f:r
+    \end{hieroglyph}
+
+    \begin{solution}
+      \tl{\clel{ir ior=k} \blue{grg} pr, ir=k sA=i n(y) simA nTr\\
+          \clel{ir mty=f, pXr=f} n od=k, sDm=f n sbAy.wt=k, 
+          \clel{sior sxr.w=f} m-Xnw pr=k\\
+          \clel{nw=f} x.t=k r s.t iry, \blue{ir} n=f bw-nfr}
+
+      \td{\clel{Si tu es prospère}, \blue{fonde} un foyer, de sorte 
+          que tu engendreras un fils (propre) à rendre bien disposé 
+          le dieu.\\
+          \clel{S'il est droit, s'il sert} ton caractère, s'il écoute 
+          tes enseignements, \clel{si ses desseins sont prospères} 
+          dans ta maison, s'il prend soin de tes affaires à leur 
+          place, \blue{fais} pour lui toute sorte de bien.}
+
+      \tg{Deux phrases conditionnelles, protase/apodose.\\
+          \clel{Protases} : condition(s) au subjonctif\\
+          Apodose : principales à \blue{l'impératif}}
+    \end{solution}
+  \end{parts}
+
+  \subsection*{Vocabulaire}
+  \begin{multicols}{2}
+    \begin{itemize}
+      \item \begin{hieroglyph}i-q:r\end{hieroglyph}
+            \tl{ior}, \td{être excellent}, \td{prospère}
+      \item \begin{hieroglyph}b-W-nfr-f:r\end{hieroglyph}
+            \tl{bw-nfr}, \td{le bien}
+      \item \begin{hieroglyph}pXr:r-D54 n\end{hieroglyph}
+            \tl{pXr n}, \td{servir}
+      \item \begin{hieroglyph}n:U19 nw-W-100-D40\end{hieroglyph}
+            \tl{nwi} \vi{3}, \td{prendre soin}
+      \item \begin{hieroglyph}mt:t*y-Dba-Dba-Y1v\end{hieroglyph}
+            \tl{mty}, \td{être droit}
+      \item \begin{hieroglyph}rsw-s\end{hieroglyph}
+            \tl{rsy}, \td{sud}
+      \item \begin{hieroglyph}rsw-w-TAw\end{hieroglyph}
+            \tl{rsw}, \td{vent du sud}
+      \item \begin{hieroglyph}N41-s-A3\end{hieroglyph}
+            \tl{Hmsi}, \td{être assis}
+      \item \begin{hieroglyph}s-i-q:r-Y1\end{hieroglyph}
+            \tl{sior}, \td{être excellent}, \td{être habile}, 
+            \td{être prospère}
+      \item \begin{hieroglyph}s-b-sbA-i-i-t:Y1\end{hieroglyph}
+            \tl{sbAy.t}, \td{enseignement}
+      \item \begin{hieroglyph}s-i-M1-m-Y1\end{hieroglyph}
+            \tl{simA}, \td{rendre bien disposé}
+      \item \begin{hieroglyph}s-x:r-Y1v\end{hieroglyph}
+            \tl{sxr}, \td{plan}, \td{dessein}
+      \item \begin{hieroglyph}g:r-grg:Y1\end{hieroglyph}
+            \tl{grg}, \td{fonder}
+      \item \begin{hieroglyph}qd-d:nw-Y1v\end{hieroglyph}
+            \tl{od}, \td{forme}, \td{nature}, \td{caractère}
+      \item \begin{hieroglyph}D-H-w-t:n:xt-A50\end{hieroglyph}
+            \tl{+Hwty-nxt}, \td{Djéhouty\-nakht} (anthroponyme)
+    \end{itemize}
+  \end{multicols}
+
+  \question\qfmt{Translittérer et traduire les six colonnes (a et b) 
+  provenant de l'objet ci-dessous (\emph{\texten{birth tusks}})}
+
+  \begin{tikzpicture}
+    \node [anchor=south west, inner sep=0] (image) at (0,0) 
+          {\includegraphics[height=8cm]{Berlin_14207_0}} ;
+    \begin{scope}[
+      x={(image.south east)},
+      y={(image.north west)},
+      DarkRed, thick, 
+    ]
+      % \draw [gray, thin, step=0.05]
+      %       (0.00, 0.00) grid (1.00, 1.00) ;
+      % \draw [blue, ultra thin, step=0.1]
+      %       (0.00, 0.00) grid (1.00, 1.00) ;
+      % \foreach \y in {2, 4, ..., 10} {%
+      %   \node [left] at (0.00, 0.\y) {\small\y} ;
+      % } ;
+      % \foreach \x in {0.2, 0.4, ..., 1.0} {%
+      %   \node [above] at (\x, 1.00) {\small\x} ;
+      % } ;
+
+      \draw [shift={(0.28, 0.837)}, rotate=27]
+            (-0.045, -0.08) rectangle (0.045, 0.09) ;
+      \node at (0.33, 0.74) {\textbf a.} ;
+
+      \draw [shift={(0.55, 0.905)}, rotate=-5]
+            (-0.048, -0.082) rectangle (0.048, 0.09) ;
+      \node at (0.54, 0.79) {\textbf b.} ;
+
+      \node [below right] at (1.20, 1.00) 
+            {\includegraphics[height=3.8cm]{Berlin_14207_1}} ;
+      \node [below left] at (1.20, 1.00) {\textbf a.} ;
+
+      \node [above right] at (1.20, 0.00) 
+            {\includegraphics[height=3.8cm]{Berlin_14207_2}} ;
+      \node [above left] at (1.20, 0.00) {\textbf b.} ;
+    \end{scope}
+  \end{tikzpicture}\\
+  \textbf{Ivoire magique inscrit, \source{Berlin~\inv{14207}}}\\
+  \fullcite{Legge_1905}
+
+  \begin{solution}
+    ~\\
+    \red{\textbf{a.}} 
+    \tl{Dd-mdw in sAw aSA.w : \green{ii.n=n} \blue{stp=n} sA.w aSA.w 
+        Hr \%naa-ib \clel{ms.t.n} nb.t-pr \%nb-s(y)-m-a(=i) wHm-anx}
+
+    \td{Parole à dire par les nombreuses protections : 
+        \green{nous sommes venus} de sorte que \blue{nous exercions} 
+        une protection /pour exercer une protection sur Sénâib 
+        \clel{qu'a mise au monde} la maîtresse de maison Sénebséma, 
+        renouvelée de vie}
+
+    \tg{Accompli \tlg{sDm.n=f} / subjonctif séquentiel / 
+        Forme relative (voir \Pref{prt:S3_offrande})}
+
+    \bigskip
+
+    \red{\textbf{b.}} 
+    \tl{Dd-mdw in aHA : \green{ii.n(=i)} \blue{stp=i} sA Hr \%naa-ib 
+        ms.t.n \%nb-s(y)-m-a(=i) wHm.t anx}
+
+    \td{Paroles à dire par Âha : je suis venu de sorte que j'exerce 
+        une protection/pour exercer une protection sur Sénaaib 
+        renouvelée de vie.}
+
+    \tg{Même analyse}
+  \end{solution}
+
+  \subsection*{Vocabulaire}
+  \begin{multicols}{2}
+    \begin{itemize}
+      \item \begin{hieroglyph}ii-i-D54\end{hieroglyph}
+            \tl{iii}, \td{venir}
+      \item \begin{hieroglyph}aHA-A\end{hieroglyph}
+            \tl{aHA}, \td{Âha} (génie)
+      \item \begin{hieroglyph}aSA\end{hieroglyph}
+            \tl{aSA}, \td{nombreux}
+      \item \begin{hieroglyph}wHm-t-anx\end{hieroglyph}
+            \tl{wHm.t anx}, \td{renouvelée de vie}
+      \item \begin{hieroglyph}
+              ms-s-Z5:n +l\ / +s ms-s-t-Z5:n
+            \end{hieroglyph}
+            \tl{ms.n}~/ \tl{ms.t.n}, \\
+            \td{qu'a mis au monde}~/ \td{qu'a mise au monde} \\
+            (forme relative, voir un cours prochain)
+      \item \begin{hieroglyph}V17-1:3\end{hieroglyph}
+            \tl{sAw}, \td{protections}
+      \item \begin{hieroglyph}s-t:p-stp-V16\end{hieroglyph}
+            \tl{stp-sA}, \td{protection}
+    \end{itemize}
+  \end{multicols}
+  \paragraph{Anthroponymes}
+  \begin{itemize}
+    \item \begin{hieroglyph}s-n:a:a-zS-ib-B1\end{hieroglyph}
+          (et variantes)
+          \tl{\%naa-ib}, \td{Sénâib}\\
+          (\cite[\pno~332, \no14]{RK})
+    \item \begin{hieroglyph}s-n:b-s-m:a-A1\end{hieroglyph}
+          \tl{Snb-s(y)-m-a(=i)}, \td{Sé\-neb\-sy\-emai}\\
+          (\cite[\pno~334, \no21]{RK})
+  \end{itemize}
+\end{questions}

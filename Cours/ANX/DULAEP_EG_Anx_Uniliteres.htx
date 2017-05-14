@@ -8,7 +8,7 @@
 {\renewcommand\tabularxcolumn[1]{m{#1}}
 \smaller\SmallerText
 \noindent%
-\hspace*{-1.5cm}
+% \hspace*{-1.5cm}
 \begin{tabularx}{\textwidth+1.5cm}
       {+M{1.4cm}^M{2.2cm}^M{1.6cm}^M{1.7cm}^X}
       % {|+M{1.5cm}|^M{1.7cm}|^M{1.7cm}|^M{1.7cm}|^X|}

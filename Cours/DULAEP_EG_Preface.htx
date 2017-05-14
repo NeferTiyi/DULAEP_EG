@@ -1,0 +1,73 @@
+%!TEX root = DULAEP_EG.htx
+
+\chapter{Notes préliminaires}
+% =====================================================================
+
+Le présent document regroupe l'ensemble des cours donnés par \SD 
+dans le cadre de l'option \frquote{égyptien classique} du Diplôme 
+d'Université \frquote{\DULA}\footnote{\url{histoire.unistra.fr/
+offre-de-formation/diplome-duniversite-de-langues-anciennes}} proposé 
+en enseignement à distance conjointement par les Facultés des Sciences 
+historiques, des Lettres et de Théologie protestante de l'Université 
+de Strasbourg.
+
+Cette formation se décompose en deux années (\frquote{débutant} et 
+\frquote{avancé}), chacune se subdivisant en deux semestres de douze 
+semaines. 
+
+Le but de ce document est de réunir en un seul endroit les cours 
+donnés sous forme de fichiers individuels par \SD, afin de bénéficier 
+des avantages d'une pagination continue et de références croisées 
+fonctionnelles.
+Le but secondaire est l'apprentissage de la classe de document 
+\textsf{Memoir}\footnote{Package de \gens[Peter]{Wilson}, maintenu par 
+\gens[Lars]{Madsen}, \url{https://www.ctan.org/pkg/memoir}} de \LaTeX.
+
+Un second volume présente les exercices et corrigés des quatre 
+semestres.
+
+
+\chapter{Abréviations}
+% =====================================================================
+
+% \begin{description}
+%   \item [adj.] adjectif
+%   \item [aux.] auxiliaire
+%   \item [caus.] causatif
+%   \item [CC] complément circonstanciel
+%   \item [CO] complément d'objet
+%   \item [cplt] complément
+%   \item [GN] Groupe Nominal
+%   \item [inacc. prog.] inaccompli progressif
+%   \item [\litt] littéralement
+%   \item [PPA] \PPA
+%   \item [PPPseudo] \PPP
+%   \item [PPAdj] \PPJ
+%   \item [PPN] \PPN
+%   \item [pr.] pronom
+%   \item [PS] pronom suffixe
+%   \item [prop.] proposition
+%   \item [subst.] substantif
+% \end{description}
+
+\begin{tabular}{>{\bfseries}ll}
+  adj.         & adjectif \\
+  aux.         & auxiliaire \\
+  caus.        & causatif \\
+  CC           & complément circonstanciel \\
+  CO           & complément d'objet \\
+  cplt         & complément \\
+  GN           & Groupe Nominal \\
+  inacc. prog. & inaccompli progressif \\
+  \litt        & littéralement \\
+  PPA          & \PPA \\
+  PPAdj        & \PPJ \\
+  PPN          & \PPN \\
+  PPPseudo     & \PPP \\
+  PPV          & phrase non verbale \\
+  pr.          & pronom \\
+  prop.        & proposition \\
+  PS           & pronom suffixe \\
+  subst.       & substantif \\
+\end{tabular}
+

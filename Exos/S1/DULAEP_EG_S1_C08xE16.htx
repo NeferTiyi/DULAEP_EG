@@ -13,11 +13,11 @@
       jw r:T-rmT m r-m-w-t-rmi ir:t*1-A1
     \end{hieroglyph}
     \begin{solution}
-      \tl{iw rmT m rm.wt ir.t=i}, 
+      \tl{iw rmT m rm.wt ir.t=i}
+
       \td{Les hommes sont (issus) des larmes de mon {\oe}il.}
 
-      Proposition à prédicat adverbial : auxiliaire + sujet + prédicat 
-      (groupe prépositionnel)
+      \tg{\PPA : auxiliaire + sujet + prédicat (groupe prépositionnel)}
     \end{solution}
 
     \part
@@ -25,17 +25,20 @@
       m-a:k niwt:t*1 t:n m H-b-Hb jw:k m nb:A1-s
     \end{hieroglyph}
     \begin{solution}
-      \tl{mk, niw.t tn m Hb, iw=k m nb=s}, 
+      \tl{mk, niw.t tn m Hb, iw=k m nb=s}
+
       \td{Vois, la ville est en fête, (car) tu es son maître.}
 
-      Deux propositions à prédicat adverbial :
-      \begin{enumerate}
-         \item initiale : auxiliaire + sujet / prédicat (groupe 
-               prépositionnel)
-         \item séquentielle : auxiliaire (\tl{iw} nécessaire pour 
-               asseoir le pronom suffixe) + sujet (pronom suffixe) + 
-               prédicat (groupe prépositionnel avec \tl{m} d'état)
-      \end{enumerate}
+      \tg{%
+        Deux \PPA :
+        \begin{enumerate}
+           \item initiale : auxiliaire + sujet / prédicat (groupe 
+                 prépositionnel)
+           \item séquentielle : auxiliaire (\tlg{iw} nécessaire pour 
+                 asseoir le pronom suffixe) + sujet (pronom suffixe) + 
+                 prédicat (groupe prépositionnel avec \tlg{m} d'état)
+        \end{enumerate}%
+      }
     \end{solution}
 
     \part
@@ -43,13 +46,14 @@
       nn m jw-ms-s-A2 x*t:f Hr:1 T:n:3
     \end{hieroglyph}
     \begin{solution}
-      \tl{nn \zero m iwms xft-Hr=Tn}, 
+      \tl{nn \zero m iwms xft-Hr=Tn}
+
       \td{Ce n'est pas un mensonge devant vous.}
 
-      Proposition à prédicat adverbial négative : négation + 
-      sujet \tl{\zero} (pas de sujet exprimé) + prédicat (groupe 
-      prépositionnel avec \tl{m} d'état) + CC de lieu (groupe 
-      prépositionnel)
+      \tg{\PPA négative : négation + 
+          sujet \tlg{\zero} (pas de sujet exprimé) + prédicat (groupe 
+          prépositionnel avec \tlg{m} d'état) + CC de lieu (groupe 
+          prépositionnel)}
     \end{solution}
   \end{parts}
 
@@ -60,9 +64,10 @@
     la Douat !}
     \begin{solution}
       \begin{hieroglyph}
-
+        jw i-a:n-nw-w-A2 m p*t:pt i-m-M-mw m dwA-t:pr
       \end{hieroglyph}
-      \tl{iw ianw m p.t, imw m \_wA.t \ex}
+
+      \tl{iw ianw m p.t, imw m \_wA.t\ex}
     \end{solution}
   \end{parts}
 \end{questions}
@@ -87,11 +92,12 @@
   \item \begin{hieroglyph}H-b-Hb\end{hieroglyph} 
         \tl{Hb}, \td{fête}
   \item \begin{hieroglyph}x*t:f-Hr:1\end{hieroglyph} 
-        \tl{xft-Hr} (préposition composée),
-        \td{devant}, \td{en présence de} --- \rem{NB : notez la 
-        disposition des signes \tl{t} et \tl{f} dans \tl{xft}, qui ne 
-        respecte pas le sens de lecture mais opte pour une disposition 
-        harmonieuse des signes dans le cadrat.}
+        \tl{xft-Hr} (préposition composée)\\
+        \td{devant}, \td{en présence de}\\
+        \rem{NB : notez la disposition des signes \tl{t} et \tl{f} 
+        dans \tl{xft}, qui ne respecte pas le sens de lecture mais 
+        opte pour une disposition harmonieuse des signes dans le 
+        cadrat.}
   \item \begin{hieroglyph}dwA-t:pr\end{hieroglyph} 
         \tl{\_wA.t}, \td{Douat} (domaine chthonien des morts, d'Osiris)
 \end{itemize}

@@ -72,19 +72,19 @@
     \part\td{Écris-lui (à lui) !}
     \begin{solution}
       \begin{hieroglyph}h-A-b-D54 n:f\end{hieroglyph}\quad
-      \tl{hAb n=f \ex}
+      \tl{hAb n=f\ex}
     \end{solution}
 
     \part\td{Ne dis pas de mensonge !} 
     \begin{solution}
       \begin{hieroglyph}m Dd' g:r-grg-A2\end{hieroglyph}\quad
-      \tl{m Dd grg \ex}
+      \tl{m Dd grg\ex}
     \end{solution}
 
     \part\td{Bats-toi ! (Combats !)} 
     \begin{solution}
       \begin{hieroglyph}aHA-A24\end{hieroglyph}\quad
-      \tl{aHA \ex}
+      \tl{aHA\ex}
     \end{solution}
   \end{parts}
 \end{questions}

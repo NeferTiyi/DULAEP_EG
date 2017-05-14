@@ -67,13 +67,13 @@ La prédication nominale peut exprimer deux types d'identité :
 \PPN que nous allons développer :}
 
 \begin{itemize}\setlength{\itemsep}{1em}
-  \item La phrase à prédicat nominal n'est \uline{jamais} introduite 
-        par \tl{iw}. En effet, l'identité qui est exprimée est 
-        considérée comme une vérité atemporelle, valable quel que soit 
-        le point de référence. En conséquence, il faut bien distinguer 
-        la \PPN de la \PPA avec \tl{m} d'état, qui indique une 
-        identité transitoire, circonstancielle.
-  \item Elle est \uline{neutre} du point de vue temporel.
+  \item La phrase à prédicat nominal n'est \ul{jamais} introduite par 
+        \tl{iw}. En effet, l'identité qui est exprimée est considérée 
+        comme une vérité atemporelle, valable quel que soit le point 
+        de référence. En conséquence, il faut bien distinguer la \PPN 
+        de la \PPA avec \tl{m} d'état, qui indique une identité 
+        transitoire, circonstancielle.
+  \item Elle est \ul{neutre} du point de vue temporel.
   \item Si le sujet est pronominal, elle utilise une nouvelle série 
         de pronoms personnels le \clef{pronom indépendant} (voir 
         ci-dessous) qui peut être placé en tête de phrase.
@@ -228,9 +228,9 @@ Cette construction s'emploie quand le sujet correspond à une
 % ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 La copule \tl{pw} est à l'origine le démonstratif de la série 
 \tl{pw} / \tl{tw} / \tl{nw}. Dans la \PPN, il prend le sens 
-particulier du français \frquote{\uline{c'est}} et devient 
-\clef{invariable}. \textbf{Cette copule remplit la fonction de 
-sujet.} Elle constitue en fait \frquote{l'indice du sujet}.
+particulier du français \frquote{\ul{c'est}} et devient 
+\clef{invariable}. \textbf{Cette copule remplit la fonction de sujet.} 
+Elle constitue en fait \frquote{l'indice du sujet}.
 
 \begin{example}
   \begin{hieroglyph}ir-st-A40 pw\end{hieroglyph}

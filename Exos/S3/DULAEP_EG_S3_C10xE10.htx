@@ -11,45 +11,54 @@
   \begin{parts}
 
     \part
-1.
     \begin{hieroglyph}
+      gm-m:n sw-W wp:p-tyw-D54:3 Hr-1 wA-A-t:wAt 
+      pH-D54:n s-n:3 sw-W r t:r-tr-ra:n xA-A-W-y-N2
     \end{hieroglyph}
 
     \begin{solution}
       \tl{gm.n sw wpwty.w Hr wA.wt. pH.n=sn sw r tr n(y) xAwy}
 
-      \td{C'est sur le chemin que les messagers le trouvèrent. C'est au moment du crépuscule qu'ils l'atteignirent}
+      \td{C'est sur le chemin que les messagers le trouvèrent. 
+          C'est au moment du crépuscule qu'ils l'atteignirent}
 
-      Deux phrases avec constructions emphatiques : Sujet = \tl{sDm.n=f} emphatique et Prédicat = groupe prépositionnel (\tl{Hr
-      wA.wt} et \tl{sw r tr n(y) xAwy}) 
+      \tg{Deux phrases avec constructions emphatiques : \\
+          Sujet : \tlg{sDm.n=f} emphatique \\
+          Prédicat : groupe prépositionnel (\tlg{Hr wA.wt} et 
+          \tlg{sw r tr n(y) xAwy})}
     \end{solution}
 
     \part
-2.
     \begin{hieroglyph}
+      di':di' T:n:3 p-pA-A-a:q-w-X4:3
+      n r:T-rmT i-W s-n:3 Hr:1 ir:t kA:t
     \end{hieroglyph}
     \infos{\source{Lettre d'Héqanakhté~II}, recto 29--30}
 
     \begin{solution}
-      \tl{didi=Tn pAq.wt n rmT iw=sn Hr ir.t kA.t}
+      \tl{didi=Tn pAo.wt n rmT iw=sn Hr ir.t kA.t}
 
       \td{Vous ne donnerez des rations aux gens que s'ils travaillent.}
 
-      Phrase avec construction emphatique : Sujet = forme \tl{mrr=f} emphatique, Prédicat = circonstancielle introduite par \tl{iw} (avec un inaccompli progressif).
+      \tg{Phrase avec construction emphatique : \\
+          Sujet : forme \tlg{mrr=f} emphatique \\
+          Prédicat : circonstancielle introduite par \tlg{iw} (avec un 
+          inaccompli progressif).}
     \end{solution}
 
     \part
-3.
     \begin{hieroglyph}
+      aHa-a:n pA'-A s-mn:n-G38 aHa-a:D54 Hr-1 g-A-g-A-A2
     \end{hieroglyph}
-    \infos{papyrus Westcar}
+    \infos{papyrus \source{Westcar}}
 
     \begin{solution}
       \tl{aHa.n pA smn aHa(.w) Hr gAgA}
 
       \td{Alors, l'oie se dressa et se mit à caqueter.}
 
-      Phrase introduite par l'auxiliaire de la narration, avec deux prédicats (parfait ancien et inaccompli progressif) 
+      \tg{Phrase introduite par l'auxiliaire de la narration, avec 
+          deux prédicats (parfait ancien et inaccompli progressif)}
     \end{solution}
   \end{parts}
 \end{questions}
@@ -57,23 +66,23 @@
 \subsection*{Vocabulaire}
 \begin{multicols}{2}
   \begin{itemize}
-    \item \begin{hieroglyph}\end{hieroglyph}
+    \item \begin{hieroglyph}aHa-a:D54\end{hieroglyph}
           \tl{aHa}, \td{se dresser}, \td{être debout}
-    \item \begin{hieroglyph}\end{hieroglyph}
+    \item \begin{hieroglyph}aHa-a:n\end{hieroglyph}
           \tl{aHa.n}, \td{alors}, auxiliaire de la narration
-    \item \begin{hieroglyph}\end{hieroglyph}
-          \tl{pAaq.w}, \td{rations}
-    \item \begin{hieroglyph}\end{hieroglyph}
+    \item \begin{hieroglyph}p-pA-A-a:q-w-X4:3\end{hieroglyph}
+          \tl{pAao.w}, \td{rations}
+    \item \begin{hieroglyph}pH-D54\end{hieroglyph}
           \tl{pH}, \td{atteindre}
-    \item \begin{hieroglyph}\end{hieroglyph}
+    \item \begin{hieroglyph}g-A-g-A-A2\end{hieroglyph}
           \tl{gAgA}, \td{caqueter}
-    \item \begin{hieroglyph}\end{hieroglyph}
+    \item \begin{hieroglyph}xA-A-W-y-N2\end{hieroglyph}
           \tl{xAwy}, \td{crépuscule}
-    \item \begin{hieroglyph}\end{hieroglyph}
+    \item \begin{hieroglyph}kA:t\end{hieroglyph}
           \tl{kA.t}, \td{travail}
-    \item \begin{hieroglyph}\end{hieroglyph}
+    \item \begin{hieroglyph}s-mn:n-G38\end{hieroglyph}
           \tl{smn}, \td{oie}
-    \item \begin{hieroglyph}\end{hieroglyph}
+    \item \begin{hieroglyph}t:r-tr-ra\end{hieroglyph}
           \tl{tr}, \td{époque}, \td{saison}, \td{moment}
   \end{itemize}
 \end{multicols}

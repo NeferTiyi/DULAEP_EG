@@ -140,7 +140,7 @@ les épithètes secondaires suivantes :
   \tabularnewline
 \end{tabularx}}
 
-\noindent\uline{Les noms du roi sont généralement suivis de 
+\noindent\ul{Les noms du roi sont généralement suivis de 
 bénédictions (formules d'eulogie)} :
 
 {\renewcommand\tabularxcolumn[1]{p{#1}}%
@@ -162,7 +162,7 @@ bénédictions (formules d'eulogie)} :
 \end{tabularx}}
 
 
-\noindent\uline{La titulature royale comprend aussi fréquemment 
+\noindent\ul{La titulature royale comprend aussi fréquemment 
 mention de l'élection du roi par les dieux} :
 \begin{itemize}
   \item le roi est dit \td{aimé} d'une divinité. 
@@ -178,7 +178,7 @@ mention de l'élection du roi par les dieux} :
         \td{qu'a élu Rê, élu de Rê} (noter l'antéposition honorifique).
 \end{itemize}
 
-\noindent\uline{Rappel sur quelques désignations} :
+\noindent\ul{Rappel sur quelques désignations} :
 
 \begin{tabular}{ll}
   \begin{hieroglyph}Hm-1-f\end{hieroglyph} \tl{Hm=f} & 

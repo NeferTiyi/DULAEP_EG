@@ -17,7 +17,7 @@ Documents autorises : listes de signes, lexiques et dictionnaires
 
   \begin{minipage}{0.4\linewidth}
     \centering
-    \includegraphics[width=\textwidth]{Louvre_B7_2}
+    \includegraphics[width=\textwidth]{Louvre_B7_1}
   \end{minipage}%
   \begin{minipage}{0.6\linewidth}
     \centering
@@ -124,7 +124,7 @@ Documents autorises : listes de signes, lexiques et dictionnaires
       +dg-niwt:t*3 Aa8:t*niwt-Z3A m i-a:n-nw-W-A2-Z3A
     \end{hieroglyph}%
     \begin{solution}
-      \tl{niw.wt spA.wt m ianw \ex}
+      \tl{niw.wt spA.wt m ianw\ex}
 
       \td{Les villes et les provinces sont dans la détresse !}
     \end{solution}

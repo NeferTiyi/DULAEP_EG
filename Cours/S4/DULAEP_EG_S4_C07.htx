@@ -1,9 +1,12 @@
 %!TEX root = DULAEP_EG.htx
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\part[Les propositions subordonnées relatives \tl{nty} / \tl{iwty}]
-{Les propositions subordonnées relatives \tl{nty} / \tl{iwty}\\
-(\td{qui} / \td{qui ne pas})}
+\renewcommand{\sectitre}{%
+  Propositions subordonnées relatives%
+}
+\part[\sectitre]
+     {\sectitre{}\\\tl{nty} / \tl{iwty} 
+      \smaller(\td{qui} / \td{qui ne pas})}
 \label{prt:S4_subordonnee}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -35,33 +38,41 @@ Voir \tref{tbl:prnm_rel}.
 \begin{table}[hbt]
   \caption{Pronoms relatifs \tl{nty} et \tl{iwty}}
   \label{tbl:prnm_rel}
-  \begin{tabularx}{0.66\textwidth}{M{1cm}XX}
+  \begin{tabularx}{0.66\textwidth}{M{0.7cm}M{1cm}XX}
     \toprule
-       & \textbf{\td{qui}} & \textbf{\td{qui \dots ne \dots pas}}
+       & & \textbf{\td{qui}} & \textbf{\td{qui \dots ne \dots pas}}
     \tabularnewline
     \otoprule
-      \textbf{m. sg.} &
+      \multirow{2}{*}[-6pt]{%
+        \rotatebox{90}{\textbf{Singulier}}
+      } &
+      \textbf{masc.} &
       \begin{hieroglyph}nty-+l\ ; +s-n:t\end{hieroglyph}\\
       \tl{nty} &
       \begin{hieroglyph}jwty-+l\ ; +s-n':t-w\end{hieroglyph}\\
       \tl{iwty}
     \tabularnewline
-    \midrule
-      \textbf{f. sg.} &
+    \cmidrule{2-4}
+       &
+      \textbf{fém.} &
       \begin{hieroglyph}ntyt\end{hieroglyph}\\
       \tl{nt(y).t} &
       \begin{hieroglyph}jwtyt-G37\end{hieroglyph}\\
       \tl{iwt(y).t}
     \tabularnewline
     \midrule
-      \textbf{m. pl.} &
+      \multirow{2}{*}[-12pt]{%
+        \rotatebox{90}{\textbf{Pluriel}}
+      } &
+      \textbf{masc.} &
       \begin{hieroglyph}n:t-tyw-Z3\end{hieroglyph}\\
       \tl{nty.w} &
       \begin{hieroglyph}n':t-tyw-Z3\end{hieroglyph}\\
       \tl{iwty.w}
     \tabularnewline
-    \midrule
-      \textbf{f. pl.} &
+    \cmidrule{2-4}
+       &
+      \textbf{fém.} &
       \begin{hieroglyph}ntyt\end{hieroglyph}\\
       \tl{nt(y.w)t} &
       \begin{hieroglyph}jwtyt-G37\end{hieroglyph}\\
@@ -72,7 +83,7 @@ Voir \tref{tbl:prnm_rel}.
 \end{table}
 
 
-\chapter{Emplois~(1)}
+\chapter{Emplois}
 % =====================================================================
 
 \section{Valeur déterminative}
@@ -121,7 +132,7 @@ relatif \frquote{qui} --- comparer à la relation directe du participe).
 \end{notabene}
 
 
-\section{Le pronom relatif substantivé}
+\section{Pronom relatif substantivé}
 % ---------------------------------------------------------------------
 Le pronom relatif peut aussi (comme les participes et formes 
 relatives) être employé sans antécédent, avec le sens de 
@@ -133,7 +144,7 @@ relatives) être employé sans antécédent, avec le sens de
   \end{hieroglyph}
 
   \tl{nty.w im}
-  \infos{\cite[\pno200, §\,1]{Gardiner}}
+  \infos{\cite[\pno~200, §\,1]{Gardiner}}
 
   \td{ceux qui sont là-bas} (les morts)
 \end{example}
@@ -151,10 +162,8 @@ Notez les expressions particulières :
   \end{quote}
 \end{remarque}
 
-
-\chapter{Emplois~(2) : proposition subordonnées relatives indirectes}
-% =====================================================================
-
+\section{Proposition subordonnée relative indirecte}
+% ---------------------------------------------------------------------
 Tout comme le participe passif (ou encore les formes relatives), 
 la proposition subordonnée relative peut être employée dans une 
 \clef{construction indirecte}, c'est-à-dire quand l'antécédent 
@@ -236,7 +245,7 @@ on utilise soit le pronom suffixe, soit le pronom dépendant:
 \end{example}
 
 
-\chapter{Emplois~(3) : syntaxe}
+\chapter{Syntaxe}
 % =====================================================================
 
 Derrière les pronoms relatifs les constructions suivantes sont 

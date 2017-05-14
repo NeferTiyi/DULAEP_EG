@@ -81,7 +81,7 @@ Seuls de rares mots égyptiens sont parvenus jusqu'à nous, passés
 dans nos langues modernes : par exemple le mot \emph{pharaon}, dérivé 
 de l'égyptien ancien \emph{pèr-âa}, \frquote{la grande maison}, et 
 transmis par l'hébreu biblique et le latin\footnote{Voir le Trésor 
-informatisé de la langue française en ligne, \uline{ATILF}, s.v. 
+informatisé de la langue française en ligne, \ul{ATILF}, s.v. 
 Pharaon.}, ou encore le nom même du pays \kmt, dérivé d'un des noms 
 antiques de la ville de Memphis (\emph{Hout-ka-Ptah} \frquote{le 
 domaine du \emph{ka} de Ptah}, ce qui a donné \emph{Aigyptos} en 
@@ -372,26 +372,26 @@ l'écriture\footnote{Voir P.~\bsc{Vernus}, \emph{Aegyptus} LXXXI/1-2
 (2001), spécialement p.~20-21.} :
 
 \begin{itemize}
-  \item \textbf{\uline{Ces dessins sont calibrés}}, c'est-à-dire 
-        que chaque signe d'écriture a une taille qui lui est propre 
+  \item \textbf{\ul{Ces dessins sont calibrés}}, c'est-à-dire que 
+        chaque signe d'écriture a une taille qui lui est propre 
         comparativement avec les autres signes d'écriture, et cette 
         taille n'a pas de relation avec la taille de la réalité 
         représentée. Comparer à titre d'exemple, les tailles 
         relatives du signe représentant un hippopotame 
         \begin{hieroglyph}E25\end{hieroglyph} et celui représentant 
         un moineau \begin{hieroglyph}G37\end{hieroglyph}.
-  \item \textbf{\uline{Ces images sont orientées}}. Dans notre 
-        écriture, qui se lit de gauche à droite, le \frquote{E} doit 
-        toujours se faire avec les trois barres horizontales à 
-        droite et jamais à gauche. Dans l'écriture \hiero qui peut 
-        se lire de droite à gauche ou de gauche à droite, les signes 
-        seront orientés différemment selon le sens de lecture : 
+  \item \textbf{\ul{Ces images sont orientées}}. Dans notre écriture, 
+        qui se lit de gauche à droite, le \frquote{E} doit toujours se 
+        faire avec les trois barres horizontales à droite et jamais à 
+        gauche. Dans l'écriture \hiero qui peut se lire de droite à 
+        gauche ou de gauche à droite, les signes seront orientés 
+        différemment selon le sens de lecture :
         \begin{hieroglyph}E25\end{hieroglyph} et
         \begin{hieroglyph}G37\end{hieroglyph} pour une lecture de 
         gauche à droite ; \begin{hieroglyph}E25\ \end{hieroglyph} et 
         \begin{hieroglyph}G37\ \end{hieroglyph} pour une lecture de 
         droite à gauche. Nous reviendrons là-dessus dans le détail.
-  \item \textbf{\uline{Le nombre de signes est important, mais fini}}. 
+  \item \textbf{\ul{Le nombre de signes est important, mais fini}}. 
         Le répertoire des signes \hiero[iques] a été fait en opérant 
         une sélection parmi les images possibles des éléments du monde 
         environnant.
@@ -399,8 +399,8 @@ l'écriture\footnote{Voir P.~\bsc{Vernus}, \emph{Aegyptus} LXXXI/1-2
 
 \bigskip
 
-\textbf{\uline{Quel est le nombre de signes 
-\hiero[iques] ?}\footcite{Collombert_2007} La réponse n'est pas si 
+\textbf{\ul{Quel est le nombre de signes 
+hiéroglyphiques ?}\footcite{Collombert_2007} La réponse n'est pas si 
 aisée qu'on le penserait.}
 
 On estime à environ \numrange{1500}{2000} le nombre des signes 
@@ -423,7 +423,7 @@ notations de mesures.
   progressivement les autres signes. Nous verrons cela en temps voulu.
 \end{aparte}
 
-\textbf{\uline{Que représentent les signes \hiero[iques] ?}}\\
+\textbf{\ul{Que représentent les signes hiéroglyphiques ?}}\\
 Les signes \hiero[iques] sont des images représentant (en respectant 
 les conventions de l'art égyptien) des éléments du monde pharaonique. 
 Les signes représentent :
@@ -484,7 +484,7 @@ disponible dans la \citetitle{Obsomer} d'\citeauthor{Obsomer} (2009).
 Cette liste sera aussi progressivement mise en ligne dans la rubrique 
 \frquote{Documents} (\Aref{anx:GL}).
 
-\textbf{\uline{Quelle est la valeur des signes \hiero[iques] ?}}\\
+\textbf{\ul{Quelle est la valeur des signes hiéroglyphiques ?}}\\
 Les signes \hiero[iques], nous allons le voir, ont plusieurs valeurs, 
 mais les principales sont : valeur idéographique ou logographique (un 
 signe = un mot), mais aussi et surtout valeur phonétique sur le 

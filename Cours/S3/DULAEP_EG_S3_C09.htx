@@ -1,7 +1,8 @@
 %!TEX root = DULAEP_EG.htx
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\part[La forme \tl{sDmt=f}]{La forme \tl{sDmt=f} (\td{qu'il a écoute})}
+\renewcommand{\sectitre}{La forme \tl{sDmt=f}}
+\part[\sectitre]{\sectitre{} \smaller(\td{qu'il a écoute})}
 \label{prt:S3_sdmtf}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 

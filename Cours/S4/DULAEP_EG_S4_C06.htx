@@ -1,10 +1,12 @@
 %!TEX root = DULAEP_EG.htx
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\part[Les formes adjectivales du verbe~2 --- formes relatives 
-\tl{sDm.n=f} / \tl{sDm.t.n=f}]
-{Les formes adjectivales du verbe~2 --- formes relatives 
-\tl{sDm.n=f} / \tl{sDm.t.n=f} (qu'il a écouté / qu'il a écoutée)}
+\renewcommand{\sectitre}{%
+  Formes adjectivales du verbe~(2) --- Formes relatives%
+}
+\part[\sectitre]
+     {\sectitre{} \tl{sDm.n=f} / \tl{sDm.t.n=f}\ \ 
+      \smaller(\td{qu'il a écouté} / \td{qu'il a écoutée})}
 \label{prt:S4_forme_rel}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -27,7 +29,8 @@ vue dans le cours précédent.
 
 En fait, vous connaissez déjà des formes relatives (à l'accompli). 
 L'an dernier, dans le cours sur l'expression de la filiation, nous 
-avons vu que le nom de la mère était introduit par :
+avons vu que le nom de la mère était introduit par 
+(\titleref{bk:semestre2}, \Pref{prt:filiation}) :
 
 \begin{quote}
   \tll{X} \begin{hieroglyph}ms-s-Z5:n\end{hieroglyph} 
@@ -37,18 +40,15 @@ avons vu que le nom de la mère était introduit par :
   \tll{X} \begin{hieroglyph}ms-s-Z5*t:n\end{hieroglyph} 
   \tl{ms.t.n} \tll{Y} 
   = \td{X qu'a mise au monde Y}
-
-  (Voir \titleref{bk:semestre2}, \Pref{prt:filiation})
 \end{quote}
 
 De la même manière, dans le cours sur la titulature royale, une des 
-épithètes du roi est exprimée au moyen d'une forme relative accomplie :
+épithètes du roi est exprimée au moyen d'une forme relative accomplie 
+(\titleref{bk:semestre1}, \Pref{prt:titulature}) :
 
 \begin{quote}
   Ramsès \begin{hieroglyph}stp:n-ra\end{hieroglyph} \tl{stp.n Ra},
   \td{qu'a élu Rê} 
-
-  (Voir \titleref{bk:semestre1}, \Pref{prt:titulature})
 \end{quote}
 
 La forme relative est donc une forme adjectivale du verbe, qui 
@@ -152,61 +152,66 @@ correspondent aux trois aspects principaux :
 
 
 \begin{table}
-  \caption{Tableau des formes relatives, 
-           d'après \cite[§\,878--880]{MW}}
+  \caption{Formes relatives, d'après \cite[§\,878--880]{MW}}
   \label{tbl:form_rel}
   \begin{tabularx}{0.66\textwidth}{M{0.8cm}XX}
     \toprule
        & \textbf{Masculin} & \textbf{Féminin}
     \tabularnewline
     \otoprule
-      \multirow{4}{*}[-2.5em]{\rotatebox{90}{\textbf{ACCOMPLI}}} &
+      \cellcolor{per}&
       \tl{sDm(w).n=f}\\(\td{qu'il a écouté}) &
       \tl{sDm(w).t.n=f}\\(\td{qu'il a écoutée})
     \tabularnewline
-      &
+      \cellcolor{per}&
       \tl{mr(w).n=f}\\(\td{qu'il a aimé}) &
       \tl{mr(w).t.n=f}\\(\td{qu'il a aimée})
     \tabularnewline
-      &
+      \cellcolor{per}&
       \tl{mA(w).n=f}\\(\td{qu'il a vu}) &
       \tl{mA(w).t.n=f}\\(\td{qu'il a vue})
     \tabularnewline
-      &
+      \multirow{-4}{*}[1.7em]{%
+      \cellcolor{per}\rotatebox{90}{\textbf{ACCOMPLI}}%
+      } &
       \tl{rdi(w).n=f}\\(\td{qu'il a placé}) &
       \tl{rdi(w).t.n=f}\\(\td{qu'il a placée})
     \tabularnewline
     \midrule
-      \multirow{4}{*}[-2.5em]{\rotatebox{90}{\textbf{INACCOMPLI}}} &
+      \cellcolor{imp}&
       \tl{sDm(w)=f}\\(\td{qu'il écoute}) &
       \tl{sDm(w).t=f}\\(\td{qu'il écoute})
     \tabularnewline
-      &
+      \cellcolor{imp}&
       \tl{mrr(w)=f}\\(\td{qu'il aime}) &
       \tl{mrr(w).t=f}\\(\td{qu'il aime})
     \tabularnewline
-      &
+      \cellcolor{imp}&
       \tl{mAA(w)=f}\\(\td{qu'il voit}) &
       \tl{mAA(w).t=f}\\(\td{qu'il voit})
     \tabularnewline
-      &
+      \multirow{-4}{*}[2.5em]{%
+        \cellcolor{imp}\rotatebox{90}{\textbf{INACCOMPLI}}%
+      } &
       \tl{didi(w)=f}\\(\td{qu'il place}) &
       \tl{didi(w).t=f}\\(\td{qu'il place})
     \tabularnewline
     \midrule
-      \multirow{4}{*}[-2.5em]{\rotatebox{90}{\textbf{PROSPECTIF}}} &
+      \cellcolor{pro}&
       \tl{sDm(y)=f}\\(\td{qu'il écoutera}) &
       \tl{sDm.ti=f}\\(\td{qu'il écoutera})
     \tabularnewline
-      &
+      \cellcolor{pro}&
       \tl{mry=f}\\(\td{qu'il aimera}) &
       \tl{mr.ti=f}\\(\td{qu'il aimera})
     \tabularnewline
-      &
+      \cellcolor{pro}&
       \tl{mAy=f}\\(\td{qu'il verra}) &
       \tl{mA.ti=f}\\(\td{qu'il verra})
     \tabularnewline
-      &
+      \multirow{-4}{*}[2.4em]{%
+        \cellcolor{pro}\rotatebox{90}{\textbf{PROSPECTIF}}%
+      } &
       \tl{dy=f}\\(\td{qu'il placera}) &
       \tl{di.ti=f}\\(\td{qu'il placera})
     \tabularnewline
@@ -240,7 +245,8 @@ forme verbale \tl{sDm.n=f}).
 
 Les verbes faibles et les géminés ne présentent pas la gémination.
 
-\begin{example}[title={}]
+\begin{example}[title={Stèle de Semna de l'an~16 de Sésostris~III 
+(\inv{Berlin~1157})}]
   \begin{flushright}
     \includegraphics[height=0.8cm]{Semna_an16_3}
     \includegraphics[height=0.8cm]{Semna_an16_4}

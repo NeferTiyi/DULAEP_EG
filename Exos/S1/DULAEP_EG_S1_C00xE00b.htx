@@ -3,7 +3,11 @@
 
 \bigskip
 
-\chapter*{Avez-vous bien retenu ? Bilan d'étape~2}
+\renewcommand{\sectitre}{Avez-vous bien retenu ? Bilan d'étape~2}
+% \phantomsection
+% \addcontentsline{toc}{part}{\sectitre}
+\chapter*{\sectitre}
+% \chapter*{Avez-vous bien retenu ? Bilan d'étape~2}
 % =====================================================================
 
 Répondez aux questions suivantes en vous aidant du cours.

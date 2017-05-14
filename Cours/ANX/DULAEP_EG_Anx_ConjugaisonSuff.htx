@@ -70,4 +70,184 @@
   \tabularnewline
   \hline
 \end{tabularx}
+
+\newpage
+
+\section{Passif}
+% ---------------------------------------------------------------------
+\noindent%
+\begin{tabularx}{\textwidth}{|>{\bfseries}X|*{6}{X|}}
+  \cline{2-7}
+    \multicolumn{1}{c|}{~} &
+    \multirow{2}{*}{\bfseries\vl{3}} &
+    \multirow{2}{*}{\bfseries\vg{2}} &
+    \multirow{2}{*}{\bfseries\vi{3}} &
+    \multicolumn{3}{c|}{\bfseries\va{}}
+  \tabularnewline
+    \multicolumn{1}{c|}{~} &
+    ~ & ~ & ~ & 
+    \bfseries\td{donner} & 
+    \bfseries\td{venir} & 
+    \bfseries\td{apporter}
+  \tabularnewline
+  \hline
+    \cellcolor{fvinit}Perfectif \tl{sDm=f} &
+    \tl{} & \tl{} & \tl{} & \tl{} & \tl{} & \tl{}
+  \tabularnewline
+  \hline
+    \cellcolor{fvinit}Accompli \tl{sDm.n=f} &
+    \tl{sDm(w)} & \tl{} & \tl{mry} & \tl{} & \tl{} & \tl{}
+  \tabularnewline
+  \hline
+    \cellcolor{fvinit}Aoriste \tl{sDm=f} & 
+    \tl{sDm.tw} & \tl{} & \tl{} & \tl{} & \tl{} & \tl{}
+  \tabularnewline
+  \hline
+    \cellcolor{fvinit}Prospectif \tl{sDm(w)=f} & 
+    \tl{} & \tl{} & \tl{} & \tl{} & \tl{} & \tl{}
+  \tabularnewline
+  \hline
+    \cellcolor{fvinit}Subjonctif \tl{sDm=f} & 
+    \tl{sDm(w) \tl{sDm.tw}} & \tl{} & \tl{} & \tl{} & \tl{} & \tl{}
+  \tabularnewline
+  \hline
+    \cellcolor{fvdepd}\tl{sDmt=f} &
+    \tl{sDmyt} & \tl{} & \tl{} & \tl{} & \tl{} & \tl{}
+  \tabularnewline
+  \hline
+    \cellcolor{fvdepd}Forme nominale \tl{mrr=f} &
+    \tl{sDm.tw} & \tl{} & \tl{} & \tl{} & \tl{} & \tl{}
+  \tabularnewline
+  \hline
+    \cellcolor{fvmisc}\tl{sDm.xr=f} &
+    \tl{} & \tl{} & \tl{} & \tl{} & \tl{} & \tl{}
+  \tabularnewline
+  \hline
+    \cellcolor{fvmisc}\tl{sDm.kA=f} &
+    \tl{} & \tl{} & \tl{} & \tl{} & \tl{} & \tl{}
+  \tabularnewline
+  \hline
+    \cellcolor{fvmisc}\tl{sDm.in=f} &
+    \tl{} & \tl{} & \tl{} & \tl{} & \tl{} & \tl{}
+  \tabularnewline
+  \hline
+\end{tabularx}
+
+\newpage
+
+\section{Emplois}
+% ---------------------------------------------------------------------
+\colorlet{yes}{PaleGreen!67}
+% \newcommand{\temp}{\cellcolor{temp}}
+\newcommand{\y}{\cellcolor{yes}\texttimes}
+\newcommand{\n}{\textendash}
+\smaller
+% \footnotesize
+\hfill%
+\begin{sideways}
+  \noindent%
+  \begin{tabularx}{0.95\textheight}{|>{\bfseries}X|*{9}{X|}}
+    \cline{2-10}
+      \multicolumn{1}{c|}{~} &
+      \multicolumn{4}{c|}{\bfseries Fonctions prédicatives} &
+      \multicolumn{2}{c|}{\bfseries Fonctions substantives} &
+       &
+       &
+      
+    \tabularnewline
+    \cline{2-7}
+      \multicolumn{1}{c|}{~} &
+      \bfseries autonome &
+      \bfseries initiale &
+      \bfseries séquentielle &
+      \bfseries Cir\-cons\-tan\-cielle &
+      \bfseries non emphatique &
+      \bfseries emphatique &
+      \multirow{-2}{*}[1mm]{\bfseries\emph{Wechelsatz}} &
+      \multirow{-2}{*}[1mm]{%
+        \parbox{1.4cm}{\centering\bfseries Formule de serment}%
+      } &
+      \multirow{-2}{*}[1mm]{%
+        \parbox{1.4cm}{\centering\bfseries Cir\-cons\-tan\-cielle}%
+      }
+    \tabularnewline
+    \hline
+      \bfseries Perfectif &
+      \y & \n & \n & \n & \n & \n & \n & \n & \n
+    \tabularnewline
+    \hline
+      \bfseries Accompli &
+      \y & \y & \y & \y & \n & \cellcolor{yes}S / P & \y & \n & \y
+    \tabularnewline
+    \hline
+      \bfseries Aoriste &
+      \y & \y & \n & \y & \n & ~ & \n & \n & \n
+    \tabularnewline
+    \hline
+      \bfseries Prospectif &
+      \multicolumn{2}{c|}{\cellcolor{yes}négation} & \y & \n & \n & \cellcolor{yes}S & \y & \n & \y
+    \tabularnewline
+    \hline
+      \bfseries Subjonctif &
+      \y & \y & \y & \y & \n & \cellcolor{yes}S & ~ & \n & \y
+    \tabularnewline
+    \hline
+      \bfseries \tl{mrr=f} &
+      \n & \n & \n & \n & \y & \cellcolor{yes}S & \y & \y & \y
+    \tabularnewline
+    \hline
+      \bfseries \tl{sDmt=f} &
+      \n & \n & \multicolumn{2}{c|}{\cellcolor{yes}négation} & \n & \n & \n & \n & \y
+    \tabularnewline
+    \hline
+      \bfseries \tl{sDm.xr=f} &
+      \multicolumn{4}{c|}{principale non initiale} & \n & \n & \n & \n & \n
+    \tabularnewline
+    \hline
+      \bfseries \tl{sDm.kA=f} &
+      \multicolumn{4}{c|}{principale non initiale} & \n & \n & \n & \n & \n
+    \tabularnewline
+    \hline
+      \bfseries \tl{sDm.in=f} &
+      \multicolumn{4}{c|}{principale non initiale} & \n & \n & \n & \n & \n
+    \tabularnewline
+    \hline
+      \bfseries Parfait ancien &
+      ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~
+    \tabularnewline
+    \hline
+      \bfseries Infinitif &
+      ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~
+    \tabularnewline
+    \hline
+      \bfseries Impératif &
+      ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~
+    \tabularnewline
+    \hline
+  \end{tabularx}
+\end{sideways}
+\hfill%
 }
+
+
+\begin{comment}
+|     1      |   2   |   3   |   4   |   5   |     6     |   7   |     8      |    9    |  10   |
+             /----------------------------------------------------------------------------------\
+             |             prédic.           |     substant.     |            |         |       |
+             |                               |                   | Wechelsatz | serment | Circ. |
+             | auto. | init. | séqu. | circ. | non emph. | emph. |            |         |       |
+/------------|-------|-------|-------|-------|-----------|-------|------------|---------|-------|
+| Perfectif  |   x   |   -   |   -   |   -   |     -     |   -   |     -      |    -    |   -   |
+| Accompli   |   x   |   x   |   x   |   x   |     -     |  S P  |     x      |    -    |   x   |
+| Aoriste    |   x   |   x   |   -   |   x   |     -     |       |     -      |    -    |   -   |
+| Prospectif |   négation    |   x   |   -   |     -     |   S   |     x      |    -    |   x   |
+| Subjonctif |   x   |   x   |   x   |   x   |     -     |   S   |            |    -    |   x   |
+| mrr=f      |   -   |   -   |   -   |   -   |     x     |   S   |     x      |    x    |   x   |
+| sDmt=f     |   -   |   -   |   négation    |     -     |   -   |     -      |    -    |   x   |
+| sDm.xr=f   |       pcpale non init.        |     -     |   -   |     -      |    -    |   -   |
+| sDm.kA=f   |       pcpale non init.        |     -     |   -   |     -      |    -    |   -   |
+| sDm.in=f   |       pcpale non init.        |     -     |   -   |     -      |    -    |   -   |
+\-----------------------------------------------------------------------------------------------/
+\end{comment}
+
+

@@ -44,7 +44,7 @@
       tA:1*N23 A-\!\!q\s1:.-W-G37 r-Aw-W-Y1:3
     \end{hieroglyph}
     \begin{solution}
-      \tl{tA Ao.w r-Aw \ex} ---
+      \tl{tA Ao.w r-Aw\ex} ---
       \td{Le pays est entièrement dévasté !} / 
       \td{Le pays a entièrement péri ! } \\
       Proposition à prédicat pseudo-verbal (parfait ancien)
@@ -69,7 +69,7 @@
       \begin{hieroglyph}
         m-a:k md-d:W*t-A2-Z3 s-n:3 mn:n:Y1 m zS-Y1:3
       \end{hieroglyph}\quad
-      \tl{Mk, md.wt=sn mn(.w) m sS.w \ex}
+      \tl{Mk, md.wt=sn mn(.w) m sS.w\ex}
     \end{solution}
 
     \part\td{Gardez-vous de manger du poisson-\emph{adou} !}
@@ -77,7 +77,7 @@
       \begin{hieroglyph}
         Hr:r-Aa19-tyw-n:y r wnm-m-A2 a:d-w-K3:1
       \end{hieroglyph}\quad
-      \tl{Hr.tiwny r wnm adw \ex}
+      \tl{Hr.tiwny r wnm adw\ex}
     \end{solution}
   \end{parts}
 

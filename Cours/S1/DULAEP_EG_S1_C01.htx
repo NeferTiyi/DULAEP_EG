@@ -270,7 +270,7 @@ on a
 \bigskip
 
 \begin{exercice}
-  \textbf{\uline{Question} :} parmi les signes évoqués commentés 
+  \textbf{\ul{Question} :} parmi les signes évoqués commentés 
   jusqu'ici, quel autre signe a deux valeurs ?
 \end{exercice}
 
@@ -413,7 +413,7 @@ conventionnelle.
 Le mot \begin{hieroglyph}pr-1\end{hieroglyph} est ainsi translittéré 
 \tl{pr}, puis traduit \td{maison}.
 
-\textbf{\uline{Pour pouvoir translittérer, il vous faut} :}
+\textbf{\ul{Pour pouvoir translittérer, il vous faut} :}
 \begin{enumerate}
   \item Connaître les phonèmes consonantiques égyptiens
   \item Le système de translittération en usage.

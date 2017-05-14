@@ -49,8 +49,43 @@ narration)
   \item \tl{sDm.in=f}, \td{alors, il écouta}
 \end{itemize}
 
+{
+\renewcommand\tabularxcolumn[1]{A{#1}}
+\noindent%
+\begin{tabularx}{\textwidth}{|>{\bfseries}X|*{6}{X|}}
+  \cline{2-7}
+    \multicolumn{1}{c|}{~} &
+    \multirow{2}{*}{\bfseries\vl{3}} &
+    \multirow{2}{*}{\bfseries\vg{2}} &
+    \multirow{2}{*}{\bfseries\vi{3}} &
+    \multicolumn{3}{c|}{\bfseries\va{}}
+  \tabularnewline
+    \multicolumn{1}{c|}{~} &
+    ~ & ~ & ~ & 
+    \bfseries\td{donner} & 
+    \bfseries\td{venir} & 
+    \bfseries\td{apporter}
+  \tabularnewline
+  \hline
+    \cellcolor{fvmisc}\tl{sDm.xr=f} & \tl{sDm.xr} & 
+    \tl{mAA.xr} & \tl{mr.xr} & \tl{(r)di.xr} &  & \tl{in.xr}
+  \tabularnewline
+  \hline
+    \cellcolor{fvmisc}\tl{sDm.kA=f} & \tl{sDm.kA} & 
+    \tl{mAA.kA} & \tl{mr.kA} & \tl{(r)di.kA} & \tl{iw.kA} & 
+    \tl{in.kA}
+  \tabularnewline
+  \hline
+    \cellcolor{fvmisc}\tl{sDm.in=f} & \tl{sDm.in} & 
+    \tl{mAA.in} & \tl{mr.in} & \tl{(r)di.in} & \tl{ii.in} & 
+    \tl{in.in}
+  \tabularnewline
+  \hline
+\end{tabularx}
+}
 
-\chapter{\tl{sDm.xr=f}}
+
+\chapter{Forme \tl{sDm.xr=f}}
 % =====================================================================
 
 Le thème verbal est bref, mais la gémination possible pour les géminés.
@@ -58,7 +93,7 @@ Le thème verbal est bref, mais la gémination possible pour les géminés.
 Suffixe : \begin{hieroglyph}x:r\end{hieroglyph} (écrit après les 
 déterminatifs).
 
-\uline{Le sens est obligatif} : c'est-à-dire que la forme verbale 
+\ul{Le sens est obligatif} : c'est-à-dire que la forme verbale 
 exprime la conséquence logique, \emph{inévitable}, d'un énoncé qui 
 précède. Celui-ci est souvent exprimé par une circonstancielle en tête 
 de phrase introduite par \tl{ir} \td{si}, \td{quant à}. Cette forme 
@@ -84,7 +119,7 @@ En moyen égyptien, il existe déjà une variante à cette forme verbale :
 Le passif : \tl{sDm.xr.tw=f}
 
 
-\chapter{\tl{sDm.kA=f}}
+\chapter{Forme \tl{sDm.kA=f}}
 % =====================================================================
 
 Thème verbal bref.
@@ -92,9 +127,9 @@ Thème verbal bref.
 Suffixe : \begin{hieroglyph}k-A\end{hieroglyph} (après les 
 déterminatifs).
 
-Cette forme exprime une conséquence chronologique, liée à la volonté 
-du locuteur, d'une action qui précède. La traduction par un futur est 
-très fréquente.
+Cette forme exprime une \ul{conséquence} chronologique, liée à la 
+\ul{volonté du locuteur}, d'une action qui précède. La traduction 
+par un futur est très fréquente.
 
 \begin{example}[title={}]
   \begin{hieroglyph}
@@ -113,7 +148,7 @@ La variante de cette forme verbale est en usage dès la \dyn{12} :
 Le passif : \tl{sDm.kA.tw=f}
 
 
-\chapter{\tl{sDm.in=f}}\label{cha:sDminf}
+\chapter{Forme \tl{sDm.in=f}}\label{cha:sDminf}
 % =====================================================================
 
 Thème verbal bref.
@@ -143,7 +178,7 @@ Le passif est : \tl{sDm.in.tw=f}
 \chapter{Excursus : la narration}
 % =====================================================================
 
-L'égyptien ancien possède beaucoup de construction utilisée dans la 
+L'égyptien ancien possède beaucoup de constructions utilisées dans la 
 narration (= rapport de \frquote{faits présentés comme extérieurs au 
 monde immédiat du locuteur}, \cite[654]{MW}). Nous en avons vu déjà 
 plusieurs. Voici un petit récapitulatif.
@@ -156,22 +191,28 @@ autonomes, et celles qui sont toujours séquentielles.
 % ---------------------------------------------------------------------
 \begin{itemize}
   \item \tl{sDm=f} perfectif (voir \Pref{prt:S3_perfectif})
-  \item le parfait ancien (voir \Pref{prt:S2_parfait}, 
-        \titleref{bk:semestre2})
+  \item parfait ancien (voir \titleref{bk:semestre2}, 
+        \Pref{prt:S2_parfait})
   \item \tl{iw sDm.n=f} (voir \Pref{prt:S3_accompli})
 \end{itemize}
 
 S'ajoute à elles une construction que nous n'avons pas encore vue, 
 car nous avons besoin des participes et des formes relatives (voir 
-\titleref{bk:semestre4}), mais qui se construit sur le modèle de 
-la \PPN : 
-\tl{sDm pw ir(w).n=f} 
-\td{\litt c'est écouter \remg{(infinitif)} ce qu'il a fait 
-\remg{(forme relative accomplie)}} 
-= \td{alors il écouta}.
+\titleref{bk:semestre4}, \Pref{prt:S4_forme_rel}), mais qui se 
+construit sur le modèle de la \PPN :
+\begin{quote}
+  \tl{sDm pw ir(w).n=f}
+
+  \td{\litt c'est écouter \remg{(infinitif)} ce qu'il a fait 
+  \remg{(forme relative accomplie)}} 
+
+  = \td{alors il écouta}.
+\end{quote}
 
 Il existe aussi un emploi de l'infinitif appelé \frquote{infinitif 
-narratif} qui se rencontre notamment dans les annales royales.
+narratif} qui se rencontre notamment dans les annales royales 
+(\titleref{bk:semestre4}, \Pref{prt:S4_narration} 
+\Cref{cha:narration_annales}).
 
 \section{Formes narratives à valeur séquentielle}
 % ---------------------------------------------------------------------
@@ -190,9 +231,8 @@ narratif} qui se rencontre notamment dans les annales royales.
 \begin{itemize}
   \item \tl{wn.in} + parfait ancien
   \item \tl{wn.in} + \tl{Hr} + infinitif
+  \item forme \tl{sDm.in=f} (voir ci-dessus, \Cref{cha:sDminf}).
 \end{itemize}
-
-La forme \tl{sDm.in=f} (voir ci-dessus, \Cref{cha:sDminf}).
 
 
 \filet

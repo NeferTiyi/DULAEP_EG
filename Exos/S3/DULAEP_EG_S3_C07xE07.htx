@@ -6,37 +6,76 @@
 
 \begin{questions}
   \question\qfmt{Translittérer, analyser les formes verbales ou les 
-  propositions et traduire}
+  propositions et traduire.}\\
+  Le \CdS (R\,5--9) : passage relatif à la mort du roi Amenemhat~I.
 
-  \qfmt{Le \CdS (R\,5--9) : passage relatif à la mort du roi 
-  Amenemhat~I}
+  \begin{FlushRight}
+    \reflectbox{%
+      \begin{hieroglyph}
+        rnp-t:zp 10*10:10 Abd:3 Axt:x*t-ra 
+        1\r45:1\r45:1\r45:1\r45-1\r45:1\r45:1\r45 
+        a:r-wAt nTr-1 r Axt-t:pr f
+      \end{hieroglyph}%
+    }\\
+    \reflectbox{%
+      \begin{hieroglyph}
+        nswbjty <-ra-s-Htp:t-p-ib-> s-Hr:r-pt f:r p:t-pt Xnm-\!m-Y1 
+        m i-t:n-ra
+      \end{hieroglyph}%
+    }\\
+    \reflectbox{%
+      \begin{hieroglyph}
+        nTr-H-a:F51 Ab-b-x:Z9-Y1 m ir sw-W
+      \end{hieroglyph}%
+    }\\
+    \reflectbox{%
+      \begin{hieroglyph}
+        i-W Xn-n:nw-W-niwt m s-g-r-A2 ib-3 m gm-m-W-G36:3
+      \end{hieroglyph}%
+    }\\
+    \reflectbox{%
+      \begin{hieroglyph}
+        r-W-t:y-pt wr:r-t:y x:t-m-W-xtm:\!a
+      \end{hieroglyph}%
+    }\\
+    \reflectbox{%
+      \begin{hieroglyph}
+        p:a-t\s2:\!A1\s2-B1:3 m i-+l$\Big[$+s-M-+l$\Big]$+s-m-A2
+      \end{hieroglyph}%
+    }\\
+  \end{FlushRight}
 
   \begin{solution}
+    ~\\
+    \tl{rnp.t-sp 30 Abd 3 Ax.t sw 7, \red{ar} nTr r Ax.t=f}
+    \quad\remg{(Perfectif)}
 
+    \tl{nsw-bity \%Htp-ib-Ra, \red{sHr=f} r p.t, Xnm(.w) m itn=f}
+    \quad\remg{(Perfectif)}
 
-\tl{rnp.t-sp 30 Abd 3 Ax.t sw 7, ar nTr r Ax.t=f}
-\quad (Verbe = perfectif)
+    \tl{Ha-nTr \red{Abx(.w)} m ir(w) sw}
+    \quad\remg{(Parfait ancien, séquentiel)}
 
-\tl{nsw-bity \%Htp-ib-Ra, sHr=f r p.t, Xnm(.w) m itn=f}
-\quad (Verbe = perfectif)
+    \tl{iw Xnw m sgr, ib.w m gmw}
+    \quad\remg{(\PPA, initiale et séquentielle)}
 
-\tl{Ha-nTr Abx(.w) m ir(w) sw}
-\quad (Parfait ancien, séquentiel)
+    \tl{rw.ty wr.ty \red{xtm.w}}
+    \quad\remg{(Parfait ancien, séquentiel)}
 
-\tl{iw Xnw m sgr, ib.w m gmw}
-\quad (\PPA, initiale et séquentielle)
+    \tl{pa.t m im}
+    \quad\remg{(\PPA séquentielle)}
 
-\tl{rw.ty wr.ty xtm.w}
-\quad (Parfait ancien, séquentiel)
+    \medskip
 
-\tl{pa.t m im}
-\quad (\PPA séquentielle)
+    \td{L'an~30, le 3\ieme~mois de la saison akhet, le jour~7, le dieu 
+        s'éleva vers son horizon.\\
+        Le roi de \HBE Séhétepibrê, il s'éloigna vers le ciel, s'étant 
+        uni au disque, \\
+        Le corps divin ayant été associé à celui qui l'avait engendré.}
 
-\td{L'an~30, le 3\ieme~mois de la saison akhet, le jour~7, le dieu s'éleva vers son horizon.\\
-Le roi de \HBE Séhétepibrê, il s'éloigna vers le ciel, s'étant uni au disque, \\
-Le corps divin ayant été associé à celui qui l'avait engendré.}
-
-\td{La Résidence était dans le silence, les c\oe urs dans l'affliction, la double grande porte était scellée et les nobles étaient en deuil.}
+    \td{La Résidence était dans le silence, les c\oe{}urs dans 
+        l'affliction, la double grande porte était scellée et les 
+        nobles étaient en deuil.}
   \end{solution}
 \end{questions}
 
@@ -45,21 +84,20 @@ Le corps divin ayant été associé à celui qui l'avait engendré.}
   (participe substantivé)
 \end{remarque}
 
-
   \subsection*{Vocabulaire}
   \begin{multicols}{2}
     \begin{itemize}
-      \item \begin{hieroglyph}\end{hieroglyph}
+      \item \begin{hieroglyph}a:r-wAt\end{hieroglyph}
             \tl{ar}, \td{s'élever}
-      \item \begin{hieroglyph}\end{hieroglyph}
+      \item \begin{hieroglyph}r:W-t:y-pt\end{hieroglyph}
             \tl{rw.ty}, \td{porte}
-      \item \begin{hieroglyph}\end{hieroglyph}
+      \item \begin{hieroglyph}nTr-H-a:F51\end{hieroglyph}
             \tl{Ha-nTr}, \td{corps du dieu}
-      \item \begin{hieroglyph}\end{hieroglyph}
+      \item \begin{hieroglyph}x:t-m-xtm:\!a\end{hieroglyph}
             \tl{xtm}, \td{sceller}
-      \item \begin{hieroglyph}\end{hieroglyph}
+      \item \begin{hieroglyph}Xnm-\!m-Y1\end{hieroglyph}
             \tl{Xnm}, \td{unir}
-      \item \begin{hieroglyph}\end{hieroglyph}
+      \item \begin{hieroglyph}s-Hr:r-pt\end{hieroglyph}
             \tl{sHr} \vcl{2}, \td{s'éloigner}, \td{rendre éloigné}
     \end{itemize}
   \end{multicols}
