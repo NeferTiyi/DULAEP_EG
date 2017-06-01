@@ -1,4 +1,4 @@
-%!TEX root = DULAEP_EG.htx
+%!TEX root = ../DULAEP_EG.htx
 %##HieroDef.txt
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -97,16 +97,6 @@ d'une nouvelle recette médicinale, on trouvera le titre :
   \end{minipage}
 \end{example}
 
-\CaptionPetit
-\setlength{\graphicwidth}{6cm}
-\begin{wrapfigure}[10]{r}[1.5cm]{3.5cm}
-  \centering
-  \includegraphics[height=7.5cm]{TT100_6519-20}
-  \caption{Détail de la \tt{100}, d'après 
-           \href{http://www.osirisnet.net/tombes/nobles/rekhmire100/%
-           rekhmire100_02.htm}{osiris.net}}
-  \label{fig:TT100}
-\end{wrapfigure}
 \begin{remarque}
   Les titres sont généralement à l'encre rouge dans les manuscrits 
   en hiératique ou en \hiero linéaire.
@@ -173,6 +163,17 @@ L'agent de l'infinitif peut être introduit par la préposition
 \chapter{Phrases interrogatives, première approche}
 % ==============================================================
 
+\CaptionPetit
+% \setlength{\graphicwidth}{6cm}
+\begin{wrapfigure}[10]{o}[1.5cm]{3.5cm}
+  \centering
+  \includegraphics[height=7.5cm]{TT100_6519-20}
+  \caption{Détail de la \tt{100}, d'après 
+           \href{http://www.osirisnet.net/tombes/nobles/rekhmire100/%
+           rekhmire100_02.htm}{osiris.net}}
+  \label{fig:TT100}
+\end{wrapfigure}
+\CaptionNormal
 Une phrase peut être affirmative, négative, exclamative ou 
 interrogative. Nous avons abordé les trois premiers aspects, 
 mais pas le dernier. Est donnée ici, simplement une première
