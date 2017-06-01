@@ -1,4 +1,4 @@
-%!TEX root = DULAEP_EG.htx
+%!TEX root = ../DULAEP_EG.htx
 %##HieroDef.txt
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -136,7 +136,7 @@ donc :}
   \td{Amon-est-satisfait}, c'est-à-dire \td{Amon a été satisfait}
   (donc il est satisfait)
 
-  \rem{\tl{Htp.w} forme du verbe \tl{Htp} \tl{devenir satisfait}}
+  \rem{\tl{Htp.w} forme du verbe \tl{Htp} \td{devenir satisfait}}
 \end{center}
 
 \bigskip
@@ -611,7 +611,7 @@ Aussi :
 % \begin{example}
 \begin{example}[title={}]
   \begin{hieroglyph}
-    Hr:r-t:Aa19-N31 :r ir:t ii-i-i-t-G37:3
+    Hr:r-t:Aa19-wAt :r ir:t ii-i-i-t-G37:3
   \end{hieroglyph}
 
   \tl{Hr.t(i) r ir.t iii.t}

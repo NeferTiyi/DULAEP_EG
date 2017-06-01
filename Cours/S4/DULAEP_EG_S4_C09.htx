@@ -1,4 +1,4 @@
-%!TEX root = DULAEP_EG.htx
+%!TEX root = ../DULAEP_EG.htx
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \renewcommand{\sectitre}[1][ ]{%

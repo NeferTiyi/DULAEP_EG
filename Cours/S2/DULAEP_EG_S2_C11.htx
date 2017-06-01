@@ -1,4 +1,4 @@
-%!TEX root = DULAEP_EG.htx
+%!TEX root = ../DULAEP_EG.htx
 %##HieroDef.txt
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -220,8 +220,8 @@ La formule funéraire complète comprend trois éléments à retenir :
   Voici un exemple (\fref{fig:C1}) type tiré du \citetitle{GM1} de 
   \citeauthor{GM1}.
 
-  \tl{\lgn{1}~Di n(y)-sw(.t) Htp Wsir nb Ddw, nTr aA nb AbDw 
-      \lgn{2}~Di=f pr.t-xrw (m) t Hnq.t @Apd Ss mnx.t 
+  \tl{\lgn{1}~di n(y)-sw(.t) Htp Wsir nb Ddw, nTr aA nb AbDw 
+      \lgn{2}~di=f pr.t-xrw (m) t Hnq.t @Apd Ss mnx.t 
       \lgn{3}~x.t nb.t nfr.t wab.t anx.t nTr im 
       \lgn{4}~n kA n imAxy S-n-wsr.t mAa-xrw}
 
