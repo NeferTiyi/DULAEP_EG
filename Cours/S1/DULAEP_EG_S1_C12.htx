@@ -33,6 +33,23 @@ Voir tableaux en \Aref{anx:syntaxe}.
 \subsection*{L'égyptien classique a plusieurs séries de pronoms 
 personnels}
 % --------------------------------------------------------------
+\renewcommand{\sectitre}{%
+  Détail de la \tt{100}, d'après 
+  \href{http://www.osirisnet.net/tombes/nobles/rekhmire100/%
+  rekhmire100_02.htm}{osiris.net}%
+}
+\CaptionPetit
+\begin{wrapfigure}[18]{o}[1.5cm]{4cm}
+  \centering
+  \includegraphics[height=7.5cm]{TT100_6519-20}
+  \caption[\sectitre]{\sectitre\footnotemark{}}
+  \label{fig:TT100}
+\end{wrapfigure}
+\CaptionNormal
+\footnotetext{%
+  \url{http://www.osirisnet.net/tombes/nobles/rekhmire100/%
+  rekhmire100_02.htm}%
+}
 On a vu le pronom suffixe (\Pref{prt:grp_nom_1}, \Sref{sec:PS}), 
 qui peut servir de possessif dans le cadre du groupe nominal, de 
 sujet de la phrase après \tl{iw} notamment, de COD d'un infinitif. 
@@ -102,8 +119,6 @@ d'une nouvelle recette médicinale, on trouvera le titre :
   en hiératique ou en \hiero linéaire.
 \end{remarque}
 
-% \bigskip
-
 Les titres ou légendes de scène peuvent parfois présenter un 
 infinitif :\\
 \begin{example}[title={}]
@@ -150,8 +165,8 @@ L'agent de l'infinitif peut être introduit par la préposition
 
   \tl{Hms.t r sDm sprw (\dots) in r-pa(.t) HAty-a (\dots) Rx-mi-Ra}\\
   \infos{\cite[§\,305]{Gardiner}, Légende d'une scène dans la tombe 
-  (\tt{100}) de Rekhmirê, vizir sous Touthmosis~III, \dyn{xviii}, 
-  voir \fref{fig:TT100}}
+  de Rekhmirê (\tt{100}), vizir sous Touthmosis~III, \dyn{xviii}, 
+  voir \fref{fig:TT100}, \pref{fig:TT100}}
 
   \td{S'asseoir pour écouter le plaignant (\dots) par le noble, le 
       prince local (\dots) Rekhmirê.}
@@ -163,17 +178,6 @@ L'agent de l'infinitif peut être introduit par la préposition
 \chapter{Phrases interrogatives, première approche}
 % ==============================================================
 
-\CaptionPetit
-% \setlength{\graphicwidth}{6cm}
-\begin{wrapfigure}[10]{o}[1.5cm]{3.5cm}
-  \centering
-  \includegraphics[height=7.5cm]{TT100_6519-20}
-  \caption{Détail de la \tt{100}, d'après 
-           \href{http://www.osirisnet.net/tombes/nobles/rekhmire100/%
-           rekhmire100_02.htm}{osiris.net}}
-  \label{fig:TT100}
-\end{wrapfigure}
-\CaptionNormal
 Une phrase peut être affirmative, négative, exclamative ou 
 interrogative. Nous avons abordé les trois premiers aspects, 
 mais pas le dernier. Est donnée ici, simplement une première
