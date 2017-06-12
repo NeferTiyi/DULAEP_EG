@@ -1,0 +1,1480 @@
+\documentclass[%
+  english, french,
+  biblio,
+  hiero,
+  kpfonts,
+  dvipsnames,
+  svgnames,
+  a4paper,
+  twoside,
+  openany,
+  10pt,
+  largesmallcaps,
+  oldstylenums,
+  oldfontcommands,
+  article,
+]{nefermemoir}
+
+\usepackage{../Utils/dulaep}
+
+\graphicspath{%
+  {../img/Utils/},%
+  % {../img/Exos/},%
+  {../img/Exos/Semna16/},%
+}
+
+\renewcommand{\filet}{%
+  \vspace{2\baselineskip}
+
+  \begin{center}
+    \pgfornament[width=.5\textwidth]{85}
+  \end{center}
+
+  \vspace{2\baselineskip}
+}
+
+\tikzset{%
+  masque/.style={%
+    % fill=gray!18,
+    % fill=red,
+    fill=white,
+    opacity=0.75,
+  }%
+}%
+
+\newcommand{\grille}{%
+  \begin{scope}[help lines]
+    % \draw [step=0.01] 
+    %       (0, 0) grid (1, 1) ;
+    \draw [green, step=0.05] 
+          (0, 0) grid (1, 1) ;
+    \draw [red, step=0.1] 
+          (0, 0) grid (1, 1) ;
+    \foreach \y in {2, 4, ..., 9} {%
+      \node [left] at (0.00, \y/10) {\small0.\y} ;
+    } ;
+    \foreach \x in {2, 4, ..., 9} {%
+      \node [above] at (\x/10, 1.00) {\small0.\x} ;
+    } ;
+  \end{scope}
+}
+
+\renewcommand{\faitle}[1]{%
+  \marginnote{%
+    \normalfont\color{gray}\itshape\footnotesize\centering#1%
+  }
+}
+
+% \sideparmargin{outer}
+% \DeclareRobustCommand{\faitle}[1]{%
+%   \texorpdfstring{%
+%     \rule{0pt}{0pt}%
+%     \sidepar{%
+%       \normalfont\color{gray}\itshape\footnotesize\centering#1%
+%     }%
+%   }{}
+% }
+
+% \newtcolorbox{mynote}[1][]{%
+%   colframe  = Melon,
+%   colback   = Melon!10,
+%   #1,
+% }
+% \newcommand{\doneon}[2]{%
+%   \marginnote[#1]{%
+%     \makebox[0pt][l]{%
+%       \begin{mynote}#2\end{mynote}%
+%     }%
+%   }%
+% }
+
+
+% \newtcolorbox{cadre}[1][]{%
+%   % show bounding box,
+%   % breakable,
+%   colframe  = black,
+%   colback   = white,
+%   parbox    = false,
+%   before    = \vspace{1ex plus 1pt minus .4pt}\noindent,
+%   after     = \vspace{1ex plus 1pt minus .4pt},
+%   % before upper = \indent,
+%   before upper = {\setlength{\parindent}{0pt}},
+%   fonttitle    = \large\bfseries,
+%   #1,
+% }
+\colorlet{done}{Yellow!50}
+% \tcbset{%
+%   breakable,
+% }
+
+
+% \setlist[enumerate,1]{label=\arabic*., ref=\arabic*}
+% \setlist[itemize,2]{leftmargin=*}
+
+% \newcommand{\EI}{\textbf{Élément introducteur :}\xspace}
+% \newcommand{\SJ}{\textbf{Sujet :}\xspace}
+% \newcommand{\PR}{\textbf{Prédicat :}\xspace}
+% \newcommand{\CO}{\textbf{C.O.~:}\xspace}
+% \newcommand{\CC}{\textbf{C.C.~:}\xspace}
+% \newcommand{\CA}{\textbf{C.A.~:}\xspace}
+
+% \newcommand{\Acc}{Accompli\xspace}
+% \newcommand{\Aor}{Aoriste\xspace}
+% \newcommand{\Prosp}{Prospectif\xspace}
+% \newcommand{\Subj}{Subjonctif\xspace}
+% \newcommand{\Perf}{Perfectif\xspace}
+% \newcommand{\mrr}{\tl{mrr=f}\xspace}
+% \newcommand{\sDmt}{\tl{sDmt=f}\xspace}
+% \newcommand{\sDmxr}{\tl{sDm.xr=f}\xspace}
+% \newcommand{\sDmkA}{\tl{sDm.kA=f}\xspace}
+% \newcommand{\sDmjn}{\tl{sDm.jn=f}\xspace}
+
+
+\setlength{\fboxsep}{0pt}
+
+\newcommand{\insertlgn}[2][]{%
+  % \fbox{%
+  \reflectbox{%
+    \includegraphics[scale=1., clip, #1]{Berlin_1157_Semna16_L#2}%
+  }%
+  % }%
+}
+
+\newcommand{\insertligne}[2][]{%
+  \lgn{#2} \insertlgn[#1]{#2}%
+}
+
+\newcommand{\insertlignepart}[2][]{%
+  \insertlgn[#1]{#2}%
+}
+
+% \newcommand{\paraphligne}[1]{%
+%   \noindent%
+%   \begin{exercice}
+%     \insertligne{#1}%
+%     \par%
+%     \vspace{2.79cm}\par%
+%   \end{exercice}%
+%   \vfill%
+% }
+
+\renewcommand{\ppimp}[1][]{participe#1 inaccompli#1 passif#1\xspace}
+\renewcommand{\ppper}[1][]{participe#1 accompli#1 passif#1\xspace}
+\renewcommand{\pppro}[1][]{participe#1 prospectif#1 passif#1\xspace}
+\renewcommand{\paimp}[1][]{participe#1 inaccompli#1 actif#1\xspace}
+\renewcommand{\paper}[1][]{participe#1 accompli#1 actif#1\xspace}
+\renewcommand{\papro}[1][]{participe#1 prospectif#1 actif#1\xspace}
+\newcommand{\frper}[1][]{forme#1 relative#1 accomplie#1\xspace}
+\newcommand{\frimp}[1][]{forme#1 relative#1 inaccomplie#1\xspace}
+\newcommand{\SN}{syntagme nominal\xspace}
+\newcommand{\SP}{syntagme prépositionnel\xspace}
+
+\newcommand{\co}{\bsc{co}\xspace}
+\newcommand{\cc}{\bsc{cc}\xspace}
+\newcommand{\ca}{\bsc{ca}\xspace}
+\newcommand{\ps}{\bsc{ps}\xspace}
+\newcommand{\pd}{\bsc{pd}\xspace}
+\renewcommand{\pi}{\bsc{pi}\xspace}
+\newcommand{\ppn}{\bsc{ppn}\xspace}
+
+
+% =====================================================================
+\title{Égyptien classique}
+\short{DULAEP -- EG}
+\subtitle{%
+  {\smaller Exercice de lecture suivie :\par}
+  Stèle de Semna de l'an~16%
+}
+\lecturer{Sylvie~\bsc{Donnat}}
+\orga{Faculté des Sciences historiques de Strasbourg}
+\author{\SL}
+\date{Janvier -- juin 2017}
+
+\hypersetup{%
+  pdftitle  = {DULAEP --- EG2--S2 --- Stèle de Semna de l'an~16}, 
+  pdfauthor = {Sonia Labetoulle}
+}
+% pdfsubject % pdfcreator % pdfproducer % pdfkeywords
+
+% =====================================================================
+
+\addbibresource{../Utils/DULAEP_EG_Semna.bib}
+\addbibresource{../Utils/DULAEP_EG_biblio.bib}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+
+\thispagestyle{empty}
+\maketitle
+\vspace*{3\baselineskip}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% \DisplayHieroglyphs
+
+
+\chapter{Introduction}
+% =====================================================================
+
+Vous allez vous exercer pendant tout le semestre à traduire un texte 
+complet : la stèle de Semna de l'an~16 de Sésostris~III (\musee{Musée 
+de Berlin} \inv{1157}). C'est non seulement un document épigraphique 
+et littéraire très riche, mais c'est aussi un document historique de 
+premier plan, puisqu'il s'agit de la mise en place de la frontière 
+égyptienne, au-delà de la deuxième cataracte du Nil, à suite de 
+campagnes militaires menées par la \dyn{12} dans la région.
+
+\CaptionPetit
+\setlength{\graphicwidth}{6cm}
+\begin{figure}[hbt]
+  \setsidecappos{b}
+  \sidecapmargin{outer}
+  \renewcommand*{\sidecapfloatwidth}{\graphicwidth}
+  \setsidecaps{\sidecapsep}{6cm}
+  \begin{sidecaption}{La \BN au \MK \parencite[54]{Tallet}}
+    % \includegraphics[width=\graphicwidth]{BasseNubie_MK}
+    \begin{tikzpicture}
+      \node [anchor=south west, inner sep=0] (image) at (0,0) 
+            {\includegraphics[width=\graphicwidth]{BasseNubie_MK}} ;
+      \begin{scope}[
+        x={(image.south east)},
+        y={(image.north west)},
+      ]
+        % \grille
+        \draw [thick, blue] (0.06, 0.41) -- ++ (0.065, 0.00) ;
+      \end{scope}
+    \end{tikzpicture}%
+  \end{sidecaption}
+\end{figure}
+\CaptionNormal
+
+\section{Description}
+% ---------------------------------------------------------------------
+La stèle (\fref{fig:stele}, \pref{fig:stele}) est en granit rouge 
+(\SI{150x80}{\cm}), cintrée, avec représentation du disque ailé.
+Le texte comprend \SI{21}{lignes} de hiéroglyphes.
+
+Elle appartient à une paire de stèles frontières érigées par 
+Sésostris~III en l'an~16 de son règne 
+(\textit{c.}~\anorange{1872}{1853}).
+Elle a été découverte à Semna (forteresse égyptienne) par 
+\gens{Lepsius} en \ano[0]{1844} et celle avec laquelle est constitue 
+une paire a été trouvée à Ouronarti (forteresse égyptienne).
+
+En l'an~8 de son règne, Sésostris~III avait déjà choisi Semna comme 
+la frontière méridionale égyptienne et avait fait ériger une première 
+stèle comportant un texte beaucoup plus court (\inv{Berlin~14753}). 
+Nous travaillerons aussi sur ce document.
+
+Si le sujet vous intéresse, je vous recommande le livre de 
+\cite{Tallet} (\citedate{Tallet}).
+
+\section{Contenu du texte}
+% ---------------------------------------------------------------------
+\begin{itemize}
+  \item le texte commence par la titulature royale ;
+  \item puis, le roi, parlant à la première personne, décrit son 
+        action victorieuse en Nubie ;
+  \item en conclusion, il fait des recommandations aux rois qui 
+        viendront après lui.
+\end{itemize}
+
+C'est un texte important pour comprendre l'idéologie royale de 
+l'époque.
+
+Pour travailler le texte, vous pouvez très bien vous aider des 
+nombreuses traductions existantes. L'important est d'analyser 
+vous-même le texte pour en comprendre la structure.
+
+Vous pouvez dès à présent travailler sur le texte dans le cintre et 
+les deux premières lignes du texte, en vous arrêtant à 
+\reflectbox{\begin{hieroglyph}i-t:f-A40-Z3-A1\end{hieroglyph}}.
+
+\section{Abréviations utilisées}
+% ---------------------------------------------------------------------
+
+% \begin{tabular}{>{\bfseries}ll @{\hspace*{3em}} >{\bfseries}ll}
+%   \ps  & Pronom Suffixe &
+%   \cc  & Complément Circonstanciel \\
+%   \pd  & Pronom Dépendant &
+%   \co  & Complément d'Objet \\
+%   \pi  & Pronom Indépendant &
+%   \ca  & Complément d'Attribution \\
+%   \ppn & Proposition à Prédicat Nominal & & \\
+% \end{tabular}
+
+\begin{tabular}{>{\bfseries}ll}
+  \ps  & Pronom Suffixe \\
+  \pd  & Pronom Dépendant \\
+  \pi  & Pronom Indépendant \\
+  \cc  & Complément Circonstanciel \\
+  \co  & Complément d'Objet \\
+  \ca  & Complément d'Attribution \\
+  \ppn & Proposition à Prédicat Nominal \\
+\end{tabular}
+
+% Bibliographie
+% =====================================================================
+\nocite{
+  Tallet,
+  Breasted,
+  Lichtheim,
+  Parkinson,
+  Obsomer_SIII,
+}
+
+
+\printbibliography[%
+  title=Bibliographie,
+  heading=subbibliography,
+]
+
+\begin{figure}[p]
+  % \includegraphics[width=0.66\textwidth]{Berlin_1157_Semna16}
+  \begin{tikzpicture}
+    \node [anchor=south west, inner sep=0] (image) at (0,0) 
+          {%
+          \includegraphics[width=0.75\textwidth]{Berlin_1157_Semna16}%
+          } ;
+    \begin{scope}[
+      x={(image.south east)},
+      y={(image.north west)},
+    ]
+      % \begin{scope}[help lines]
+      %   \draw [step=0.01] 
+      %         (0, 0) grid (1, 1) ;
+      %   \draw [green, step=0.05] 
+      %         (0, 0) grid (1, 1) ;
+      %   \draw [red, step=0.1] 
+      %         (0, 0) grid (1, 1) ;
+      %   \foreach \y in {2, 4, ..., 9} {%
+      %     \node [left] at (0.00, \y/10) {\small0.\y} ;
+      %   } ;
+      %   \foreach \x in {2, 4, ..., 9} {%
+      %     \node [above] at (\x/10, 1.00) {\small0.\x} ;
+      %   } ;
+      % \end{scope}
+
+      \begin{scope}% [node font=\Huge]
+        \node at (0.940, 0.880) {\lgn{a}} ;
+        \node at (0.980, 0.845) {\lgn{b}} ;
+        \node at (1.010, 0.790) {\lgn{c}} ;
+        \node at (1.020, 0.750) {\lgn{01}} ;
+        \node at (1.020, 0.711) {\lgn{02}} ;
+        \node at (1.020, 0.673) {\lgn{03}} ;
+        \node at (1.020, 0.633) {\lgn{04}} ;
+        \node at (1.020, 0.594) {\lgn{05}} ;
+        \node at (1.020, 0.553) {\lgn{06}} ;
+        \node at (1.020, 0.515) {\lgn{07}} ;
+        \node at (1.020, 0.475) {\lgn{08}} ;
+        \node at (1.020, 0.439) {\lgn{09}} ;
+        \node at (1.020, 0.400) {\lgn{10}} ;
+        \node at (1.020, 0.360) {\lgn{11}} ;
+        \node at (1.020, 0.320) {\lgn{12}} ;
+        \node at (1.020, 0.280) {\lgn{13}} ;
+        \node at (1.020, 0.240) {\lgn{14}} ;
+        \node at (1.020, 0.200) {\lgn{15}} ;
+        \node at (1.020, 0.160) {\lgn{16}} ;
+        \node at (1.020, 0.120) {\lgn{17}} ;
+        \node at (1.020, 0.080) {\lgn{18}} ;
+        \node at (1.020, 0.040) {\lgn{19}} ;
+      \end{scope}
+    \end{scope}
+  \end{tikzpicture}%
+%
+  \caption{%
+    Stèle de Semna de l'an~16, \inv{Berlin~1157} 
+    (\cite[190]{Obsomer_2003})%
+  }
+  \label{fig:stele}
+\end{figure}
+
+\newpage
+
+\chapter{Traduction}
+% =====================================================================
+
+\section{Cintre}
+% ---------------------------------------------------------------------
+\begin{cadre}[colback=done]
+  \insertligne{a}
+
+  \tl{\lgn{a} BHdt(y)}
+
+  \tg{adjectif nisbé substantivé}
+
+  \td{\lgn{a} Celui de Béhédet} (forme d'Horus)
+\end{cadre}
+
+\begin{cadre}[colback=done]
+  \insertligne{b}
+
+  \insertligne{c}
+
+  \tl{\lgn{b} anx @r NTr-xpr.w, nb.ty NTr-msw.t, 
+      (ny)-sw(.t) bjt(y) \#a-kA.w-Ra d anx}
+
+  \tl{\lgn{c} anx @r (ny) nbw \#pr, sA Ra n(y) X.t=f, mry=f, 
+      nb tA.wy \%-n(y)-Wsr.t d anx Dd wAs D.t}
+
+  \smallskip
+
+  \td{\lgn{b} Vive l'Horus Netjerkhépérou, les Deux-Maîtresses 
+      Netjermésout, le roi de \HBE Khâkaourê, doué de vie (soit-il) !}
+
+  \td{\lgn{c} Vive l'Horus d'or Khéper, le fils charnel de Rê, aimé de 
+      lui, le maître du Double-Pays Sénousret\footnotemark{}, doué de 
+      vie, stabilité, pouvoir (soit-il), éternellement !}
+\end{cadre}
+\footnotetext{Sésostris}
+
+\section{Corps}
+% ---------------------------------------------------------------------
+\begin{cadre}[colback=done]
+  \insertligne[trim=7.6cm 0 0 0]{01}
+
+  \tl{\lgn{01} rnp.t-sp 16, Abd 3 (ny) pr.t}
+
+  \smallskip
+
+  \td{L'an~16, le 3\ieme~mois de péret}
+\end{cadre}
+
+\filet
+
+\begin{cadre}[colback=done]
+  \faitle{7 février 2017}
+  \insertlignepart[trim=0 0 5.4cm 0]{01}
+
+  \tl{jr.t Hm=f tAS rsy r @H}
+
+  \smallskip
+
+  \tg{énoncé-titre}
+
+  \smallskip
+
+  \td{établir (par) sa Majesté la frontière méridionale à Heh.}
+\end{cadre}
+
+\begin{cadre}[colback=done]
+  \insertligne[trim=2.6cm 0 0 0]{02}
+
+  \tl{\lgn{02} jw jr.n=j tAS=j, xnt=j (r) jt.w=j}
+
+  \smallskip
+
+  \tg{%
+    Accompli en position initiale + aoriste en fonction 
+    circonstancielle
+    \begin{enumerate}
+      \item 
+        \begin{itemize}[leftmargin=*]
+          \item élément introducteur : \tlg{jw}
+                \flech{} indicatif + temps du contexte
+          \item sujet : \tlg{=j}, \ps
+          \item prédicat : \tlg{jr.n}, accompli de \tlg{jrj} \vi{3}
+          \item \co : \tlg{tAS=j}, \SN
+        \end{itemize}
+      \item 
+        \begin{itemize}[leftmargin=*]
+          \item sujet : \tlg{=j}, \ps
+          \item prédicat : \tlg{xnt}, aoriste de \vl{3}
+          \item \cc : \tlg{(r) jt.w=j}, \SP
+        \end{itemize}
+    \end{enumerate}%
+  }
+
+  \smallskip
+
+  \td{J'ai établi ma frontière, alors que je naviguais au sud 
+      de mes pères.}
+\end{cadre}
+
+\begin{cadre}[colback=done]
+  \insertlignepart[trim=0 0 10.4cm 0]{02}
+  \insertligne[trim=8.4cm 0 0 0]{03}
+
+  \tl{jw rd.n=j \lgn{03} HAw Hr swDw.t n=j}
+
+  \smallskip
+
+  \tg{%
+    Accompli, \ppper dans le \cc
+    \begin{itemize}
+      \item élément introducteur : \tlg{jw} 
+            \flech{} indicatif + temps du contexte
+      \item sujet : \tlg{=j}, \ps
+      \item prédicat : \tlg{rd.n}, accompli de \tlg{rdj} \va{}
+      \item \co : \tlg{HAw}, substantif
+      \item \cc : \tlg{Hr swDw.t n=j}, \SP avec \ppper + \ca
+    \end{itemize}%
+  }
+
+  \smallskip
+
+  \td{J'ai ajouté à (\litt placé un supplément sur) ce qui m'avait 
+      été transmis.}
+\end{cadre}
+
+\begin{cadre}[colback=done]
+  \insertlignepart[trim=2.1cm 0 4.75cm 0]{03}
+
+  \tl{jnk n(y)-sw.t Dd(w) jrr(w)}
+
+  \smallskip
+
+  \tg{%
+    \PPN à sujet pronominal. Deux \paimp[s]
+    \begin{itemize}
+      \item sujet : \tlg{jnk}, \pi
+      \item prédicat : \tlg{n(y)-sw.t Dd(w) jrr(w)}, \SN avec deux 
+            \paimp[s] en position d'adjectifs qualificatifs
+    \end{itemize}%
+  }
+
+  \smallskip
+
+  \td{Je suis un roi qui parle et qui agit.}
+\end{cadre}
+
+\filet
+
+\begin{cadre}[colback=done]
+  \faitle{8 mars 2017}
+  \insertlignepart[trim=0 0 10.6cm 0]{03}
+  \insertligne[trim=7.55cm 0 0 0]{04}
+
+  \tl{kAA(w).t \lgn{04} jb=j pw xpr(w).t m a=j}
+
+  \smallskip
+
+  \tg{%
+    \PPN
+    \begin{itemize}
+       \item indice du sujet : \tlg{pw}
+       \item explicitation du sujet : 
+             \tlg{xpr(w).t m a=j}, \SN avec \ppimp sans antécédent 
+             + \cc
+       \item prédicat : 
+             \tlg{kAA(w).t jb=j}, \SN avec \frimp sans antécédent ; 
+             sujet = \tlg{jb=j}
+     \end{itemize}%
+  }
+
+  \smallskip
+
+  \td{C'est ce à quoi mon esprit songe, ce qui advient par ma main.}
+\end{cadre}
+
+\begin{cadre}[colback=done]
+  \insertlignepart[trim=0 0 5.4cm 0]{04}
+  \insertligne[trim=11.65cm 0 0 0]{05}
+
+  \tl{Adw r jT.t, sXmw r \lgn{05} mar}
+
+  \smallskip
+
+  \tg{%
+    Suite du prédicat de la \ppn ligne~3
+    \begin{enumerate}
+      \item 
+        \begin{itemize}[leftmargin=*]
+          \item \tlg{Adw}, \paimp de \tlg{Ad} \vl{2}, sans antécédent
+          \item \tlg{r jT.t}, circonstancielle finale en \tlg{r} + 
+                infinitif de \tlg{jTj} \vi{3}
+        \end{itemize}
+      \item 
+        \begin{itemize}[leftmargin=*]
+          \item \tl{sXmw}, adjectif substantivé
+          \item \tl{r mar}, \SP
+        \end{itemize}
+    \end{enumerate}%
+  }
+
+  \smallskip
+
+  \td{quelqu'un qui se montre agressif pour prendre, impétueux pour 
+      le succès ;}
+\end{cadre}
+
+\filet
+
+\begin{cadre}[colback=done]
+  \faitle{29 mars 2017}
+  \insertlignepart[trim=5.7cm 0 1.33cm 0]{05}
+
+  \tl{tm(w) sDr(w) md.t m jb=f}
+
+  \smallskip
+
+  \tg{%
+    Suite du prédicat de la \ppn ligne~3
+    \begin{itemize}
+      \item \tlg{tm(w) sDr(w)}, \frimp négative de \tlg{sDr} \vl{3}, 
+            sans antécédent
+      \item \tlg{md.t}, substantif, sujet de la forme relative
+      \item \tlg{m jb=f}, \SP \cc de la forme relative
+    \end{itemize}%
+  }
+
+  \smallskip
+
+  \td{quelqu'un dans le c\oe{}ur duquel la parole ne dort pas ;}
+\end{cadre}
+
+\filet
+
+\begin{cadre}[colback=done]
+  \faitle{5 avril 2017}
+  \insertlignepart[trim=0 0 7.27cm 0]{05}
+  \insertligne[trim=12cm 0 0 0]{06}
+
+  \tl{xmt(w) twA.w aHa(w) Hr \lgn{06} sf}
+
+  \smallskip
+
+  \tg{%
+    Suite du prédicat de la \ppn ligne~3
+    \begin{enumerate}
+      \item 
+        \begin{itemize}[leftmargin=*]
+          \item \tlg{xmt(w)}, \paimp inaccompli actif de 
+                \tlg{xtm} \vl{3}
+          \item \tlg{twA.w}, substantif, \co du participe
+        \end{itemize}
+      \item 
+        \begin{itemize}[leftmargin=*]
+          \item \tlg{aHa(w)}, \paimp de \tlg{aHa} \vl{3}
+          \item \tlg{Hr sf}, progressif séquentiel de 
+                \tlg{sf} \vl{2}
+        \end{itemize}
+    \end{enumerate}%
+  }
+
+  \smallskip
+
+  \td{quelqu'un qui se préoccupe des inférieurs, qui se dresse en 
+      étant indulgent ;}
+\end{cadre}
+
+\begin{cadre}[colback=done]
+  \insertlignepart[trim=5.8cm 0 0.8cm 0]{06}
+
+  \tl{tm(w) sfnw(w) n xry pH(w) sw}
+
+  \smallskip
+
+  \tg{%
+    Suite du prédicat de la \ppn ligne~3
+    \begin{itemize}
+      \item \tlg{tm(w) sfnw(w)}, \paimp négatif substantivé de 
+            \tlg{sfn} \vl{3}
+      \item \cc : \tlg{n xry pH(w) sw}, \SP avec 
+            \tlg{pH(w)} = \paimp en position d'adjectif qualificatif ; 
+            antécédent : \tlg{xry}, substantif ; \co = \tlg{sw}, \pd
+    \end{itemize}%
+  }
+
+  \smallskip
+
+  \td{quelqu'un qui ne se montre pas clément envers un ennemi 
+      qui l'attaque ;}
+\end{cadre}
+
+\begin{cadre}[colback=done]
+  \insertlignepart[trim=0 0 7.25cm 0]{06}
+
+  \tl{pHw pH.t(w)=f, grw gr.t(w)}
+
+  \smallskip
+
+  \tg{%
+    Suite du prédicat de la \ppn ligne~3
+    \begin{enumerate}
+      \item 
+        \begin{itemize}[leftmargin=*]
+          \item \tlg{pHw}, \paimp de \tlg{pH} \vl{2}
+          \item \tlg{pH.t(w)=f}, aoriste séquentiel à sujet indéfini 
+                en fonction circonstancielle, avec \tlg{=f} 
+                \co~pronominal
+        \end{itemize}
+      \item 
+        \begin{itemize}[leftmargin=*]
+          \item \tlg{grw}, \paimp de \tlg{gr} \vl{2}
+          \item \tlg{gr.t(w)}, aoriste séquentielle en fonction 
+                circonstancielle à sujet indéfini
+        \end{itemize}
+    \end{enumerate}
+  }
+
+  \smallskip
+
+  \td{Quelqu'un qui attaque lorsqu'on l'attaque, 
+      qui se tait quand on se tait}
+\end{cadre}
+
+\filet
+
+\begin{cadre}
+  \insertligne[trim=4.4cm 0 0 0]{07}
+
+  \tl{\lgn{07} wSbw md.t mj xpr(w).t jm=s Dr-nt(y).t}
+\end{cadre}
+
+\begin{cadre}
+  \insertlignepart[trim=0 0 8.55cm 0]{07}
+  \insertligne[trim=10.05cm 0 0 0]{08}
+
+  \tl{jr gr m-xt pH, ssxm \lgn{08} jb pw n(y) xry}
+
+  \smallskip
+
+  \tg{%
+    Thématisation + \PPN[s]
+    \begin{enumerate}
+      \item 
+        \begin{itemize}[leftmargin=*]
+          \item élément introducteur : \tlg{jr}, marqueur 
+                de thématisation
+          \item \tlg{gr}, infinitif de \vl{2}
+          \item \tlg{m-xt pH}, \SP avec infinitif de \vl{2}, 
+                \cc de \tlg{gr}
+        \end{itemize}
+      \item 
+        \begin{itemize}[leftmargin=*]
+          \item indice du sujet : \tlg{pw}
+          \item prédicat : \tlg{ssxm jb \dots n(y) xrwy}, \SN avec 
+                infinitif de \vcl{3}
+        \end{itemize}
+    \end{enumerate}%
+  }
+
+  \smallskip
+
+  \td{Se taire après l'attaque (\litt le fait d'attaquer), 
+      c'est encourager l'ennemi.}
+\end{cadre}
+
+\begin{cadre}[colback=gray!18]
+  % \insertlignepart[trim=2.9cm 0 3cm 0]{08}
+
+  \begin{tikzpicture}
+    \node [anchor=south west, inner sep=0] (image) at (0,0) 
+          {\insertlignepart[trim=2.93cm 0 3cm 0]{08}} ;
+    \begin{scope}[
+      x={(image.south east)},
+      y={(image.north west)},
+    ]
+      \fill [masque] (0.947, 0.00) rectangle (1.00, 0.55) ;
+      % \grille
+    \end{scope}
+  \end{tikzpicture}
+
+  \tl{on.t pw, Ad ; Xs.t pw, Hm-xt}
+
+  \smallskip
+
+  \tg{%
+    Deux \PPN
+    \begin{enumerate}
+      \item 
+        \begin{itemize}[leftmargin=*]
+          \item indice du sujet : \tlg{pw}
+          \item explicitation du sujet : \tlg{Ad}, infinitif de \vl{2}
+          \item prédicat : \tlg{on.t}, infinitif de \vi{3}
+        \end{itemize}
+      \item 
+        \begin{itemize}[leftmargin=*]
+          \item indice du sujet : \tl{pw}
+          \item explicitation du sujet : \tlg{Hm-xt}, 
+                infinitif de \vl{2} (?)
+          \item prédicat : \tlg{Xs.t}, infinitif de \vi{3}
+        \end{itemize}
+    \end{enumerate}%
+  }
+
+  \smallskip
+
+  \td{Se montrer agressif est devenir brave ; s'enfuir est s'avilir.}
+\end{cadre}
+
+\begin{cadre}[colback=gray!18]
+  % \insertlignepart[trim=0 0 9.75cm 0]{08}
+
+  \begin{tikzpicture}
+    \node [anchor=south west, inner sep=0] (image) at (0,0) 
+          {\insertlignepart[trim=0 0 9.76cm 0]{08}} ;
+    \begin{scope}[
+      x={(image.south east)},
+      y={(image.north west)},
+    ]
+      \fill [masque] (0.00, 0.55) rectangle (0.115, 1.00) ;
+      % \grille
+    \end{scope}
+  \end{tikzpicture}
+
+  \insertligne[trim=0.86cm 0 0 0]{09}
+
+  \tl{Hm pw mAa \lgn{09} rwD Hr tAS=f Dr-nt(y).t sDm n wHs r xr n r(A)}
+\end{cadre}
+
+% \end{document}
+
+\filet
+
+\begin{cadre}[colback=done]
+  \faitle{Exam, 12 mai 2017}
+  \insertlignepart[trim=0 0 12.15cm 0]{09}
+  \insertligne[trim=8.45cm 0 0 0]{10}
+
+  \tl{jn \lgn{10} wSb=f dd(w) Hm=f}
+
+  \smallskip
+
+  \tg{%
+    Phrase coupée
+    \begin{itemize}
+      \item élément introducteur : \tlg{jn}
+      \item sujet : \tlg{wSb=f}, infinitif + \co pronominal
+      \item prédicat : \tlg{dd(w) Hm=f}, \paimp + \co au prospectif
+    \end{itemize}%
+  }
+
+  \smallskip
+
+  \td{C'est lui répondre qui fait qu'il s'enfuit.}
+\end{cadre}
+
+\begin{cadre}[colback=done]
+  \insertlignepart[trim=4.5cm 0 4.45cm 0]{10}
+
+  \tl{Ad=t(w) r=f, dd=f sA=f}
+
+  \smallskip
+
+  \tg{%
+    Phrase balancée, deux formes substantivales \tlg{mrr=f}
+    \begin{enumerate}
+      \item 
+        \begin{itemize}[leftmargin=*]
+          \item sujet : \tlg{=t(w)}, sujet indéfini
+          \item prédicat : \tlg{Ad}, forme \tlg{mrr=f} de \vl{2}
+          \item \cc : \tlg{r=f}, \SP
+        \end{itemize}%
+      \item 
+        \begin{itemize}[leftmargin=*]
+          \item sujet : \tlg{=f}, \ps
+          \item prédicat : \tlg{dd}, forme \tlg{mrr=f} 
+                de \tlg{rdj} \va{}
+          \item \co : \tlg{sA=f}, \SN
+        \end{itemize}
+    \end{enumerate}%
+  }
+
+  \smallskip
+
+  \td{Se montre-t-on agressif envers lui, qu'il montre son dos.}
+\end{cadre}
+
+\filet
+
+\begin{cadre}
+  \insertlignepart[trim=0 0 8.34cm 0]{10}
+
+  \tl{Hm-xt wA=f r Ad}
+
+  \td{}
+\end{cadre}
+
+\filet
+
+\begin{cadre}[colback=done]
+  \faitle{Exam, 12 mai 2017}
+  \begin{tikzpicture}
+    \node [anchor=south west, inner sep=0] (image) at (0,0) 
+          {\insertligne[trim=7.66cm 0 0 0]{11}} ;
+    \begin{scope}[
+      x={(image.south east)},
+      y={(image.north west)},
+    ]
+      \fill [masque] (0.935, 0.00) rectangle (0.985, 0.69) ;
+      % \grille
+    \end{scope}
+  \end{tikzpicture}
+
+  \tl{\lgn{11} n rmT js n(y).t Sf.t=s.t}
+
+  \smallskip
+
+  \tg{%
+    Négation de \PPN sans \tlg{pw}
+    \begin{itemize}
+      \item \tlg{n \dots js}, négation
+      \item sujet : \zero
+      \item prédicat : \tl{rmT n(y).t Sf.t=s.t}, 
+            \SN avec infinitif + \co pronominal en génitif indirect
+    \end{itemize}%
+  }
+
+  \smallskip
+
+  \td{Ce ne sont pas des gens que l'on respecte.}
+\end{cadre}
+
+\filet
+
+\begin{cadre}
+  % \insertlignepart[trim=0.9cm 0 4.6cm 0]{11}
+  \begin{tikzpicture}
+    \node [anchor=south west, inner sep=0] (image) at (0,0) 
+          {\insertlignepart[trim=0.9cm 0 5cm 0]{11}} ;
+    \begin{scope}[
+      x={(image.south east)},
+      y={(image.north west)},
+    ]
+      \fill [masque] (0.00, 0.70) rectangle (0.057, 1.00) ;
+      % \grille
+    \end{scope}
+  \end{tikzpicture}
+
+  \tl{Hwrw.w pw, sD.w-jb.w}
+
+  \smallskip
+
+  \tg{%
+    \PPN
+    \begin{itemize}
+      \item indice du sujet : \tlg{pw}
+      \item explicitation du sujet : \tlg{sDw-jb.w}, construction 
+            \tlg{nfr-Hr} substantivée
+      \item prédicat : \tlg{Hwrw.w}, substantif
+    \end{itemize}%
+  }
+
+  \smallskip
+
+  \td{Les lâches sont des gens méprisables.}
+\end{cadre}
+
+\begin{cadre}
+  \insertlignepart[trim=0 0 12.1cm 0]{11}
+  \insertligne[clip, trim=10.15cm 0 0 0]{12}
+
+  \tl{jw \lgn{12} mA.n s.t Hm(=j)}
+
+  \smallskip
+
+  \tg{%
+    Accompli
+    \begin{itemize}
+      \item élément introducteur : \tlg{jw}
+            \flech{} indicatif + temps du contexte
+      \item sujet : \tlg{Hm=j}, \SN
+      \item prédicat : \tlg{mA.n}, accompli de \tlg{mAA} \vg{2}
+      \item \co : \tlg{s.t}, \pd
+    \end{itemize}
+  }
+
+  \smallskip
+
+  \td{Ma Majesté a constaté cela.}
+\end{cadre}
+
+\begin{cadre}
+  \insertlignepart[trim=6.85cm 0 2.9cm 0]{12}
+
+  \tl{nn \zero m j(w)ms}
+
+  \smallskip
+
+  \tg{%
+    Négation de \PPA
+    \begin{itemize}
+      \item élément introducteur : \tlg{nn}, négation
+      \item sujet : \zero
+      \item prédicat : \tlg{m j(w)ms}, \SP avec \tlg{m} d'état
+    \end{itemize}%
+  }
+\end{cadre}
+
+\begin{cadre}
+  \insertlignepart[trim=0 0 6.15cm 0]{12}
+  \begin{tikzpicture}
+    \node [anchor=south west, inner sep=0] (image) at (0,0) 
+          {\insertligne[trim=9.65cm 0 0 0]{13}} ;
+    \begin{scope}[
+      x={(image.south east)},
+      y={(image.north west)},
+    ]
+      \fill [masque] (0.81, 0.00) rectangle (1.00, 0.70) ;
+      \fill [masque] (0.83, 0.70) rectangle (0.96, 0.75) ;
+      % \grille
+    \end{scope}
+  \end{tikzpicture}
+
+  \tl{HAo.n=j Hm.wt=sn ; jn.n=j \lgn{13} Xr(y).w=sn}
+
+  \smallskip
+
+  \tg{%
+    Deux accomplis
+    \begin{enumerate}
+      \item 
+        \begin{itemize}[leftmargin=*]
+          \item élément introducteur : \zero
+                \flech{} séquentielle
+          \item sujet : \tlg{=j}, \ps
+          \item prédicat : \tlg{HAo.n}, accompli de \vl{3}
+          \item \co : \tlg{Hm.wt=sn}, \SNé
+        \end{itemize}
+      \item 
+        \begin{itemize}[leftmargin=*]
+          \item élément introducteur : \zero
+                \flech{} séquentielle
+          \item sujet : \tlg{=j}, \ps
+          \item prédicat : \tlg{jn.n}, accompli de \vl{3}
+          \item \co : \tlg{Xr(y).w=sn}, \SN
+        \end{itemize}
+    \end{enumerate}%
+  }
+
+  \smallskip
+
+  \td{J'ai capturé leurs épouses ; j'ai ramené leurs maisonnées.}
+\end{cadre}
+
+\begin{cadre}
+  \begin{tikzpicture}
+    \node [anchor=south west, inner sep=0] (image) at (0,0) 
+          {\insertlignepart[trim=0 0 2.65cm 0]{13}} ;
+    \begin{scope}[
+      x={(image.south east)},
+      y={(image.north west)},
+    ]
+      \fill [masque] (0.00, 0.75) rectangle (0.06, 0.90) ;
+      \fill [masque] (0.06, 0.72) -- (0.06, 0.90) 
+                  -- (0.08, 0.72) -- cycle ;
+      % \grille
+    \end{scope}
+  \end{tikzpicture}
+
+  \tl{\saispas[prr(w) r m t] =sn, Hw.w=sn, wHA.w=sn}
+
+  \smallskip
+
+  \tg{}
+
+  \smallskip
+
+  \td{\saispas, leur bétail, leurs récoltes}
+\end{cadre}
+
+\begin{cadre}
+  \insertligne[trim=10.25cm 0 0 0]{14}
+
+  \tl{\lgn{14} rd(=w) Sd.t jm}
+
+  \tg{Parfait ancien}
+
+  \td{Le feu a été placé là.}
+\end{cadre}
+
+\begin{cadre}
+  \begin{tikzpicture}
+    \node [anchor=south west, inner sep=0] (image) at (0,0) 
+          {\insertlignepart[trim=2.75cm 0 2.73cm 0]{14}} ;
+    \begin{scope}[
+      x={(image.south east)},
+      y={(image.north west)},
+    ]
+      \fill [masque] (0.91, 0.00) rectangle (1.00, 0.65) ;
+      % \grille
+    \end{scope}
+  \end{tikzpicture}
+
+  \tl{anx n=j jt=j, Dd=j m mAa.t}
+
+  \smallskip
+
+  \tg{%
+    Formule de serment avec deux formes substantivales \tlg{mrr=f}
+    \begin{enumerate}
+      \item 
+        \begin{itemize}[leftmargin=*]
+          \item sujet : \tlg{jt=j}, \SN
+          \item prédicat : \tlg{anx}, forme \tlg{mrr=f} de \vl{3}
+          \item \ca : \tlg{n=j}, \SP
+        \end{itemize}
+      \item 
+        \begin{itemize}[leftmargin=*]
+          \item sujet : \tlg{=j}, \ps
+          \item prédicat : \tlg{Dd}, forme \tlg{mrr=f} de \vl{2}
+          \item \cc : \tlg{m mAa.t}, \SP
+        \end{itemize}
+    \end{enumerate}%
+  }
+
+  \smallskip
+
+  \td{Aussi vrai que mon père vit pour moi, je parle en vérité.}
+\end{cadre}
+
+\begin{cadre}[colback=done]
+  % \insertlignepart[trim=0 0 9.6cm 0]{14}
+  % \insertligne[trim=7.95cm 0 0 0]{15}
+  \begin{tikzpicture}
+    \node [anchor=south west, inner sep=0] (image) at (0,0) 
+          {\insertlignepart[trim=0 0 9.6cm 0]{14}} ;
+    \begin{scope}[
+      x={(image.south east)},
+      y={(image.north west)},
+    ]
+      \fill [masque] (0.00, 0.65) rectangle (0.22, 1.00) ;
+      % \grille
+    \end{scope}
+  \end{tikzpicture}
+  \insertligne[trim=7.95cm 0 0 0]{15}
+
+  \tl{nn xn jm \lgn{15} n(y) aba prr(w) m r(A)=j}
+
+  \smallskip
+
+  \tg{Négation existentielle ?}
+
+  \smallskip
+
+  \td{Il n'y a pas ici de parole mensongère qui sorte de ma bouche.}
+\end{cadre}
+
+\filet
+
+\begin{cadre}[colback=done]
+  \faitle{14 février 2017}
+  \insertlignepart[trim=0 0 5.1cm 0]{15}
+  \insertligne[trim=8.85cm 0 0 0]{16}
+
+  \insertlignepart[trim=6.2cm 0 4.25cm 0]{16}
+
+  \tl{jr gr.t sA=j nb, srwD.t(y)=fy tAS \lgn{16} pn jr(w).n Hm=j, 
+      sA=j pw ; ms.t(w)=f n Hm=j}
+
+  \smallskip
+
+  \tg{%
+    Thématisation + \ppn + construction argumentative
+    \begin{enumerate}
+      \item 
+        \begin{itemize}[leftmargin=*]
+          \item \tlg{jr}, marqueur de thématisation
+          \item \tlg{gr.t}, particule enclitique
+          \item \tlg{srwD.t(y)=fy}, forme \tlg{sDm.ty=fy} de 
+                \tlg{srwd} \vcl{3} + \co (\tlg{tAS pn}, \SN)
+          \item \tlg{jr(w).n}, \frper de \tlg{jrj} \vi{3} ; 
+                sujet = \tlg{Hm=j}
+        \end{itemize}
+      \item 
+        \begin{itemize}[leftmargin=*]
+          \item indice du sujet : \tlg{pw}
+          \item prédicat : \tlg{sA=j}, \SN
+        \end{itemize}
+      \item 
+        \begin{itemize}[leftmargin=*]
+          \item sujet : \tlg{ms.t(w)=f}, prospectif passif à 
+                sujet pronominal
+          \item prédicat : \tlg{n Hm=j}, \SP
+        \end{itemize}
+    \end{enumerate}%
+  }
+
+  \smallskip
+
+  \td{Et, quant à celui de mes fils (\litt tout fils de moi) qui 
+      affermira cette frontière que ma Majesté a faite, ce sera mon 
+      fils ; c'est pour ma Majesté qu'il sera mis au monde, }
+\end{cadre}
+
+\begin{cadre}[colback=done]
+  \insertlignepart[trim=0 0 6.82cm 0]{16}
+
+  \insertligne[trim=6.03cm 0 0 0]{17}
+
+  \tl{twt sA nDty jt=f, \lgn{17} srwD(w) tAS n(y) wtt(w) sw}
+
+  \smallskip
+
+  \tg{%
+    Deux syntagmes nominaux se rapportant à ce qui précède
+    \begin{enumerate}
+      \item 
+        \begin{itemize}[leftmargin=*]
+          \item \tlg{twt sA nDty jt=f}, \SN
+        \end{itemize}
+      \item 
+        \begin{itemize}[leftmargin=*]
+          \item \tlg{srwD(w)}, \paper de \vcl{3} + \co 
+                (\tlg{tAS n(y)\dots}, \SN)
+          \item \tlg{wtt(w)}, \paper de \vl{3} + \co (\tlg{sw}, \pd)
+        \end{itemize}
+    \end{enumerate}%
+  }
+
+  \smallskip
+
+  \td{image d'un fils protecteur de son père, qui affermit la 
+      frontière de celui qui l'a engendré.}
+\end{cadre}
+
+\begin{cadre}[colback=done]
+
+  \insertlignepart[trim=0 0 6.99cm 0]{17}
+  \insertligne[trim=8.66cm 0 0 0]{18}
+
+  \insertlignepart[trim=4.38cm 0 4.37cm 0]{18}
+
+  \tl{jr gr.t fx.t(y)=fy sw, tm.t(y)=f(y) aHA(w) \lgn{18} Hr=f, 
+      n sA=j js ; n ms=t(w)=f js n=j}
+
+  \smallskip
+
+  \tg{%
+    Thématisation + négation de \ppn + négation complète de 
+    construction emphatique
+    \begin{enumerate}
+      \item 
+        \begin{itemize}[leftmargin=*]
+          \item \tlg{jr}, marqueur de thématisation
+          \item \tlg{gr.t}, particule enclitique
+          \item \tlg{fx.t(y)=fy}, forme \tlg{sDm.ty=fy} de 
+                \tlg{fx} \vl{2} + \co (\tlg{sw}, \pd)
+          \item \tlg{tm.t(y)=f(y) aHA(w)}, forme \tlg{sDm.ty=fy} 
+                négative de \tlg{aHA} \vl{3} + \cc (\tlg{Hr=f}, \SP)
+        \end{itemize}
+      \item 
+        \begin{itemize}[leftmargin=*]
+          \item \tlg{n \dots js}, négation
+          \item indice du sujet : \zero
+          \item prédicat : \tlg{sA=j}, \SN
+        \end{itemize}
+      \item 
+        \begin{itemize}[leftmargin=*]
+          \item \tlg{n \dots js}, négation
+          \item sujet : \tlg{ms.t(w)=f}, prospectif passif à 
+                sujet pronominal
+          \item prédicat : \tlg{n=j}, \SP
+        \end{itemize}
+    \end{enumerate}%
+  }
+
+  \smallskip
+
+  \td{Et, quant à celui qui l'oubliera, qui ne combattra pas pour elle 
+      (= la frontière), ce ne sera pas mon fils ; ce n'est pas pour 
+      moi qu'il sera mis au monde.}
+\end{cadre}
+
+\filet
+
+\begin{cadre}[colback=done]
+  \faitle{19 avril 2017}
+  \insertlignepart[trim=0 0 8.64cm 0]{18}
+  \insertligne[trim=7.65cm 0 0 0]{19}
+
+  \begin{gramrule}
+    \tl{jsT gr.t rd.n Hm=j}
+    \begin{possib}
+      \ \tl{jr.t}\\
+      \ \tl{jr.t(w)}\\
+    \end{possib}
+    \tl{twt \lgn{19} n(y) Hm=j Hr tAS pn jr(w).n Hm=j}
+  \end{gramrule}
+
+  \smallskip
+
+  \tg{%
+    Accompli + complétive avec une \frper
+    \begin{enumerate}
+      \item 
+        \begin{itemize}[leftmargin=*]
+          \item élément introducteur : \tlg{jsT}, auxiliaire 
+                d'énonciation
+          \item \tlg{gr.t}, particule enclitique
+          \item sujet : \tlg{Hm=j}, \SN
+          \item prédicat : \tlg{rd.n}, accompli de \tlg{rdj} \va{}
+        \end{itemize}
+      \item 
+        \begin{itemize}[leftmargin=*]
+          \item \co de \tlg{rdj} : complétive\\
+                \begin{gramrule}
+                  \begin{possib}
+                    \ \tlg{jr.t}, infinitif de \tlg{jrj} \vi{3}\\
+                    \ \tlg{jr.t(w)}, prospectif à sujet indéfini\\
+                  \end{possib}
+                \end{gramrule}
+          \item \co : \tlg{twt n(y) Hm=j}, \SN
+          \item \cc : \tlg{Hr tAS pn jr(w).n Hm=j}, \SP avec \frper 
+                de \tlg{jrj} \vi{3} ; sujet = \tl{Hm=j} ; 
+                antécédent = \tl{tAS}
+        \end{itemize}
+    \end{enumerate}%
+  }
+
+  \smallskip
+
+  \td{Et donc, ma Majesté a fait en sorte de faire / qu'on fasse 
+      une effigie de ma Majesté sur cette frontière que ma Majesté 
+      a faite, }
+\end{cadre}
+
+\begin{cadre}[colback=done]
+  \insertlignepart[trim=0 0 5.35cm 0]{19}
+
+  \tl{n-mrw.t rwd=Tn Hr=f n-mrw.t aHA=Tn Hr=f}
+
+  \smallskip
+
+  \tg{%
+    Deux conditionnelles finales au subjonctif
+    \begin{enumerate}
+      \item 
+        \begin{itemize}[leftmargin=*]
+          \item préposition-conjonction : \tlg{n-mrw.t}
+          \item sujet : \tlg{=Tn}, \ps
+          \item prédicat : \tlg{rwd}, subjonctif de \vl{3}
+          \item \cc : \tlg{Hr=f}, \SP
+        \end{itemize}
+      \item 
+        \begin{itemize}[leftmargin=*]
+          \item préposition-conjonction : \tlg{n-mrw.t}
+          \item sujet : \tlg{=Tn}, \ps
+          \item prédicat : \tlg{aHA}, subjonctif de \vl{3}
+          \item \cc : \tlg{Hr=f}, \SP
+        \end{itemize}
+    \end{enumerate}%
+  }
+
+  \smallskip
+
+  \td{pour que vous vous affermissiez grâce à elle, pour que vous 
+      combattiez pour elle.}
+\end{cadre}
+
+\section{Texte complet}
+% ---------------------------------------------------------------------
+
+Vive l'Horus Netjerkhépérou, les Deux-Maîtresses Netjermésout, 
+le roi de \HBE Khâkaourê, doué de vie (soit-il) !
+Vive l'Horus d'or Khéper, le fils charnel de Rê, aimé de lui, 
+le maître du Double-Pays Sénousret, doué de vie, stabilité, pouvoir 
+(soit-il), éternellement !
+
+L'an~16, le 3\ieme~mois de péret, établissement (par) sa Majesté de 
+la frontière méridionale à Heh.
+
+J'ai établi ma frontière, alors que je naviguais au sud de mes pères. 
+J'ai ajouté à ce qui m'avait été transmis.
+Je suis un roi qui parle et qui agit \incise{c'est ce à quoi mon 
+esprit songe, ce qui advient par ma main} quelqu'un qui se montre 
+agressif pour prendre, impétueux pour le succès ; quelqu'un dans le 
+c\oe{}ur duquel la parole ne dort pas, qui se préoccupe des inférieurs 
+et se dresse en étant indulgent ; qui ne se montre pas clément envers 
+un ennemi qui l'attaque, qui attaque lorsqu'on l'attaque et se tait 
+quand on se tait.
+
+(\dots)
+
+C'est lui répondre qui fait qu'il s'enfuit.
+Se montre-t-on agressif envers lui, qu'il montre son dos.
+(\dots)
+Ce ne sont pas des gens que l'on respecte.
+
+(\dots)
+
+Aussi vrai que mon père vit pour moi, je parle en vérité.
+
+(\dots)
+
+Et, celui de mes fils qui affermira cette frontière que ma Majesté 
+a faite, ce sera mon fils ; c'est pour ma Majesté qu'il sera mis au 
+monde, image d'un fils protecteur de son père, qui affermit la 
+frontière de celui qui l'a engendré. Celui qui l'oubliera, qui ne 
+combattra pas pour elle, ce ne sera pas mon fils ; ce n'est pas pour 
+moi qu'il sera mis au monde.
+
+Et donc, ma Majesté a fait en sorte qu'on fasse une effigie de ma 
+Majesté sur cette frontière que ma Majesté a faite, pour que vous 
+vous affermissiez grâce à elle, pour que vous combattiez pour elle.
+
+\section*{Vocabulaire}
+% ---------------------------------------------------------------------
+\begin{multicols}{2}
+  \begin{itemize}
+     \item \begin{hieroglyph}\end{hieroglyph}
+           \tl{Ad} \vl{2}, \td{se montrer agressif}
+     \item \begin{hieroglyph}\end{hieroglyph}
+           \tl{wAj} \vi{3}, \td{tomber}, 
+           \tll{\textemdash~}\tl{r}, \td{en (fureur)}
+     \item \begin{hieroglyph}\end{hieroglyph}
+           \tl{wHs}, \td{\texten{cut off (hair)}}, 
+           \td{\texten{kill (rebels)}}, \td{\texten{quell (tumult)}}
+     \item \begin{hieroglyph}\end{hieroglyph}
+           \tl{wSb} \vl{3}, \td{répondre à}, 
+           \tll{\textemdash~}\tl{m}, \td{par qqch}
+     \item \begin{hieroglyph}\end{hieroglyph}
+           \tl{mar} \vl{3}, \td{réussir}
+     \item \begin{hieroglyph}\end{hieroglyph}
+           \tl{rwD} \vl{3}, \td{\texten{prevail}},
+           \tll{\textemdash~}\tl{r}, \td{\texten{over}}
+     \item \begin{hieroglyph}\end{hieroglyph}
+           \tl{md.t}, \td{parole}, \td{propos}, \td{discours}, 
+           \td{mot}, \td{affaire (judiciaire)}
+     \item \begin{hieroglyph}\end{hieroglyph}
+           \tl{Hwrw}, \td{poor}, \td{humble man}, 
+           \td{despicable person}
+     \item \begin{hieroglyph}N41-m-D53\end{hieroglyph}
+           \tl{Hm} \vl{2}, \td{\texten{coward}}
+     \item \begin{hieroglyph}N41-m-D55\end{hieroglyph}
+           \tl{Hm} \vl{2}, \td{\texten{retire}}, \td{\texten{retreat}}
+     \item \begin{hieroglyph}\end{hieroglyph}
+           \tl{Hm-xt}, \td{\texten{retreat}}
+     \item \begin{hieroglyph}\end{hieroglyph}
+           \tl{xpr m} \vl{3}, \td{devenir}
+     \item \begin{hieroglyph}\end{hieroglyph}
+           \tl{xmt} \vl{3}, \td{penser à}, \td{penser que}
+     \item \begin{hieroglyph}\end{hieroglyph}
+           \tl{xrwy}, \td{ennemi}
+     \item \begin{hieroglyph}\end{hieroglyph}
+           \tl{ssXm jb} \vcl{3}, \td{encourager}
+     \item \begin{hieroglyph}\end{hieroglyph}
+           \tl{sXm}, \td{\texten{to be hasty, impetuous}}
+     \item \begin{hieroglyph}\end{hieroglyph}
+           \tl{sf}, \td{\texten{be mild}}, \td{\texten{merciful}}, 
+     \item \begin{hieroglyph}\end{hieroglyph}
+           \tl{sfn}, \td{\texten{be kindly}}, \td{\texten{merciful}}
+     \item \begin{hieroglyph}\end{hieroglyph}
+           \tl{sfn}, \td{\texten{cause affliction}}
+     \item \begin{hieroglyph}\end{hieroglyph}
+           \tl{Sfj} \vi{3}, \td{respecter}
+     \item \begin{hieroglyph}\end{hieroglyph}
+           \tl{sD.w-jb.w}, \td{\texten{broken-spirited}}, 
+           \td{\texten{craven}}
+     \item \begin{hieroglyph}\end{hieroglyph}
+           \tl{onj}, \td{devenir brave}, \td{faire des efforts}
+     % \item \begin{hieroglyph}\end{hieroglyph}
+     %       \tl{}, \td{}
+     \item \begin{hieroglyph}\end{hieroglyph}
+           \tl{Xsj}, \td{s'affaiblir}, \td{s'avilir}, 
+           \td{se faire humble}
+   \end{itemize}
+\end{multicols}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\end{document}
+
+% \begin{cadre}
+%   \tl{}
+
+%   \td{}
+% \end{cadre}
+
+
