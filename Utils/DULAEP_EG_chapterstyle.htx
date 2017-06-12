@@ -1,0 +1,60 @@
+%!TEX root = DULAEP_EG.htx
+
+\makeatletter
+
+% ... Chapter style ...
+% ---------------------
+\makeatletter
+\makechapterstyle{dulaep}{%
+  \chapterstyle{article}
+  \renewcommand{\chaptitlefont}{\normalfont\Large\bfseries}
+  \renewcommand{\chapnumfont}{\chaptitlefont}
+  \renewcommand{\printchapternum}{\chapnumfont \thechapter.\quad}
+  \renewcommand{\chapterheadstart}{%
+    \vspace{\beforechapskip}%
+    \hrule%
+    \par\nobreak\smallskip%
+  }
+  \renewcommand{\afterchaptertitle}{%
+    \par\nobreak\smallskip%
+    \hrule%
+    \par\nobreak\vskip\afterchapskip%
+  }
+}
+
+\makechapterstyle{dulaep2}{%
+  \chapterstyle{article}
+  \renewcommand{\chaptitlefont}{\normalfont\Large\bfseries}
+  \renewcommand{\chapnumfont}{\chaptitlefont}
+  \renewcommand{\printchapternum}{\chapnumfont \thechapter.\quad}
+  \renewcommand{\chapterheadstart}{%
+    \vspace{\beforechapskip}%
+    \hrule%
+    \nobreak\smallskip%
+  }
+  \renewcommand{\afterchaptertitle}{%
+    \nobreak\smallskip%
+    \hrule%
+    \par\nobreak\vskip\afterchapskip%
+  }
+}
+\makeatother
+
+\chapterstyle{dulaep}
+
+% ... Part style ...
+% ------------------
+\renewcommand{\partnamefont}{\RaggedLeft\normalfont\LARGE\scshape}
+\renewcommand*{\partnumfont}{\RaggedLeft\normalfont\LARGE\scshape}
+\renewcommand*{\parttitlefont}{\RaggedLeft\normalfont\huge\bfseries}
+
+\renewcommand{\midpartskip}{\par\vspace{0.5\onelineskip}}
+\renewcommand*{\beforepartskip}{%
+  \null\vspace{80pt}%
+}
+\renewcommand*{\afterpartskip}{%
+  \noindent\rule{\textwidth}{3pt}%
+  % \par\nobreak\medskip%
+  % \hrule height 3pt%
+  \vskip 20pt plus 3pt minus 1pt%
+}
