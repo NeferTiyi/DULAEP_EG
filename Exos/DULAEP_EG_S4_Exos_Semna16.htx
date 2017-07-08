@@ -709,31 +709,38 @@ les deux premières lignes du texte, en vous arrêtant à
 
   \smallskip
 
-  \td{Quelqu'un qui attaque lorsqu'on l'attaque, 
-      qui se tait quand on se tait}
+  \td{quelqu'un qui attaque lorsqu'on l'attaque, 
+      qui se tait lorsque on se tait ;}
 \end{cadre}
 
 \filet
 
-\begin{cadre}
-  \insertligne[trim=4.4cm 0 0 0]{07}
+\begin{cadre}[colback=gray!18]
+  \insertligne[trim=6cm 0 0 0]{07}
 
-  \tl{\lgn{07} wSbw md.t mj xpr(w).t jm=s Dr-nt(y).t}
-\end{cadre}
-
-\begin{cadre}
-  \insertlignepart[trim=0 0 8.55cm 0]{07}
+  \insertlignepart[trim=0 0 7.1cm 0]{07}
   \insertligne[trim=10.05cm 0 0 0]{08}
 
-  \tl{jr gr m-xt pH, ssxm \lgn{08} jb pw n(y) xry}
+  \tl{\lgn{07} wSbw md.t mj xpr(w).t jm=s Dr-nt(y).t jr gr m-xt pH, 
+      ssxm \lgn{08} jb pw n(y) xry}
 
   \smallskip
 
   \tg{%
-    Thématisation + \PPN[s]
+    Suite du prédicat de la \ppn ligne~3, avec une circonstancielle 
+    contenant une thématisation + \PPN
     \begin{enumerate}
       \item 
         \begin{itemize}[leftmargin=*]
+          \item \tlg{wSbw}, \paimp de \tlg{wSb} \vl{3}
+          \item \tlg{md.t}, substantif, \co de \tlg{wSbw}
+          \item \tlg{mj xpr(w).t jm=s}, \SP avec \paimp (ou accompli) 
+                en construction indirecte (\tlg{=s} pronom de rappel), 
+                \cc
+        \end{itemize}
+      \item 
+        \begin{itemize}[leftmargin=*]
+          \item \tlg{Dr-nt(y).t}, préposition-conjonction
           \item élément introducteur : \tlg{jr}, marqueur 
                 de thématisation
           \item \tlg{gr}, infinitif de \vl{2}
@@ -751,8 +758,10 @@ les deux premières lignes du texte, en vous arrêtant à
 
   \smallskip
 
-  \td{Se taire après l'attaque (\litt le fait d'attaquer), 
-      c'est encourager l'ennemi.}
+  \td{quelqu'un qui répond à une parole conformément à ce qui y 
+      apparaît, puisque se taire après l'attaque (\litt le fait 
+      d'attaquer), c'est encourager (\litt rendre fort l'esprit de) 
+      l'ennemi.}
 \end{cadre}
 
 \begin{cadre}[colback=gray!18]
@@ -775,7 +784,7 @@ les deux premières lignes du texte, en vous arrêtant à
   \smallskip
 
   \tg{%
-    Deux \PPN
+    Deux \PPN[s]
     \begin{enumerate}
       \item 
         \begin{itemize}[leftmargin=*]
@@ -798,9 +807,7 @@ les deux premières lignes du texte, en vous arrêtant à
   \td{Se montrer agressif est devenir brave ; s'enfuir est s'avilir.}
 \end{cadre}
 
-\begin{cadre}[colback=gray!18]
-  % \insertlignepart[trim=0 0 9.75cm 0]{08}
-
+\begin{cadre}
   \begin{tikzpicture}
     \node [anchor=south west, inner sep=0] (image) at (0,0) 
           {\insertlignepart[trim=0 0 9.76cm 0]{08}} ;
@@ -815,10 +822,34 @@ les deux premières lignes du texte, en vous arrêtant à
 
   \insertligne[trim=0.86cm 0 0 0]{09}
 
-  \tl{Hm pw mAa \lgn{09} rwD Hr tAS=f Dr-nt(y).t sDm n wHs r xr n r(A)}
-\end{cadre}
+  \tl{Hm pw mAa \lgn{09} Ar(w) Hr tAS=f 
+      Dr-nt(y).t sDm NHsy r xr n(y) r(A)}
 
-% \end{document}
+  \smallskip
+
+  \tg{%
+    \PPN + circonstancielle
+    \begin{enumerate}
+      \item 
+        \begin{itemize}[leftmargin=*]
+          \item indice du sujet : \tlg{pw}
+          \item explicitation du sujet : \tlg{Ar(w) Hr tAS=f}, 
+                \SN avec \ppimp de \vl{3} + \SP \cc
+          \item prédicat : \tlg{Hm \dots mAa}, \SN
+        \end{itemize}
+      \item 
+        \begin{itemize}[leftmargin=*]
+          \item \tlg{Dr-nt(y).t}, préposition-conjonction
+          \item ???
+        \end{itemize}
+    \end{enumerate}%
+  }
+
+  \smallskip
+
+  \td{C'est un véritable lâche, celui qui est chassé de sa frontière 
+      puisque le Nubien\dots (obéit pour se soumettre au premier mot)}
+\end{cadre}
 
 \filet
 
@@ -878,12 +909,44 @@ les deux premières lignes du texte, en vous arrêtant à
 
 \filet
 
-\begin{cadre}
+\begin{cadre}[colback=gray!18]
   \insertlignepart[trim=0 0 8.34cm 0]{10}
 
-  \tl{Hm-xt wA=f r Ad}
+  \tl{Hm-xt, wA=f r Ad}
 
-  \td{}
+  \smallskip
+
+  \tg{%
+    Impératif + subjonctif en séquentielle-consécutive
+    \begin{enumerate}
+      \item 
+        \begin{itemize}[leftmargin=*]
+          \item \tlg{Hm-xt}, impératif de \vl{2}
+        \end{itemize}
+      \item 
+        \begin{itemize}[leftmargin=*]
+          \item sujet : \tlg{=f}, \ps
+          \item prédicat : \tlg{wA}, subjonctif de \tlg{wAj} \vi{3}
+          \item \cc : \tlg{r Ad}, \SP avec infinitif en fonction 
+                substantive\\(ou finale type \tlg{r wnm} ?)
+        \end{itemize}%
+    \end{enumerate}%
+  }
+
+  \smallskip
+
+  \td{Recule, de sorte qu'il tombe dans l'agressivité.}
+
+  \begin{remarque}
+    L'impératif détonne par rapport à ce qui précède. Peut-être le 
+    \begin{hieroglyph}t\end{hieroglyph} de \tlb{Hm-xt} est-il en fait 
+    celui d'un \tlb{=t(w)}. On aurait alors une phrase balancée avec 
+    deux \tlb{mrr=f}, parallèle à la précédente.
+
+    \tl{Hm-xt=t(w), wA=f r Ad}
+
+    \td{Recule-t-on, qu'il tombe dans l'agressivité.}
+  \end{remarque}
 \end{cadre}
 
 \filet
@@ -911,7 +974,7 @@ les deux premières lignes du texte, en vous arrêtant à
     \begin{itemize}
       \item \tlg{n \dots js}, négation
       \item sujet : \zero
-      \item prédicat : \tl{rmT n(y).t Sf.t=s.t}, 
+      \item prédicat : \tlg{rmT n(y).t Sf.t=s.t}, 
             \SN avec infinitif + \co pronominal en génitif indirect
     \end{itemize}%
   }
@@ -924,7 +987,6 @@ les deux premières lignes du texte, en vous arrêtant à
 \filet
 
 \begin{cadre}
-  % \insertlignepart[trim=0.9cm 0 4.6cm 0]{11}
   \begin{tikzpicture}
     \node [anchor=south west, inner sep=0] (image) at (0,0) 
           {\insertlignepart[trim=0.9cm 0 5cm 0]{11}} ;
@@ -937,7 +999,7 @@ les deux premières lignes du texte, en vous arrêtant à
     \end{scope}
   \end{tikzpicture}
 
-  \tl{Hwrw.w pw, sD.w-jb.w}
+  \tl{Hwrw.w pw sD.w-jb.w}
 
   \smallskip
 
@@ -945,56 +1007,50 @@ les deux premières lignes du texte, en vous arrêtant à
     \PPN
     \begin{itemize}
       \item indice du sujet : \tlg{pw}
-      \item explicitation du sujet : \tlg{sDw-jb.w}, construction 
-            \tlg{nfr-Hr} substantivée
-      \item prédicat : \tlg{Hwrw.w}, substantif
+      \item prédicat : \tlg{Hwrw.w \dots sDw-jb.w}, \SN avec 
+            construction \tlg{nfr-Hr}
     \end{itemize}%
   }
 
   \smallskip
 
-  \td{Les lâches sont des gens méprisables.}
+  \td{Ce sont des misérables à l'esprit brisé.}
 \end{cadre}
 
 \begin{cadre}
   \insertlignepart[trim=0 0 12.1cm 0]{11}
   \insertligne[clip, trim=10.15cm 0 0 0]{12}
 
-  \tl{jw \lgn{12} mA.n s.t Hm(=j)}
-
-  \smallskip
-
-  \tg{%
-    Accompli
-    \begin{itemize}
-      \item élément introducteur : \tlg{jw}
-            \flech{} indicatif + temps du contexte
-      \item sujet : \tlg{Hm=j}, \SN
-      \item prédicat : \tlg{mA.n}, accompli de \tlg{mAA} \vg{2}
-      \item \co : \tlg{s.t}, \pd
-    \end{itemize}
-  }
-
-  \smallskip
-
-  \td{Ma Majesté a constaté cela.}
-\end{cadre}
-
-\begin{cadre}
   \insertlignepart[trim=6.85cm 0 2.9cm 0]{12}
 
-  \tl{nn \zero m j(w)ms}
+  \tl{jw \lgn{12} mA.n s.t Hm(=j) ; nn \zero m j(w)ms}
 
   \smallskip
 
   \tg{%
-    Négation de \PPA
-    \begin{itemize}
-      \item élément introducteur : \tlg{nn}, négation
-      \item sujet : \zero
-      \item prédicat : \tlg{m j(w)ms}, \SP avec \tlg{m} d'état
-    \end{itemize}%
+    Accompli + négation de \PPA
+    \begin{enumerate}
+      \item 
+        \begin{itemize}[leftmargin=*]
+          \item élément introducteur : \tlg{jw}
+                \flech{} indicatif + temps du contexte
+          \item sujet : \tlg{Hm=j}, \SN
+          \item prédicat : \tlg{mA.n}, accompli de \tlg{mAA} \vg{2}
+          \item \co : \tlg{s.t}, \pd
+        \end{itemize}
+      \item 
+        \begin{itemize}[leftmargin=*]
+          \item élément introducteur : \tlg{nn}, négation
+          \item sujet : \zero
+          \item prédicat : \tlg{m j(w)ms}, \SP avec \tlg{m} d'état
+        \end{itemize}%
+    \end{enumerate}%
   }
+
+  \smallskip
+
+  \td{Ma Majesté a constaté cela ; ce n'est pas un mensonge.}
+
 \end{cadre}
 
 \begin{cadre}
@@ -1058,25 +1114,32 @@ les deux premières lignes du texte, en vous arrêtant à
     \end{scope}
   \end{tikzpicture}
 
-  \tl{\saispas[prr(w) r m t] =sn, Hw.w=sn, wHA.w=sn}
-
-  \smallskip
-
-  \tg{}
-
-  \smallskip
-
-  \td{\saispas, leur bétail, leurs récoltes}
-\end{cadre}
-
-\begin{cadre}
   \insertligne[trim=10.25cm 0 0 0]{14}
 
-  \tl{\lgn{14} rd(=w) Sd.t jm}
+  \tl{pr r Xnm.wt=sn, Hw(w) kA.w=sn, wHA(w) it=sn, 
+      \lgn{14} rd(w) Sd.t jm}
 
-  \tg{Parfait ancien}
+  \smallskip
 
-  \td{Le feu a été placé là.}
+  \tg{%
+    Séquence d'accomplis passifs ?
+    % Thématisation + parfait ancien
+    % \begin{itemize}
+    %   \item \tlg{\saispas=sn, Hw.w=sn, wHA.w=sn}, \SN apposés en 
+    %         thématisation
+    %   \item \tlg{rd(.w)}, parfait ancien de \tlg{rdi} \va{}
+    %   \item \tlg{Sd.t}
+    %   \item \tlg{jm}
+    % \end{itemize}%
+  }
+
+  \smallskip
+
+  \td{Leur \saispas, leurs taureaux, leurs récoltes, le feu y a été 
+      mis.}
+
+  \td{montant vers leurs puits, abattant leurs taureaux, coupant leur 
+      orge et y mettant le feu.}
 \end{cadre}
 
 \begin{cadre}
@@ -1119,7 +1182,7 @@ les deux premières lignes du texte, en vous arrêtant à
   \td{Aussi vrai que mon père vit pour moi, je parle en vérité.}
 \end{cadre}
 
-\begin{cadre}[colback=done]
+\begin{cadre}
   % \insertlignepart[trim=0 0 9.6cm 0]{14}
   % \insertligne[trim=7.95cm 0 0 0]{15}
   \begin{tikzpicture}
@@ -1139,11 +1202,19 @@ les deux premières lignes du texte, en vous arrêtant à
 
   \smallskip
 
-  \tg{Négation existentielle ?}
+  \tg{
+    Négation existentielle avec \paimp
+    \begin{enumerate}
+      \item élément introducteur : négation \tlg{nn}
+      \item \tlg{im}, adverbe
+      \item \tlg{xn \dots n(y) aba prr(w) m r(A)=j}, 
+            \SN avec \tlg{prr(w)} = \paimp et \tlg{m r(A)=j} : \SP \cc
+    \end{enumerate}%
+  }
 
   \smallskip
 
-  \td{Il n'y a pas ici de parole mensongère qui sorte de ma bouche.}
+  \td{Il n'y a pas ici de parole d'exagération qui sorte de ma bouche.}
 \end{cadre}
 
 \filet
@@ -1373,25 +1444,34 @@ la frontière méridionale à Heh.
 J'ai établi ma frontière, alors que je naviguais au sud de mes pères. 
 J'ai ajouté à ce qui m'avait été transmis.
 Je suis un roi qui parle et qui agit \incise{c'est ce à quoi mon 
-esprit songe, ce qui advient par ma main} quelqu'un qui se montre 
-agressif pour prendre, impétueux pour le succès ; quelqu'un dans le 
-c\oe{}ur duquel la parole ne dort pas, qui se préoccupe des inférieurs 
-et se dresse en étant indulgent ; qui ne se montre pas clément envers 
-un ennemi qui l'attaque, qui attaque lorsqu'on l'attaque et se tait 
-quand on se tait.
+esprit songe, ce qui advient par ma main} ; 
+quelqu'un qui se montre agressif pour prendre, impétueux pour le 
+succès ; 
+quelqu'un dans le c\oe{}ur duquel la parole ne dort pas, qui se 
+préoccupe des inférieurs et se dresse en étant indulgent ; 
+qui ne se montre pas clément envers un ennemi qui l'attaque, 
+qui attaque lorsqu'on l'attaque et se tait lorsque on se tait ;
+quelqu'un qui répond à une parole conformément à ce qui y apparaît, 
+puisque se taire après l'attaque, c'est encourager l'ennemi.
+Se montrer agressif est devenir brave ; s'enfuir est s'avilir.
 
-(\dots)
-
+C'est un véritable lâche, celui qui est chassé de sa frontière 
+puisque le Nubien\dots (obéit pour se soumettre au premier mot).
 C'est lui répondre qui fait qu'il s'enfuit.
 Se montre-t-on agressif envers lui, qu'il montre son dos.
-(\dots)
+Recule-t-on, qu'il tombe dans l'agressivité.
 Ce ne sont pas des gens que l'on respecte.
+Ce sont des misérables à l'esprit brisé.
 
-(\dots)
+Ma Majesté a constaté cela ; ce n'est pas un mensonge.
+J'ai capturé leurs épouses ; j'ai ramené leurs maisonnées.
+% Leur \saispas, leurs taureaux, leurs récoltes, le feu y a été 
+% mis.
+\saispas[Montant vers leurs puits, abattant leurs taureaux, coupant 
+leur orge et y mettant le feu.]
 
 Aussi vrai que mon père vit pour moi, je parle en vérité.
-
-(\dots)
+Il n'y a pas ici de parole d'exagération qui sorte de ma bouche.
 
 Et, celui de mes fils qui affermira cette frontière que ma Majesté 
 a faite, ce sera mon fils ; c'est pour ma Majesté qu'il sera mis au 
@@ -1406,8 +1486,13 @@ vous affermissiez grâce à elle, pour que vous combattiez pour elle.
 
 \section*{Vocabulaire}
 % ---------------------------------------------------------------------
+Sauf mention spécifique, les entrées en français sont issues du 
+\cite{GM}, celles en anglais du \cite{Faulkner}.
 \begin{multicols}{2}
   \begin{itemize}
+     \item \begin{hieroglyph}\end{hieroglyph}
+           \tl{Ar} \vl{2}, \td{\texten{drive away}}
+           \tll{\textemdash~}\tl{Hr}, \td{\texten{from}}
      \item \begin{hieroglyph}\end{hieroglyph}
            \tl{Ad} \vl{2}, \td{se montrer agressif}
      \item \begin{hieroglyph}\end{hieroglyph}
@@ -1428,8 +1513,7 @@ vous affermissiez grâce à elle, pour que vous combattiez pour elle.
            \tl{md.t}, \td{parole}, \td{propos}, \td{discours}, 
            \td{mot}, \td{affaire (judiciaire)}
      \item \begin{hieroglyph}\end{hieroglyph}
-           \tl{Hwrw}, \td{poor}, \td{humble man}, 
-           \td{despicable person}
+           \tl{Hwrw}, \td{pauvre} (n.), \td{misérable} (n.)
      \item \begin{hieroglyph}N41-m-D53\end{hieroglyph}
            \tl{Hm} \vl{2}, \td{\texten{coward}}
      \item \begin{hieroglyph}N41-m-D55\end{hieroglyph}
@@ -1443,7 +1527,7 @@ vous affermissiez grâce à elle, pour que vous combattiez pour elle.
      \item \begin{hieroglyph}\end{hieroglyph}
            \tl{xrwy}, \td{ennemi}
      \item \begin{hieroglyph}\end{hieroglyph}
-           \tl{ssXm jb} \vcl{3}, \td{encourager}
+           \tl{ssxm jb} \vcl{3}, \td{encourager}
      \item \begin{hieroglyph}\end{hieroglyph}
            \tl{sXm}, \td{\texten{to be hasty, impetuous}}
      \item \begin{hieroglyph}\end{hieroglyph}
