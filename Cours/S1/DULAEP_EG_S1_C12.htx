@@ -140,22 +140,6 @@ infinitif :\\
 
 L'agent de l'infinitif peut être introduit par la préposition 
 \begin{hieroglyph}i-n\end{hieroglyph} \tl{in}, \td{par} :\\
-% \CaptionPetit
-% \setlength{\graphicwidth}{6cm}
-% \begin{figure}[hbt]
-%   \RaggedLeft
-%   \setsidecappos{b}
-%   \renewcommand*{\sidecapfloatwidth}{\graphicwidth}
-%   \setsidecaps{\sidecapsep}{\textwidth-\graphicwidth}
-%   \begin{sidecaption}{%
-%     Détail de la \tt{100}, d'après \href{http://www.osirisnet.net/%
-%     tombes/nobles/rekhmire100/rekhmire100_02.htm}{osiris.net}%
-%   }[fig:TT100]
-%     \centering
-%     \includegraphics[height=8cm]{TT100_6519-20}
-%   \end{sidecaption}
-% \end{figure}
-% \CaptionNormal
 \begin{example}[title={}, breakable]
   \begin{hieroglyph}
     N41:z:t-A1 r sDm-m spr:r-w-A2 
@@ -178,17 +162,6 @@ L'agent de l'infinitif peut être introduit par la préposition
 \chapter{Phrases interrogatives, première approche}
 % ==============================================================
 
-% \CaptionPetit
-% % \setlength{\graphicwidth}{6cm}
-% \begin{wrapfigure}[10]{o}[1.5cm]{3.5cm}
-%   \centering
-%   \includegraphics[height=7.5cm]{TT100_6519-20}
-%   \caption{Détail de la \tt{100}, d'après 
-%            \href{http://www.osirisnet.net/tombes/nobles/rekhmire100/%
-%            rekhmire100_02.htm}{osiris.net}}
-%   \label{fig:TT100}
-% \end{wrapfigure}
-% \CaptionNormal
 Une phrase peut être affirmative, négative, exclamative ou 
 interrogative. Nous avons abordé les trois premiers aspects, 
 mais pas le dernier. Est donnée ici, simplement une première
