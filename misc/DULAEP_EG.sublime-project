@@ -18,12 +18,6 @@
         "*.lot",
         "*.lof",
         "*.out",
-        // "*.maf",
-        // "*.mtc",
-        // "*.mtc0",
-        // "*.pdf",
-        // "*_tmp.tex",
-        // "*_full.htx",
         "*.run.xml",
         "*.fdb_latexmk",
         "latexmkrc",
@@ -49,21 +43,26 @@
       "name": "Images",
     },
     {
-      "path": "../../NeferHiero/utils",
+      "path": "../../utils",
       "name": "Fichiers communs",
+      // "path": "/Volumes/VAULT/egypto/NeferHiero/utils"
     },
     {
-      "path": "../../NeferHiero/neferlatex",
+      "path": "/Users/sonia/Library/texmf/tex/latex",
       "name": "Styles LaTeX",
+     // "path": "/Volumes/VAULT/egypto/NeferHiero/neferlatex"
     },
-    {
-      "path": "../../NeferHiero/compil",
-      "name": "Compil",
-    },
-    {
-      "path": "../",
-      "name": "Root",
-    },
+    // {
+    //   "name": "Compil",
+    //   "path": "/Volumes/VAULT/egypto/NeferHiero/compil"
+    // },
+    // {
+    //   "name": "Root",
+    //   "path": "/Volumes/VAULT/egypto/DULAEP_EG"
+    // },
+    // {
+    //   "path": "/Volumes/VAULT/egypto/install_hierotex_windows_v1"
+    // }
   ],
   "settings":
   {
